@@ -46,14 +46,14 @@
         "name": "FONDIE LIE",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QV02C2Q99",
+          "attackerTag": "#G2VYJVRL9",
           "defenderTag": "#LJU2P9CL2",
-          "stars": 1,
-          "destructionPercentage": 70,
-          "order": 7,
-          "duration": 91
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 28,
+          "duration": 139
         }
       },
       {
@@ -464,9 +464,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/fOeeo5rLc0UzLFIY5uAbepkMnqG9pbiP1uH79JCT7Zw.png"
     },
     "clanLevel": 13,
-    "attacks": 16,
-    "stars": 38,
-    "destructionPercentage": 44.6,
+    "attacks": 17,
+    "stars": 39,
+    "destructionPercentage": 44.5,
     "members": [
       {
         "tag": "#G0UVC0Y89",
@@ -829,6 +829,14 @@
             "destructionPercentage": 90,
             "order": 27,
             "duration": 138
+          },
+          {
+            "attackerTag": "#G2VYJVRL9",
+            "defenderTag": "#LJU2P9CL2",
+            "stars": 2,
+            "destructionPercentage": 67,
+            "order": 28,
+            "duration": 139
           }
         ],
         "opponentAttacks": 1,
