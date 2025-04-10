@@ -1,5 +1,8 @@
 name: Fetch Clash of Clans War Data
-
+concurrency:
+  group: shared-lock
+  cancel-in-progress: false
+  
 on:
   schedule:
     - cron: "0 * * * *" # Every hour
