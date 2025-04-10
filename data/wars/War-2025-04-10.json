@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 11,
-    "stars": 20,
-    "destructionPercentage": 24.966667,
+    "attacks": 15,
+    "stars": 29,
+    "destructionPercentage": 36.2,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -76,6 +76,24 @@
         "name": "mazwad",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#Y8U9LLV02",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 29,
+            "duration": 170
+          },
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#G0U22CGP0",
+            "stars": 1,
+            "destructionPercentage": 60,
+            "order": 30,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -235,6 +253,24 @@
         "name": "Sergen",
         "townhallLevel": 12,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#2J0VC292U",
+            "defenderTag": "#G0UVC0Y89",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 118
+          },
+          {
+            "attackerTag": "#2J0VC292U",
+            "defenderTag": "#GQ0PJP0U9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 32,
+            "duration": 79
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2V2RJPP8Q",
@@ -473,7 +509,15 @@
         "name": "\uff25\uff24\u039e\uff2e\uff11\uff10\uff28\u039b\uff3a\u039b\uff32\uff24",
         "townhallLevel": 11,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2J0VC292U",
+          "defenderTag": "#G0UVC0Y89",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 118
+        }
       },
       {
         "tag": "#G90QPGRRU",
@@ -573,7 +617,15 @@
         "name": "\uff34\uff35\uff32\uff2b\uff27\uff29\uff3a\uff29",
         "townhallLevel": 11,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2J0VC292U",
+          "defenderTag": "#GQ0PJP0U9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "duration": 79
+        }
       },
       {
         "tag": "#GLGG0P2RC",
@@ -659,7 +711,15 @@
         "name": "koma",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#G0U22CGP0",
+          "stars": 1,
+          "destructionPercentage": 60,
+          "order": 30,
+          "duration": 106
+        }
       },
       {
         "tag": "#8GQGUVJV0",
@@ -695,7 +755,15 @@
         "name": "sajjad",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#Y8U9LLV02",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 29,
+          "duration": 170
+        }
       },
       {
         "tag": "#2J02LUGY0",
