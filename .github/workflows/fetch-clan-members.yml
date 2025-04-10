@@ -1,12 +1,13 @@
 name: Fetch Clash of Clans Clan and Member Data
-concurrency:
-  group: shared-lock
-  cancel-in-progress: false
-  
+
 on:
   schedule:
     - cron: "0 * * * *" # Every hour
   workflow_dispatch: # Allows manual trigger
+
+concurrency:
+  group: repo-write-lock
+  cancel-in-progress: false
 
 jobs:
   fetch-war-data:
