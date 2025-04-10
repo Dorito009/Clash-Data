@@ -1,0 +1,39 @@
+name: Fetch Clash of Clans War Data
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Every hour
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  fetch-war-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Fetch War Data
+        env:
+          COC_API_KEY: ${{ secrets.COC_API_KEY }}
+        run: |
+          python GatherClanData.py
+
+
+      - name: Commit and Push War Data
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: CoC 
+          author_email: coc@coc.nl
+          message: ''
