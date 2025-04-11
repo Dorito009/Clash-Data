@@ -15,16 +15,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 17,
-    "stars": 33,
-    "destructionPercentage": 40.8,
+    "attacks": 19,
+    "stars": 39,
+    "destructionPercentage": 47.466667,
     "members": [
       {
         "tag": "#88JUGLUL",
         "name": "Jeroonie_xD",
         "townhallLevel": 15,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QUQ8GCRG2",
+          "defenderTag": "#88JUGLUL",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 36,
+          "duration": 87
+        }
       },
       {
         "tag": "#88GVYL9VQ",
@@ -304,6 +312,24 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#8V0P0RCYL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#G90QPGRRU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 79
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLGG0P2RC",
@@ -526,9 +552,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/fOeeo5rLc0UzLFIY5uAbepkMnqG9pbiP1uH79JCT7Zw.png"
     },
     "clanLevel": 13,
-    "attacks": 18,
-    "stars": 42,
-    "destructionPercentage": 47.833332,
+    "attacks": 19,
+    "stars": 44,
+    "destructionPercentage": 50.466667,
     "members": [
       {
         "tag": "#G0UVC0Y89",
@@ -550,7 +576,15 @@
         "name": "vida",
         "townhallLevel": 12,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0RUPY9YP",
+          "defenderTag": "#G90QPGRRU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 79
+        }
       },
       {
         "tag": "#G92RCP22U",
@@ -723,7 +757,15 @@
             "duration": 102
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0RUPY9YP",
+          "defenderTag": "#8V0P0RCYL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 37,
+          "duration": 101
+        }
       },
       {
         "tag": "#QRCCJC20P",
@@ -782,6 +824,16 @@
         "name": "AMIR",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QUQ8GCRG2",
+            "defenderTag": "#88JUGLUL",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 36,
+            "duration": 87
+          }
+        ],
         "opponentAttacks": 0
       },
       {
