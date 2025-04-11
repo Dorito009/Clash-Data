@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 31,
-    "stars": 68,
-    "destructionPercentage": 77.9,
+    "attacks": 34,
+    "stars": 77,
+    "destructionPercentage": 87.9,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -468,6 +468,14 @@
             "destructionPercentage": 96,
             "order": 59,
             "duration": 179
+          },
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#G92RCP22U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 124
           }
         ],
         "opponentAttacks": 1,
@@ -628,6 +636,24 @@
         "name": "FabianBawz",
         "townhallLevel": 13,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#GLQRVCPCV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 62,
+            "duration": 146
+          },
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#8GQJRL8QP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 63,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLQRVCPCV",
@@ -779,7 +805,15 @@
         "name": "\u062d\u062d\u062d\u0646\u0646\u0646\u0646\u0646",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRUGPLRPG",
+          "defenderTag": "#G92RCP22U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 124
+        }
       },
       {
         "tag": "#GLQRVCPCV",
@@ -804,7 +838,15 @@
             "duration": 158
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#GLQRVCPCV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 62,
+          "duration": 146
+        }
       },
       {
         "tag": "#LVQPQVULP",
@@ -1244,7 +1286,15 @@
             "duration": 83
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#8GQJRL8QP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 63,
+          "duration": 127
+        }
       },
       {
         "tag": "#QV02C2Q99",
