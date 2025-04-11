@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 34,
-    "stars": 77,
-    "destructionPercentage": 87.9,
+    "attacks": 37,
+    "stars": 80,
+    "destructionPercentage": 92.63333,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -204,6 +204,24 @@
         "name": "Langpootmug2304",
         "townhallLevel": 12,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#Q9P2J02U",
+            "defenderTag": "#2J02LUGY0",
+            "stars": 0,
+            "destructionPercentage": 42,
+            "order": 65,
+            "duration": 92
+          },
+          {
+            "attackerTag": "#Q9P2J02U",
+            "defenderTag": "#GPYCC9JV2",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 66,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GPYCC9JV2",
@@ -534,6 +552,14 @@
             "destructionPercentage": 100,
             "order": 3,
             "duration": 87
+          },
+          {
+            "attackerTag": "#YU982RCVV",
+            "defenderTag": "#PQ09LYY99",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 67,
+            "duration": 81
           }
         ],
         "opponentAttacks": 0
@@ -886,7 +912,7 @@
             "duration": 74
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#YRP99RVQR",
           "defenderTag": "#GPYCC9JV2",
@@ -911,7 +937,15 @@
             "duration": 90
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YU982RCVV",
+          "defenderTag": "#PQ09LYY99",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 67,
+          "duration": 81
+        }
       },
       {
         "tag": "#GYVQ20P92",
@@ -1206,7 +1240,15 @@
         "name": "alirza.bagheri",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9P2J02U",
+          "defenderTag": "#2J02LUGY0",
+          "stars": 0,
+          "destructionPercentage": 42,
+          "order": 65,
+          "duration": 92
+        }
       },
       {
         "tag": "#LJRV0Y028",
