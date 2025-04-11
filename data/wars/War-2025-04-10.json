@@ -422,7 +422,15 @@
         "name": "bram2",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8GQJRL8QP",
+          "defenderTag": "#QRCCYRGGG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 149
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -518,9 +526,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/fOeeo5rLc0UzLFIY5uAbepkMnqG9pbiP1uH79JCT7Zw.png"
     },
     "clanLevel": 13,
-    "attacks": 17,
-    "stars": 39,
-    "destructionPercentage": 44.5,
+    "attacks": 18,
+    "stars": 42,
+    "destructionPercentage": 47.833332,
     "members": [
       {
         "tag": "#G0UVC0Y89",
@@ -850,6 +858,16 @@
         "name": "Mahdi_az-bnd",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#8GQJRL8QP",
+            "defenderTag": "#QRCCYRGGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 149
+          }
+        ],
         "opponentAttacks": 0
       },
       {
