@@ -29,4 +29,4 @@ if data:
             date_str = dt.strftime("%Y-%m-%d")
 
         with open(f"data/raidWeekend/raid-weekend-{date_str}.json", "w") as f:
-            json.dump(data, f)
+            json.dump(data, f, indent=2)
