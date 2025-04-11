@@ -13,9 +13,15 @@ on:
 
     # Monday 00:00–06:00 UTC
     - cron: "0 0-6 * * 1"
-
-    # Monday 06:50 UTC
-    - cron: "50 6 * * 1"
+    
+    # Monday 06:30 UTC
+    - cron: "30 6 * * 1"
+    
+    # Monday 06:45 UTC
+    - cron: "45 6 * * 1"
+    
+    # Monday 06:55 UTC
+    - cron: "55 6 * * 1"
 
   workflow_dispatch:  # Allows manual trigger
 
