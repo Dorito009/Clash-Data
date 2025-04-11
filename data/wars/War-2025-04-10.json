@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 15,
-    "stars": 29,
-    "destructionPercentage": 36.2,
+    "attacks": 17,
+    "stars": 33,
+    "destructionPercentage": 40.8,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -61,6 +61,24 @@
         "name": "Donjenso",
         "townhallLevel": 13,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#GYVQ20P92",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 33,
+            "duration": 88
+          },
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#QRCCJC20P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 34,
+            "duration": 74
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GYVQ20P92",
@@ -610,7 +628,15 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQYQ92VLL",
+          "defenderTag": "#GYVQ20P92",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "duration": 88
+        }
       },
       {
         "tag": "#GQ0PJP0U9",
@@ -696,14 +722,14 @@
         "name": "reza",
         "townhallLevel": 13,
         "mapPosition": 21,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LVLVG0VPV",
+          "attackerTag": "#GQYQ92VLL",
           "defenderTag": "#QRCCJC20P",
-          "stars": 2,
-          "destructionPercentage": 62,
-          "order": 9,
-          "duration": 129
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 74
         }
       },
       {
