@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 22,
-    "stars": 47,
-    "destructionPercentage": 55.466667,
+    "attacks": 25,
+    "stars": 54,
+    "destructionPercentage": 64.63333,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -39,6 +39,24 @@
         "name": "thijmen",
         "townhallLevel": 12,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#88GVYL9VQ",
+            "defenderTag": "#2V2RJPP8Q",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 48,
+            "duration": 114
+          },
+          {
+            "attackerTag": "#88GVYL9VQ",
+            "defenderTag": "#LVQPQVULP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 129
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2V2RJPP8Q",
@@ -504,7 +522,15 @@
         "name": "thijs253",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLQRVCPCV",
+          "defenderTag": "#9G888QUUJ",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 46,
+          "duration": 158
+        }
       },
       {
         "tag": "#YQQL9JGYL",
@@ -518,7 +544,15 @@
         "name": "FabianBawz",
         "townhallLevel": 13,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLQRVCPCV",
+          "defenderTag": "#LJ2J8QRPJ",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 45,
+          "duration": 180
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -583,7 +617,25 @@
         "name": "ropje",
         "townhallLevel": 14,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#8PV2Y0JPV",
+            "defenderTag": "#GPJP82U9L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 44,
+            "duration": 146
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PQ09LYY99",
+          "defenderTag": "#8PV2Y0JPV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 90
+        }
       }
     ]
   },
@@ -596,9 +648,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/fOeeo5rLc0UzLFIY5uAbepkMnqG9pbiP1uH79JCT7Zw.png"
     },
     "clanLevel": 13,
-    "attacks": 21,
-    "stars": 50,
-    "destructionPercentage": 57.133335,
+    "attacks": 24,
+    "stars": 57,
+    "destructionPercentage": 66.9,
     "members": [
       {
         "tag": "#G0UVC0Y89",
@@ -642,6 +694,24 @@
         "name": "kasra",
         "townhallLevel": 13,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#GLQRVCPCV",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 45,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#GLQRVCPCV",
+            "defenderTag": "#9G888QUUJ",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 46,
+            "duration": 158
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -649,7 +719,15 @@
         "name": "\u0631\u06cc\u062d\u0627\u0646\u0647",
         "townhallLevel": 12,
         "mapPosition": 27,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88GVYL9VQ",
+          "defenderTag": "#LVQPQVULP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 129
+        }
       },
       {
         "tag": "#GPYCC9JV2",
@@ -689,6 +767,16 @@
         "name": "\u0645\u062d\u0633\u0646 .f.r",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#PQ09LYY99",
+            "defenderTag": "#8PV2Y0JPV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 90
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -877,7 +965,15 @@
         "name": "gadin",
         "townhallLevel": 14,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8PV2Y0JPV",
+          "defenderTag": "#GPJP82U9L",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 44,
+          "duration": 146
+        }
       },
       {
         "tag": "#QUQ8GCRG2",
@@ -1046,7 +1142,15 @@
             "duration": 147
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88GVYL9VQ",
+          "defenderTag": "#2V2RJPP8Q",
+          "stars": 1,
+          "destructionPercentage": 75,
+          "order": 48,
+          "duration": 114
+        }
       },
       {
         "tag": "#G2VYJVRL9",
