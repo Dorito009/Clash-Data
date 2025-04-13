@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 10,
-    "stars": 26,
-    "destructionPercentage": 35.0,
+    "attacks": 11,
+    "stars": 29,
+    "destructionPercentage": 39.0,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -288,6 +288,16 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#8Y9QRVQLC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 83
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -389,7 +399,15 @@
         "name": "baRad_KO",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y8LVCLUP2",
+          "defenderTag": "#8Y9QRVQLC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 83
+        }
       },
       {
         "tag": "#QURY29VP2",
