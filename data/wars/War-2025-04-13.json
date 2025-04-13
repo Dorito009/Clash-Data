@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 16,
-    "stars": 38,
-    "destructionPercentage": 51.72,
+    "attacks": 17,
+    "stars": 39,
+    "destructionPercentage": 53.8,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -325,6 +325,16 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#QV0UJV2G9",
+            "stars": 1,
+            "destructionPercentage": 52,
+            "order": 25,
+            "duration": 101
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -575,7 +585,15 @@
         "name": "stephen",
         "townhallLevel": 12,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QY2PCRLPJ",
+          "defenderTag": "#QV0UJV2G9",
+          "stars": 1,
+          "destructionPercentage": 52,
+          "order": 25,
+          "duration": 101
+        }
       },
       {
         "tag": "#GYYYCQ0LP",
