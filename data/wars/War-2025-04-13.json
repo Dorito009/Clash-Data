@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 6,
-    "stars": 17,
-    "destructionPercentage": 23.0,
+    "attacks": 10,
+    "stars": 26,
+    "destructionPercentage": 35.0,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -84,6 +84,16 @@
         "name": "JortGVA",
         "townhallLevel": 14,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RJJGCV0P",
+            "defenderTag": "#9J00P0GCL",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 13,
+            "duration": 90
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9J00P0GCL",
@@ -121,7 +131,15 @@
         "name": "KoerpoerXD",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QGL9JYLLG",
+          "defenderTag": "#QPGCL8CYC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 94
+        }
       },
       {
         "tag": "#2J0VC292U",
@@ -146,7 +164,15 @@
             "duration": 96
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QGL9JYLLG",
+          "defenderTag": "#2J0VC292U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 96
+        }
       },
       {
         "tag": "#Q0RUPY9YP",
@@ -175,6 +201,14 @@
             "destructionPercentage": 100,
             "order": 7,
             "duration": 107
+          },
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#9J00P0GCL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 106
           }
         ],
         "opponentAttacks": 0
@@ -268,6 +302,24 @@
         "name": "FabianBawz",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#QJY20U9P8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 169
+          },
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#QL0CL0CUL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -295,9 +347,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ZOLqqNtxtOg1iFrlYi120qVCsLbIL_6oZHrD7PlyNlU.png"
     },
     "clanLevel": 14,
-    "attacks": 4,
-    "stars": 10,
-    "destructionPercentage": 13.8,
+    "attacks": 6,
+    "stars": 16,
+    "destructionPercentage": 21.8,
     "members": [
       {
         "tag": "#9J00P0GCL",
@@ -322,7 +374,15 @@
             "duration": 112
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9R8LJGG",
+          "defenderTag": "#9J00P0GCL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 106
+        }
       },
       {
         "tag": "#8Y9QRVQLC",
@@ -365,7 +425,15 @@
         "name": "#06 \"THE ONE\"",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#QL0CL0CUL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 151
+        }
       },
       {
         "tag": "#GY9CVLJGG",
@@ -459,7 +527,15 @@
         "name": "Eden",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#QJY20U9P8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 169
+        }
       },
       {
         "tag": "#2PJQC8GQG",
@@ -488,6 +564,24 @@
         "name": "leo",
         "townhallLevel": 12,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#QGL9JYLLG",
+            "defenderTag": "#QPGCL8CYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 94
+          },
+          {
+            "attackerTag": "#QGL9JYLLG",
+            "defenderTag": "#2J0VC292U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 96
+          }
+        ],
         "opponentAttacks": 0
       },
       {
