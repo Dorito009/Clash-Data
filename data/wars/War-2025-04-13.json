@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 24,
-    "stars": 52,
-    "destructionPercentage": 71.68,
+    "attacks": 26,
+    "stars": 56,
+    "destructionPercentage": 79.2,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -67,7 +67,15 @@
             "duration": 118
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJY20U9P8",
+          "defenderTag": "#88GVYL9VQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 104
+        }
       },
       {
         "tag": "#GQYQ92VLL",
@@ -325,6 +333,16 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#G9G8LULGR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -407,6 +425,14 @@
             "destructionPercentage": 52,
             "order": 25,
             "duration": 101
+          },
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#G8VPLULUU",
+            "stars": 1,
+            "destructionPercentage": 88,
+            "order": 37,
+            "duration": 144
           }
         ],
         "opponentAttacks": 0
@@ -511,9 +537,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ZOLqqNtxtOg1iFrlYi120qVCsLbIL_6oZHrD7PlyNlU.png"
     },
     "clanLevel": 14,
-    "attacks": 10,
-    "stars": 26,
-    "destructionPercentage": 36.72,
+    "attacks": 11,
+    "stars": 29,
+    "destructionPercentage": 40.72,
     "members": [
       {
         "tag": "#9J00P0GCL",
@@ -601,7 +627,15 @@
         "name": "KURAMA",
         "townhallLevel": 11,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QY2PCRLPJ",
+          "defenderTag": "#G8VPLULUU",
+          "stars": 1,
+          "destructionPercentage": 88,
+          "order": 37,
+          "duration": 144
+        }
       },
       {
         "tag": "#GGQ2RQCG8",
@@ -769,6 +803,16 @@
         "name": "Eden",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#QJY20U9P8",
+            "defenderTag": "#88GVYL9VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 104
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LJ2J8QRPJ",
@@ -902,7 +946,15 @@
         "name": "BOSS RICHARD\u00ae",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRUGPLRPG",
+          "defenderTag": "#G9G8LULGR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 112
+        }
       },
       {
         "tag": "#G2LLGPGJG",
