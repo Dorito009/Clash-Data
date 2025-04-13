@@ -367,7 +367,15 @@
             "duration": 117
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGQ2RQCG8",
+          "defenderTag": "#G2QCUJ988",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 179
+        }
       },
       {
         "tag": "#QRCCYRGGG",
@@ -433,7 +441,15 @@
         "name": "ilkay030",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q8PL9GQJR",
+          "defenderTag": "#YQQL9JGYL",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 33,
+          "duration": 105
+        }
       },
       {
         "tag": "#LJ2J8QRPJ",
@@ -495,9 +511,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ZOLqqNtxtOg1iFrlYi120qVCsLbIL_6oZHrD7PlyNlU.png"
     },
     "clanLevel": 14,
-    "attacks": 8,
-    "stars": 21,
-    "destructionPercentage": 29.6,
+    "attacks": 10,
+    "stars": 26,
+    "destructionPercentage": 36.72,
     "members": [
       {
         "tag": "#9J00P0GCL",
@@ -592,6 +608,16 @@
         "name": "mark_34",
         "townhallLevel": 11,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#GGQ2RQCG8",
+            "defenderTag": "#G2QCUJ988",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 34,
+            "duration": 179
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G2QCUJ988",
@@ -637,6 +663,16 @@
         "name": "leo",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Q8PL9GQJR",
+            "defenderTag": "#YQQL9JGYL",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 33,
+            "duration": 105
+          }
+        ],
         "opponentAttacks": 0
       },
       {
