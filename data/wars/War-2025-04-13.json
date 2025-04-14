@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 26,
-    "stars": 56,
-    "destructionPercentage": 79.2,
+    "attacks": 29,
+    "stars": 64,
+    "destructionPercentage": 90.16,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -90,6 +90,14 @@
             "destructionPercentage": 100,
             "order": 2,
             "duration": 62
+          },
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#Q8PL9GQJR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 63
           }
         ],
         "opponentAttacks": 0
@@ -99,6 +107,24 @@
         "name": "mazwad",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#2PJQC8GQG",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 38,
+            "duration": 95
+          },
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#GYYYCQ0LP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 39,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QURY29VP2",
@@ -707,7 +733,15 @@
             "duration": 105
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQYQ92VLL",
+          "defenderTag": "#Q8PL9GQJR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 63
+        }
       },
       {
         "tag": "#QLCUUVCQR",
@@ -744,7 +778,15 @@
         "name": "ANGKOL RICHARD",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#GYYYCQ0LP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "duration": 134
+        }
       },
       {
         "tag": "#GLV8VJRYU",
@@ -828,7 +870,15 @@
         "name": "lester",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#2PJQC8GQG",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 38,
+          "duration": 95
+        }
       },
       {
         "tag": "#QRL0P9Y20",
