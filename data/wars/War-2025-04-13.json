@@ -100,7 +100,15 @@
             "duration": 63
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9G8LULGR",
+          "defenderTag": "#GQYQ92VLL",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 48,
+          "duration": 134
+        }
       },
       {
         "tag": "#QCYRRPR8Q",
@@ -173,7 +181,15 @@
         "name": "DARK_NIKK",
         "townhallLevel": 12,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQ8VCQVP0",
+          "defenderTag": "#LU0YPC0JC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 86
+        }
       },
       {
         "tag": "#RJJGCV0P",
@@ -230,7 +246,15 @@
             "duration": 111
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYYYCQ0LP",
+          "defenderTag": "#8LYGCV8LY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 125
+        }
       },
       {
         "tag": "#QPGCL8CYC",
@@ -285,7 +309,15 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLV8VJRYU",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 134
+        }
       },
       {
         "tag": "#929G9VQ0C",
@@ -352,7 +384,15 @@
             "duration": 127
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLV8VJRYU",
+          "defenderTag": "#Q0C80PJ8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 89
+        }
       },
       {
         "tag": "#PRUGPLRPG",
@@ -369,7 +409,15 @@
             "duration": 112
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9G8LULGR",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 155
+        }
       },
       {
         "tag": "#YU982RCVV",
@@ -461,7 +509,15 @@
             "duration": 144
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQ8VCQVP0",
+          "defenderTag": "#QY2PCRLPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 112
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -486,7 +542,15 @@
             "duration": 108
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYYYCQ0LP",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 44,
+          "duration": 161
+        }
       },
       {
         "tag": "#YQQL9JGYL",
@@ -563,9 +627,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ZOLqqNtxtOg1iFrlYi120qVCsLbIL_6oZHrD7PlyNlU.png"
     },
     "clanLevel": 14,
-    "attacks": 11,
-    "stars": 29,
-    "destructionPercentage": 40.72,
+    "attacks": 19,
+    "stars": 52,
+    "destructionPercentage": 71.8,
     "members": [
       {
         "tag": "#9J00P0GCL",
@@ -778,6 +842,24 @@
         "name": "ANGKOL RICHARD",
         "townhallLevel": 13,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#GYYYCQ0LP",
+            "defenderTag": "#8LYGCV8LY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 125
+          },
+          {
+            "attackerTag": "#GYYYCQ0LP",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 44,
+            "duration": 161
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QCYRRPR8Q",
@@ -793,6 +875,24 @@
         "name": "JOSKO RICHARD",
         "townhallLevel": 12,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#GLV8VJRYU",
+            "defenderTag": "#Q0C80PJ8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 89
+          },
+          {
+            "attackerTag": "#GLV8VJRYU",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -830,6 +930,24 @@
         "name": "KUYA RICHARD\u00ae",
         "townhallLevel": 12,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#GQ8VCQVP0",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 112
+          },
+          {
+            "attackerTag": "#GQ8VCQVP0",
+            "defenderTag": "#LU0YPC0JC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 42,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2J0VC292U",
@@ -996,6 +1114,24 @@
         "name": "BOSS RICHARD\u00ae",
         "townhallLevel": 13,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#G9G8LULGR",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 155
+          },
+          {
+            "attackerTag": "#G9G8LULGR",
+            "defenderTag": "#GQYQ92VLL",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 48,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PRUGPLRPG",
