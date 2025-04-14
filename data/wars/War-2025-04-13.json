@@ -1,5 +1,5 @@
 {
-  "state": "inWar",
+  "state": "warEnded",
   "teamSize": 25,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 37,
-    "stars": 72,
-    "destructionPercentage": 99.16,
+    "attacks": 38,
+    "stars": 73,
+    "destructionPercentage": 99.28,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -483,6 +483,14 @@
             "destructionPercentage": 100,
             "order": 36,
             "duration": 112
+          },
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#G8UQCGGC9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 168
           }
         ],
         "opponentAttacks": 1,
@@ -1219,14 +1227,14 @@
         "name": "Eus Amp Des",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 4,
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
-          "attackerTag": "#Q0RUPY9YP",
+          "attackerTag": "#PRUGPLRPG",
           "defenderTag": "#G8UQCGGC9",
-          "stars": 2,
-          "destructionPercentage": 97,
-          "order": 61,
-          "duration": 137
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 168
         }
       },
       {
