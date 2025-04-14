@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 36,
+    "attacks": 37,
     "stars": 72,
     "destructionPercentage": 99.16,
     "members": [
@@ -278,6 +278,14 @@
             "destructionPercentage": 100,
             "order": 18,
             "duration": 111
+          },
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#G8UQCGGC9",
+            "stars": 1,
+            "destructionPercentage": 59,
+            "order": 63,
+            "duration": 90
           }
         ],
         "opponentAttacks": 1,
@@ -1211,7 +1219,7 @@
         "name": "Eus Amp Des",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#Q0RUPY9YP",
           "defenderTag": "#G8UQCGGC9",
