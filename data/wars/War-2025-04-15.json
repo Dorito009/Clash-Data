@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 3,
-    "stars": 4,
-    "destructionPercentage": 9.76,
+    "attacks": 7,
+    "stars": 14,
+    "destructionPercentage": 19.44,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -223,6 +223,24 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#2PGPU0PVU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 141
+          },
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#2PQPLV90L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 116
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -260,6 +278,16 @@
         "name": "Olivier05",
         "townhallLevel": 14,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#YU982RCVV",
+            "defenderTag": "#9QGJJ2Q8V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 142
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9QGJJ2Q8V",
@@ -304,7 +332,25 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#VR80GCGJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 26,
+            "duration": 80
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2UUQ208GU",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 25,
+          "duration": 140
+        }
       },
       {
         "tag": "#YQQL9JGYL",
@@ -361,9 +407,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ud4kFRp5UD1V93UlUB0aN6o43DCBBHmgVjORjeU_dsw.png"
     },
     "clanLevel": 17,
-    "attacks": 18,
-    "stars": 44,
-    "destructionPercentage": 62.56,
+    "attacks": 19,
+    "stars": 46,
+    "destructionPercentage": 65.68,
     "members": [
       {
         "tag": "#Q99UQ2QVC",
@@ -377,14 +423,14 @@
         "name": "EL-MatadoRE",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#88JUGLUL",
+          "attackerTag": "#PP9R8LJGG",
           "defenderTag": "#2PGPU0PVU",
-          "stars": 1,
-          "destructionPercentage": 83,
-          "order": 8,
-          "duration": 135
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 141
         }
       },
       {
@@ -434,7 +480,15 @@
             "duration": 130
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YU982RCVV",
+          "defenderTag": "#9QGJJ2Q8V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 142
+        }
       },
       {
         "tag": "#QR089QQYP",
@@ -498,7 +552,15 @@
         "name": "MOOBY FELIX",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y8LVCLUP2",
+          "defenderTag": "#VR80GCGJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "duration": 80
+        }
       },
       {
         "tag": "#29VPRRLY0",
@@ -575,6 +637,16 @@
         "name": "Nandooo.",
         "townhallLevel": 13,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2UUQ208GU",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 25,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -711,14 +783,14 @@
         "name": "UDUNEN",
         "townhallLevel": 15,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#88JUGLUL",
+          "attackerTag": "#PP9R8LJGG",
           "defenderTag": "#2PQPLV90L",
-          "stars": 1,
-          "destructionPercentage": 75,
-          "order": 7,
-          "duration": 136
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 116
         }
       },
       {
