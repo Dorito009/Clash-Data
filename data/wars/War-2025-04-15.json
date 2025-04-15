@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 7,
-    "stars": 14,
-    "destructionPercentage": 19.44,
+    "attacks": 11,
+    "stars": 22,
+    "destructionPercentage": 31.04,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -79,6 +79,24 @@
         "name": "]!m",
         "townhallLevel": 13,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#LVLVG0VPV",
+            "defenderTag": "#QR089QQYP",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 29,
+            "duration": 127
+          },
+          {
+            "attackerTag": "#LVLVG0VPV",
+            "defenderTag": "#8L2YQRVUL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 30,
+            "duration": 108
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QR089QQYP",
@@ -94,6 +112,16 @@
         "name": "Langpootmug2304",
         "townhallLevel": 12,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#Q9P2J02U",
+            "defenderTag": "#8L2YQRVUL",
+            "stars": 1,
+            "destructionPercentage": 86,
+            "order": 27,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8L2YQRVUL",
@@ -248,6 +276,16 @@
         "name": "DARK_MI3K",
         "townhallLevel": 11,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C80PJ8U",
+            "defenderTag": "#2209QGY02",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 28,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LP90JJVU",
@@ -513,7 +551,15 @@
             "duration": 100
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LVLVG0VPV",
+          "defenderTag": "#QR089QQYP",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 29,
+          "duration": 127
+        }
       },
       {
         "tag": "#CJ9090LQ",
@@ -545,7 +591,15 @@
         "name": "caksono",
         "townhallLevel": 11,
         "mapPosition": 25,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0C80PJ8U",
+          "defenderTag": "#2209QGY02",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "duration": 133
+        }
       },
       {
         "tag": "#VR80GCGJ",
@@ -602,7 +656,15 @@
             "duration": 111
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#LVLVG0VPV",
+          "defenderTag": "#8L2YQRVUL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 108
+        }
       },
       {
         "tag": "#RCQP82LY",
