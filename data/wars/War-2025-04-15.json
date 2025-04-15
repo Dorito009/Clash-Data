@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 11,
-    "stars": 22,
-    "destructionPercentage": 31.04,
+    "attacks": 16,
+    "stars": 35,
+    "destructionPercentage": 50.08,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -154,6 +154,16 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 12,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#LQ8UCLGJ8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 33,
+            "duration": 85
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QJY9P2RGC",
@@ -214,6 +224,24 @@
         "name": "Sergen",
         "townhallLevel": 12,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#2J0VC292U",
+            "defenderTag": "#QC8JGPRPR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 34,
+            "duration": 111
+          },
+          {
+            "attackerTag": "#2J0VC292U",
+            "defenderTag": "#LP90JJVU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 170
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LP90JJVU",
@@ -355,6 +383,16 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#2GRVJCGR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 109
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2GRVJCGR",
@@ -402,6 +440,16 @@
         "name": "FabianBawz",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#2V2P8GP02",
+            "stars": 1,
+            "destructionPercentage": 76,
+            "order": 32,
+            "duration": 174
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -678,14 +726,30 @@
         "name": "BIONO",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP99RVQR",
+          "defenderTag": "#LQ8UCLGJ8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "duration": 85
+        }
       },
       {
         "tag": "#2V2P8GP02",
         "name": "RIO ORA SEPELE",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#2V2P8GP02",
+          "stars": 1,
+          "destructionPercentage": 76,
+          "order": 32,
+          "duration": 174
+        }
       },
       {
         "tag": "#QRR2L98R9",
@@ -759,7 +823,15 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2J0VC292U",
+          "defenderTag": "#LP90JJVU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 170
+        }
       },
       {
         "tag": "#PR0JGC9U",
@@ -831,14 +903,30 @@
             "duration": 118
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QY2PCRLPJ",
+          "defenderTag": "#2GRVJCGR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 109
+        }
       },
       {
         "tag": "#QC8JGPRPR",
         "name": "ALM. DJUWARI",
         "townhallLevel": 12,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2J0VC292U",
+          "defenderTag": "#QC8JGPRPR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 111
+        }
       },
       {
         "tag": "#2PQPLV90L",
