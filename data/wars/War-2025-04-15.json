@@ -15,15 +15,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 2,
+    "destructionPercentage": 6.32,
     "members": [
       {
         "tag": "#88JUGLUL",
         "name": "Jeroonie_xD",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#88JUGLUL",
+            "defenderTag": "#2PQPLV90L",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 7,
+            "duration": 136
+          },
+          {
+            "attackerTag": "#88JUGLUL",
+            "defenderTag": "#2PGPU0PVU",
+            "stars": 1,
+            "destructionPercentage": 83,
+            "order": 8,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -38,7 +56,15 @@
         "name": "Donjenso",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CJ9090LQ",
+          "defenderTag": "#GQYQ92VLL",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 5,
+          "duration": 180
+        }
       },
       {
         "tag": "#LVLVG0VPV",
@@ -94,7 +120,15 @@
         "name": "Sergen",
         "townhallLevel": 12,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2GRVJCGR",
+          "defenderTag": "#2J0VC292U",
+          "stars": 1,
+          "destructionPercentage": 69,
+          "order": 4,
+          "duration": 118
+        }
       },
       {
         "tag": "#Q0RUPY9YP",
@@ -137,7 +171,15 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CJ9090LQ",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 148
+        }
       },
       {
         "tag": "#YU982RCVV",
@@ -165,7 +207,15 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2GRVJCGR",
+          "defenderTag": "#QY2PCRLPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 163
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -221,9 +271,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ud4kFRp5UD1V93UlUB0aN6o43DCBBHmgVjORjeU_dsw.png"
     },
     "clanLevel": 17,
-    "attacks": 2,
-    "stars": 6,
-    "destructionPercentage": 8.0,
+    "attacks": 6,
+    "stars": 15,
+    "destructionPercentage": 22.52,
     "members": [
       {
         "tag": "#Q99UQ2QVC",
@@ -237,7 +287,15 @@
         "name": "EL-MatadoRE",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88JUGLUL",
+          "defenderTag": "#2PGPU0PVU",
+          "stars": 1,
+          "destructionPercentage": 83,
+          "order": 8,
+          "duration": 135
+        }
       },
       {
         "tag": "#C2PCLCQJ",
@@ -272,6 +330,24 @@
         "name": "jafar'86",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#CJ9090LQ",
+            "defenderTag": "#GQYQ92VLL",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 5,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#CJ9090LQ",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 148
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -395,6 +471,24 @@
         "name": "Dwi arta",
         "townhallLevel": 11,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#2GRVJCGR",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 163
+          },
+          {
+            "attackerTag": "#2GRVJCGR",
+            "defenderTag": "#2J0VC292U",
+            "stars": 1,
+            "destructionPercentage": 69,
+            "order": 4,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -409,7 +503,15 @@
         "name": "UDUNEN",
         "townhallLevel": 15,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88JUGLUL",
+          "defenderTag": "#2PQPLV90L",
+          "stars": 1,
+          "destructionPercentage": 75,
+          "order": 7,
+          "duration": 136
+        }
       },
       {
         "tag": "#QG22J9YCY",
