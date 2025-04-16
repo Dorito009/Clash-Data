@@ -42,7 +42,15 @@
             "duration": 135
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2PQPLV90L",
+          "defenderTag": "#88JUGLUL",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 44,
+          "duration": 116
+        }
       },
       {
         "tag": "#88GVYL9VQ",
@@ -331,7 +339,15 @@
             "duration": 116
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2PQPLV90L",
+          "defenderTag": "#PP9R8LJGG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 125
+        }
       },
       {
         "tag": "#Q0C80PJ8U",
@@ -418,7 +434,15 @@
         "name": "bram2",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QG22J9YCY",
+          "defenderTag": "#QRCCYRGGG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 110
+        }
       },
       {
         "tag": "#QY2PCRLPJ",
@@ -460,14 +484,14 @@
             "duration": 80
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2UUQ208GU",
+          "attackerTag": "#VR80GCGJ",
           "defenderTag": "#Y8LVCLUP2",
-          "stars": 2,
-          "destructionPercentage": 78,
-          "order": 25,
-          "duration": 140
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 114
         }
       },
       {
@@ -475,7 +499,7 @@
         "name": "ilkay030",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#QRR2L98R9",
           "defenderTag": "#YQQL9JGYL",
@@ -500,7 +524,15 @@
             "duration": 174
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QG22J9YCY",
+          "defenderTag": "#LJ2J8QRPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 114
+        }
       },
       {
         "tag": "#8PV2Y0JPV",
@@ -543,15 +575,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ud4kFRp5UD1V93UlUB0aN6o43DCBBHmgVjORjeU_dsw.png"
     },
     "clanLevel": 17,
-    "attacks": 25,
-    "stars": 60,
-    "destructionPercentage": 82.76,
+    "attacks": 32,
+    "stars": 72,
+    "destructionPercentage": 98.8,
     "members": [
       {
         "tag": "#Q99UQ2QVC",
         "name": "MaRIoNO",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Q99UQ2QVC",
+            "defenderTag": "#YQQL9JGYL",
+            "stars": 2,
+            "destructionPercentage": 58,
+            "order": 50,
+            "duration": 92
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -712,6 +754,24 @@
         "name": "MOOBY FELIX",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#VR80GCGJ",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 114
+          },
+          {
+            "attackerTag": "#VR80GCGJ",
+            "defenderTag": "#YQQL9JGYL",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 49,
+            "duration": 171
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y8LVCLUP2",
@@ -1045,6 +1105,24 @@
         "name": "UDUNEN",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2PQPLV90L",
+            "defenderTag": "#88JUGLUL",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 44,
+            "duration": 116
+          },
+          {
+            "attackerTag": "#2PQPLV90L",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 125
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PP9R8LJGG",
@@ -1060,6 +1138,24 @@
         "name": "GROOT",
         "townhallLevel": 13,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#QG22J9YCY",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 114
+          },
+          {
+            "attackerTag": "#QG22J9YCY",
+            "defenderTag": "#QRCCYRGGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 110
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
