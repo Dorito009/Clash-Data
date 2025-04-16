@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 28,
-    "stars": 59,
-    "destructionPercentage": 82.72,
+    "attacks": 30,
+    "stars": 63,
+    "destructionPercentage": 86.76,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -57,6 +57,24 @@
         "name": "thijmen",
         "townhallLevel": 12,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#88GVYL9VQ",
+            "defenderTag": "#RCQP82LY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 70,
+            "duration": 127
+          },
+          {
+            "attackerTag": "#88GVYL9VQ",
+            "defenderTag": "#PR0JGC9U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 71,
+            "duration": 136
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QJY9P2RGC",
@@ -287,7 +305,7 @@
         "name": "Semgiesen",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#QRR2L98R9",
           "defenderTag": "#L98PCYYJ9",
@@ -546,7 +564,7 @@
             "duration": 80
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#VR80GCGJ",
           "defenderTag": "#Y8LVCLUP2",
@@ -663,7 +681,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ud4kFRp5UD1V93UlUB0aN6o43DCBBHmgVjORjeU_dsw.png"
     },
     "clanLevel": 17,
-    "attacks": 39,
+    "attacks": 41,
     "stars": 74,
     "destructionPercentage": 99.16,
     "members": [
@@ -680,6 +698,14 @@
             "destructionPercentage": 58,
             "order": 50,
             "duration": 92
+          },
+          {
+            "attackerTag": "#Q99UQ2QVC",
+            "defenderTag": "#L98PCYYJ9",
+            "stars": 2,
+            "destructionPercentage": 59,
+            "order": 68,
+            "duration": 102
           }
         ],
         "opponentAttacks": 0
@@ -995,14 +1021,14 @@
         "name": "YOU ONE jr.",
         "townhallLevel": 12,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LPGGPVPRP",
+          "attackerTag": "#88GVYL9VQ",
           "defenderTag": "#RCQP82LY",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 52,
-          "duration": 161
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 70,
+          "duration": 127
         }
       },
       {
@@ -1172,9 +1198,25 @@
             "destructionPercentage": 100,
             "order": 43,
             "duration": 169
+          },
+          {
+            "attackerTag": "#PR0JGC9U",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 1,
+            "destructionPercentage": 82,
+            "order": 69,
+            "duration": 112
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88GVYL9VQ",
+          "defenderTag": "#PR0JGC9U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 71,
+          "duration": 136
+        }
       },
       {
         "tag": "#2CRVG0JQ",
