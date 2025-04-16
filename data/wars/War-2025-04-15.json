@@ -1,5 +1,5 @@
 {
-  "state": "inWar",
+  "state": "warEnded",
   "teamSize": 25,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 33,
-    "stars": 66,
-    "destructionPercentage": 90.48,
+    "attacks": 35,
+    "stars": 68,
+    "destructionPercentage": 94.24,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -288,6 +288,14 @@
             "destructionPercentage": 99,
             "order": 52,
             "duration": 161
+          },
+          {
+            "attackerTag": "#LPGGPVPRP",
+            "defenderTag": "#29VPRRLY0",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 79,
+            "duration": 140
           }
         ],
         "opponentAttacks": 1,
@@ -688,6 +696,16 @@
         "name": "VIRGIL VAN DIJK",
         "townhallLevel": 12,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#L9CLYRR9Q",
+            "defenderTag": "#Q99UQ2QVC",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 80,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8002CV8UP",
@@ -736,7 +754,7 @@
             "duration": 102
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QRCCYRGGG",
           "defenderTag": "#Q99UQ2QVC",
@@ -1033,7 +1051,15 @@
             "duration": 82
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LPGGPVPRP",
+          "defenderTag": "#29VPRRLY0",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 79,
+          "duration": 140
+        }
       },
       {
         "tag": "#8L2YQRVUL",
