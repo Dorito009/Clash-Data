@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 19,
-    "stars": 42,
-    "destructionPercentage": 58.2,
+    "attacks": 20,
+    "stars": 44,
+    "destructionPercentage": 62.16,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -42,7 +42,7 @@
             "duration": 135
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2PQPLV90L",
           "defenderTag": "#88JUGLUL",
@@ -236,6 +236,16 @@
         "name": "Joran Bawz",
         "townhallLevel": 12,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#LPGGPVPRP",
+            "defenderTag": "#RCQP82LY",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 52,
+            "duration": 161
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8L2YQRVUL",
@@ -507,14 +517,14 @@
         "name": "ilkay030",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#QRR2L98R9",
+          "attackerTag": "#2PGPU0PVU",
           "defenderTag": "#YQQL9JGYL",
-          "stars": 2,
-          "destructionPercentage": 92,
-          "order": 39,
-          "duration": 170
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "duration": 98
         }
       },
       {
@@ -583,9 +593,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ud4kFRp5UD1V93UlUB0aN6o43DCBBHmgVjORjeU_dsw.png"
     },
     "clanLevel": 17,
-    "attacks": 32,
-    "stars": 72,
-    "destructionPercentage": 98.8,
+    "attacks": 34,
+    "stars": 73,
+    "destructionPercentage": 99.12,
     "members": [
       {
         "tag": "#Q99UQ2QVC",
@@ -609,6 +619,24 @@
         "name": "EL-MatadoRE",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2PGPU0PVU",
+            "defenderTag": "#YQQL9JGYL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 53,
+            "duration": 98
+          },
+          {
+            "attackerTag": "#2PGPU0PVU",
+            "defenderTag": "#88JUGLUL",
+            "stars": 1,
+            "destructionPercentage": 88,
+            "order": 54,
+            "duration": 167
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PP9R8LJGG",
@@ -845,7 +873,15 @@
         "name": "YOU ONE jr.",
         "townhallLevel": 12,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LPGGPVPRP",
+          "defenderTag": "#RCQP82LY",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 52,
+          "duration": 161
+        }
       },
       {
         "tag": "#LQ8UCLGJ8",
