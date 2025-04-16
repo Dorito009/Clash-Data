@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 30,
-    "stars": 63,
-    "destructionPercentage": 86.76,
+    "attacks": 33,
+    "stars": 66,
+    "destructionPercentage": 90.48,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -108,7 +108,7 @@
             "duration": 81
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#QR089QQYP",
           "defenderTag": "#GQYQ92VLL",
@@ -199,7 +199,7 @@
             "duration": 119
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2CRVG0JQ",
           "defenderTag": "#RJJGCV0P",
@@ -353,6 +353,16 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#QR089QQYP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 78,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PR0JGC9U",
@@ -514,6 +524,24 @@
         "name": "bram2",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#QRCCYRGGG",
+            "defenderTag": "#Q99UQ2QVC",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 74,
+            "duration": 103
+          },
+          {
+            "attackerTag": "#QRCCYRGGG",
+            "defenderTag": "#QR089QQYP",
+            "stars": 1,
+            "destructionPercentage": 99,
+            "order": 75,
+            "duration": 109
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QG22J9YCY",
@@ -681,7 +709,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ud4kFRp5UD1V93UlUB0aN6o43DCBBHmgVjORjeU_dsw.png"
     },
     "clanLevel": 17,
-    "attacks": 43,
+    "attacks": 45,
     "stars": 74,
     "destructionPercentage": 99.16,
     "members": [
@@ -708,7 +736,15 @@
             "duration": 102
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRCCYRGGG",
+          "defenderTag": "#Q99UQ2QVC",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 74,
+          "duration": 103
+        }
       },
       {
         "tag": "#2PGPU0PVU",
@@ -865,14 +901,14 @@
             "duration": 100
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LVLVG0VPV",
+          "attackerTag": "#Q0RUPY9YP",
           "defenderTag": "#QR089QQYP",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 29,
-          "duration": 127
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 78,
+          "duration": 143
         }
       },
       {
@@ -1067,6 +1103,24 @@
         "name": "RIO ORA SEPELE",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2V2P8GP02",
+            "defenderTag": "#RJJGCV0P",
+            "stars": 2,
+            "destructionPercentage": 50,
+            "order": 76,
+            "duration": 72
+          },
+          {
+            "attackerTag": "#2V2P8GP02",
+            "defenderTag": "#GQYQ92VLL",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 77,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GQYQ92VLL",
