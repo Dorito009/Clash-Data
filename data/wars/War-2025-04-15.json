@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 16,
-    "stars": 35,
-    "destructionPercentage": 50.08,
+    "attacks": 18,
+    "stars": 40,
+    "destructionPercentage": 55.04,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -64,6 +64,24 @@
         "name": "Donjenso",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#CJ9090LQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 124
+          },
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#2V2P8GP02",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 81
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QR089QQYP",
@@ -265,7 +283,15 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PR0JGC9U",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 169
+        }
       },
       {
         "tag": "#929G9VQ0C",
@@ -377,7 +403,15 @@
         "name": "ThadeusPRO",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2UUQ208GU",
+          "defenderTag": "#LQLQUGQPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 166
+        }
       },
       {
         "tag": "#QRCCYRGGG",
@@ -509,9 +543,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ud4kFRp5UD1V93UlUB0aN6o43DCBBHmgVjORjeU_dsw.png"
     },
     "clanLevel": 17,
-    "attacks": 23,
-    "stars": 54,
-    "destructionPercentage": 74.76,
+    "attacks": 25,
+    "stars": 60,
+    "destructionPercentage": 82.76,
     "members": [
       {
         "tag": "#Q99UQ2QVC",
@@ -648,7 +682,15 @@
             "duration": 148
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQYQ92VLL",
+          "defenderTag": "#CJ9090LQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 124
+        }
       },
       {
         "tag": "#2209QGY02",
@@ -757,14 +799,14 @@
         "name": "RIO ORA SEPELE",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LJ2J8QRPJ",
+          "attackerTag": "#GQYQ92VLL",
           "defenderTag": "#2V2P8GP02",
-          "stars": 1,
-          "destructionPercentage": 76,
-          "order": 32,
-          "duration": 174
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 81
         }
       },
       {
@@ -805,6 +847,14 @@
             "destructionPercentage": 78,
             "order": 25,
             "duration": 140
+          },
+          {
+            "attackerTag": "#2UUQ208GU",
+            "defenderTag": "#LQLQUGQPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 42,
+            "duration": 166
           }
         ],
         "opponentAttacks": 0
@@ -872,6 +922,16 @@
         "name": "Akina",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#PR0JGC9U",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 169
+          }
+        ],
         "opponentAttacks": 0
       },
       {
