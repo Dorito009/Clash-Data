@@ -147,7 +147,15 @@
             "duration": 119
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CRVG0JQ",
+          "defenderTag": "#RJJGCV0P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 174
+        }
       },
       {
         "tag": "#YRP99RVQR",
@@ -209,14 +217,14 @@
         "name": "Semgiesen",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#29VPRRLY0",
+          "attackerTag": "#QRR2L98R9",
           "defenderTag": "#L98PCYYJ9",
-          "stars": 1,
-          "destructionPercentage": 91,
-          "order": 9,
-          "duration": 174
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 105
         }
       },
       {
@@ -354,14 +362,14 @@
             "duration": 142
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9QGJJ2Q8V",
+          "attackerTag": "#2CRVG0JQ",
           "defenderTag": "#YU982RCVV",
-          "stars": 2,
-          "destructionPercentage": 74,
-          "order": 10,
-          "duration": 130
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 37,
+          "duration": 173
         }
       },
       {
@@ -433,7 +441,15 @@
         "name": "ilkay030",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRR2L98R9",
+          "defenderTag": "#YQQL9JGYL",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 39,
+          "duration": 170
+        }
       },
       {
         "tag": "#LJ2J8QRPJ",
@@ -493,9 +509,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ud4kFRp5UD1V93UlUB0aN6o43DCBBHmgVjORjeU_dsw.png"
     },
     "clanLevel": 17,
-    "attacks": 19,
-    "stars": 46,
-    "destructionPercentage": 65.68,
+    "attacks": 23,
+    "stars": 54,
+    "destructionPercentage": 74.76,
     "members": [
       {
         "tag": "#Q99UQ2QVC",
@@ -756,6 +772,24 @@
         "name": "DOBLEE",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QRR2L98R9",
+            "defenderTag": "#L98PCYYJ9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 105
+          },
+          {
+            "attackerTag": "#QRR2L98R9",
+            "defenderTag": "#YQQL9JGYL",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 39,
+            "duration": 170
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -845,6 +879,24 @@
         "name": "F R E Y",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2CRVG0JQ",
+            "defenderTag": "#RJJGCV0P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 174
+          },
+          {
+            "attackerTag": "#2CRVG0JQ",
+            "defenderTag": "#YU982RCVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 173
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#RJJGCV0P",
