@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 25,
-    "stars": 58,
-    "destructionPercentage": 68.26667,
+    "attacks": 27,
+    "stars": 62,
+    "destructionPercentage": 71.666664,
     "members": [
       {
         "tag": "#J0V0LG9G",
@@ -255,6 +255,16 @@
         "name": "Joran Bawz",
         "townhallLevel": 12,
         "mapPosition": 26,
+        "attacks": [
+          {
+            "attackerTag": "#LPGGPVPRP",
+            "defenderTag": "#QRUV8292Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 56,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QJPRU0PQV",
@@ -376,6 +386,14 @@
             "destructionPercentage": 100,
             "order": 4,
             "duration": 119
+          },
+          {
+            "attackerTag": "#Q0C80PJ8U",
+            "defenderTag": "#P9YP82Y9C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 138
           }
         ],
         "opponentAttacks": 1,
@@ -952,7 +970,15 @@
             "duration": 91
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LPGGPVPRP",
+          "defenderTag": "#QRUV8292Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 56,
+          "duration": 127
+        }
       },
       {
         "tag": "#LCJG9GG20",
@@ -1067,14 +1093,14 @@
         "name": "Febrian Yoga.P",
         "townhallLevel": 11,
         "mapPosition": 28,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QY2PCRLPJ",
+          "attackerTag": "#Q0C80PJ8U",
           "defenderTag": "#P9YP82Y9C",
-          "stars": 2,
-          "destructionPercentage": 98,
-          "order": 23,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 138
         }
       },
       {
