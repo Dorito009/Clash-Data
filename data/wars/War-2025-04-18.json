@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 13,
-    "stars": 31,
-    "destructionPercentage": 35.7,
+    "attacks": 16,
+    "stars": 38,
+    "destructionPercentage": 45.466667,
     "members": [
       {
         "tag": "#J0V0LG9G",
@@ -53,6 +53,14 @@
             "destructionPercentage": 94,
             "order": 14,
             "duration": 133
+          },
+          {
+            "attackerTag": "#8CJ0CVV2Q",
+            "defenderTag": "#G2JPQV00L",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 28,
+            "duration": 147
           }
         ],
         "opponentAttacks": 0
@@ -245,6 +253,16 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#9LR998LV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 104
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -338,13 +356,31 @@
         "name": "bram2",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CUJ290J8",
+          "defenderTag": "#QRCCYRGGG",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 25,
+          "duration": 137
+        }
       },
       {
         "tag": "#QY2PCRLPJ",
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#P9YP82Y9C",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 23,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -374,7 +410,15 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LCJG9GG20",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 26,
+          "duration": 180
+        }
       },
       {
         "tag": "#9CCVPU9RU",
@@ -406,7 +450,15 @@
         "name": "ropje",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YUJ0UP9V8",
+          "defenderTag": "#8PV2Y0JPV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 126
+        }
       },
       {
         "tag": "#L9CLYRR9Q",
@@ -436,9 +488,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/pO4lQNPkBwTwYRDGLqK7ToyzYFyl_JiiBVO9IBUK24Y.png"
     },
     "clanLevel": 14,
-    "attacks": 9,
-    "stars": 20,
-    "destructionPercentage": 25.266666,
+    "attacks": 12,
+    "stars": 27,
+    "destructionPercentage": 34.266666,
     "members": [
       {
         "tag": "#Q98QV9Y2L",
@@ -485,6 +537,16 @@
         "name": "MIKAEL",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2CUJ290J8",
+            "defenderTag": "#QRCCYRGGG",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 25,
+            "duration": 137
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -623,6 +685,16 @@
         "name": "ujang",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#LCJG9GG20",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 26,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -654,20 +726,46 @@
         "name": "Dhompu",
         "townhallLevel": 15,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9R8LJGG",
+          "defenderTag": "#9LR998LV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 104
+        }
       },
       {
         "tag": "#P9YP82Y9C",
         "name": "Febrian Yoga.P",
         "townhallLevel": 11,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QY2PCRLPJ",
+          "defenderTag": "#P9YP82Y9C",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 23,
+          "duration": 180
+        }
       },
       {
         "tag": "#YUJ0UP9V8",
         "name": "Zynnn",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YUJ0UP9V8",
+            "defenderTag": "#8PV2Y0JPV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -783,7 +881,15 @@
         "name": "adreena GB",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8CJ0CVV2Q",
+          "defenderTag": "#G2JPQV00L",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 28,
+          "duration": 147
+        }
       },
       {
         "tag": "#Q2V0JUG9J",
