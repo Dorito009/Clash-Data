@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 8,
-    "stars": 19,
-    "destructionPercentage": 22.366667,
+    "attacks": 9,
+    "stars": 21,
+    "destructionPercentage": 25.5,
     "members": [
       {
         "tag": "#J0V0LG9G",
@@ -45,6 +45,16 @@
         "name": "Senna0412_",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#8CJ0CVV2Q",
+            "defenderTag": "#LQ9L08YY2",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 14,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -436,7 +446,15 @@
         "name": "Faris pagala",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8CJ0CVV2Q",
+          "defenderTag": "#LQ9L08YY2",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 14,
+          "duration": 133
+        }
       },
       {
         "tag": "#QLJ909L92",
