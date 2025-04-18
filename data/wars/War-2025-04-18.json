@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 16,
-    "stars": 38,
-    "destructionPercentage": 45.466667,
+    "attacks": 17,
+    "stars": 41,
+    "destructionPercentage": 48.8,
     "members": [
       {
         "tag": "#J0V0LG9G",
@@ -31,7 +31,15 @@
         "name": "thijmen",
         "townhallLevel": 12,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRUV8292Q",
+          "defenderTag": "#88GVYL9VQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 91
+        }
       },
       {
         "tag": "#L2UQ2G08",
@@ -332,6 +340,14 @@
             "destructionPercentage": 91,
             "order": 1,
             "duration": 126
+          },
+          {
+            "attackerTag": "#G2QCUJ988",
+            "defenderTag": "#QG0L0UJV0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 29,
+            "duration": 91
           }
         ],
         "opponentAttacks": 0
@@ -475,7 +491,15 @@
             "duration": 152
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRUV8292Q",
+          "defenderTag": "#L9CLYRR9Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 82
+        }
       }
     ]
   },
@@ -488,9 +512,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/pO4lQNPkBwTwYRDGLqK7ToyzYFyl_JiiBVO9IBUK24Y.png"
     },
     "clanLevel": 14,
-    "attacks": 12,
-    "stars": 27,
-    "destructionPercentage": 34.266666,
+    "attacks": 14,
+    "stars": 33,
+    "destructionPercentage": 40.933334,
     "members": [
       {
         "tag": "#Q98QV9Y2L",
@@ -678,6 +702,24 @@
         "name": "AMB MA41",
         "townhallLevel": 12,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#QRUV8292Q",
+            "defenderTag": "#L9CLYRR9Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 30,
+            "duration": 82
+          },
+          {
+            "attackerTag": "#QRUV8292Q",
+            "defenderTag": "#88GVYL9VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -812,7 +854,15 @@
         "name": "Heru\u2122\u2665",
         "townhallLevel": 10,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2QCUJ988",
+          "defenderTag": "#QG0L0UJV0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "duration": 91
+        }
       },
       {
         "tag": "#8URRPGLJY",
