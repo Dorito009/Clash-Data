@@ -127,7 +127,15 @@
         "name": "mazwad",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8Y9G8GY2U",
+          "defenderTag": "#QCYRRPR8Q",
+          "stars": 2,
+          "destructionPercentage": 60,
+          "order": 52,
+          "duration": 69
+        }
       },
       {
         "tag": "#LVLVG0VPV",
@@ -561,7 +569,15 @@
             "duration": 165
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LCJG9GG20",
+          "defenderTag": "#LJ2J8QRPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 174
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -654,9 +670,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/pO4lQNPkBwTwYRDGLqK7ToyzYFyl_JiiBVO9IBUK24Y.png"
     },
     "clanLevel": 14,
-    "attacks": 27,
-    "stars": 67,
-    "destructionPercentage": 77.86667,
+    "attacks": 29,
+    "stars": 72,
+    "destructionPercentage": 83.2,
     "members": [
       {
         "tag": "#Q98QV9Y2L",
@@ -849,6 +865,16 @@
         "name": "war zone",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#8Y9G8GY2U",
+            "defenderTag": "#QCYRRPR8Q",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 52,
+            "duration": 69
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -921,6 +947,14 @@
             "destructionPercentage": 99,
             "order": 26,
             "duration": 180
+          },
+          {
+            "attackerTag": "#LCJG9GG20",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 51,
+            "duration": 174
           }
         ],
         "opponentAttacks": 1,
