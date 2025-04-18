@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 27,
-    "stars": 62,
-    "destructionPercentage": 71.666664,
+    "attacks": 29,
+    "stars": 66,
+    "destructionPercentage": 76.5,
     "members": [
       {
         "tag": "#J0V0LG9G",
@@ -127,6 +127,24 @@
         "name": "mazwad",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#8Y9G8GY2U",
+            "stars": 2,
+            "destructionPercentage": 64,
+            "order": 57,
+            "duration": 91
+          },
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#2CUJ290J8",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 58,
+            "duration": 168
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8Y9G8GY2U",
@@ -785,7 +803,15 @@
             "duration": 137
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#2CUJ290J8",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 58,
+          "duration": 168
+        }
       },
       {
         "tag": "#G8VCYJJ00",
@@ -913,7 +939,15 @@
             "duration": 69
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#8Y9G8GY2U",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 57,
+          "duration": 91
+        }
       },
       {
         "tag": "#QQGUQ2LYG",
