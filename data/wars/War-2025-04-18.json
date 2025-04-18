@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 30,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 10.0,
     "members": [
       {
         "tag": "#J0V0LG9G",
@@ -94,6 +94,24 @@
         "name": "Florimannn",
         "townhallLevel": 13,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#8URRPGLJY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 130
+          },
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#PPYPVYQRR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 72
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -136,6 +154,16 @@
         "name": "DARK_MI3K",
         "townhallLevel": 11,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C80PJ8U",
+            "defenderTag": "#2L9J2URPC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -164,6 +192,16 @@
         "name": "BooTyler",
         "townhallLevel": 11,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#G2QCUJ988",
+            "defenderTag": "#2L9J2URPC",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 1,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -277,7 +315,15 @@
         "name": "giovanni.rd7",
         "townhallLevel": 13,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#PPYPVYQRR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 72
+        }
       },
       {
         "tag": "#LQ9L08YY2",
@@ -403,7 +449,15 @@
         "name": "assep",
         "townhallLevel": 12,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#8URRPGLJY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 130
+        }
       },
       {
         "tag": "#QCVYY08YC",
@@ -445,7 +499,15 @@
         "name": "TEUMPIK",
         "townhallLevel": 11,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0C80PJ8U",
+          "defenderTag": "#2L9J2URPC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 119
+        }
       },
       {
         "tag": "#Q2PR99PJG",
