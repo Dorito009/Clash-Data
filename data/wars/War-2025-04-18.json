@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 23,
-    "stars": 54,
-    "destructionPercentage": 62.3,
+    "attacks": 25,
+    "stars": 58,
+    "destructionPercentage": 68.26667,
     "members": [
       {
         "tag": "#J0V0LG9G",
@@ -303,6 +303,16 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#QJC2RLPUY",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 53,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -624,6 +634,16 @@
         "name": "ropje",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8PV2Y0JPV",
+            "defenderTag": "#YUJ0UP9V8",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 54,
+            "duration": 172
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YUJ0UP9V8",
@@ -1072,7 +1092,15 @@
             "duration": 126
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8PV2Y0JPV",
+          "defenderTag": "#YUJ0UP9V8",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 54,
+          "duration": 172
+        }
       },
       {
         "tag": "#QRLL9RP9Y",
@@ -1139,7 +1167,15 @@
             "duration": 78
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0RUPY9YP",
+          "defenderTag": "#QJC2RLPUY",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 53,
+          "duration": 135
+        }
       },
       {
         "tag": "#QG0L0UJV0",
