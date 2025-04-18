@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 21,
-    "stars": 48,
-    "destructionPercentage": 55.633335,
+    "attacks": 23,
+    "stars": 54,
+    "destructionPercentage": 62.3,
     "members": [
       {
         "tag": "#J0V0LG9G",
@@ -112,14 +112,14 @@
             "duration": 75
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QLJ909L92",
+          "attackerTag": "#QGQGVLRLQ",
           "defenderTag": "#GQYQ92VLL",
-          "stars": 1,
-          "destructionPercentage": 66,
-          "order": 12,
-          "duration": 132
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 99
         }
       },
       {
@@ -335,7 +335,15 @@
             "duration": 118
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9LR998LV",
+          "defenderTag": "#PP9R8LJGG",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 47,
+          "duration": 147
+        }
       },
       {
         "tag": "#Q0C80PJ8U",
@@ -535,6 +543,24 @@
         "name": "FabianBawz",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#Q2V0JUG9J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#LCJG9GG20",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 165
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -628,9 +654,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/pO4lQNPkBwTwYRDGLqK7ToyzYFyl_JiiBVO9IBUK24Y.png"
     },
     "clanLevel": 14,
-    "attacks": 25,
-    "stars": 63,
-    "destructionPercentage": 74.26667,
+    "attacks": 27,
+    "stars": 67,
+    "destructionPercentage": 77.86667,
     "members": [
       {
         "tag": "#Q98QV9Y2L",
@@ -897,7 +923,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#LCJG9GG20",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 165
+        }
       },
       {
         "tag": "#QGQGVLRLQ",
@@ -912,6 +946,14 @@
             "destructionPercentage": 70,
             "order": 22,
             "duration": 135
+          },
+          {
+            "attackerTag": "#QGQGVLRLQ",
+            "defenderTag": "#GQYQ92VLL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 99
           }
         ],
         "opponentAttacks": 0
@@ -946,6 +988,16 @@
         "name": "Dhompu",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9LR998LV",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 47,
+            "duration": 147
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PP9R8LJGG",
@@ -1160,7 +1212,15 @@
         "name": "\u2122BTR_DENZ",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#Q2V0JUG9J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 129
+        }
       },
       {
         "tag": "#2L9J2URPC",
