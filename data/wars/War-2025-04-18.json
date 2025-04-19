@@ -54,7 +54,15 @@
         "name": "NIELSBOY",
         "townhallLevel": 13,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QGRJR0VJQ",
+          "defenderTag": "#L2UQ2G08",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 62,
+          "duration": 78
+        }
       },
       {
         "tag": "#8CJ0CVV2Q",
@@ -752,9 +760,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/pO4lQNPkBwTwYRDGLqK7ToyzYFyl_JiiBVO9IBUK24Y.png"
     },
     "clanLevel": 14,
-    "attacks": 29,
-    "stars": 72,
-    "destructionPercentage": 83.2,
+    "attacks": 30,
+    "stars": 74,
+    "destructionPercentage": 85.53333,
     "members": [
       {
         "tag": "#Q98QV9Y2L",
@@ -1003,6 +1011,14 @@
             "destructionPercentage": 100,
             "order": 19,
             "duration": 153
+          },
+          {
+            "attackerTag": "#QGRJR0VJQ",
+            "defenderTag": "#L2UQ2G08",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 62,
+            "duration": 78
           }
         ],
         "opponentAttacks": 1,
