@@ -357,7 +357,15 @@
             "duration": 135
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2JPQV00L",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 157
+        }
       },
       {
         "tag": "#929G9VQ0C",
@@ -463,7 +471,15 @@
             "duration": 126
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2JPQV00L",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 63,
+          "duration": 121
+        }
       },
       {
         "tag": "#YU982RCVV",
@@ -760,9 +776,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/pO4lQNPkBwTwYRDGLqK7ToyzYFyl_JiiBVO9IBUK24Y.png"
     },
     "clanLevel": 14,
-    "attacks": 30,
-    "stars": 74,
-    "destructionPercentage": 85.53333,
+    "attacks": 32,
+    "stars": 80,
+    "destructionPercentage": 92.2,
     "members": [
       {
         "tag": "#Q98QV9Y2L",
@@ -1393,6 +1409,24 @@
         "name": "adreena GB",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#G2JPQV00L",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 63,
+            "duration": 121
+          },
+          {
+            "attackerTag": "#G2JPQV00L",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y8LVCLUP2",
