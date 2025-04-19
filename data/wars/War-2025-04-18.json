@@ -574,14 +574,14 @@
         "name": "bram2",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2CUJ290J8",
+          "attackerTag": "#QPLJ0RYVR",
           "defenderTag": "#QRCCYRGGG",
-          "stars": 2,
-          "destructionPercentage": 71,
-          "order": 25,
-          "duration": 137
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "duration": 97
         }
       },
       {
@@ -680,14 +680,14 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LCJG9GG20",
+          "attackerTag": "#QPLJ0RYVR",
           "defenderTag": "#UVPQ9Y8U",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 26,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 66,
+          "duration": 83
         }
       },
       {
@@ -776,9 +776,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/pO4lQNPkBwTwYRDGLqK7ToyzYFyl_JiiBVO9IBUK24Y.png"
     },
     "clanLevel": 14,
-    "attacks": 32,
-    "stars": 80,
-    "destructionPercentage": 92.2,
+    "attacks": 34,
+    "stars": 82,
+    "destructionPercentage": 93.2,
     "members": [
       {
         "tag": "#Q98QV9Y2L",
@@ -1394,6 +1394,24 @@
         "name": "Pacific",
         "townhallLevel": 14,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#QPLJ0RYVR",
+            "defenderTag": "#QRCCYRGGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 65,
+            "duration": 97
+          },
+          {
+            "attackerTag": "#QPLJ0RYVR",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 66,
+            "duration": 83
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PP9R8LJGG",
