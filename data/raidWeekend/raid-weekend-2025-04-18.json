@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250418T070000.000Z",
   "endTime": "20250421T070000.000Z",
-  "capitalTotalLoot": 650000,
+  "capitalTotalLoot": 654525,
   "raidsCompleted": 8,
-  "totalAttacks": 193,
+  "totalAttacks": 194,
   "enemyDistrictsDestroyed": 72,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -84,10 +84,10 @@
     {
       "tag": "#L0V8VCPY9",
       "name": "FlorisDeJong",
-      "attacks": 2,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 8230
+      "capitalResourcesLooted": 12755
     },
     {
       "tag": "#L2VURGC2Q",
@@ -2784,9 +2784,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/WHCT7Wwt6zCVBZBtUEgBJOvbXstkNvIF7g__PyWttuA.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -2957,11 +2957,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 61,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5045,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 7857,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G92L0V8YP",
+                "name": "ROCK N ROLL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#G92L0V8YP",
