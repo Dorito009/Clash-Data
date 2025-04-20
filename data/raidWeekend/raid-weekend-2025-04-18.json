@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250418T070000.000Z",
   "endTime": "20250421T070000.000Z",
-  "capitalTotalLoot": 687882,
-  "raidsCompleted": 8,
-  "totalAttacks": 202,
+  "capitalTotalLoot": 689237,
+  "raidsCompleted": 9,
+  "totalAttacks": 204,
   "enemyDistrictsDestroyed": 75,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -296,6 +296,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 11424
+    },
+    {
+      "tag": "#QU9LC8LCY",
+      "name": "wasbakmonteu",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 1355
     },
     {
       "tag": "#8QLPGU0VL",
@@ -2792,18 +2800,60 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/WHCT7Wwt6zCVBZBtUEgBJOvbXstkNvIF7g__PyWttuA.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 30,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 9,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 12018,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRGG9R22G",
+                "name": "sodiq210"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRGG9R22G",
+                "name": "sodiq210"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QRGG9R22G",
+                "name": "sodiq210"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QRGG9R22G",
+                "name": "sodiq210"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#QRGG9R22G",
+                "name": "sodiq210"
+              },
+              "destructionPercent": 26,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -3035,11 +3085,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 3,
-          "destructionPercent": 78,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 6115,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 7854,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRGG9R22G",
+                "name": "sodiq210"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QPUUY00Y8",
