@@ -2440,5 +2440,304 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#2LRUQY99L",
+        "name": "SEVEN SKY",
+        "level": 17,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/WHCT7Wwt6zCVBZBtUEgBJOvbXstkNvIF7g__PyWttuA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/WHCT7Wwt6zCVBZBtUEgBJOvbXstkNvIF7g__PyWttuA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/WHCT7Wwt6zCVBZBtUEgBJOvbXstkNvIF7g__PyWttuA.png"
+        }
+      },
+      "attackCount": 23,
+      "districtCount": 9,
+      "districtsDestroyed": 6,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10311,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJL2LR2LR",
+                "name": "dhani"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LJL2LR2LR",
+                "name": "dhani"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LJL2LR2LR",
+                "name": "dhani"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 8825,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPUUY00Y8",
+                "name": "sam"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QPUUY00Y8",
+                "name": "sam"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QPUUY00Y8",
+                "name": "sam"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LJL2LR2LR",
+                "name": "dhani"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 8733,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QU8UCYQUC",
+                "name": "winda"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QU8UCYQUC",
+                "name": "winda"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QU8UCYQUC",
+                "name": "winda"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QU8UCYQUC",
+                "name": "winda"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8722,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPUUY00Y8",
+                "name": "sam"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QU8UCYQUC",
+                "name": "winda"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QU8UCYQUC",
+                "name": "winda"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 61,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5045,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G92L0V8YP",
+                "name": "ROCK N ROLL"
+              },
+              "destructionPercent": 61,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G92L0V8YP",
+                "name": "ROCK N ROLL"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8008,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G92L0V8YP",
+                "name": "ROCK N ROLL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G92L0V8YP",
+                "name": "ROCK N ROLL"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G92L0V8YP",
+                "name": "ROCK N ROLL"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 78,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 6115,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPUUY00Y8",
+                "name": "sam"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QPUUY00Y8",
+                "name": "sam"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 5351,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJL2LR2LR",
+                "name": "dhani"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LJL2LR2LR",
+                "name": "dhani"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
