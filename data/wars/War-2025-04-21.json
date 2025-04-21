@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 30,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 4,
+    "stars": 11,
+    "destructionPercentage": 12.766666,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -101,6 +101,16 @@
         "name": "Matsie04T",
         "townhallLevel": 12,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#R8JJQPUR",
+            "defenderTag": "#9LJLL8L08",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -115,6 +125,24 @@
         "name": "Mika5578",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#L8JPLYYLJ",
+            "defenderTag": "#J2LGGVGU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 91
+          },
+          {
+            "attackerTag": "#L8JPLYYLJ",
+            "defenderTag": "#P2JYYLG2Y",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 2,
+            "duration": 100
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -164,6 +192,16 @@
         "name": "Olivier05",
         "townhallLevel": 14,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#YU982RCVV",
+            "defenderTag": "#8JUPRU0QG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -178,7 +216,15 @@
         "name": "legendar\u00a5",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#VYJY29LY",
+          "defenderTag": "#2Y8Q09V09",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 117
+        }
       },
       {
         "tag": "#QY2PCRLPJ",
@@ -240,9 +286,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png"
     },
     "clanLevel": 12,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 3.3333333,
     "members": [
       {
         "tag": "#8YRY8890J",
@@ -312,7 +358,15 @@
         "name": "\u0130BOSTOVESK\u0130",
         "townhallLevel": 14,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YU982RCVV",
+          "defenderTag": "#8JUPRU0QG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 128
+        }
       },
       {
         "tag": "#LPC9YY8YL",
@@ -333,7 +387,15 @@
         "name": "SuBZeRo",
         "townhallLevel": 12,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#R8JJQPUR",
+          "defenderTag": "#9LJLL8L08",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 112
+        }
       },
       {
         "tag": "#Q9V2UVYCP",
@@ -354,6 +416,16 @@
         "name": "_S_U_B_Z_E_R_O_",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#VYJY29LY",
+            "defenderTag": "#2Y8Q09V09",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 117
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -368,7 +440,15 @@
         "name": "Melih",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L8JPLYYLJ",
+          "defenderTag": "#J2LGGVGU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 91
+        }
       },
       {
         "tag": "#JLRPYY8R",
@@ -382,7 +462,15 @@
         "name": "M\u00fccahitDan\u0131san",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L8JPLYYLJ",
+          "defenderTag": "#P2JYYLG2Y",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 2,
+          "duration": 100
+        }
       },
       {
         "tag": "#RPPCR8RL",
