@@ -15,23 +15,23 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 26,
-    "stars": 56,
-    "destructionPercentage": 65.2,
+    "attacks": 27,
+    "stars": 58,
+    "destructionPercentage": 66.46667,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
         "name": "_ Shadow_",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#RPPCR8RL",
+          "attackerTag": "#QR8PL29P0",
           "defenderTag": "#LQ9C2LPUC",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 30,
-          "duration": 169
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 130
         }
       },
       {
@@ -331,14 +331,14 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 19,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#PGVLY092V",
+          "attackerTag": "#QR8PL29P0",
           "defenderTag": "#Q0RUPY9YP",
-          "stars": 2,
-          "destructionPercentage": 98,
-          "order": 29,
-          "duration": 134
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 124
         }
       },
       {
@@ -617,6 +617,14 @@
             "destructionPercentage": 96,
             "order": 44,
             "duration": 132
+          },
+          {
+            "attackerTag": "#9CCVPU9RU",
+            "defenderTag": "#92GU8QCGY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 59,
+            "duration": 93
           }
         ],
         "opponentAttacks": 0
@@ -680,9 +688,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png"
     },
     "clanLevel": 12,
-    "attacks": 32,
-    "stars": 64,
-    "destructionPercentage": 76.63333,
+    "attacks": 34,
+    "stars": 66,
+    "destructionPercentage": 76.833336,
     "members": [
       {
         "tag": "#8YRY8890J",
@@ -696,14 +704,14 @@
         "name": "MEKAN38EY\u00dcP",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LJ2J8QRPJ",
+          "attackerTag": "#9CCVPU9RU",
           "defenderTag": "#92GU8QCGY",
-          "stars": 1,
-          "destructionPercentage": 62,
-          "order": 54,
-          "duration": 131
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 59,
+          "duration": 93
         }
       },
       {
@@ -924,6 +932,24 @@
         "name": "comoloki",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#QR8PL29P0",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 124
+          },
+          {
+            "attackerTag": "#QR8PL29P0",
+            "defenderTag": "#LQ9C2LPUC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PRUGPLRPG",
