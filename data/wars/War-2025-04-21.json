@@ -198,14 +198,14 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 12,
         "mapPosition": 25,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G0CVLUCV0",
+          "attackerTag": "#QRY8VJ9R0",
           "defenderTag": "#YRP99RVQR",
-          "stars": 2,
-          "destructionPercentage": 74,
-          "order": 33,
-          "duration": 98
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 130
         }
       },
       {
@@ -288,14 +288,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G0CVLUCV0",
+          "attackerTag": "#82L8R2YGC",
           "defenderTag": "#LPGGPVPRP",
-          "stars": 2,
-          "destructionPercentage": 97,
-          "order": 34,
-          "duration": 126
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 142
         }
       },
       {
@@ -378,7 +378,15 @@
             "duration": 123
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#PVGLQCY8Y",
+          "defenderTag": "#Q0C80PJ8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 128
+        }
       },
       {
         "tag": "#PRUGPLRPG",
@@ -435,7 +443,15 @@
             "duration": 96
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LQVRPY0JY",
+          "defenderTag": "#G2QCUJ988",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 50,
+          "duration": 134
+        }
       },
       {
         "tag": "#2Y8Q09V09",
@@ -515,7 +531,15 @@
         "name": "FabianBawz",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8YYPVRQ9L",
+          "defenderTag": "#LJ2J8QRPJ",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 49,
+          "duration": 142
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -600,9 +624,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png"
     },
     "clanLevel": 12,
-    "attacks": 24,
-    "stars": 55,
-    "destructionPercentage": 66.6,
+    "attacks": 30,
+    "stars": 64,
+    "destructionPercentage": 76.63333,
     "members": [
       {
         "tag": "#8YRY8890J",
@@ -656,6 +680,16 @@
         "name": "ESCOBAR_35",
         "townhallLevel": 11,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#LQVRPY0JY",
+            "defenderTag": "#G2QCUJ988",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 50,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G2QCUJ988",
@@ -671,6 +705,16 @@
         "name": "meymun",
         "townhallLevel": 13,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#PVGLQCY8Y",
+            "defenderTag": "#Q0C80PJ8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -725,6 +769,16 @@
         "name": "EsCoBaR",
         "townhallLevel": 13,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#8YYPVRQ9L",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 49,
+            "duration": 142
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -1045,6 +1099,14 @@
             "destructionPercentage": 100,
             "order": 27,
             "duration": 105
+          },
+          {
+            "attackerTag": "#QRY8VJ9R0",
+            "defenderTag": "#YRP99RVQR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 130
           }
         ],
         "opponentAttacks": 0
@@ -1069,6 +1131,24 @@
         "name": "pygamov",
         "townhallLevel": 13,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#82L8R2YGC",
+            "defenderTag": "#LPGGPVPRP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 142
+          },
+          {
+            "attackerTag": "#82L8R2YGC",
+            "defenderTag": "#Q0C80PJ8U",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 46,
+            "duration": 174
+          }
+        ],
         "opponentAttacks": 0
       },
       {
