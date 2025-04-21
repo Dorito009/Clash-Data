@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 4,
-    "stars": 11,
-    "destructionPercentage": 12.766666,
+    "attacks": 7,
+    "stars": 17,
+    "destructionPercentage": 19.433332,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -111,7 +111,15 @@
             "duration": 112
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9LJLL8L08",
+          "defenderTag": "#R8JJQPUR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 91
+        }
       },
       {
         "tag": "#8LYGCV8LY",
@@ -209,6 +217,16 @@
         "name": "BooTyler",
         "townhallLevel": 11,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#G2QCUJ988",
+            "defenderTag": "#LQVRPY0JY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 96
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -231,13 +249,39 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 27,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PJRY8CJ0U",
+          "defenderTag": "#QY2PCRLPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 136
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#G0CVLUCV0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#P2JYYLG2Y",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 9,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -286,9 +330,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png"
     },
     "clanLevel": 12,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 3.3333333,
+    "attacks": 3,
+    "stars": 9,
+    "destructionPercentage": 10.0,
     "members": [
       {
         "tag": "#8YRY8890J",
@@ -316,7 +360,15 @@
         "name": "ESCOBAR_35",
         "townhallLevel": 11,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2QCUJ988",
+          "defenderTag": "#LQVRPY0JY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 96
+        }
       },
       {
         "tag": "#PVGLQCY8Y",
@@ -387,6 +439,16 @@
         "name": "SuBZeRo",
         "townhallLevel": 12,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#9LJLL8L08",
+            "defenderTag": "#R8JJQPUR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 10,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#R8JJQPUR",
@@ -462,7 +524,7 @@
         "name": "M\u00fccahitDan\u0131san",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#L8JPLYYLJ",
           "defenderTag": "#P2JYYLG2Y",
@@ -498,7 +560,15 @@
         "name": "kral",
         "townhallLevel": 13,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y8LVCLUP2",
+          "defenderTag": "#G0CVLUCV0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 101
+        }
       },
       {
         "tag": "#QRY8VJ9R0",
@@ -540,6 +610,16 @@
         "name": "AL\u0130AKBER",
         "townhallLevel": 12,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#PJRY8CJ0U",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 136
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
