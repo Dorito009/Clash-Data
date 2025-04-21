@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 21,
-    "stars": 48,
-    "destructionPercentage": 54.4,
+    "attacks": 26,
+    "stars": 56,
+    "destructionPercentage": 65.2,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -144,6 +144,24 @@
         "name": "mazwad",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#PGVLY092V",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 56,
+            "duration": 122
+          },
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#LP0VL2GJG",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 57,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -313,7 +331,7 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 19,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PGVLY092V",
           "defenderTag": "#Q0RUPY9YP",
@@ -361,6 +379,14 @@
             "destructionPercentage": 100,
             "order": 31,
             "duration": 130
+          },
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#QGGG0GRUR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 108
           }
         ],
         "opponentAttacks": 2,
@@ -403,6 +429,16 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#QR8PL29P0",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 58,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YRCLLP0R9",
@@ -453,7 +489,7 @@
             "duration": 96
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LQVRPY0JY",
           "defenderTag": "#G2QCUJ988",
@@ -541,6 +577,16 @@
         "name": "FabianBawz",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#92GU8QCGY",
+            "stars": 1,
+            "destructionPercentage": 62,
+            "order": 54,
+            "duration": 131
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8YYPVRQ9L",
@@ -634,7 +680,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png"
     },
     "clanLevel": 12,
-    "attacks": 30,
+    "attacks": 32,
     "stars": 64,
     "destructionPercentage": 76.63333,
     "members": [
@@ -650,7 +696,15 @@
         "name": "MEKAN38EY\u00dcP",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#92GU8QCGY",
+          "stars": 1,
+          "destructionPercentage": 62,
+          "order": 54,
+          "duration": 131
+        }
       },
       {
         "tag": "#YQ9RVCJRC",
@@ -740,6 +794,24 @@
         "name": "doctor who",
         "townhallLevel": 11,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#GGJ0CL9PJ",
+            "defenderTag": "#G2QCUJ988",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 52,
+            "duration": 159
+          },
+          {
+            "attackerTag": "#GGJ0CL9PJ",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 2,
+            "destructionPercentage": 51,
+            "order": 53,
+            "duration": 92
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q0C80PJ8U",
@@ -852,7 +924,15 @@
         "name": "comoloki",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRUGPLRPG",
+          "defenderTag": "#QR8PL29P0",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 58,
+          "duration": 160
+        }
       },
       {
         "tag": "#9LJLL8L08",
@@ -891,7 +971,15 @@
         "name": "Emirhan",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#LP0VL2GJG",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 57,
+          "duration": 180
+        }
       },
       {
         "tag": "#VYJY29LY",
@@ -1044,7 +1132,15 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#PGVLY092V",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 56,
+          "duration": 122
+        }
       },
       {
         "tag": "#YRCLLP0R9",
@@ -1134,14 +1230,14 @@
         "name": "TRFuRKaN",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#9CCVPU9RU",
+          "attackerTag": "#PP9R8LJGG",
           "defenderTag": "#QGGG0GRUR",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 44,
-          "duration": 132
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 108
         }
       },
       {
