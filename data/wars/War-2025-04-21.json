@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 20,
-    "stars": 46,
-    "destructionPercentage": 51.666668,
+    "attacks": 21,
+    "stars": 48,
+    "destructionPercentage": 54.4,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -198,6 +198,16 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 12,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#PVGLQCY8Y",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 51,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QRY8VJ9R0",
@@ -715,7 +725,15 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP99RVQR",
+          "defenderTag": "#PVGLQCY8Y",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 51,
+          "duration": 130
+        }
       },
       {
         "tag": "#GGJ0CL9PJ",
