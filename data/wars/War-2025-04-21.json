@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 27,
-    "stars": 58,
-    "destructionPercentage": 66.46667,
+    "attacks": 29,
+    "stars": 61,
+    "destructionPercentage": 70.4,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -129,6 +129,24 @@
         "name": "Donjenso",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#YRCLLP0R9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 98
+          },
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#QR8PL29P0",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 65,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YRCLLP0R9",
@@ -950,14 +968,14 @@
             "duration": 130
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PRUGPLRPG",
+          "attackerTag": "#GQYQ92VLL",
           "defenderTag": "#QR8PL29P0",
           "stars": 2,
-          "destructionPercentage": 75,
-          "order": 58,
-          "duration": 160
+          "destructionPercentage": 93,
+          "order": 65,
+          "duration": 134
         }
       },
       {
@@ -1209,7 +1227,15 @@
             "duration": 147
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQYQ92VLL",
+          "defenderTag": "#YRCLLP0R9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 98
+        }
       },
       {
         "tag": "#G0CVLUCV0",
