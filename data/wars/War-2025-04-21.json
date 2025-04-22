@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 29,
-    "stars": 61,
-    "destructionPercentage": 70.4,
+    "attacks": 30,
+    "stars": 63,
+    "destructionPercentage": 73.433334,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -188,7 +188,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QGGG0GRUR",
+          "defenderTag": "#QCYRRPR8Q",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 70,
+          "duration": 178
+        }
       },
       {
         "tag": "#RJJGCV0P",
@@ -220,7 +228,15 @@
         "name": "the legend",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8YRY8890J",
+          "defenderTag": "#8LVPC980P",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 72,
+          "duration": 138
+        }
       },
       {
         "tag": "#VPQYGC0J",
@@ -325,7 +341,15 @@
             "duration": 100
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P2JYYLG2Y",
+          "defenderTag": "#L8JPLYYLJ",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 71,
+          "duration": 147
+        }
       },
       {
         "tag": "#LPGGPVPRP",
@@ -611,16 +635,24 @@
             "destructionPercentage": 62,
             "order": 54,
             "duration": 131
+          },
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#QL0JCPPUG",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 74,
+            "duration": 178
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#8YYPVRQ9L",
+          "attackerTag": "#9LJLL8L08",
           "defenderTag": "#LJ2J8QRPJ",
-          "stars": 2,
-          "destructionPercentage": 83,
-          "order": 49,
-          "duration": 142
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 76,
+          "duration": 124
         }
       },
       {
@@ -661,14 +693,14 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#Q9V2UVYCP",
+          "attackerTag": "#8YRY8890J",
           "defenderTag": "#9CCVPU9RU",
-          "stars": 1,
-          "destructionPercentage": 52,
-          "order": 69,
-          "duration": 83
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 75,
+          "duration": 166
         }
       },
       {
@@ -730,15 +762,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png"
     },
     "clanLevel": 12,
-    "attacks": 40,
-    "stars": 72,
-    "destructionPercentage": 83.5,
+    "attacks": 46,
+    "stars": 80,
+    "destructionPercentage": 93.5,
     "members": [
       {
         "tag": "#8YRY8890J",
         "name": "EROS TR",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#8YRY8890J",
+            "defenderTag": "#8LVPC980P",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 72,
+            "duration": 138
+          },
+          {
+            "attackerTag": "#8YRY8890J",
+            "defenderTag": "#9CCVPU9RU",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 75,
+            "duration": 166
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -903,7 +953,15 @@
             "duration": 96
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#QL0JCPPUG",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 74,
+          "duration": 178
+        }
       },
       {
         "tag": "#G0YLG8QPU",
@@ -1031,6 +1089,14 @@
             "destructionPercentage": 100,
             "order": 10,
             "duration": 91
+          },
+          {
+            "attackerTag": "#9LJLL8L08",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 76,
+            "duration": 124
           }
         ],
         "opponentAttacks": 1,
@@ -1194,6 +1260,24 @@
         "name": "M\u00fccahitDan\u0131san",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#P2JYYLG2Y",
+            "defenderTag": "#L8JPLYYLJ",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 71,
+            "duration": 147
+          },
+          {
+            "attackerTag": "#P2JYYLG2Y",
+            "defenderTag": "#9CCVPU9RU",
+            "stars": 1,
+            "destructionPercentage": 61,
+            "order": 73,
+            "duration": 124
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#8PV2Y0JPV",
@@ -1358,6 +1442,16 @@
         "name": "TRFuRKaN",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QGGG0GRUR",
+            "defenderTag": "#QCYRRPR8Q",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 70,
+            "duration": 178
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#PP9R8LJGG",
