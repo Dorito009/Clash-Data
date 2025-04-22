@@ -668,14 +668,14 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q9V2UVYCP",
+          "attackerTag": "#J2LGGVGU",
           "defenderTag": "#UVPQ9Y8U",
-          "stars": 2,
-          "destructionPercentage": 66,
-          "order": 68,
-          "duration": 64
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 79,
+          "duration": 166
         }
       },
       {
@@ -701,14 +701,14 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#8YRY8890J",
+          "attackerTag": "#J2LGGVGU",
           "defenderTag": "#9CCVPU9RU",
           "stars": 2,
-          "destructionPercentage": 74,
-          "order": 75,
-          "duration": 166
+          "destructionPercentage": 82,
+          "order": 80,
+          "duration": 100
         }
       },
       {
@@ -770,9 +770,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png"
     },
     "clanLevel": 12,
-    "attacks": 47,
-    "stars": 80,
-    "destructionPercentage": 94.066666,
+    "attacks": 49,
+    "stars": 81,
+    "destructionPercentage": 95.46667,
     "members": [
       {
         "tag": "#8YRY8890J",
@@ -1228,6 +1228,24 @@
         "name": "Melih",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#J2LGGVGU",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 79,
+            "duration": 166
+          },
+          {
+            "attackerTag": "#J2LGGVGU",
+            "defenderTag": "#9CCVPU9RU",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 80,
+            "duration": 100
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L8JPLYYLJ",
