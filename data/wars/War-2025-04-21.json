@@ -122,7 +122,15 @@
         "name": "FlorisDeJong",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8YYPVRQ9L",
+          "defenderTag": "#L0V8VCPY9",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 66,
+          "duration": 129
+        }
       },
       {
         "tag": "#GQYQ92VLL",
@@ -605,7 +613,7 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#8YYPVRQ9L",
           "defenderTag": "#LJ2J8QRPJ",
@@ -620,7 +628,15 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9V2UVYCP",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 68,
+          "duration": 64
+        }
       },
       {
         "tag": "#9CCVPU9RU",
@@ -645,7 +661,15 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9V2UVYCP",
+          "defenderTag": "#9CCVPU9RU",
+          "stars": 1,
+          "destructionPercentage": 52,
+          "order": 69,
+          "duration": 83
+        }
       },
       {
         "tag": "#8PV2Y0JPV",
@@ -706,9 +730,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png"
     },
     "clanLevel": 12,
-    "attacks": 36,
-    "stars": 67,
-    "destructionPercentage": 77.2,
+    "attacks": 40,
+    "stars": 72,
+    "destructionPercentage": 83.5,
     "members": [
       {
         "tag": "#8YRY8890J",
@@ -803,6 +827,14 @@
             "destructionPercentage": 100,
             "order": 48,
             "duration": 128
+          },
+          {
+            "attackerTag": "#PVGLQCY8Y",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 1,
+            "destructionPercentage": 67,
+            "order": 67,
+            "duration": 102
           }
         ],
         "opponentAttacks": 1,
@@ -893,6 +925,14 @@
             "destructionPercentage": 83,
             "order": 49,
             "duration": 142
+          },
+          {
+            "attackerTag": "#8YYPVRQ9L",
+            "defenderTag": "#L0V8VCPY9",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 66,
+            "duration": 129
           }
         ],
         "opponentAttacks": 0
@@ -1008,6 +1048,24 @@
         "name": "HASANTC63",
         "townhallLevel": 13,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#Q9V2UVYCP",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 68,
+            "duration": 64
+          },
+          {
+            "attackerTag": "#Q9V2UVYCP",
+            "defenderTag": "#9CCVPU9RU",
+            "stars": 1,
+            "destructionPercentage": 52,
+            "order": 69,
+            "duration": 83
+          }
+        ],
         "opponentAttacks": 0
       },
       {
