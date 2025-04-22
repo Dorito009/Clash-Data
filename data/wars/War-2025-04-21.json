@@ -1,5 +1,5 @@
 {
-  "state": "inWar",
+  "state": "warEnded",
   "teamSize": 30,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 36,
-    "stars": 76,
-    "destructionPercentage": 89.13333,
+    "attacks": 42,
+    "stars": 82,
+    "destructionPercentage": 96.36667,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -105,6 +105,14 @@
             "destructionPercentage": 100,
             "order": 11,
             "duration": 125
+          },
+          {
+            "attackerTag": "#8CJ0CVV2Q",
+            "defenderTag": "#G0YLG8QPU",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 86,
+            "duration": 93
           }
         ],
         "opponentAttacks": 1,
@@ -324,6 +332,24 @@
         "name": "Florimannn",
         "townhallLevel": 13,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#8YYPVRQ9L",
+            "stars": 1,
+            "destructionPercentage": 41,
+            "order": 90,
+            "duration": 84
+          },
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#QR8PL29P0",
+            "stars": 0,
+            "destructionPercentage": 35,
+            "order": 91,
+            "duration": 71
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QRY8VJ9R0",
@@ -529,6 +555,14 @@
             "destructionPercentage": 75,
             "order": 58,
             "duration": 160
+          },
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#QRY8VJ9R0",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 88,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -710,6 +744,24 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#G0YLG8QPU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 87,
+            "duration": 73
+          },
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#PVGLQCY8Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 89,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#J2LGGVGU",
@@ -945,14 +997,14 @@
             "duration": 102
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#YRP99RVQR",
+          "attackerTag": "#UVPQ9Y8U",
           "defenderTag": "#PVGLQCY8Y",
-          "stars": 2,
-          "destructionPercentage": 82,
-          "order": 51,
-          "duration": 130
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 89,
+          "duration": 107
         }
       },
       {
@@ -1026,7 +1078,15 @@
         "name": "B F F Aliss",
         "townhallLevel": 13,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#G0YLG8QPU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 87,
+          "duration": 73
+        }
       },
       {
         "tag": "#8YYPVRQ9L",
@@ -1051,7 +1111,7 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q0RUPY9YP",
           "defenderTag": "#8YYPVRQ9L",
@@ -1132,7 +1192,7 @@
             "duration": 130
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#GQYQ92VLL",
           "defenderTag": "#QR8PL29P0",
@@ -1543,7 +1603,15 @@
             "duration": 130
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRUGPLRPG",
+          "defenderTag": "#QRY8VJ9R0",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 88,
+          "duration": 180
+        }
       },
       {
         "tag": "#QGGG0GRUR",
