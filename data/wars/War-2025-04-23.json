@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 11,
-    "stars": 27,
-    "destructionPercentage": 36.0,
+    "attacks": 12,
+    "stars": 30,
+    "destructionPercentage": 40.0,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -180,6 +180,16 @@
         "name": "Joran Bawz",
         "townhallLevel": 12,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#LPGGPVPRP",
+            "defenderTag": "#PYLYG90YJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G99UPU2U",
@@ -795,7 +805,15 @@
         "name": "Chaeyoung",
         "townhallLevel": 12,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LPGGPVPRP",
+          "defenderTag": "#PYLYG90YJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 91
+        }
       },
       {
         "tag": "#QCQ2UG9QU",
