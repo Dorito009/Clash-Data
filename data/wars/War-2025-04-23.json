@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 12,
-    "stars": 30,
-    "destructionPercentage": 40.0,
+    "attacks": 15,
+    "stars": 36,
+    "destructionPercentage": 50.6,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -63,6 +63,16 @@
         "name": "Senna0412_",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8CJ0CVV2Q",
+            "defenderTag": "#QJR8VLQVU",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 28,
+            "duration": 129
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -100,6 +110,16 @@
         "name": "JortGVA",
         "townhallLevel": 14,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#RJJGCV0P",
+            "defenderTag": "#G8GCJ8PRV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 29,
+            "duration": 84
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#882L99JRG",
@@ -323,6 +343,16 @@
         "name": "warrior",
         "townhallLevel": 14,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#PCP89Q20Q",
+            "defenderTag": "#98Y0GPGQJ",
+            "stars": 1,
+            "destructionPercentage": 85,
+            "order": 30,
+            "duration": 77
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -598,7 +628,15 @@
         "name": "AARON NG CR7 3",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PCP89Q20Q",
+          "defenderTag": "#98Y0GPGQJ",
+          "stars": 1,
+          "destructionPercentage": 85,
+          "order": 30,
+          "duration": 77
+        }
       },
       {
         "tag": "#Q88YV88RG",
@@ -737,7 +775,15 @@
         "name": "Bang Zall",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8CJ0CVV2Q",
+          "defenderTag": "#QJR8VLQVU",
+          "stars": 2,
+          "destructionPercentage": 80,
+          "order": 28,
+          "duration": 129
+        }
       },
       {
         "tag": "#G2P9VQU88",
@@ -791,7 +837,15 @@
         "name": "VAN DAMME",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RJJGCV0P",
+          "defenderTag": "#G8GCJ8PRV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "duration": 84
+        }
       },
       {
         "tag": "#Q9Q899Y8J",
