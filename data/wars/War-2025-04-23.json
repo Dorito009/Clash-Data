@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 6.52,
+    "attacks": 4,
+    "stars": 11,
+    "destructionPercentage": 14.52,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -52,7 +52,15 @@
         "name": "Donjenso",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCC9CV8VY",
+          "defenderTag": "#GQYQ92VLL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 176
+        }
       },
       {
         "tag": "#QCYRRPR8Q",
@@ -80,6 +88,16 @@
         "name": "Matsie04T",
         "townhallLevel": 12,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#R8JJQPUR",
+            "defenderTag": "#QYJJLUUYP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 80
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G8Q999GL9",
@@ -171,6 +189,16 @@
         "name": "BooTyler",
         "townhallLevel": 11,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#G2QCUJ988",
+            "defenderTag": "#GUQQC8U0J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 65
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -233,9 +261,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/S0wK5HbPcj_3vX9bN9gsPWna_xq2j_U_EUezLGa6bjw.png"
     },
     "clanLevel": 10,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 4.0,
+    "attacks": 2,
+    "stars": 6,
+    "destructionPercentage": 8.0,
     "members": [
       {
         "tag": "#882L99JRG",
@@ -299,6 +327,16 @@
         "name": "turu",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QCC9CV8VY",
+            "defenderTag": "#GQYQ92VLL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 176
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -359,14 +397,30 @@
         "name": "Anomali 002",
         "townhallLevel": 11,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#R8JJQPUR",
+          "defenderTag": "#QYJJLUUYP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 80
+        }
       },
       {
         "tag": "#GUQQC8U0J",
         "name": "BELLA",
         "townhallLevel": 9,
         "mapPosition": 25,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2QCUJ988",
+          "defenderTag": "#GUQQC8U0J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 65
+        }
       },
       {
         "tag": "#QVP0Q0U2V",
