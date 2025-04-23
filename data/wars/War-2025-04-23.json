@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 4,
-    "stars": 11,
-    "destructionPercentage": 14.52,
+    "attacks": 7,
+    "stars": 20,
+    "destructionPercentage": 26.52,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -31,6 +31,16 @@
         "name": "thijmen",
         "townhallLevel": 12,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#88GVYL9VQ",
+            "defenderTag": "#2RJJPUPLG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 10,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -137,7 +147,25 @@
         "name": "Sergen",
         "townhallLevel": 12,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#2J0VC292U",
+            "defenderTag": "#G99UPU2U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 128
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PCV9LCGQ2",
+          "defenderTag": "#2J0VC292U",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 7,
+          "duration": 180
+        }
       },
       {
         "tag": "#Q0RUPY9YP",
@@ -241,6 +269,16 @@
         "name": "Bassie",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9CCVPU9RU",
+            "defenderTag": "#QVP0Q0U2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 87
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -261,9 +299,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/S0wK5HbPcj_3vX9bN9gsPWna_xq2j_U_EUezLGa6bjw.png"
     },
     "clanLevel": 10,
-    "attacks": 2,
-    "stars": 6,
-    "destructionPercentage": 8.0,
+    "attacks": 3,
+    "stars": 8,
+    "destructionPercentage": 11.92,
     "members": [
       {
         "tag": "#882L99JRG",
@@ -299,7 +337,15 @@
         "name": "khifdi",
         "townhallLevel": 13,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88GVYL9VQ",
+          "defenderTag": "#2RJJPUPLG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 91
+        }
       },
       {
         "tag": "#28VG9Y8R9",
@@ -320,6 +366,16 @@
         "name": "\u2122Slayer`\u221a",
         "townhallLevel": 12,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#PCV9LCGQ2",
+            "defenderTag": "#2J0VC292U",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 7,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -427,7 +483,15 @@
         "name": "FAMA",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9CCVPU9RU",
+          "defenderTag": "#QVP0Q0U2V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 87
+        }
       },
       {
         "tag": "#GGRCG9898",
@@ -455,7 +519,15 @@
         "name": "LV.62 ICH1",
         "townhallLevel": 12,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2J0VC292U",
+          "defenderTag": "#G99UPU2U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 128
+        }
       },
       {
         "tag": "#8QRJJ98GC",
