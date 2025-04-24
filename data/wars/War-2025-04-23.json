@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 33,
+    "attacks": 34,
     "stars": 66,
-    "destructionPercentage": 90.64,
+    "destructionPercentage": 91.32,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -638,6 +638,14 @@
             "destructionPercentage": 68,
             "order": 19,
             "duration": 108
+          },
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#QJR8VLQVU",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 65,
+            "duration": 146
           }
         ],
         "opponentAttacks": 1,
@@ -1183,14 +1191,14 @@
         "name": "Bang Zall",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8CJ0CVV2Q",
+          "attackerTag": "#UVPQ9Y8U",
           "defenderTag": "#QJR8VLQVU",
           "stars": 2,
-          "destructionPercentage": 80,
-          "order": 28,
-          "duration": 129
+          "destructionPercentage": 97,
+          "order": 65,
+          "duration": 146
         }
       },
       {
