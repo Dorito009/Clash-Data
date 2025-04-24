@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 30,
-    "stars": 62,
-    "destructionPercentage": 88.64,
+    "attacks": 32,
+    "stars": 65,
+    "destructionPercentage": 89.96,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -368,6 +368,14 @@
             "destructionPercentage": 100,
             "order": 50,
             "duration": 102
+          },
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#2C028PJ2Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 59,
+            "duration": 84
           }
         ],
         "opponentAttacks": 1,
@@ -425,6 +433,16 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#8VU8PYY82",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QCC9CV8VY",
@@ -531,7 +549,15 @@
             "duration": 125
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QU9Q88UQL",
+          "defenderTag": "#PCP89Q20Q",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 60,
+          "duration": 112
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -675,9 +701,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/S0wK5HbPcj_3vX9bN9gsPWna_xq2j_U_EUezLGa6bjw.png"
     },
     "clanLevel": 10,
-    "attacks": 28,
-    "stars": 67,
-    "destructionPercentage": 91.72,
+    "attacks": 29,
+    "stars": 69,
+    "destructionPercentage": 94.84,
     "members": [
       {
         "tag": "#882L99JRG",
@@ -725,6 +751,14 @@
             "destructionPercentage": 100,
             "order": 44,
             "duration": 123
+          },
+          {
+            "attackerTag": "#QU9Q88UQL",
+            "defenderTag": "#PCP89Q20Q",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 60,
+            "duration": 112
           }
         ],
         "opponentAttacks": 0
@@ -734,14 +768,14 @@
         "name": "jpproos",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2Y8Q09V09",
+          "attackerTag": "#PRUGPLRPG",
           "defenderTag": "#8VU8PYY82",
-          "stars": 1,
-          "destructionPercentage": 96,
-          "order": 54,
-          "duration": 144
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 130
         }
       },
       {
@@ -833,14 +867,14 @@
             "duration": 107
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#LPGGPVPRP",
+          "attackerTag": "#Q0RUPY9YP",
           "defenderTag": "#2C028PJ2Q",
-          "stars": 2,
-          "destructionPercentage": 71,
-          "order": 51,
-          "duration": 98
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 59,
+          "duration": 84
         }
       },
       {
