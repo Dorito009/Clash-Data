@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 23,
-    "stars": 54,
-    "destructionPercentage": 76.88,
+    "attacks": 26,
+    "stars": 58,
+    "destructionPercentage": 80.8,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -228,6 +228,14 @@
             "destructionPercentage": 100,
             "order": 4,
             "duration": 80
+          },
+          {
+            "attackerTag": "#R8JJQPUR",
+            "defenderTag": "#Q9Q899Y8J",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 49,
+            "duration": 116
           }
         ],
         "opponentAttacks": 1,
@@ -278,6 +286,14 @@
             "destructionPercentage": 100,
             "order": 27,
             "duration": 91
+          },
+          {
+            "attackerTag": "#LPGGPVPRP",
+            "defenderTag": "#2C028PJ2Q",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 51,
+            "duration": 98
           }
         ],
         "opponentAttacks": 1,
@@ -328,6 +344,16 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#G8Q999GL9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 102
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QCQ2UG9QU",
@@ -749,14 +775,14 @@
             "duration": 107
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YRP99RVQR",
+          "attackerTag": "#LPGGPVPRP",
           "defenderTag": "#2C028PJ2Q",
-          "stars": 1,
-          "destructionPercentage": 73,
-          "order": 48,
-          "duration": 118
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 51,
+          "duration": 98
         }
       },
       {
@@ -905,7 +931,15 @@
             "duration": 110
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0RUPY9YP",
+          "defenderTag": "#G8Q999GL9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 102
+        }
       },
       {
         "tag": "#Q8VV2QUY8",
@@ -1110,7 +1144,7 @@
         "name": "IBAYOLOOO",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YRP99RVQR",
           "defenderTag": "#Q9Q899Y8J",
