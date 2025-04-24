@@ -15,16 +15,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 29,
-    "stars": 60,
-    "destructionPercentage": 87.88,
+    "attacks": 30,
+    "stars": 62,
+    "destructionPercentage": 88.64,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
         "name": "_ Shadow_",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PCV9LCGQ2",
+          "defenderTag": "#LQ9C2LPUC",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 58,
+          "duration": 153
+        }
       },
       {
         "tag": "#88GVYL9VQ",
@@ -513,6 +521,14 @@
             "destructionPercentage": 85,
             "order": 30,
             "duration": 77
+          },
+          {
+            "attackerTag": "#PCP89Q20Q",
+            "defenderTag": "#Q88YV88RG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 57,
+            "duration": 125
           }
         ],
         "opponentAttacks": 0
@@ -659,9 +675,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/S0wK5HbPcj_3vX9bN9gsPWna_xq2j_U_EUezLGa6bjw.png"
     },
     "clanLevel": 10,
-    "attacks": 27,
-    "stars": 65,
-    "destructionPercentage": 88.64,
+    "attacks": 28,
+    "stars": 67,
+    "destructionPercentage": 91.72,
     "members": [
       {
         "tag": "#882L99JRG",
@@ -840,6 +856,14 @@
             "destructionPercentage": 98,
             "order": 7,
             "duration": 180
+          },
+          {
+            "attackerTag": "#PCV9LCGQ2",
+            "defenderTag": "#LQ9C2LPUC",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 58,
+            "duration": 153
           }
         ],
         "opponentAttacks": 1,
@@ -923,14 +947,14 @@
             "duration": 87
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2Y8Q09V09",
+          "attackerTag": "#PCP89Q20Q",
           "defenderTag": "#Q88YV88RG",
-          "stars": 1,
-          "destructionPercentage": 81,
-          "order": 53,
-          "duration": 162
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 57,
+          "duration": 125
         }
       },
       {
