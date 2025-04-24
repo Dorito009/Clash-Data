@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 15,
-    "stars": 36,
-    "destructionPercentage": 50.6,
+    "attacks": 18,
+    "stars": 44,
+    "destructionPercentage": 61.92,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -95,6 +95,24 @@
         "name": "mazwad",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#28VG9Y8R9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 32,
+            "duration": 97
+          },
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#8QRJJ98GC",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 33,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q9R0LV0V2",
@@ -233,6 +251,14 @@
             "destructionPercentage": 100,
             "order": 9,
             "duration": 128
+          },
+          {
+            "attackerTag": "#2J0VC292U",
+            "defenderTag": "#PCV9LCGQ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 34,
+            "duration": 149
           }
         ],
         "opponentAttacks": 2,
@@ -250,7 +276,15 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCQ2UG9QU",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 157
+        }
       },
       {
         "tag": "#929G9VQ0C",
@@ -385,7 +419,15 @@
         "name": "FabianBawz",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCQ2UG9QU",
+          "defenderTag": "#LJ2J8QRPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 129
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -442,7 +484,15 @@
         "name": "ropje",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G8GCJ8PRV",
+          "defenderTag": "#8PV2Y0JPV",
+          "stars": 1,
+          "destructionPercentage": 75,
+          "order": 31,
+          "duration": 60
+        }
       }
     ]
   },
@@ -455,9 +505,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/S0wK5HbPcj_3vX9bN9gsPWna_xq2j_U_EUezLGa6bjw.png"
     },
     "clanLevel": 10,
-    "attacks": 15,
-    "stars": 35,
-    "destructionPercentage": 48.32,
+    "attacks": 18,
+    "stars": 42,
+    "destructionPercentage": 59.32,
     "members": [
       {
         "tag": "#882L99JRG",
@@ -562,7 +612,15 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#28VG9Y8R9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "duration": 97
+        }
       },
       {
         "tag": "#2C028PJ2Q",
@@ -604,7 +662,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2J0VC292U",
+          "defenderTag": "#PCV9LCGQ2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 149
+        }
       },
       {
         "tag": "#QCC9CV8VY",
@@ -830,13 +896,31 @@
         "name": "MEMO CRISTIANS",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#8QRJJ98GC",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 33,
+          "duration": 118
+        }
       },
       {
         "tag": "#G8GCJ8PRV",
         "name": "VAN DAMME",
         "townhallLevel": 16,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#G8GCJ8PRV",
+            "defenderTag": "#8PV2Y0JPV",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 31,
+            "duration": 60
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#RJJGCV0P",
@@ -874,6 +958,24 @@
         "name": "dellody",
         "townhallLevel": 13,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#QCQ2UG9QU",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#QCQ2UG9QU",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
