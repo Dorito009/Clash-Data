@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 26,
-    "stars": 58,
-    "destructionPercentage": 80.8,
+    "attacks": 29,
+    "stars": 60,
+    "destructionPercentage": 87.88,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -39,6 +39,14 @@
             "destructionPercentage": 100,
             "order": 10,
             "duration": 91
+          },
+          {
+            "attackerTag": "#88GVYL9VQ",
+            "defenderTag": "#2C028PJ2Q",
+            "stars": 1,
+            "destructionPercentage": 78,
+            "order": 52,
+            "duration": 120
           }
         ],
         "opponentAttacks": 1,
@@ -464,6 +472,24 @@
         "name": "legendar\u00a5",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2Y8Q09V09",
+            "defenderTag": "#Q88YV88RG",
+            "stars": 1,
+            "destructionPercentage": 81,
+            "order": 53,
+            "duration": 162
+          },
+          {
+            "attackerTag": "#2Y8Q09V09",
+            "defenderTag": "#8VU8PYY82",
+            "stars": 1,
+            "destructionPercentage": 96,
+            "order": 54,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -684,7 +710,15 @@
         "name": "jpproos",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2Y8Q09V09",
+          "defenderTag": "#8VU8PYY82",
+          "stars": 1,
+          "destructionPercentage": 96,
+          "order": 54,
+          "duration": 144
+        }
       },
       {
         "tag": "#2RJJPUPLG",
@@ -775,7 +809,7 @@
             "duration": 107
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#LPGGPVPRP",
           "defenderTag": "#2C028PJ2Q",
@@ -881,7 +915,15 @@
             "duration": 87
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2Y8Q09V09",
+          "defenderTag": "#Q88YV88RG",
+          "stars": 1,
+          "destructionPercentage": 81,
+          "order": 53,
+          "duration": 162
+        }
       },
       {
         "tag": "#Q9R0LV0V2",
