@@ -15,23 +15,23 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 34,
-    "stars": 66,
-    "destructionPercentage": 91.32,
+    "attacks": 37,
+    "stars": 70,
+    "destructionPercentage": 95.44,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
         "name": "_ Shadow_",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#PCV9LCGQ2",
+          "attackerTag": "#98Y0GPGQJ",
           "defenderTag": "#LQ9C2LPUC",
-          "stars": 2,
-          "destructionPercentage": 77,
-          "order": 58,
-          "duration": 153
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 69,
+          "duration": 117
         }
       },
       {
@@ -186,6 +186,14 @@
             "destructionPercentage": 100,
             "order": 29,
             "duration": 84
+          },
+          {
+            "attackerTag": "#RJJGCV0P",
+            "defenderTag": "#QU9Q88UQL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 66,
+            "duration": 86
           }
         ],
         "opponentAttacks": 1,
@@ -489,6 +497,14 @@
             "destructionPercentage": 100,
             "order": 6,
             "duration": 65
+          },
+          {
+            "attackerTag": "#G2QCUJ988",
+            "defenderTag": "#Q9Q899Y8J",
+            "stars": 2,
+            "destructionPercentage": 50,
+            "order": 67,
+            "duration": 60
           }
         ],
         "opponentAttacks": 1,
@@ -557,14 +573,14 @@
             "duration": 125
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QU9Q88UQL",
+          "attackerTag": "#98Y0GPGQJ",
           "defenderTag": "#PCP89Q20Q",
           "stars": 2,
-          "destructionPercentage": 78,
-          "order": 60,
-          "duration": 112
+          "destructionPercentage": 82,
+          "order": 70,
+          "duration": 81
         }
       },
       {
@@ -613,6 +629,14 @@
             "destructionPercentage": 99,
             "order": 41,
             "duration": 180
+          },
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#QJR8VLQVU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 68,
+            "duration": 127
           }
         ],
         "opponentAttacks": 1,
@@ -717,9 +741,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/S0wK5HbPcj_3vX9bN9gsPWna_xq2j_U_EUezLGa6bjw.png"
     },
     "clanLevel": 10,
-    "attacks": 31,
-    "stars": 70,
-    "destructionPercentage": 95.16,
+    "attacks": 33,
+    "stars": 71,
+    "destructionPercentage": 96.24,
     "members": [
       {
         "tag": "#882L99JRG",
@@ -777,7 +801,15 @@
             "duration": 112
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RJJGCV0P",
+          "defenderTag": "#QU9Q88UQL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 66,
+          "duration": 86
+        }
       },
       {
         "tag": "#8VU8PYY82",
@@ -982,6 +1014,24 @@
         "name": "AARON NG CR7 3",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#98Y0GPGQJ",
+            "defenderTag": "#LQ9C2LPUC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 69,
+            "duration": 117
+          },
+          {
+            "attackerTag": "#98Y0GPGQJ",
+            "defenderTag": "#PCP89Q20Q",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 70,
+            "duration": 81
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GQYQ92VLL",
@@ -1191,14 +1241,14 @@
         "name": "Bang Zall",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#UVPQ9Y8U",
+          "attackerTag": "#LJ2J8QRPJ",
           "defenderTag": "#QJR8VLQVU",
-          "stars": 2,
-          "destructionPercentage": 97,
-          "order": 65,
-          "duration": 146
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 68,
+          "duration": 127
         }
       },
       {
@@ -1304,7 +1354,7 @@
         "name": "IBAYOLOOO",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#YRP99RVQR",
           "defenderTag": "#Q9Q899Y8J",
