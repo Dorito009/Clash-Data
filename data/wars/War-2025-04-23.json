@@ -15,16 +15,16 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 32,
-    "stars": 65,
-    "destructionPercentage": 89.96,
+    "attacks": 33,
+    "stars": 66,
+    "destructionPercentage": 90.64,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
         "name": "_ Shadow_",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PCV9LCGQ2",
           "defenderTag": "#LQ9C2LPUC",
@@ -416,6 +416,14 @@
             "destructionPercentage": 100,
             "order": 1,
             "duration": 140
+          },
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#8QRJJ98GC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 62,
+            "duration": 93
           }
         ],
         "opponentAttacks": 1,
@@ -582,14 +590,14 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q88YV88RG",
+          "attackerTag": "#8VU8PYY82",
           "defenderTag": "#Y8LVCLUP2",
-          "stars": 2,
-          "destructionPercentage": 92,
-          "order": 37,
-          "duration": 152
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 63,
+          "duration": 129
         }
       },
       {
@@ -701,9 +709,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/S0wK5HbPcj_3vX9bN9gsPWna_xq2j_U_EUezLGa6bjw.png"
     },
     "clanLevel": 10,
-    "attacks": 29,
-    "stars": 69,
-    "destructionPercentage": 94.84,
+    "attacks": 31,
+    "stars": 70,
+    "destructionPercentage": 95.16,
     "members": [
       {
         "tag": "#882L99JRG",
@@ -768,6 +776,24 @@
         "name": "jpproos",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#8VU8PYY82",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 63,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#8VU8PYY82",
+            "defenderTag": "#LQ9C2LPUC",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 64,
+            "duration": 105
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PRUGPLRPG",
@@ -1230,14 +1256,14 @@
         "name": "MEMO CRISTIANS",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QCYRRPR8Q",
+          "attackerTag": "#PP9R8LJGG",
           "defenderTag": "#8QRJJ98GC",
-          "stars": 2,
-          "destructionPercentage": 83,
-          "order": 33,
-          "duration": 118
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 62,
+          "duration": 93
         }
       },
       {
