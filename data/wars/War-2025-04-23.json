@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 18,
-    "stars": 44,
-    "destructionPercentage": 61.92,
+    "attacks": 19,
+    "stars": 46,
+    "destructionPercentage": 65.88,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -153,14 +153,14 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 12,
         "mapPosition": 21,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G99UPU2U",
+          "attackerTag": "#Q8VV2QUY8",
           "defenderTag": "#YRP99RVQR",
-          "stars": 1,
-          "destructionPercentage": 50,
-          "order": 26,
-          "duration": 124
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 115
         }
       },
       {
@@ -363,7 +363,15 @@
             "duration": 65
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q88YV88RG",
+          "defenderTag": "#G2QCUJ988",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 87
+        }
       },
       {
         "tag": "#2Y8Q09V09",
@@ -412,13 +420,31 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q88YV88RG",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 37,
+          "duration": 152
+        }
       },
       {
         "tag": "#LJ2J8QRPJ",
         "name": "FabianBawz",
         "townhallLevel": 13,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#QCQ2UG9QU",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 41,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QCQ2UG9QU",
@@ -444,7 +470,15 @@
             "duration": 108
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q8VV2QUY8",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 39,
+          "duration": 90
+        }
       },
       {
         "tag": "#9CCVPU9RU",
@@ -505,9 +539,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/S0wK5HbPcj_3vX9bN9gsPWna_xq2j_U_EUezLGa6bjw.png"
     },
     "clanLevel": 10,
-    "attacks": 18,
-    "stars": 42,
-    "destructionPercentage": 59.32,
+    "attacks": 22,
+    "stars": 51,
+    "destructionPercentage": 71.64,
     "members": [
       {
         "tag": "#882L99JRG",
@@ -709,6 +743,24 @@
         "name": "DIEL'BEN18",
         "townhallLevel": 13,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#Q88YV88RG",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 37,
+            "duration": 152
+          },
+          {
+            "attackerTag": "#Q88YV88RG",
+            "defenderTag": "#G2QCUJ988",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 87
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -766,6 +818,24 @@
         "name": "rindu berat",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Q8VV2QUY8",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 39,
+            "duration": 90
+          },
+          {
+            "attackerTag": "#Q8VV2QUY8",
+            "defenderTag": "#YRP99RVQR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 115
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9CCVPU9RU",
@@ -976,7 +1046,15 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#QCQ2UG9QU",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 41,
+          "duration": 180
+        }
       }
     ]
   }
