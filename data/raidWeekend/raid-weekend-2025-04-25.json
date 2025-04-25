@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250425T070000.000Z",
   "endTime": "20250428T070000.000Z",
-  "capitalTotalLoot": 219348,
-  "raidsCompleted": 2,
-  "totalAttacks": 62,
-  "enemyDistrictsDestroyed": 24,
+  "capitalTotalLoot": 272403,
+  "raidsCompleted": 3,
+  "totalAttacks": 78,
+  "enemyDistrictsDestroyed": 30,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -20,10 +20,10 @@
     {
       "tag": "#88JUGLUL",
       "name": "Jeroonie_xD",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 8856
+      "capitalResourcesLooted": 25903
     },
     {
       "tag": "#PYLY2LYGP",
@@ -104,6 +104,22 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 3947
+    },
+    {
+      "tag": "#PCP89Q20Q",
+      "name": "warrior",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14350
+    },
+    {
+      "tag": "#Y8LVCLUP2",
+      "name": "pro",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21658
     },
     {
       "tag": "#YLCRQLJY9",
@@ -742,6 +758,306 @@
               },
               "destructionPercent": 93,
               "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2GP8L22GC",
+        "name": "Pinoy@Pinay 2",
+        "level": 15,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/tmMG3klSuees1ubRCPruQMLkqwb7UoR9bLkNs17i0s4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/tmMG3klSuees1ubRCPruQMLkqwb7UoR9bLkNs17i0s4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/tmMG3klSuees1ubRCPruQMLkqwb7UoR9bLkNs17i0s4.png"
+        }
+      },
+      "attackCount": 23,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 12360,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 14,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9937,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8075,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9098,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9384,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 42,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8856,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 36,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9423,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQ9C2LPUC",
+                "name": "_ Shadow_"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQ9C2LPUC",
+                "name": "_ Shadow_"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LQ9C2LPUC",
+                "name": "_ Shadow_"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9349,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0RUPY9YP",
+                "name": "jermo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q0RUPY9YP",
+                "name": "jermo"
+              },
+              "destructionPercent": 84,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q0RUPY9YP",
+                "name": "jermo"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 1,
+          "totalLooted": 5390,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 100,
+              "stars": 3
             }
           ]
         }
