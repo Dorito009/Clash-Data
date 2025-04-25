@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250425T070000.000Z",
   "endTime": "20250428T070000.000Z",
-  "capitalTotalLoot": 309325,
-  "raidsCompleted": 4,
-  "totalAttacks": 92,
-  "enemyDistrictsDestroyed": 34,
+  "capitalTotalLoot": 350167,
+  "raidsCompleted": 5,
+  "totalAttacks": 103,
+  "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -48,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 22208
+    },
+    {
+      "tag": "#LJU2P9CL2",
+      "name": "FONDIE LIE",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24164
     },
     {
       "tag": "#GQYQ92VLL",
@@ -96,6 +104,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 17240
+    },
+    {
+      "tag": "#2J0VC292U",
+      "name": "Sergen",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16678
     },
     {
       "tag": "#Q0RUPY9YP",
@@ -1082,6 +1098,303 @@
               },
               "destructionPercent": 100,
               "stars": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#Q0UYRUQ2",
+        "name": "one piece..",
+        "level": 17,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/vCo_Vw1ri0jTXMdq6JJ9Cw_pbCnOLaulfzo7Irmj1nA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/vCo_Vw1ri0jTXMdq6JJ9Cw_pbCnOLaulfzo7Irmj1nA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/vCo_Vw1ri0jTXMdq6JJ9Cw_pbCnOLaulfzo7Irmj1nA.png"
+        }
+      },
+      "attackCount": 24,
+      "districtCount": 8,
+      "districtsDestroyed": 8,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 8,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 11248,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2J0VC292U",
+                "name": "Sergen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2J0VC292U",
+                "name": "Sergen"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2J0VC292U",
+                "name": "Sergen"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#RJJGCV0P",
+                "name": "JortGVA"
+              },
+              "destructionPercent": 35,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#RJJGCV0P",
+                "name": "JortGVA"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9292,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L8JPLYYLJ",
+                "name": "Mika5578"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L8JPLYYLJ",
+                "name": "Mika5578"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#L8JPLYYLJ",
+                "name": "Mika5578"
+              },
+              "destructionPercent": 27,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8802,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 9714,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L8JPLYYLJ",
+                "name": "Mika5578"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQ9C2LPUC",
+                "name": "_ Shadow_"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LQ9C2LPUC",
+                "name": "_ Shadow_"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LQ9C2LPUC",
+                "name": "_ Shadow_"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8827,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8220,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 41,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8474,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L8JPLYYLJ",
+                "name": "Mika5578"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L8JPLYYLJ",
+                "name": "Mika5578"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 32,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 7741,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 55,
+              "stars": 2
             }
           ]
         }
