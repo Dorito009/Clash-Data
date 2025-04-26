@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 12,
-    "stars": 26,
-    "destructionPercentage": 35.84,
+    "attacks": 13,
+    "stars": 28,
+    "destructionPercentage": 39.04,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -64,7 +64,15 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLP2RLQ20",
+          "defenderTag": "#88GVYL9VQ",
+          "stars": 1,
+          "destructionPercentage": 92,
+          "order": 37,
+          "duration": 140
+        }
       },
       {
         "tag": "#LJU2P9CL2",
@@ -160,7 +168,15 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y0YLRG2CQ",
+          "defenderTag": "#R8JJQPUR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 71
+        }
       },
       {
         "tag": "#L8JPLYYLJ",
@@ -343,7 +359,15 @@
         "name": "BooTyler",
         "townhallLevel": 11,
         "mapPosition": 25,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y0YLRG2CQ",
+          "defenderTag": "#G2QCUJ988",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "duration": 69
+        }
       },
       {
         "tag": "#2Y8Q09V09",
@@ -360,21 +384,29 @@
             "duration": 158
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L8C0YU0CV",
+          "defenderTag": "#2Y8Q09V09",
+          "stars": 1,
+          "destructionPercentage": 98,
+          "order": 35,
+          "duration": 156
+        }
       },
       {
         "tag": "#QY2PCRLPJ",
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 23,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PPL9Y8LUQ",
+          "attackerTag": "#L98L2UVQ8",
           "defenderTag": "#QY2PCRLPJ",
-          "stars": 1,
-          "destructionPercentage": 86,
-          "order": 23,
-          "duration": 135
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 92
         }
       },
       {
@@ -382,6 +414,16 @@
         "name": "warrior",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#PCP89Q20Q",
+            "defenderTag": "#P2LV8VQ9",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 34,
+            "duration": 123
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#P2LV8VQ9",
@@ -455,9 +497,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/trqizhUDGN9XUNX0dONBbdu8dYcYy5DwHbTxqFUeY7o.png"
     },
     "clanLevel": 16,
-    "attacks": 21,
-    "stars": 43,
-    "destructionPercentage": 65.32,
+    "attacks": 26,
+    "stars": 53,
+    "destructionPercentage": 81.48,
     "members": [
       {
         "tag": "#LVJJVULP9",
@@ -611,7 +653,15 @@
             "duration": 74
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PCP89Q20Q",
+          "defenderTag": "#P2LV8VQ9",
+          "stars": 2,
+          "destructionPercentage": 80,
+          "order": 34,
+          "duration": 123
+        }
       },
       {
         "tag": "#QL2VLRGR9",
@@ -746,6 +796,14 @@
             "destructionPercentage": 100,
             "order": 19,
             "duration": 145
+          },
+          {
+            "attackerTag": "#GLP2RLQ20",
+            "defenderTag": "#88GVYL9VQ",
+            "stars": 1,
+            "destructionPercentage": 92,
+            "order": 37,
+            "duration": 140
           }
         ],
         "opponentAttacks": 0
@@ -770,6 +828,24 @@
         "name": "Diego26",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Y0YLRG2CQ",
+            "defenderTag": "#R8JJQPUR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 71
+          },
+          {
+            "attackerTag": "#Y0YLRG2CQ",
+            "defenderTag": "#G2QCUJ988",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 39,
+            "duration": 69
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GQYQ92VLL",
@@ -802,6 +878,16 @@
         "name": "mirko",
         "townhallLevel": 12,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#L98L2UVQ8",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 92
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PVJQ8UYGU",
@@ -849,6 +935,16 @@
         "name": "\u26a1MH\u26a1",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#L8C0YU0CV",
+            "defenderTag": "#2Y8Q09V09",
+            "stars": 1,
+            "destructionPercentage": 98,
+            "order": 35,
+            "duration": 156
+          }
+        ],
         "opponentAttacks": 0
       },
       {
