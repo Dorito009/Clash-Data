@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 18,
-    "stars": 35,
-    "destructionPercentage": 52.12,
+    "attacks": 21,
+    "stars": 42,
+    "destructionPercentage": 60.16,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -114,7 +114,15 @@
         "name": "Senna0412_",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y900Q08J0",
+          "defenderTag": "#8CJ0CVV2Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 103
+        }
       },
       {
         "tag": "#GQYQ92VLL",
@@ -154,6 +162,24 @@
         "name": "mazwad",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#LC0LJRLJC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 91
+          },
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#L9J0GRJVP",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 48,
+            "duration": 155
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L9J0GRJVP",
@@ -308,7 +334,7 @@
             "duration": 112
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#LC0LJRLJC",
           "defenderTag": "#PP9R8LJGG",
@@ -474,6 +500,14 @@
             "destructionPercentage": 80,
             "order": 34,
             "duration": 123
+          },
+          {
+            "attackerTag": "#PCP89Q20Q",
+            "defenderTag": "#GLP2RLQ20",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 76
           }
         ],
         "opponentAttacks": 1,
@@ -521,7 +555,15 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YQCQ9P0UP",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 94
+        }
       },
       {
         "tag": "#L9CLYRR9Q",
@@ -549,9 +591,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/trqizhUDGN9XUNX0dONBbdu8dYcYy5DwHbTxqFUeY7o.png"
     },
     "clanLevel": 16,
-    "attacks": 28,
-    "stars": 57,
-    "destructionPercentage": 85.0,
+    "attacks": 31,
+    "stars": 63,
+    "destructionPercentage": 93.0,
     "members": [
       {
         "tag": "#LVJJVULP9",
@@ -598,6 +640,16 @@
         "name": "Marco118",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#Y900Q08J0",
+            "defenderTag": "#8CJ0CVV2Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 51,
+            "duration": 103
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L8JPLYYLJ",
@@ -631,7 +683,15 @@
             "duration": 162
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#LC0LJRLJC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 91
+        }
       },
       {
         "tag": "#Q9QGVGUG",
@@ -735,6 +795,24 @@
         "name": "Sam",
         "townhallLevel": 14,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#YQCQ9P0UP",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 1,
+            "destructionPercentage": 57,
+            "order": 49,
+            "duration": 80
+          },
+          {
+            "attackerTag": "#YQCQ9P0UP",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 94
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -874,14 +952,14 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LQ9C2LPUC",
+          "attackerTag": "#PCP89Q20Q",
           "defenderTag": "#GLP2RLQ20",
-          "stars": 1,
-          "destructionPercentage": 85,
-          "order": 44,
-          "duration": 139
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 76
         }
       },
       {
@@ -1064,7 +1142,15 @@
             "duration": 110
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#L9J0GRJVP",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 48,
+          "duration": 155
+        }
       },
       {
         "tag": "#PRJ0UUR2J",
