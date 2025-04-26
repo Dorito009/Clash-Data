@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 16,
-    "stars": 34,
-    "destructionPercentage": 50.36,
+    "attacks": 18,
+    "stars": 35,
+    "destructionPercentage": 52.12,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -242,6 +242,24 @@
         "name": "Sergen",
         "townhallLevel": 12,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#2J0VC292U",
+            "defenderTag": "#GLP2RLQ20",
+            "stars": 1,
+            "destructionPercentage": 66,
+            "order": 45,
+            "duration": 84
+          },
+          {
+            "attackerTag": "#2J0VC292U",
+            "defenderTag": "#PL9J0YV0",
+            "stars": 1,
+            "destructionPercentage": 44,
+            "order": 46,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PPL9Y8LUQ",
@@ -856,7 +874,7 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LQ9C2LPUC",
           "defenderTag": "#GLP2RLQ20",
@@ -971,7 +989,15 @@
             "duration": 69
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2J0VC292U",
+          "defenderTag": "#PL9J0YV0",
+          "stars": 1,
+          "destructionPercentage": 44,
+          "order": 46,
+          "duration": 86
+        }
       },
       {
         "tag": "#22QG20008",
