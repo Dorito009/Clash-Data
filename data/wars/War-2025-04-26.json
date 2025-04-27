@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 21,
-    "stars": 42,
-    "destructionPercentage": 60.16,
+    "attacks": 22,
+    "stars": 44,
+    "destructionPercentage": 64.08,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -82,7 +82,7 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#LY2C9QPUV",
           "defenderTag": "#88GVYL9VQ",
@@ -107,7 +107,15 @@
             "duration": 146
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRJ0UUR2J",
+          "defenderTag": "#LJU2P9CL2",
+          "stars": 1,
+          "destructionPercentage": 48,
+          "order": 54,
+          "duration": 95
+        }
       },
       {
         "tag": "#8CJ0CVV2Q",
@@ -286,14 +294,14 @@
             "duration": 86
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PPL9Y8LUQ",
+          "attackerTag": "#UQYQYY2V",
           "defenderTag": "#2J0VC292U",
-          "stars": 2,
-          "destructionPercentage": 81,
-          "order": 22,
-          "duration": 153
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 135
         }
       },
       {
@@ -540,14 +548,24 @@
         "name": "FabianBawz",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#22QG20008",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 57,
+            "duration": 180
+          }
+        ],
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#22QG20008",
+          "attackerTag": "#2C0J0UGP0",
           "defenderTag": "#LJ2J8QRPJ",
-          "stars": 1,
-          "destructionPercentage": 87,
-          "order": 9,
-          "duration": 145
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 56,
+          "duration": 180
         }
       },
       {
@@ -591,9 +609,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/trqizhUDGN9XUNX0dONBbdu8dYcYy5DwHbTxqFUeY7o.png"
     },
     "clanLevel": 16,
-    "attacks": 31,
-    "stars": 63,
-    "destructionPercentage": 93.0,
+    "attacks": 35,
+    "stars": 66,
+    "destructionPercentage": 96.04,
     "members": [
       {
         "tag": "#LVJJVULP9",
@@ -740,6 +758,24 @@
         "name": "Ciapakai",
         "townhallLevel": 13,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#UQYQYY2V",
+            "defenderTag": "#88GVYL9VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 53,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#UQYQYY2V",
+            "defenderTag": "#2J0VC292U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#88GVYL9VQ",
@@ -1023,6 +1059,14 @@
             "destructionPercentage": 100,
             "order": 16,
             "duration": 133
+          },
+          {
+            "attackerTag": "#2C0J0UGP0",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 56,
+            "duration": 180
           }
         ],
         "opponentAttacks": 0
@@ -1100,7 +1144,15 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#22QG20008",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 57,
+          "duration": 180
+        }
       },
       {
         "tag": "#L8C0YU0CV",
@@ -1157,6 +1209,16 @@
         "name": "luca",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PRJ0UUR2J",
+            "defenderTag": "#LJU2P9CL2",
+            "stars": 1,
+            "destructionPercentage": 48,
+            "order": 54,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 0
       },
       {
