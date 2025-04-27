@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 24,
-    "stars": 48,
-    "destructionPercentage": 69.64,
+    "attacks": 26,
+    "stars": 53,
+    "destructionPercentage": 75.68,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -203,6 +203,16 @@
         "name": "JortGVA",
         "townhallLevel": 14,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RJJGCV0P",
+            "defenderTag": "#YQCQ9P0UP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 63,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PL9J0YV0",
@@ -226,6 +236,14 @@
             "destructionPercentage": 100,
             "order": 1,
             "duration": 128
+          },
+          {
+            "attackerTag": "#R8JJQPUR",
+            "defenderTag": "#9JC80CPJQ",
+            "stars": 2,
+            "destructionPercentage": 51,
+            "order": 65,
+            "duration": 99
           }
         ],
         "opponentAttacks": 1,
@@ -478,14 +496,14 @@
             "duration": 158
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#L8C0YU0CV",
+          "attackerTag": "#PRJ0UUR2J",
           "defenderTag": "#2Y8Q09V09",
-          "stars": 1,
-          "destructionPercentage": 98,
-          "order": 35,
-          "duration": 156
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 64,
+          "duration": 155
         }
       },
       {
@@ -625,9 +643,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/trqizhUDGN9XUNX0dONBbdu8dYcYy5DwHbTxqFUeY7o.png"
     },
     "clanLevel": 16,
-    "attacks": 38,
-    "stars": 66,
-    "destructionPercentage": 96.84,
+    "attacks": 39,
+    "stars": 67,
+    "destructionPercentage": 96.52,
     "members": [
       {
         "tag": "#LVJJVULP9",
@@ -785,7 +803,15 @@
             "duration": 95
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#R8JJQPUR",
+          "defenderTag": "#9JC80CPJQ",
+          "stars": 2,
+          "destructionPercentage": 51,
+          "order": 65,
+          "duration": 99
+        }
       },
       {
         "tag": "#UQYQYY2V",
@@ -883,7 +909,15 @@
             "duration": 94
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RJJGCV0P",
+          "defenderTag": "#YQCQ9P0UP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 63,
+          "duration": 107
+        }
       },
       {
         "tag": "#YQC20G2Q",
@@ -1259,6 +1293,14 @@
             "destructionPercentage": 48,
             "order": 54,
             "duration": 95
+          },
+          {
+            "attackerTag": "#PRJ0UUR2J",
+            "defenderTag": "#2Y8Q09V09",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 64,
+            "duration": 155
           }
         ],
         "opponentAttacks": 1,
