@@ -107,14 +107,14 @@
             "duration": 146
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PRJ0UUR2J",
+          "attackerTag": "#R2LJ092J",
           "defenderTag": "#LJU2P9CL2",
           "stars": 1,
-          "destructionPercentage": 48,
-          "order": 54,
-          "duration": 95
+          "destructionPercentage": 68,
+          "order": 59,
+          "duration": 127
         }
       },
       {
@@ -470,7 +470,7 @@
             "duration": 158
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#L8C0YU0CV",
           "defenderTag": "#2Y8Q09V09",
@@ -533,7 +533,7 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#22QG20008",
           "defenderTag": "#Y8LVCLUP2",
@@ -609,9 +609,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/trqizhUDGN9XUNX0dONBbdu8dYcYy5DwHbTxqFUeY7o.png"
     },
     "clanLevel": 16,
-    "attacks": 35,
+    "attacks": 38,
     "stars": 66,
-    "destructionPercentage": 96.04,
+    "destructionPercentage": 96.84,
     "members": [
       {
         "tag": "#LVJJVULP9",
@@ -651,6 +651,24 @@
         "name": "\u015eurud",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#R2LJ092J",
+            "defenderTag": "#2Y8Q09V09",
+            "stars": 1,
+            "destructionPercentage": 93,
+            "order": 58,
+            "duration": 168
+          },
+          {
+            "attackerTag": "#R2LJ092J",
+            "defenderTag": "#LJU2P9CL2",
+            "stars": 1,
+            "destructionPercentage": 68,
+            "order": 59,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -1084,6 +1102,14 @@
             "destructionPercentage": 100,
             "order": 36,
             "duration": 92
+          },
+          {
+            "attackerTag": "#L98L2UVQ8",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 60,
+            "duration": 88
           }
         ],
         "opponentAttacks": 1,
