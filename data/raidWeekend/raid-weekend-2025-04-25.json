@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250425T070000.000Z",
   "endTime": "20250428T070000.000Z",
-  "capitalTotalLoot": 737565,
+  "capitalTotalLoot": 743695,
   "raidsCompleted": 11,
-  "totalAttacks": 221,
-  "enemyDistrictsDestroyed": 81,
+  "totalAttacks": 223,
+  "enemyDistrictsDestroyed": 82,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -84,10 +84,10 @@
     {
       "tag": "#QCYRRPR8Q",
       "name": "mazwad",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 7983
+      "capitalResourcesLooted": 14113
     },
     {
       "tag": "#2RG2JRVUP",
@@ -3381,6 +3381,314 @@
               },
               "destructionPercent": 100,
               "stars": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#9PCQJ9P8",
+        "name": "chamong 2",
+        "level": 16,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Le3iJ7fPlq6xMLLf6HFsAb0xJhOozVJC2yk-tODns2w.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Le3iJ7fPlq6xMLLf6HFsAb0xJhOozVJC2yk-tODns2w.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Le3iJ7fPlq6xMLLf6HFsAb0xJhOozVJC2yk-tODns2w.png"
+        }
+      },
+      "attackCount": 24,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11668,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0L92VGLJ",
+                "name": "Kxirito"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q0L92VGLJ",
+                "name": "Kxirito"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q0L92VGLJ",
+                "name": "Kxirito"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q0L92VGLJ",
+                "name": "Kxirito"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10670,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9PCYG8JP",
+                "name": "Frezz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYQLR88YU",
+                "name": "\u221a Airlangga 05\u2122"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GYQLR88YU",
+                "name": "\u221a Airlangga 05\u2122"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8633,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9PCYG8JP",
+                "name": "Frezz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9PCYG8JP",
+                "name": "Frezz"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GCG0L29LU",
+                "name": "JURAGAN DONASI"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8718,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GCG0L29LU",
+                "name": "JURAGAN DONASI"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GCG0L29LU",
+                "name": "JURAGAN DONASI"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GCG0L29LU",
+                "name": "JURAGAN DONASI"
+              },
+              "destructionPercent": 19,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8446,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLYY99U8V",
+                "name": "\u221a Airlangga"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLYY99U8V",
+                "name": "\u221a Airlangga"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8273,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9PCYG8JP",
+                "name": "Frezz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GCG0L29LU",
+                "name": "JURAGAN DONASI"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GCG0L29LU",
+                "name": "JURAGAN DONASI"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8669,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLYY99U8V",
+                "name": "\u221a Airlangga"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLYY99U8V",
+                "name": "\u221a Airlangga"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8894,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLYY99U8V",
+                "name": "\u221a Airlangga"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLYY99U8V",
+                "name": "\u221a Airlangga"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 5975,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0L92VGLJ",
+                "name": "Kxirito"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYQLR88YU",
+                "name": "\u221a Airlangga 05\u2122"
+              },
+              "destructionPercent": 82,
+              "stars": 2
             }
           ]
         }
