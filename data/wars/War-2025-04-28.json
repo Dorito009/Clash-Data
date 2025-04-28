@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 16,
-    "stars": 34,
-    "destructionPercentage": 78.6,
+    "attacks": 22,
+    "stars": 42,
+    "destructionPercentage": 97.666664,
     "members": [
       {
         "tag": "#8CJ0CVV2Q",
@@ -32,6 +32,14 @@
             "destructionPercentage": 60,
             "order": 13,
             "duration": 90
+          },
+          {
+            "attackerTag": "#8CJ0CVV2Q",
+            "defenderTag": "#YRJQ2Y0QY",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 19,
+            "duration": 127
           }
         ],
         "opponentAttacks": 0
@@ -48,6 +56,24 @@
         "name": "mazwad",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#QVLGRGR8R",
+            "stars": 1,
+            "destructionPercentage": 80,
+            "order": 23,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#QCYRRPR8Q",
+            "defenderTag": "#LUJYYYU9G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -138,6 +164,14 @@
             "destructionPercentage": 85,
             "order": 18,
             "duration": 153
+          },
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#QJVP0V8GP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 20,
+            "duration": 145
           }
         ],
         "opponentAttacks": 0
@@ -248,6 +282,24 @@
         "name": "FabianBawz",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#9VL2YRYJU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 137
+          },
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#YRJQ2Y0QY",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 22,
+            "duration": 168
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -375,20 +427,28 @@
         "name": "\u2694\ufe0fSHANKS\u2694\ufe0f",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#9VL2YRYJU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 137
+        }
       },
       {
         "tag": "#QJVP0V8GP",
         "name": "{subley}",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#8PV2Y0JPV",
+          "attackerTag": "#PRUGPLRPG",
           "defenderTag": "#QJVP0V8GP",
-          "stars": 2,
-          "destructionPercentage": 94,
-          "order": 16,
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
           "duration": 145
         }
       },
@@ -457,7 +517,15 @@
         "name": "bibek",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#LUJYYYU9G",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 144
+        }
       },
       {
         "tag": "#82C0YJPLR",
@@ -479,7 +547,7 @@
         "name": "Gol.D A$CE",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#PRUGPLRPG",
           "defenderTag": "#YRJQ2Y0QY",
@@ -524,7 +592,15 @@
         "name": "Soothsayer",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRRPR8Q",
+          "defenderTag": "#QVLGRGR8R",
+          "stars": 1,
+          "destructionPercentage": 80,
+          "order": 23,
+          "duration": 180
+        }
       }
     ]
   }
