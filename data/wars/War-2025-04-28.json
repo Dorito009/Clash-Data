@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 10,
-    "stars": 24,
-    "destructionPercentage": 53.333332,
+    "attacks": 16,
+    "stars": 34,
+    "destructionPercentage": 78.6,
     "members": [
       {
         "tag": "#8CJ0CVV2Q",
         "name": "Senna0412_",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#8CJ0CVV2Q",
+            "defenderTag": "#QJVP0V8GP",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 13,
+            "duration": 90
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -120,6 +130,16 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#YRJQ2Y0QY",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 18,
+            "duration": 153
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -135,6 +155,14 @@
             "destructionPercentage": 84,
             "order": 3,
             "duration": 180
+          },
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#QYCCRLPP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 129
           }
         ],
         "opponentAttacks": 1,
@@ -152,6 +180,16 @@
         "name": "Olivier05",
         "townhallLevel": 14,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#YU982RCVV",
+            "defenderTag": "#9VV0U0228",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 139
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -234,6 +272,24 @@
         "name": "ropje",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8PV2Y0JPV",
+            "defenderTag": "#QYCCRLPP2",
+            "stars": 1,
+            "destructionPercentage": 83,
+            "order": 15,
+            "duration": 157
+          },
+          {
+            "attackerTag": "#8PV2Y0JPV",
+            "defenderTag": "#QJVP0V8GP",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 16,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -271,7 +327,15 @@
         "name": "it",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JQP9VUPY",
+          "defenderTag": "#QYCCRLPP2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 129
+        }
       },
       {
         "tag": "#Y92LP99LP",
@@ -318,7 +382,15 @@
         "name": "{subley}",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#8PV2Y0JPV",
+          "defenderTag": "#QJVP0V8GP",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 16,
+          "duration": 145
+        }
       },
       {
         "tag": "#QJ9822QGR",
@@ -407,7 +479,15 @@
         "name": "Gol.D A$CE",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRUGPLRPG",
+          "defenderTag": "#YRJQ2Y0QY",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 18,
+          "duration": 153
+        }
       },
       {
         "tag": "#QVVGCJVUU",
@@ -429,7 +509,15 @@
         "name": "Garra",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YU982RCVV",
+          "defenderTag": "#9VV0U0228",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 139
+        }
       },
       {
         "tag": "#QVLGRGR8R",
