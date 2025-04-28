@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 15,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 5,
+    "stars": 11,
+    "destructionPercentage": 25.133333,
     "members": [
       {
         "tag": "#8CJ0CVV2Q",
@@ -59,6 +59,24 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#9LYVCJ9P8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 118
+          },
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#Y92LP99LP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 168
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -73,6 +91,16 @@
         "name": "123lucas123",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#Y92LP99LP",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 3,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -87,6 +115,16 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#QVVGCJVUU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 54
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -94,6 +132,16 @@
         "name": "warrior",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#PCP89Q20Q",
+            "defenderTag": "#2RUGQ920",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 1,
+            "duration": 77
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -106,7 +154,7 @@
       {
         "tag": "#LJ2J8QRPJ",
         "name": "FabianBawz",
-        "townhallLevel": 13,
+        "townhallLevel": 14,
         "mapPosition": 10,
         "opponentAttacks": 0
       },
@@ -144,7 +192,15 @@
         "name": "Doflamingo!",
         "townhallLevel": 14,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9R8LJGG",
+          "defenderTag": "#9LYVCJ9P8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 118
+        }
       },
       {
         "tag": "#QYCCRLPP2",
@@ -158,7 +214,15 @@
         "name": "Mayank Dhawan",
         "townhallLevel": 15,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9R8LJGG",
+          "defenderTag": "#Y92LP99LP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 168
+        }
       },
       {
         "tag": "#9VL2YRYJU",
@@ -193,7 +257,15 @@
         "name": "andrew",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PCP89Q20Q",
+          "defenderTag": "#2RUGQ920",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 1,
+          "duration": 77
+        }
       },
       {
         "tag": "#Q882QQYGC",
@@ -226,9 +298,17 @@
       {
         "tag": "#QVVGCJVUU",
         "name": "EAZY E",
-        "townhallLevel": 7,
+        "townhallLevel": 8,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QY2PCRLPJ",
+          "defenderTag": "#QVVGCJVUU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 54
+        }
       },
       {
         "tag": "#9VV0U0228",
