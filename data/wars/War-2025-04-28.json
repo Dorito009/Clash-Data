@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Wh9OjdziowwbiIgFfXxcUKJrBDuQwCHb3Yq12z5eE7Q.png"
     },
     "clanLevel": 12,
-    "attacks": 22,
-    "stars": 42,
-    "destructionPercentage": 97.666664,
+    "attacks": 24,
+    "stars": 44,
+    "destructionPercentage": 99.6,
     "members": [
       {
         "tag": "#8CJ0CVV2Q",
@@ -49,6 +49,24 @@
         "name": "Donjenso",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#YRJQ2Y0QY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 25,
+            "duration": 114
+          },
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#QVLGRGR8R",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 26,
+            "duration": 137
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -547,14 +565,14 @@
         "name": "Gol.D A$CE",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#PRUGPLRPG",
+          "attackerTag": "#GQYQ92VLL",
           "defenderTag": "#YRJQ2Y0QY",
-          "stars": 2,
-          "destructionPercentage": 85,
-          "order": 18,
-          "duration": 153
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "duration": 114
         }
       },
       {
@@ -592,14 +610,14 @@
         "name": "Soothsayer",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QCYRRPR8Q",
+          "attackerTag": "#GQYQ92VLL",
           "defenderTag": "#QVLGRGR8R",
-          "stars": 1,
-          "destructionPercentage": 80,
-          "order": 23,
-          "duration": 180
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 26,
+          "duration": 137
         }
       }
     ]
