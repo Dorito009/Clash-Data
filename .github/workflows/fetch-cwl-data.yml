@@ -1,3 +1,5 @@
+name: Fetch Clash of Clans CWL Data
+
 on:
   schedule:
     - cron: "0 * 1-12 * *"  # At minute 0 of every hour, on days 1–12 of each month
