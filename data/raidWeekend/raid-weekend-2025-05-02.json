@@ -2,28 +2,52 @@
   "state": "ongoing",
   "startTime": "20250502T070000.000Z",
   "endTime": "20250505T070000.000Z",
-  "capitalTotalLoot": 23603,
+  "capitalTotalLoot": 59273,
   "raidsCompleted": 0,
-  "totalAttacks": 8,
-  "enemyDistrictsDestroyed": 3,
+  "totalAttacks": 18,
+  "enemyDistrictsDestroyed": 7,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#Q9P2J02U",
       "name": "Langpootmug2304",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14722
+    },
+    {
+      "tag": "#L9QP0YUC8",
+      "name": "Mo Amissi",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 4843
+    },
+    {
+      "tag": "#8LYGCV8LY",
+      "name": "Florimannn",
       "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9107
+      "capitalResourcesLooted": 19830
+    },
+    {
+      "tag": "#QPGCL8CYC",
+      "name": "KoerpoerXD",
+      "attacks": 0,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 0
     },
     {
       "tag": "#8PV2Y0JPV",
       "name": "ropje",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 14496
+      "capitalResourcesLooted": 19878
     }
   ],
   "attackLog": [],
