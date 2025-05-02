@@ -124,7 +124,15 @@
                 "duration": 137
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#88JUGLUL",
+              "defenderTag": "#22C89C00C",
+              "stars": 1,
+              "destructionPercentage": 66,
+              "order": 28,
+              "duration": 128
+            }
           },
           {
             "tag": "#QUPL2C299",
@@ -387,15 +395,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 12,
-        "stars": 29,
-        "destructionPercentage": 74.46666666666667,
+        "attacks": 13,
+        "stars": 30,
+        "destructionPercentage": 78.86666666666666,
         "members": [
           {
             "tag": "#88JUGLUL",
             "name": "Jeroonie_xD",
             "townhallLevel": 15,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#88JUGLUL",
+                "defenderTag": "#22C89C00C",
+                "stars": 1,
+                "destructionPercentage": 66,
+                "order": 28,
+                "duration": 128
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#22C89C00C",
