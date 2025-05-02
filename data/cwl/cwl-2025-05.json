@@ -21,9 +21,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png"
         },
         "clanLevel": 16,
-        "attacks": 7,
-        "stars": 19,
-        "destructionPercentage": 43.53333333333333,
+        "attacks": 9,
+        "stars": 23,
+        "destructionPercentage": 54.8,
         "members": [
           {
             "tag": "#2CLRRQGQC",
@@ -151,6 +151,16 @@
             "name": "DARKLORD",
             "townhallLevel": 15,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#2JLUU8LQR",
+                "defenderTag": "#RJJGCV0P",
+                "stars": 1,
+                "destructionPercentage": 69,
+                "order": 17,
+                "duration": 115
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -223,6 +233,16 @@
             "name": "saad",
             "townhallLevel": 14,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#P9829CVLU",
+                "defenderTag": "#YU982RCVV",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 18,
+                "duration": 108
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -351,7 +371,15 @@
                 "duration": 159
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2JLUU8LQR",
+              "defenderTag": "#RJJGCV0P",
+              "stars": 1,
+              "destructionPercentage": 69,
+              "order": 17,
+              "duration": 115
+            }
           },
           {
             "tag": "#8LYGCV8LY",
@@ -447,7 +475,15 @@
             "name": "Olivier05",
             "townhallLevel": 14,
             "mapPosition": 6,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#P9829CVLU",
+              "defenderTag": "#YU982RCVV",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 18,
+              "duration": 108
+            }
           },
           {
             "tag": "#Y8LVCLUP2",
