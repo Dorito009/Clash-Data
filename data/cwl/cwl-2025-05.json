@@ -21,9 +21,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png"
         },
         "clanLevel": 16,
-        "attacks": 9,
-        "stars": 23,
-        "destructionPercentage": 54.8,
+        "attacks": 10,
+        "stars": 26,
+        "destructionPercentage": 61.46666666666667,
         "members": [
           {
             "tag": "#2CLRRQGQC",
@@ -282,6 +282,16 @@
             "name": "Aye_MoNsTeR",
             "townhallLevel": 13,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#Q2GUV8R9J",
+                "defenderTag": "#GQYQ92VLL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 19,
+                "duration": 121
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#PPJLGLPVL",
@@ -354,7 +364,15 @@
                 "duration": 150
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q2GUV8R9J",
+              "defenderTag": "#GQYQ92VLL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "duration": 121
+            }
           },
           {
             "tag": "#RJJGCV0P",
