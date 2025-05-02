@@ -21,9 +21,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png"
         },
         "clanLevel": 16,
-        "attacks": 10,
-        "stars": 26,
-        "destructionPercentage": 61.46666666666667,
+        "attacks": 15,
+        "stars": 39,
+        "destructionPercentage": 93.26666666666667,
         "members": [
           {
             "tag": "#2CLRRQGQC",
@@ -47,6 +47,16 @@
             "name": "Baba Nagambo",
             "townhallLevel": 14,
             "mapPosition": 17,
+            "attacks": [
+              {
+                "attackerTag": "#8VCQ8J0LG",
+                "defenderTag": "#88GVYL9VQ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 22,
+                "duration": 100
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#88GVYL9VQ",
@@ -87,6 +97,16 @@
             "name": "Foxrine",
             "townhallLevel": 14,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#9L0YPVV9C",
+                "defenderTag": "#Q0RUPY9YP",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 21,
+                "duration": 145
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -111,6 +131,16 @@
             "name": "LAZYxSHUKHON",
             "townhallLevel": 14,
             "mapPosition": 8,
+            "attacks": [
+              {
+                "attackerTag": "#QUPL2C299",
+                "defenderTag": "#PPJLGLPVL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 24,
+                "duration": 98
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#LJ2J8QRPJ",
@@ -168,6 +198,16 @@
             "name": "Sakib",
             "townhallLevel": 14,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#2RR0QGVL2",
+                "defenderTag": "#9JQP9VUPY",
+                "stars": 1,
+                "destructionPercentage": 77,
+                "order": 23,
+                "duration": 118
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#RJJGCV0P",
@@ -250,6 +290,16 @@
             "name": "Nabil_real",
             "townhallLevel": 15,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#LG9JR9YY",
+                "defenderTag": "#8QLPGU0VL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 20,
+                "duration": 149
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#9JQP9VUPY",
@@ -347,7 +397,15 @@
                 "duration": 177
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8VCQ8J0LG",
+              "defenderTag": "#88GVYL9VQ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 22,
+              "duration": 100
+            }
           },
           {
             "tag": "#GQYQ92VLL",
@@ -429,7 +487,15 @@
             "name": "jermo",
             "townhallLevel": 13,
             "mapPosition": 11,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9L0YPVV9C",
+              "defenderTag": "#Q0RUPY9YP",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 21,
+              "duration": 145
+            }
           },
           {
             "tag": "#PP9R8LJGG",
@@ -486,7 +552,15 @@
                 "duration": 114
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2RR0QGVL2",
+              "defenderTag": "#9JQP9VUPY",
+              "stars": 1,
+              "destructionPercentage": 77,
+              "order": 23,
+              "duration": 118
+            }
           },
           {
             "tag": "#YU982RCVV",
@@ -558,7 +632,15 @@
             "name": "obey",
             "townhallLevel": 15,
             "mapPosition": 2,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LG9JR9YY",
+              "defenderTag": "#8QLPGU0VL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 20,
+              "duration": 149
+            }
           },
           {
             "tag": "#PPJLGLPVL",
@@ -575,7 +657,15 @@
                 "duration": 136
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QUPL2C299",
+              "defenderTag": "#PPJLGLPVL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 24,
+              "duration": 98
+            }
           },
           {
             "tag": "#8PV2Y0JPV",
