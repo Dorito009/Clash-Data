@@ -191,7 +191,15 @@
                 "duration": 115
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8QLPGU0VL",
+              "defenderTag": "#2JLUU8LQR",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "duration": 101
+            }
           },
           {
             "tag": "#2RR0QGVL2",
@@ -283,7 +291,15 @@
                 "duration": 108
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YU982RCVV",
+              "defenderTag": "#P9829CVLU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 26,
+              "duration": 101
+            }
           },
           {
             "tag": "#LG9JR9YY",
@@ -325,7 +341,15 @@
                 "duration": 105
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PRUGPLRPG",
+              "defenderTag": "#202U9U9GQ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 27,
+              "duration": 147
+            }
           },
           {
             "tag": "#Q2GUV8R9J",
@@ -363,9 +387,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 9,
-        "stars": 20,
-        "destructionPercentage": 54.46666666666667,
+        "attacks": 12,
+        "stars": 29,
+        "destructionPercentage": 74.46666666666667,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -527,6 +551,16 @@
             "name": "Dorito_009",
             "townhallLevel": 13,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#PRUGPLRPG",
+                "defenderTag": "#202U9U9GQ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 27,
+                "duration": 147
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#202U9U9GQ",
@@ -567,6 +601,16 @@
             "name": "Olivier05",
             "townhallLevel": 14,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#YU982RCVV",
+                "defenderTag": "#P9829CVLU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 26,
+                "duration": 101
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#P9829CVLU",
@@ -632,6 +676,16 @@
             "name": "obey",
             "townhallLevel": 15,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#8QLPGU0VL",
+                "defenderTag": "#2JLUU8LQR",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 25,
+                "duration": 101
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#LG9JR9YY",
