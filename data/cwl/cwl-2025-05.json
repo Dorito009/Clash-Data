@@ -911,7 +911,15 @@
             "name": "\u0411\u0410\u0422\u042c\u041a\u041e \u041c\u0410\u0425\u041d\u041e",
             "townhallLevel": 15,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8PV2Y0JPV",
+              "defenderTag": "#QPJVJC20R",
+              "stars": 2,
+              "destructionPercentage": 70,
+              "order": 9,
+              "duration": 170
+            }
           },
           {
             "tag": "#LCPQRPRYR",
@@ -976,9 +984,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 8,
-        "stars": 18,
-        "destructionPercentage": 47.0,
+        "attacks": 9,
+        "stars": 20,
+        "destructionPercentage": 51.666666666666664,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -1163,6 +1171,16 @@
             "name": "ropje",
             "townhallLevel": 14,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#8PV2Y0JPV",
+                "defenderTag": "#QPJVJC20R",
+                "stars": 2,
+                "destructionPercentage": 70,
+                "order": 9,
+                "duration": 170
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
