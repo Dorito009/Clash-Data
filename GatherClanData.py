@@ -23,6 +23,7 @@ player_prefab = {
     "donations": 0,
     "donationsReceived": 0,
     "clanCapitalContributions": 0,
+    "league": 0
 }
 
 clan_tag = "#2QGYR0GU2"
