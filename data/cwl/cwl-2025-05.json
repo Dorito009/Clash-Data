@@ -853,7 +853,15 @@
                 "duration": 55
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8LYGCV8LY",
+              "defenderTag": "#P8RCJR02R",
+              "stars": 2,
+              "destructionPercentage": 80,
+              "order": 25,
+              "duration": 115
+            }
           },
           {
             "tag": "#LQCVJQ20L",
@@ -1134,9 +1142,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 9,
-        "stars": 20,
-        "destructionPercentage": 51.666666666666664,
+        "attacks": 10,
+        "stars": 22,
+        "destructionPercentage": 57.0,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -1213,6 +1221,16 @@
             "name": "Florimannn",
             "townhallLevel": 13,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#8LYGCV8LY",
+                "defenderTag": "#P8RCJR02R",
+                "stars": 2,
+                "destructionPercentage": 80,
+                "order": 25,
+                "duration": 115
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#P8RCJR02R",
