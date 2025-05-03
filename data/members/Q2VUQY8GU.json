@@ -78,7 +78,7 @@
       "townHallLevel": 13,
       "townHallWeaponLevel": 1,
       "expLevel": 132,
-      "trophies": 3103,
+      "trophies": 3099,
       "bestTrophies": 3131,
       "warStars": 175,
       "attackWins": 88,
@@ -90,7 +90,16 @@
       "warPreference": "out",
       "donations": 303,
       "donationsReceived": 0,
-      "clanCapitalContributions": 516912
+      "clanCapitalContributions": 516912,
+      "league": {
+        "id": 29000015,
+        "name": "Master League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
+        }
+      }
     }
   }
 }

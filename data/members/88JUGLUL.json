@@ -420,7 +420,7 @@
       "townHallLevel": 15,
       "townHallWeaponLevel": 5,
       "expLevel": 205,
-      "trophies": 4952,
+      "trophies": 4945,
       "bestTrophies": 5031,
       "warStars": 681,
       "attackWins": 17,
@@ -432,7 +432,16 @@
       "warPreference": "in",
       "donations": 257,
       "donationsReceived": 53,
-      "clanCapitalContributions": 1260896
+      "clanCapitalContributions": 1260896,
+      "league": {
+        "id": 29000022,
+        "name": "Legend League",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+        }
+      }
     }
   }
 }

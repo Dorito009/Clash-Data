@@ -420,7 +420,7 @@
       "townHallLevel": 12,
       "townHallWeaponLevel": 5,
       "expLevel": 125,
-      "trophies": 2368,
+      "trophies": 2367,
       "bestTrophies": 2546,
       "warStars": 3,
       "attackWins": 2,
@@ -432,7 +432,16 @@
       "warPreference": "out",
       "donations": 0,
       "donationsReceived": 0,
-      "clanCapitalContributions": 600764
+      "clanCapitalContributions": 600764,
+      "league": {
+        "id": 29000011,
+        "name": "Crystal League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png"
+        }
+      }
     }
   }
 }

@@ -420,19 +420,28 @@
       "townHallLevel": 15,
       "townHallWeaponLevel": 5,
       "expLevel": 187,
-      "trophies": 4947,
+      "trophies": 4958,
       "bestTrophies": 5159,
-      "warStars": 827,
-      "attackWins": 78,
+      "warStars": 830,
+      "attackWins": 80,
       "defenseWins": 1,
       "builderHallLevel": 10,
       "builderBaseTrophies": 4059,
       "bestBuilderBaseTrophies": 4081,
       "role": "coLeader",
       "warPreference": "in",
-      "donations": 550,
-      "donationsReceived": 159,
-      "clanCapitalContributions": 1474763
+      "donations": 582,
+      "donationsReceived": 212,
+      "clanCapitalContributions": 1474763,
+      "league": {
+        "id": 29000022,
+        "name": "Legend League",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+        }
+      }
     }
   }
 }

@@ -420,19 +420,28 @@
       "townHallLevel": 13,
       "townHallWeaponLevel": 2,
       "expLevel": 161,
-      "trophies": 3102,
-      "bestTrophies": 3109,
+      "trophies": 3109,
+      "bestTrophies": 3113,
       "warStars": 268,
-      "attackWins": 20,
+      "attackWins": 24,
       "defenseWins": 1,
       "builderHallLevel": 9,
-      "builderBaseTrophies": 2266,
+      "builderBaseTrophies": 2355,
       "bestBuilderBaseTrophies": 3109,
       "role": "admin",
       "warPreference": "in",
       "donations": 0,
-      "donationsReceived": 77,
-      "clanCapitalContributions": 162555
+      "donationsReceived": 154,
+      "clanCapitalContributions": 162555,
+      "league": {
+        "id": 29000015,
+        "name": "Master League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
+        }
+      }
     }
   }
 }
