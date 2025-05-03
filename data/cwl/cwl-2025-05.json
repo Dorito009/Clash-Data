@@ -852,7 +852,15 @@
             "name": "\u0412 \u0415 \u041b \u0415 \u0421",
             "townhallLevel": 15,
             "mapPosition": 12,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Y8LVCLUP2",
+              "defenderTag": "#LGY0UY99R",
+              "stars": 2,
+              "destructionPercentage": 86,
+              "order": 3,
+              "duration": 180
+            }
           },
           {
             "tag": "#LGLVC2J8U",
@@ -880,7 +888,15 @@
             "name": "G[a]M[e]R",
             "townhallLevel": 16,
             "mapPosition": 3,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9JQP9VUPY",
+              "defenderTag": "#Y8V2P2JGY",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 4,
+              "duration": 156
+            }
           },
           {
             "tag": "#QPJVJC20R",
@@ -928,9 +944,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 2,
-        "stars": 4,
-        "destructionPercentage": 11.8,
+        "attacks": 4,
+        "stars": 9,
+        "destructionPercentage": 24.2,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -1003,6 +1019,16 @@
             "name": "123lucas123",
             "townhallLevel": 15,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#9JQP9VUPY",
+                "defenderTag": "#Y8V2P2JGY",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 4,
+                "duration": 156
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1017,6 +1043,16 @@
             "name": "pro",
             "townhallLevel": 13,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#Y8LVCLUP2",
+                "defenderTag": "#LGY0UY99R",
+                "stars": 2,
+                "destructionPercentage": 86,
+                "order": 3,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           },
           {
