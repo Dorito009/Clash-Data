@@ -2694,5 +2694,354 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#22C02QPVC",
+        "name": "sobe suru",
+        "level": 22,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/QwIJaVjdPFYj34uHlzJm2hVs_o7IDbLBwmc15toGKLc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/QwIJaVjdPFYj34uHlzJm2hVs_o7IDbLBwmc15toGKLc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/QwIJaVjdPFYj34uHlzJm2hVs_o7IDbLBwmc15toGKLc.png"
+        }
+      },
+      "attackCount": 29,
+      "districtCount": 9,
+      "districtsDestroyed": 8,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 52,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 3770,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGCYJ2L0L",
+                "name": "N7"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGCYJ2L0L",
+                "name": "N7"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10276,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGCYJ2L0L",
+                "name": "N7"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q8LQGRUJY",
+                "name": "SANYOV S SANKAR"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q8LQGRUJY",
+                "name": "SANYOV S SANKAR"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#Q8LQGRUJY",
+                "name": "SANYOV S SANKAR"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8852,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8YCQ9PR0",
+                "name": "iftekher"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G8YCQ9PR0",
+                "name": "iftekher"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G8YCQ9PR0",
+                "name": "iftekher"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9261,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8YCQ9PR0",
+                "name": "iftekher"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G8YCQ9PR0",
+                "name": "iftekher"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G8YCQ9PR0",
+                "name": "iftekher"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 9790,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q8LQGRUJY",
+                "name": "SANYOV S SANKAR"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G0JG8RJPC",
+                "name": "\u2605\u2605\u2605\u2605\u2605\u2605"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QJP2G2000",
+                "name": "INSANE ALPHA"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QJP2G2000",
+                "name": "INSANE ALPHA"
+              },
+              "destructionPercent": 20,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 8443,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGCYJ2L0L",
+                "name": "N7"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGCYJ2L0L",
+                "name": "N7"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GGCYJ2L0L",
+                "name": "N7"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#Q8LQGRUJY",
+                "name": "SANYOV S SANKAR"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 9224,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QJP2G2000",
+                "name": "INSANE ALPHA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QJP2G2000",
+                "name": "INSANE ALPHA"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QJP2G2000",
+                "name": "INSANE ALPHA"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QJP2G2000",
+                "name": "INSANE ALPHA"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9064,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q8LQGRUJY",
+                "name": "SANYOV S SANKAR"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LVCG2PJ9V",
+                "name": "SW@RN@NDU.06"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LVCG2PJ9V",
+                "name": "SW@RN@NDU.06"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6130,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU8PGQ0VL",
+                "name": "knight julo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LVCG2PJ9V",
+                "name": "SW@RN@NDU.06"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
