@@ -1674,7 +1674,15 @@
             "name": "Marcilino 123y",
             "townhallLevel": 14,
             "mapPosition": 22,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PRUGPLRPG",
+              "defenderTag": "#G9UCL29U8",
+              "stars": 2,
+              "destructionPercentage": 77,
+              "order": 22,
+              "duration": 144
+            }
           },
           {
             "tag": "#R9Q8C8PG",
@@ -1891,9 +1899,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 10,
-        "stars": 22,
-        "destructionPercentage": 57.4,
+        "attacks": 11,
+        "stars": 24,
+        "destructionPercentage": 62.53333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2021,6 +2029,16 @@
             "name": "Dorito_009",
             "townhallLevel": 13,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#PRUGPLRPG",
+                "defenderTag": "#G9UCL29U8",
+                "stars": 2,
+                "destructionPercentage": 77,
+                "order": 22,
+                "duration": 144
+              }
+            ],
             "opponentAttacks": 0
           },
           {
