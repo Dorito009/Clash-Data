@@ -1581,9 +1581,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png"
         },
         "clanLevel": 18,
-        "attacks": 11,
-        "stars": 29,
-        "destructionPercentage": 65.13333333333334,
+        "attacks": 13,
+        "stars": 35,
+        "destructionPercentage": 78.46666666666667,
         "members": [
           {
             "tag": "#PCVYL8RPC",
@@ -1682,6 +1682,16 @@
             "name": "Marcilino 123y",
             "townhallLevel": 14,
             "mapPosition": 22,
+            "attacks": [
+              {
+                "attackerTag": "#G9UCL29U8",
+                "defenderTag": "#PRUGPLRPG",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 26,
+                "duration": 108
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#PRUGPLRPG",
@@ -1722,7 +1732,15 @@
             "name": "Black Beauty",
             "townhallLevel": 15,
             "mapPosition": 5,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#RJJGCV0P",
+              "defenderTag": "#YPLRLJU2L",
+              "stars": 2,
+              "destructionPercentage": 72,
+              "order": 24,
+              "duration": 136
+            }
           },
           {
             "tag": "#CQY00VUY",
@@ -1861,6 +1879,16 @@
             "name": "\u0627\u0644\u0631\u0633\u062a\u0645 $",
             "townhallLevel": 15,
             "mapPosition": 30,
+            "attacks": [
+              {
+                "attackerTag": "#LQULRJCG0",
+                "defenderTag": "#88GVYL9VQ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 25,
+                "duration": 117
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#88GVYL9VQ",
@@ -1907,9 +1935,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 12,
-        "stars": 26,
-        "destructionPercentage": 68.6,
+        "attacks": 13,
+        "stars": 28,
+        "destructionPercentage": 73.4,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -1941,7 +1969,15 @@
                 "duration": 123
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LQULRJCG0",
+              "defenderTag": "#88GVYL9VQ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "duration": 117
+            }
           },
           {
             "tag": "#GQYQ92VLL",
@@ -1973,6 +2009,16 @@
             "name": "JortGVA",
             "townhallLevel": 14,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#RJJGCV0P",
+                "defenderTag": "#YPLRLJU2L",
+                "stars": 2,
+                "destructionPercentage": 72,
+                "order": 24,
+                "duration": 136
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2047,7 +2093,15 @@
                 "duration": 144
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G9UCL29U8",
+              "defenderTag": "#PRUGPLRPG",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 26,
+              "duration": 108
+            }
           },
           {
             "tag": "#9JQP9VUPY",
