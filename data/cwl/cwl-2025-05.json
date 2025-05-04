@@ -1581,9 +1581,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png"
         },
         "clanLevel": 18,
-        "attacks": 13,
-        "stars": 35,
-        "destructionPercentage": 78.46666666666667,
+        "attacks": 14,
+        "stars": 38,
+        "destructionPercentage": 85.13333333333334,
         "members": [
           {
             "tag": "#PCVYL8RPC",
@@ -1625,7 +1625,15 @@
                 "duration": 117
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#88JUGLUL",
+              "defenderTag": "#UU22QG00",
+              "stars": 2,
+              "destructionPercentage": 73,
+              "order": 29,
+              "duration": 113
+            }
           },
           {
             "tag": "#J9C82QJ8",
@@ -1732,6 +1740,16 @@
             "name": "Black Beauty",
             "townhallLevel": 15,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#YPLRLJU2L",
+                "defenderTag": "#RJJGCV0P",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 28,
+                "duration": 148
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#RJJGCV0P",
@@ -1943,15 +1961,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 14,
-        "stars": 30,
-        "destructionPercentage": 79.13333333333334,
+        "attacks": 15,
+        "stars": 32,
+        "destructionPercentage": 84.0,
         "members": [
           {
             "tag": "#88JUGLUL",
             "name": "Jeroonie_xD",
             "townhallLevel": 15,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#88JUGLUL",
+                "defenderTag": "#UU22QG00",
+                "stars": 2,
+                "destructionPercentage": 73,
+                "order": 29,
+                "duration": 113
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#UU22QG00",
@@ -2027,7 +2055,15 @@
                 "duration": 136
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YPLRLJU2L",
+              "defenderTag": "#RJJGCV0P",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 28,
+              "duration": 148
+            }
           },
           {
             "tag": "#8LYGCV8LY",
