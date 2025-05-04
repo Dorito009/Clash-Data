@@ -986,7 +986,15 @@
                 "duration": 109
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#88JUGLUL",
+              "defenderTag": "#LYGJ9PJ90",
+              "stars": 2,
+              "destructionPercentage": 58,
+              "order": 29,
+              "duration": 78
+            }
           },
           {
             "tag": "#LRYRPY9QG",
@@ -1003,7 +1011,15 @@
                 "duration": 112
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GQYQ92VLL",
+              "defenderTag": "#LRYRPY9QG",
+              "stars": 2,
+              "destructionPercentage": 81,
+              "order": 30,
+              "duration": 136
+            }
           },
           {
             "tag": "#Y8V2P2JGY",
@@ -1166,15 +1182,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 13,
-        "stars": 27,
-        "destructionPercentage": 73.0,
+        "attacks": 15,
+        "stars": 31,
+        "destructionPercentage": 82.26666666666667,
         "members": [
           {
             "tag": "#88JUGLUL",
             "name": "Jeroonie_xD",
             "townhallLevel": 15,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#88JUGLUL",
+                "defenderTag": "#LYGJ9PJ90",
+                "stars": 2,
+                "destructionPercentage": 58,
+                "order": 29,
+                "duration": 78
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#LYGJ9PJ90",
@@ -1215,6 +1241,16 @@
             "name": "Donjenso",
             "townhallLevel": 13,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#GQYQ92VLL",
+                "defenderTag": "#LRYRPY9QG",
+                "stars": 2,
+                "destructionPercentage": 81,
+                "order": 30,
+                "duration": 136
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#LCPQRPRYR",
