@@ -2370,15 +2370,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png"
         },
         "clanLevel": 19,
-        "attacks": 2,
-        "stars": 6,
-        "destructionPercentage": 13.333333333333334,
+        "attacks": 5,
+        "stars": 13,
+        "destructionPercentage": 32.86666666666667,
         "members": [
           {
             "tag": "#QQVQ90000",
             "name": "\uc6b0\uae30",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#QQVQ90000",
+                "defenderTag": "#88JUGLUL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 7,
+                "duration": 110
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2408,7 +2418,15 @@
             "name": "T1\uad34\ubb3c\uc950",
             "townhallLevel": 12,
             "mapPosition": 34,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8LYGCV8LY",
+              "defenderTag": "#QU9C88U00",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 9,
+              "duration": 150
+            }
           },
           {
             "tag": "#LCPR0VQP",
@@ -2468,6 +2486,16 @@
             "name": "Amove",
             "townhallLevel": 13,
             "mapPosition": 26,
+            "attacks": [
+              {
+                "attackerTag": "#QYGJV2UV",
+                "defenderTag": "#88GVYL9VQ",
+                "stars": 1,
+                "destructionPercentage": 93,
+                "order": 8,
+                "duration": 128
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2507,6 +2535,16 @@
             "name": "3\ub2e8\uc6d0",
             "townhallLevel": 14,
             "mapPosition": 13,
+            "attacks": [
+              {
+                "attackerTag": "#GRPQQCC0",
+                "defenderTag": "#PRUGPLRPG",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 6,
+                "duration": 147
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2534,23 +2572,39 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 3,
-        "stars": 8,
-        "destructionPercentage": 19.0,
+        "attacks": 4,
+        "stars": 11,
+        "destructionPercentage": 25.666666666666668,
         "members": [
           {
             "tag": "#88JUGLUL",
             "name": "Jeroonie_xD",
             "townhallLevel": 15,
             "mapPosition": 1,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QQVQ90000",
+              "defenderTag": "#88JUGLUL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "duration": 110
+            }
           },
           {
             "tag": "#88GVYL9VQ",
             "name": "thijmen",
             "townhallLevel": 13,
             "mapPosition": 14,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QYGJV2UV",
+              "defenderTag": "#88GVYL9VQ",
+              "stars": 1,
+              "destructionPercentage": 93,
+              "order": 8,
+              "duration": 128
+            }
           },
           {
             "tag": "#GQYQ92VLL",
@@ -2571,6 +2625,16 @@
             "name": "Florimannn",
             "townhallLevel": 13,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#8LYGCV8LY",
+                "defenderTag": "#QU9C88U00",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 9,
+                "duration": 150
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2610,7 +2674,15 @@
             "name": "Dorito_009",
             "townhallLevel": 13,
             "mapPosition": 10,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GRPQQCC0",
+              "defenderTag": "#PRUGPLRPG",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 6,
+              "duration": 147
+            }
           },
           {
             "tag": "#9JQP9VUPY",
