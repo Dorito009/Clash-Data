@@ -2370,9 +2370,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png"
         },
         "clanLevel": 19,
-        "attacks": 5,
-        "stars": 13,
-        "destructionPercentage": 32.86666666666667,
+        "attacks": 6,
+        "stars": 16,
+        "destructionPercentage": 39.53333333333333,
         "members": [
           {
             "tag": "#QQVQ90000",
@@ -2411,6 +2411,16 @@
             "name": "Morn1ng",
             "townhallLevel": 16,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#Y0YC9CG0Y",
+                "defenderTag": "#RJJGCV0P",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 13,
+                "duration": 147
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2472,14 +2482,30 @@
             "name": "\ub9d0\uadf8\ub275",
             "townhallLevel": 17,
             "mapPosition": 3,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9JQP9VUPY",
+              "defenderTag": "#G9GQRGQY",
+              "stars": 2,
+              "destructionPercentage": 61,
+              "order": 11,
+              "duration": 121
+            }
           },
           {
             "tag": "#GUVUQV2Y",
             "name": "\uc5ec\uc6b0",
             "townhallLevel": 17,
             "mapPosition": 2,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8QLPGU0VL",
+              "defenderTag": "#GUVUQV2Y",
+              "stars": 2,
+              "destructionPercentage": 92,
+              "order": 10,
+              "duration": 124
+            }
           },
           {
             "tag": "#QYGJV2UV",
@@ -2528,7 +2554,15 @@
                 "duration": 131
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YU982RCVV",
+              "defenderTag": "#829YPQVL8",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 12,
+              "duration": 129
+            }
           },
           {
             "tag": "#GRPQQCC0",
@@ -2572,9 +2606,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 4,
-        "stars": 11,
-        "destructionPercentage": 25.666666666666668,
+        "attacks": 7,
+        "stars": 18,
+        "destructionPercentage": 42.53333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2618,7 +2652,15 @@
             "name": "JortGVA",
             "townhallLevel": 14,
             "mapPosition": 5,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Y0YC9CG0Y",
+              "defenderTag": "#RJJGCV0P",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 13,
+              "duration": 147
+            }
           },
           {
             "tag": "#8LYGCV8LY",
@@ -2689,6 +2731,16 @@
             "name": "123lucas123",
             "townhallLevel": 15,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#9JQP9VUPY",
+                "defenderTag": "#G9GQRGQY",
+                "stars": 2,
+                "destructionPercentage": 61,
+                "order": 11,
+                "duration": 121
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2696,6 +2748,16 @@
             "name": "Olivier05",
             "townhallLevel": 14,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#YU982RCVV",
+                "defenderTag": "#829YPQVL8",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 12,
+                "duration": 129
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#829YPQVL8",
@@ -2735,6 +2797,16 @@
             "name": "obey",
             "townhallLevel": 15,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#8QLPGU0VL",
+                "defenderTag": "#GUVUQV2Y",
+                "stars": 2,
+                "destructionPercentage": 92,
+                "order": 10,
+                "duration": 124
+              }
+            ],
             "opponentAttacks": 0
           },
           {
