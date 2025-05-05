@@ -2370,9 +2370,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png"
         },
         "clanLevel": 19,
-        "attacks": 9,
-        "stars": 25,
-        "destructionPercentage": 59.53333333333333,
+        "attacks": 11,
+        "stars": 29,
+        "destructionPercentage": 72.53333333333333,
         "members": [
           {
             "tag": "#QQVQ90000",
@@ -2428,6 +2428,16 @@
             "name": "T1\uad34\ubb3c\uc950",
             "townhallLevel": 12,
             "mapPosition": 34,
+            "attacks": [
+              {
+                "attackerTag": "#QU9C88U00",
+                "defenderTag": "#8LYGCV8LY",
+                "stars": 1,
+                "destructionPercentage": 95,
+                "order": 19,
+                "duration": 162
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#8LYGCV8LY",
@@ -2450,7 +2460,15 @@
             "name": "180cm 60kg",
             "townhallLevel": 14,
             "mapPosition": 20,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q0RUPY9YP",
+              "defenderTag": "#QPVYRU0LL",
+              "stars": 2,
+              "destructionPercentage": 69,
+              "order": 21,
+              "duration": 114
+            }
           },
           {
             "tag": "#9QG9Y0J2Y",
@@ -2639,6 +2657,16 @@
             "name": "\uc900\ud2f0",
             "townhallLevel": 15,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#G90J8LUGP",
+                "defenderTag": "#LJ2J8QRPJ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 20,
+                "duration": 89
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -2652,9 +2680,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 9,
-        "stars": 22,
-        "destructionPercentage": 51.0,
+        "attacks": 10,
+        "stars": 24,
+        "destructionPercentage": 55.6,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2751,13 +2779,31 @@
                 "duration": 150
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QU9C88U00",
+              "defenderTag": "#8LYGCV8LY",
+              "stars": 1,
+              "destructionPercentage": 95,
+              "order": 19,
+              "duration": 162
+            }
           },
           {
             "tag": "#Q0RUPY9YP",
             "name": "jermo",
             "townhallLevel": 13,
             "mapPosition": 13,
+            "attacks": [
+              {
+                "attackerTag": "#Q0RUPY9YP",
+                "defenderTag": "#QPVYRU0LL",
+                "stars": 2,
+                "destructionPercentage": 69,
+                "order": 21,
+                "duration": 114
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2872,7 +2918,15 @@
             "name": "FabianBawz",
             "townhallLevel": 14,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G90J8LUGP",
+              "defenderTag": "#LJ2J8QRPJ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 20,
+              "duration": 89
+            }
           },
           {
             "tag": "#8QLPGU0VL",
