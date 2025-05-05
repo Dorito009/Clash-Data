@@ -2421,14 +2421,14 @@
                 "duration": 147
               }
             ],
-            "opponentAttacks": 1,
+            "opponentAttacks": 2,
             "bestOpponentAttack": {
-              "attackerTag": "#RJJGCV0P",
+              "attackerTag": "#88JUGLUL",
               "defenderTag": "#Y0YC9CG0Y",
-              "stars": 0,
-              "destructionPercentage": 27,
-              "order": 22,
-              "duration": 56
+              "stars": 2,
+              "destructionPercentage": 65,
+              "order": 25,
+              "duration": 148
             }
           },
           {
@@ -2641,7 +2641,15 @@
                 "duration": 147
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PRUGPLRPG",
+              "defenderTag": "#GRPQQCC0",
+              "stars": 2,
+              "destructionPercentage": 78,
+              "order": 24,
+              "duration": 141
+            }
           },
           {
             "tag": "#QVPP80RYQ",
@@ -2696,15 +2704,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 12,
-        "stars": 26,
-        "destructionPercentage": 61.13333333333333,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 68.86666666666666,
         "members": [
           {
             "tag": "#88JUGLUL",
             "name": "Jeroonie_xD",
             "townhallLevel": 15,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#88JUGLUL",
+                "defenderTag": "#Y0YC9CG0Y",
+                "stars": 2,
+                "destructionPercentage": 65,
+                "order": 25,
+                "duration": 148
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#QQVQ90000",
@@ -2862,6 +2880,16 @@
             "name": "Dorito_009",
             "townhallLevel": 13,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#PRUGPLRPG",
+                "defenderTag": "#GRPQQCC0",
+                "stars": 2,
+                "destructionPercentage": 78,
+                "order": 24,
+                "duration": 141
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#GRPQQCC0",
