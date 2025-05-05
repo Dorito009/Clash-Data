@@ -1581,9 +1581,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png"
         },
         "clanLevel": 18,
-        "attacks": 14,
-        "stars": 38,
-        "destructionPercentage": 85.13333333333334,
+        "attacks": 15,
+        "stars": 40,
+        "destructionPercentage": 89.0,
         "members": [
           {
             "tag": "#PCVYL8RPC",
@@ -1765,6 +1765,16 @@
             "name": "\u0631\u0648\u0628\u0646 \u0647\u0648\u062f",
             "townhallLevel": 17,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#CQY00VUY",
+                "defenderTag": "#PP9R8LJGG",
+                "stars": 2,
+                "destructionPercentage": 58,
+                "order": 30,
+                "duration": 90
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#PP9R8LJGG",
@@ -2130,7 +2140,15 @@
                 "duration": 145
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#CQY00VUY",
+              "defenderTag": "#PP9R8LJGG",
+              "stars": 2,
+              "destructionPercentage": 58,
+              "order": 30,
+              "duration": 90
+            }
           },
           {
             "tag": "#PRUGPLRPG",
