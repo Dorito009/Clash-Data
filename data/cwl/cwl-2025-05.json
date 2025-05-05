@@ -2586,7 +2586,15 @@
             "name": "babypongpong",
             "townhallLevel": 15,
             "mapPosition": 11,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GQYQ92VLL",
+              "defenderTag": "#QVPP80RYQ",
+              "stars": 2,
+              "destructionPercentage": 72,
+              "order": 14,
+              "duration": 107
+            }
           },
           {
             "tag": "#G90J8LUGP",
@@ -2606,9 +2614,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 7,
-        "stars": 18,
-        "destructionPercentage": 42.53333333333333,
+        "attacks": 8,
+        "stars": 20,
+        "destructionPercentage": 47.333333333333336,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2645,6 +2653,16 @@
             "name": "Donjenso",
             "townhallLevel": 13,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#GQYQ92VLL",
+                "defenderTag": "#QVPP80RYQ",
+                "stars": 2,
+                "destructionPercentage": 72,
+                "order": 14,
+                "duration": 107
+              }
+            ],
             "opponentAttacks": 0
           },
           {
