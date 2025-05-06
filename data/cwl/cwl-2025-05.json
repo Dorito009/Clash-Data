@@ -1,7 +1,7 @@
 {
   "state": "inWar",
   "season": "2025-05",
-  "Tags": [
+  "tags": [
     "#8LL99U98Y",
     "#8LLPUGY0R",
     "#8LLQL29LY",
@@ -9,7 +9,7 @@
     "#8LLUUGGVQ",
     "#8LQ2J2GPV"
   ],
-  "rounds": [
+  "clanWars": [
     {
       "state": "warEnded",
       "teamSize": 15,
@@ -3286,7 +3286,15 @@
             "name": "Shiny Horse",
             "townhallLevel": 13,
             "mapPosition": 31,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8LYGCV8LY",
+              "defenderTag": "#QCPGG8UUG",
+              "stars": 2,
+              "destructionPercentage": 70,
+              "order": 6,
+              "duration": 86
+            }
           },
           {
             "tag": "#GLCPJPUR",
@@ -3313,9 +3321,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 4,
-        "stars": 8,
-        "destructionPercentage": 19.466666666666665,
+        "attacks": 5,
+        "stars": 10,
+        "destructionPercentage": 24.133333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3360,6 +3368,16 @@
             "name": "Florimannn",
             "townhallLevel": 13,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#8LYGCV8LY",
+                "defenderTag": "#QCPGG8UUG",
+                "stars": 2,
+                "destructionPercentage": 70,
+                "order": 6,
+                "duration": 86
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3722,5 +3740,668 @@
       },
       "warStartTime": "20250507T103746.000Z"
     }
+  ],
+  "rounds": [
+    [
+      {
+        "warTag": "#8LL99U0QC",
+        "clan1": {
+          "tag": "#22JY228YJ",
+          "name": "\u0421\u041f\u0410\u0420\u0422\u0410\u041d\u0426\u042b",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
+          },
+          "stars": 35,
+          "attacks": 15,
+          "destructionPercentage": 89.73333333333333
+        },
+        "clan2": {
+          "tag": "#2QG09J0QG",
+          "name": "THE BRODOT",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/5DbhG5Xnoig6qEiHs8EwC91xG4aHdxsHhIqqt2FNZK0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/5DbhG5Xnoig6qEiHs8EwC91xG4aHdxsHhIqqt2FNZK0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/5DbhG5Xnoig6qEiHs8EwC91xG4aHdxsHhIqqt2FNZK0.png"
+          },
+          "stars": 37,
+          "attacks": 15,
+          "destructionPercentage": 87.6
+        }
+      },
+      {
+        "warTag": "#8LL99UPLR",
+        "clan1": {
+          "tag": "#2YVLGLLCJ",
+          "name": "\uc6b0\uc720",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png"
+          },
+          "stars": 27,
+          "attacks": 13,
+          "destructionPercentage": 71.93333333333334
+        },
+        "clan2": {
+          "tag": "#YR9U8GLJ",
+          "name": "Moorhuhnj\u00e4ger",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png"
+          },
+          "stars": 36,
+          "attacks": 14,
+          "destructionPercentage": 84.0
+        }
+      },
+      {
+        "warTag": "#8LL99U98Y",
+        "clan1": {
+          "tag": "#L0G2CYLL",
+          "name": "INFERNO BD\u2122",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png"
+          },
+          "stars": 39,
+          "attacks": 15,
+          "destructionPercentage": 93.26666666666667
+        },
+        "clan2": {
+          "tag": "#2QGYR0GU2",
+          "name": "EetMeBal",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
+          },
+          "stars": 32,
+          "attacks": 14,
+          "destructionPercentage": 83.46666666666667
+        }
+      },
+      {
+        "warTag": "#8LL99U2U2",
+        "clan1": {
+          "tag": "#2LCVC9LJ9",
+          "name": "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u0649",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png"
+          },
+          "stars": 26,
+          "attacks": 14,
+          "destructionPercentage": 75.4
+        },
+        "clan2": {
+          "tag": "#2Q8GRP8P0",
+          "name": "Mercen\u00e1rios",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
+          },
+          "stars": 21,
+          "attacks": 11,
+          "destructionPercentage": 59.46666666666667
+        }
+      }
+    ],
+    [
+      {
+        "warTag": "#8LLPUGY0R",
+        "clan1": {
+          "tag": "#22JY228YJ",
+          "name": "\u0421\u041f\u0410\u0420\u0422\u0410\u041d\u0426\u042b",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
+          },
+          "stars": 38,
+          "attacks": 15,
+          "destructionPercentage": 89.53333333333333
+        },
+        "clan2": {
+          "tag": "#2QGYR0GU2",
+          "name": "EetMeBal",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
+          },
+          "stars": 31,
+          "attacks": 15,
+          "destructionPercentage": 82.26666666666667
+        }
+      },
+      {
+        "warTag": "#8LLPUG22C",
+        "clan1": {
+          "tag": "#YR9U8GLJ",
+          "name": "Moorhuhnj\u00e4ger",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png"
+          },
+          "stars": 30,
+          "attacks": 12,
+          "destructionPercentage": 75.66666666666667
+        },
+        "clan2": {
+          "tag": "#2LCVC9LJ9",
+          "name": "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u0649",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png"
+          },
+          "stars": 25,
+          "attacks": 13,
+          "destructionPercentage": 67.4
+        }
+      },
+      {
+        "warTag": "#8LLPUG8L2",
+        "clan1": {
+          "tag": "#L0G2CYLL",
+          "name": "INFERNO BD\u2122",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png"
+          },
+          "stars": 31,
+          "attacks": 14,
+          "destructionPercentage": 81.93333333333334
+        },
+        "clan2": {
+          "tag": "#2Q8GRP8P0",
+          "name": "Mercen\u00e1rios",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
+          },
+          "stars": 35,
+          "attacks": 15,
+          "destructionPercentage": 86.0
+        }
+      },
+      {
+        "warTag": "#8LLPUG9JY",
+        "clan1": {
+          "tag": "#2YVLGLLCJ",
+          "name": "\uc6b0\uc720",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png"
+          },
+          "stars": 36,
+          "attacks": 13,
+          "destructionPercentage": 82.6
+        },
+        "clan2": {
+          "tag": "#2QG09J0QG",
+          "name": "THE BRODOT",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/5DbhG5Xnoig6qEiHs8EwC91xG4aHdxsHhIqqt2FNZK0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/5DbhG5Xnoig6qEiHs8EwC91xG4aHdxsHhIqqt2FNZK0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/5DbhG5Xnoig6qEiHs8EwC91xG4aHdxsHhIqqt2FNZK0.png"
+          },
+          "stars": 32,
+          "attacks": 15,
+          "destructionPercentage": 80.06666666666666
+        }
+      }
+    ],
+    [
+      {
+        "warTag": "#8LLQL0U99",
+        "clan1": {
+          "tag": "#22JY228YJ",
+          "name": "\u0421\u041f\u0410\u0420\u0422\u0410\u041d\u0426\u042b",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
+          },
+          "stars": 34,
+          "attacks": 15,
+          "destructionPercentage": 87.93333333333334
+        },
+        "clan2": {
+          "tag": "#L0G2CYLL",
+          "name": "INFERNO BD\u2122",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png"
+          },
+          "stars": 33,
+          "attacks": 15,
+          "destructionPercentage": 87.93333333333334
+        }
+      },
+      {
+        "warTag": "#8LLQL2PJR",
+        "clan1": {
+          "tag": "#2YVLGLLCJ",
+          "name": "\uc6b0\uc720",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png"
+          },
+          "stars": 30,
+          "attacks": 12,
+          "destructionPercentage": 73.26666666666667
+        },
+        "clan2": {
+          "tag": "#2Q8GRP8P0",
+          "name": "Mercen\u00e1rios",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
+          },
+          "stars": 27,
+          "attacks": 15,
+          "destructionPercentage": 65.66666666666667
+        }
+      },
+      {
+        "warTag": "#8LLQL29LY",
+        "clan1": {
+          "tag": "#2LCVC9LJ9",
+          "name": "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u0649",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png"
+          },
+          "stars": 40,
+          "attacks": 15,
+          "destructionPercentage": 89.0
+        },
+        "clan2": {
+          "tag": "#2QGYR0GU2",
+          "name": "EetMeBal",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
+          },
+          "stars": 32,
+          "attacks": 15,
+          "destructionPercentage": 84.0
+        }
+      },
+      {
+        "warTag": "#8LLQL0VQQ",
+        "clan1": {
+          "tag": "#YR9U8GLJ",
+          "name": "Moorhuhnj\u00e4ger",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png"
+          },
+          "stars": 42,
+          "attacks": 15,
+          "destructionPercentage": 98.0
+        },
+        "clan2": {
+          "tag": "#2QG09J0QG",
+          "name": "THE BRODOT",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png"
+          },
+          "stars": 26,
+          "attacks": 13,
+          "destructionPercentage": 68.26666666666667
+        }
+      }
+    ],
+    [
+      {
+        "warTag": "#8LLJPJ88R",
+        "clan1": {
+          "tag": "#22JY228YJ",
+          "name": "\u0421\u041f\u0410\u0420\u0422\u0410\u041d\u0426\u042b",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
+          },
+          "stars": 26,
+          "attacks": 15,
+          "destructionPercentage": 67.73333333333333
+        },
+        "clan2": {
+          "tag": "#YR9U8GLJ",
+          "name": "Moorhuhnj\u00e4ger",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png"
+          },
+          "stars": 37,
+          "attacks": 15,
+          "destructionPercentage": 93.33333333333333
+        }
+      },
+      {
+        "warTag": "#8LLJPGRP2",
+        "clan1": {
+          "tag": "#2YVLGLLCJ",
+          "name": "\uc6b0\uc720",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png"
+          },
+          "stars": 40,
+          "attacks": 15,
+          "destructionPercentage": 99.0
+        },
+        "clan2": {
+          "tag": "#2QGYR0GU2",
+          "name": "EetMeBal",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
+          },
+          "stars": 32,
+          "attacks": 15,
+          "destructionPercentage": 72.33333333333333
+        }
+      },
+      {
+        "warTag": "#8LLJPGCUR",
+        "clan1": {
+          "tag": "#2LCVC9LJ9",
+          "name": "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u0649",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png"
+          },
+          "stars": 38,
+          "attacks": 15,
+          "destructionPercentage": 93.73333333333333
+        },
+        "clan2": {
+          "tag": "#L0G2CYLL",
+          "name": "INFERNO BD\u2122",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png"
+          },
+          "stars": 33,
+          "attacks": 15,
+          "destructionPercentage": 82.6
+        }
+      },
+      {
+        "warTag": "#8LLJPGJGY",
+        "clan1": {
+          "tag": "#2Q8GRP8P0",
+          "name": "Mercen\u00e1rios",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
+          },
+          "stars": 31,
+          "attacks": 14,
+          "destructionPercentage": 89.06666666666666
+        },
+        "clan2": {
+          "tag": "#2QG09J0QG",
+          "name": "THE BRODOT",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png"
+          },
+          "stars": 29,
+          "attacks": 12,
+          "destructionPercentage": 72.93333333333334
+        }
+      }
+    ],
+    [
+      {
+        "warTag": "#8LLUUQQP2",
+        "clan1": {
+          "tag": "#22JY228YJ",
+          "name": "\u0421\u041f\u0410\u0420\u0422\u0410\u041d\u0426\u042b",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        },
+        "clan2": {
+          "tag": "#2Q8GRP8P0",
+          "name": "Mercen\u00e1rios",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
+          },
+          "stars": 8,
+          "attacks": 5,
+          "destructionPercentage": 27.733333333333334
+        }
+      },
+      {
+        "warTag": "#8LLUUQGGY",
+        "clan1": {
+          "tag": "#2YVLGLLCJ",
+          "name": "\uc6b0\uc720",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png"
+          },
+          "stars": 9,
+          "attacks": 4,
+          "destructionPercentage": 22.666666666666668
+        },
+        "clan2": {
+          "tag": "#2LCVC9LJ9",
+          "name": "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u0649",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png"
+          },
+          "stars": 26,
+          "attacks": 11,
+          "destructionPercentage": 66.0
+        }
+      },
+      {
+        "warTag": "#8LLUUGGVQ",
+        "clan1": {
+          "tag": "#YR9U8GLJ",
+          "name": "Moorhuhnj\u00e4ger",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png"
+          },
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
+        },
+        "clan2": {
+          "tag": "#2QGYR0GU2",
+          "name": "EetMeBal",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
+          },
+          "stars": 10,
+          "attacks": 5,
+          "destructionPercentage": 24.133333333333333
+        }
+      },
+      {
+        "warTag": "#8LLUUQRUR",
+        "clan1": {
+          "tag": "#L0G2CYLL",
+          "name": "INFERNO BD\u2122",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png"
+          },
+          "stars": 15,
+          "attacks": 5,
+          "destructionPercentage": 33.333333333333336
+        },
+        "clan2": {
+          "tag": "#2QG09J0QG",
+          "name": "THE BRODOT",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png"
+          },
+          "stars": 29,
+          "attacks": 11,
+          "destructionPercentage": 71.53333333333333
+        }
+      }
+    ],
+    [
+      {
+        "warTag": "#8LQ2J2PL2",
+        "clan1": {
+          "tag": "#22JY228YJ",
+          "name": "\u0421\u041f\u0410\u0420\u0422\u0410\u041d\u0426\u042b",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        },
+        "clan2": {
+          "tag": "#2LCVC9LJ9",
+          "name": "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u0649",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        }
+      },
+      {
+        "warTag": "#8LQ2J2YJY",
+        "clan1": {
+          "tag": "#2YVLGLLCJ",
+          "name": "\uc6b0\uc720",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        },
+        "clan2": {
+          "tag": "#L0G2CYLL",
+          "name": "INFERNO BD\u2122",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/M2k2JvK0oQLPiyeoWVrH4fOKkY7TEOZZL64QqIui6Us.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        }
+      },
+      {
+        "warTag": "#8LQ2J2Q0R",
+        "clan1": {
+          "tag": "#YR9U8GLJ",
+          "name": "Moorhuhnj\u00e4ger",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        },
+        "clan2": {
+          "tag": "#2Q8GRP8P0",
+          "name": "Mercen\u00e1rios",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        }
+      },
+      {
+        "warTag": "#8LQ2J2GPV",
+        "clan1": {
+          "tag": "#2QGYR0GU2",
+          "name": "EetMeBal",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        },
+        "clan2": {
+          "tag": "#2QG09J0QG",
+          "name": "THE BRODOT",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        }
+      }
+    ],
+    []
   ]
 }
