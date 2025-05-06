@@ -2370,9 +2370,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Rw-39Ydwumzw9sUzjNMGfvvZXlFD0M8pMnyIUrdA1CU.png"
         },
         "clanLevel": 19,
-        "attacks": 14,
-        "stars": 37,
-        "destructionPercentage": 92.33333333333333,
+        "attacks": 15,
+        "stars": 40,
+        "destructionPercentage": 99.0,
         "members": [
           {
             "tag": "#QQVQ90000",
@@ -2396,6 +2396,16 @@
             "name": "\uae40\uc12422",
             "townhallLevel": 14,
             "mapPosition": 16,
+            "attacks": [
+              {
+                "attackerTag": "#Q2PYCGCLR",
+                "defenderTag": "#Y8LVCLUP2",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 30,
+                "duration": 84
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#Y8LVCLUP2",
@@ -3011,7 +3021,15 @@
                 "duration": 177
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q2PYCGCLR",
+              "defenderTag": "#Y8LVCLUP2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 30,
+              "duration": 84
+            }
           },
           {
             "tag": "#LJ2J8QRPJ",
