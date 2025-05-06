@@ -3209,7 +3209,15 @@
             "name": "Bude",
             "townhallLevel": 14,
             "mapPosition": 15,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PPJLGLPVL",
+              "defenderTag": "#8YJULP2R",
+              "stars": 2,
+              "destructionPercentage": 62,
+              "order": 4,
+              "duration": 127
+            }
           },
           {
             "tag": "#2CPR8CUCY",
@@ -3223,7 +3231,15 @@
             "name": "Allomo",
             "townhallLevel": 15,
             "mapPosition": 10,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GQYQ92VLL",
+              "defenderTag": "#29CUUV22",
+              "stars": 2,
+              "destructionPercentage": 54,
+              "order": 5,
+              "duration": 115
+            }
           },
           {
             "tag": "#QPP9LQG89",
@@ -3297,9 +3313,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 2,
-        "stars": 4,
-        "destructionPercentage": 11.733333333333333,
+        "attacks": 4,
+        "stars": 8,
+        "destructionPercentage": 19.466666666666665,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3320,6 +3336,16 @@
             "name": "Donjenso",
             "townhallLevel": 13,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#GQYQ92VLL",
+                "defenderTag": "#29CUUV22",
+                "stars": 2,
+                "destructionPercentage": 54,
+                "order": 5,
+                "duration": 115
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3425,6 +3451,16 @@
             "name": "Elias",
             "townhallLevel": 13,
             "mapPosition": 11,
+            "attacks": [
+              {
+                "attackerTag": "#PPJLGLPVL",
+                "defenderTag": "#8YJULP2R",
+                "stars": 2,
+                "destructionPercentage": 62,
+                "order": 4,
+                "duration": 127
+              }
+            ],
             "opponentAttacks": 0
           },
           {
