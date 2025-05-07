@@ -3904,9 +3904,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 14,
-        "stars": 35,
-        "destructionPercentage": 87.06666666666666,
+        "attacks": 15,
+        "stars": 38,
+        "destructionPercentage": 93.73333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3930,6 +3930,16 @@
             "name": "thijmen",
             "townhallLevel": 13,
             "mapPosition": 14,
+            "attacks": [
+              {
+                "attackerTag": "#88GVYL9VQ",
+                "defenderTag": "#G2LL9UUVC",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 26,
+                "duration": 115
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#2J28CLJJL",
@@ -4296,7 +4306,15 @@
                 "duration": 154
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#88GVYL9VQ",
+              "defenderTag": "#G2LL9UUVC",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 26,
+              "duration": 115
+            }
           },
           {
             "tag": "#8900YQ8UP",
@@ -5464,9 +5482,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
           },
-          "stars": 21,
-          "attacks": 10,
-          "destructionPercentage": 53.8
+          "stars": 23,
+          "attacks": 11,
+          "destructionPercentage": 58.733333333333334
         }
       },
       {
@@ -5479,9 +5497,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
-          "stars": 35,
-          "attacks": 14,
-          "destructionPercentage": 87.06666666666666
+          "stars": 38,
+          "attacks": 15,
+          "destructionPercentage": 93.73333333333333
         },
         "clan2": {
           "tag": "#2QG09J0QG",
