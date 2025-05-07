@@ -3151,9 +3151,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png"
         },
         "clanLevel": 19,
-        "attacks": 13,
-        "stars": 38,
-        "destructionPercentage": 85.13333333333334,
+        "attacks": 14,
+        "stars": 41,
+        "destructionPercentage": 91.8,
         "members": [
           {
             "tag": "#2LCPC2RGL",
@@ -3242,6 +3242,16 @@
             "name": "Jackie Chan",
             "townhallLevel": 17,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#2VQ90YGRV",
+                "defenderTag": "#8QLPGU0VL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 27,
+                "duration": 154
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#8QLPGU0VL",
@@ -3806,7 +3816,15 @@
                 "duration": 173
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2VQ90YGRV",
+              "defenderTag": "#8QLPGU0VL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 27,
+              "duration": 154
+            }
           },
           {
             "tag": "#PPJLGLPVL",
@@ -4553,9 +4571,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
           },
-          "stars": 30,
-          "attacks": 14,
-          "destructionPercentage": 74.6
+          "stars": 33,
+          "attacks": 15,
+          "destructionPercentage": 81.26666666666667
         },
         "clan2": {
           "tag": "#2Q8GRP8P0",
@@ -4592,9 +4610,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png"
           },
-          "stars": 28,
-          "attacks": 13,
-          "destructionPercentage": 75.0
+          "stars": 30,
+          "attacks": 14,
+          "destructionPercentage": 79.0
         }
       },
       {
@@ -4607,9 +4625,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/QcIFJYD94vWQTMlWyb95sPzNzmdoG51oavtSBLpMlJc.png"
           },
-          "stars": 38,
-          "attacks": 13,
-          "destructionPercentage": 85.13333333333334
+          "stars": 41,
+          "attacks": 14,
+          "destructionPercentage": 91.8
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
