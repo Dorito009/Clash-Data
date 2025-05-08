@@ -4674,15 +4674,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
         },
         "clanLevel": 20,
-        "attacks": 7,
-        "stars": 20,
-        "destructionPercentage": 45.13333333333333,
+        "attacks": 8,
+        "stars": 23,
+        "destructionPercentage": 51.8,
         "members": [
           {
             "tag": "#Q92V2P9UQ",
             "name": "chico net",
             "townhallLevel": 14,
             "mapPosition": 11,
+            "attacks": [
+              {
+                "attackerTag": "#Q92V2P9UQ",
+                "defenderTag": "#PPJLGLPVL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 23,
+                "duration": 104
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#PPJLGLPVL",
@@ -5272,7 +5282,15 @@
                 "duration": 71
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q92V2P9UQ",
+              "defenderTag": "#PPJLGLPVL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 23,
+              "duration": 104
+            }
           },
           {
             "tag": "#8PV2Y0JPV",
@@ -6030,9 +6048,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
           },
-          "stars": 20,
-          "attacks": 7,
-          "destructionPercentage": 45.13333333333333
+          "stars": 23,
+          "attacks": 8,
+          "destructionPercentage": 51.8
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -6069,9 +6087,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 4,
+          "attacks": 2,
+          "destructionPercentage": 11.866666666666667
         }
       }
     ]
