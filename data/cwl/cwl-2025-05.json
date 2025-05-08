@@ -4674,9 +4674,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
         },
         "clanLevel": 20,
-        "attacks": 8,
-        "stars": 23,
-        "destructionPercentage": 51.8,
+        "attacks": 9,
+        "stars": 25,
+        "destructionPercentage": 58.13333333333333,
         "members": [
           {
             "tag": "#Q92V2P9UQ",
@@ -4958,6 +4958,16 @@
             "name": "lalescav",
             "townhallLevel": 16,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#QG9Y9LCPR",
+                "defenderTag": "#9JQP9VUPY",
+                "stars": 2,
+                "destructionPercentage": 95,
+                "order": 24,
+                "duration": 133
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#9JQP9VUPY",
@@ -5173,7 +5183,15 @@
                 "duration": 156
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QG9Y9LCPR",
+              "defenderTag": "#9JQP9VUPY",
+              "stars": 2,
+              "destructionPercentage": 95,
+              "order": 24,
+              "duration": 133
+            }
           },
           {
             "tag": "#YU982RCVV",
@@ -6048,9 +6066,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
           },
-          "stars": 23,
-          "attacks": 8,
-          "destructionPercentage": 51.8
+          "stars": 25,
+          "attacks": 9,
+          "destructionPercentage": 58.13333333333333
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
