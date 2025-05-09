@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250509T070000.000Z",
   "endTime": "20250512T070000.000Z",
-  "capitalTotalLoot": 180496,
+  "capitalTotalLoot": 187022,
   "raidsCompleted": 3,
-  "totalAttacks": 49,
-  "enemyDistrictsDestroyed": 19,
+  "totalAttacks": 51,
+  "enemyDistrictsDestroyed": 20,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -76,10 +76,18 @@
     {
       "tag": "#QY2PCRLPJ",
       "name": "Louise",
-      "attacks": 2,
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 12616
+    },
+    {
+      "tag": "#P8Y8VC9PV",
+      "name": "sofie",
+      "attacks": 1,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 8880
+      "capitalResourcesLooted": 2790
     },
     {
       "tag": "#YLCRQLJY9",
