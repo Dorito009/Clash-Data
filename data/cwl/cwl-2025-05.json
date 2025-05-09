@@ -4674,9 +4674,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
         },
         "clanLevel": 20,
-        "attacks": 10,
-        "stars": 27,
-        "destructionPercentage": 64.66666666666667,
+        "attacks": 12,
+        "stars": 30,
+        "destructionPercentage": 71.33333333333333,
         "members": [
           {
             "tag": "#Q92V2P9UQ",
@@ -4888,6 +4888,16 @@
             "name": "Warley\u2122",
             "townhallLevel": 16,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#QJCGQP8UR",
+                "defenderTag": "#8PV2Y0JPV",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 27,
+                "duration": 107
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#RJJGCV0P",
@@ -4993,6 +5003,16 @@
             "name": "matheus",
             "townhallLevel": 14,
             "mapPosition": 13,
+            "attacks": [
+              {
+                "attackerTag": "#2P09U2RLV",
+                "defenderTag": "#Q0RUPY9YP",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 26,
+                "duration": 132
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#Q0RUPY9YP",
@@ -5142,7 +5162,15 @@
                 "duration": 104
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2P09U2RLV",
+              "defenderTag": "#Q0RUPY9YP",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 26,
+              "duration": 132
+            }
           },
           {
             "tag": "#PP9R8LJGG",
@@ -5343,7 +5371,7 @@
                 "duration": 128
               }
             ],
-            "opponentAttacks": 1,
+            "opponentAttacks": 2,
             "bestOpponentAttack": {
               "attackerTag": "#L29Q0228",
               "defenderTag": "#8PV2Y0JPV",
@@ -6084,9 +6112,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
           },
-          "stars": 27,
-          "attacks": 10,
-          "destructionPercentage": 64.66666666666667
+          "stars": 30,
+          "attacks": 12,
+          "destructionPercentage": 71.33333333333333
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -6111,9 +6139,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EGuK96UhRd_CbHsW7ElpSrE94j3IzM4511oRarVKvrE.png"
           },
-          "stars": 38,
-          "attacks": 13,
-          "destructionPercentage": 86.6
+          "stars": 40,
+          "attacks": 14,
+          "destructionPercentage": 93.0
         },
         "clan2": {
           "tag": "#2QG09J0QG",
@@ -6123,9 +6151,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/nAZqxOTbl9xoXjgj8kd49gAZJOgdQ76-2zbBZdPGzD8.png"
           },
-          "stars": 4,
-          "attacks": 2,
-          "destructionPercentage": 11.866666666666667
+          "stars": 7,
+          "attacks": 3,
+          "destructionPercentage": 18.533333333333335
         }
       }
     ]
