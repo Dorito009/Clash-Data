@@ -4674,9 +4674,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
         },
         "clanLevel": 20,
-        "attacks": 12,
-        "stars": 30,
-        "destructionPercentage": 71.33333333333333,
+        "attacks": 13,
+        "stars": 33,
+        "destructionPercentage": 78.0,
         "members": [
           {
             "tag": "#Q92V2P9UQ",
@@ -4708,6 +4708,16 @@
             "name": "razak",
             "townhallLevel": 15,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#LQRP0LPQV",
+                "defenderTag": "#GQYQ92VLL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 28,
+                "duration": 91
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#GQYQ92VLL",
@@ -5103,7 +5113,15 @@
                 "duration": 137
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LQRP0LPQV",
+              "defenderTag": "#GQYQ92VLL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 28,
+              "duration": 91
+            }
           },
           {
             "tag": "#RJJGCV0P",
@@ -6112,9 +6130,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fe-Aizei0e3o4WqTjGRU3G94Eh0PLawFi77Y8q67L74.png"
           },
-          "stars": 30,
-          "attacks": 12,
-          "destructionPercentage": 71.33333333333333
+          "stars": 33,
+          "attacks": 13,
+          "destructionPercentage": 78.0
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
