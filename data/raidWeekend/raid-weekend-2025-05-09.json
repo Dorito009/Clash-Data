@@ -692,5 +692,306 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#2YULRPQVJ",
+        "name": "mayno",
+        "level": 17,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eB4ZMYiyzVkl-Aw6dRzC1O5N941j3hcfqVGnXgK2Kyo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eB4ZMYiyzVkl-Aw6dRzC1O5N941j3hcfqVGnXgK2Kyo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eB4ZMYiyzVkl-Aw6dRzC1O5N941j3hcfqVGnXgK2Kyo.png"
+        }
+      },
+      "attackCount": 23,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12164,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLCQ20LU0",
+                "name": "\u5f90\u68a6\u6f9c14845"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLCQ20LU0",
+                "name": "\u5f90\u68a6\u6f9c14845"
+              },
+              "destructionPercent": 96,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GQYQCC0VC",
+                "name": "Ying bao"
+              },
+              "destructionPercent": 73,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GLCQ20LU0",
+                "name": "\u5f90\u68a6\u6f9c14845"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10247,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GR28CQR98",
+                "name": "\u5f90\u68a6\u6f9c15605"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYCJG9YCJ",
+                "name": "\u5f90\u68a6\u6f9c15946"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GL9CY88QQ",
+                "name": "\u5f90\u68a6\u6f9c16321"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8453,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2J0JLP89",
+                "name": "\u0631\u0636\u0627"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLQJYRJP0",
+                "name": "\u5f90\u68a6\u6f9c15959"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GYQ2G92RR",
+                "name": "\u5f90\u68a6\u6f9c16319"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9231,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGJVLPRPL",
+                "name": "\u5f90\u68a6\u6f9c15001"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYQ2QPGRY",
+                "name": "\u5f90\u68a6\u6f9c16301"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GLU988R2V",
+                "name": "\u5f90\u68a6\u6f9c16176"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9592,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQYQCC0VC",
+                "name": "Ying bao"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLYQYCPGY",
+                "name": "\u5f90\u68a6\u6f9c16314"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GLU8GG8JC",
+                "name": "\u5f90\u68a6\u6f9c16175"
+              },
+              "destructionPercent": 37,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8191,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQYQCC0VC",
+                "name": "Ying bao"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQYQCC0VC",
+                "name": "Ying bao"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8987,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVGU00R9C",
+                "name": "SaNaAn"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QVGU00R9C",
+                "name": "SaNaAn"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8849,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQYQCC0VC",
+                "name": "Ying bao"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QVGU00R9C",
+                "name": "SaNaAn"
+              },
+              "destructionPercent": 53,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 1,
+          "totalLooted": 5554,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVGU00R9C",
+                "name": "SaNaAn"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
