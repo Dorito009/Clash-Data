@@ -16,7 +16,7 @@ warurl = f'https://cocproxy.royaleapi.dev/v1/clanwarleagues/wars/'
 response = requests.get(url, headers=headers)
 data = response.json()
 
-if data.get("state") != "ended":
+if data.get("state") and data.get("state") != "ended":
     data.pop("clans")
     
     rounds = data.get("rounds")
