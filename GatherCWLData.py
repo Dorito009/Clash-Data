@@ -58,6 +58,6 @@ if data.get("state") in (["inWar", "preparation", "warEnded"]):
                     round_array.append(round_data)
         write_data["rounds"].append(round_array)
 
-
-with open(f"data/cwl/cwl-{data.get("season")}.json", "w") as f:
-    json.dump(write_data, f, indent=2)
+if data.get("state") != "ended":
+    with open(f"data/cwl/cwl-{data.get("season")}.json", "w") as f:
+        json.dump(write_data, f, indent=2)
