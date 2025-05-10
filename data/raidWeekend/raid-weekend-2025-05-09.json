@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250509T070000.000Z",
   "endTime": "20250512T070000.000Z",
-  "capitalTotalLoot": 565455,
-  "raidsCompleted": 7,
-  "totalAttacks": 162,
-  "enemyDistrictsDestroyed": 62,
+  "capitalTotalLoot": 590780,
+  "raidsCompleted": 8,
+  "totalAttacks": 167,
+  "enemyDistrictsDestroyed": 63,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -108,10 +108,10 @@
     {
       "tag": "#8LYGCV8LY",
       "name": "Florimannn",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 2915
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 28240
     },
     {
       "tag": "#L8JPLYYLJ",
@@ -2046,6 +2046,322 @@
               },
               "destructionPercent": 34,
               "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2P02VU8PL",
+        "name": "Rocky",
+        "level": 15,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ZTWCqihAsAEtmyertYtLkykt8qq6AxUrneyLivKPOJw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ZTWCqihAsAEtmyertYtLkykt8qq6AxUrneyLivKPOJw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ZTWCqihAsAEtmyertYtLkykt8qq6AxUrneyLivKPOJw.png"
+        }
+      },
+      "attackCount": 25,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 11865,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8LYGCV8LY",
+                "name": "Florimannn"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 78,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#2J0VC292U",
+                "name": "Sergen"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11061,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2J0VC292U",
+                "name": "Sergen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JQP9VUPY",
+                "name": "123lucas123"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8LYGCV8LY",
+                "name": "Florimannn"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9JQP9VUPY",
+                "name": "123lucas123"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8257,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8990,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JQP9VUPY",
+                "name": "123lucas123"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8580,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QR9JJP9PL",
+                "name": "bente"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QR9JJP9PL",
+                "name": "bente"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 7768,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2J0VC292U",
+                "name": "Sergen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QR9JJP9PL",
+                "name": "bente"
+              },
+              "destructionPercent": 69,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QR9JJP9PL",
+                "name": "bente"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9141,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2J0VC292U",
+                "name": "Sergen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JQP9VUPY",
+                "name": "123lucas123"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 7882,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2J0VC292U",
+                "name": "Sergen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JQP9VUPY",
+                "name": "123lucas123"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 5982,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QR9JJP9PL",
+                "name": "bente"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QR9JJP9PL",
+                "name": "bente"
+              },
+              "destructionPercent": 67,
+              "stars": 1
             }
           ]
         }
