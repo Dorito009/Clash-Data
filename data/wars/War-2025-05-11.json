@@ -34,7 +34,7 @@
             "duration": 91
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GJ2CYG2RR",
           "defenderTag": "#88GVYL9VQ",
@@ -134,14 +134,14 @@
             "duration": 149
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GQJGRVU80",
+          "attackerTag": "#2GVPPGVRU",
           "defenderTag": "#L8JPLYYLJ",
-          "stars": 2,
-          "destructionPercentage": 83,
-          "order": 12,
-          "duration": 110
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 140
         }
       },
       {
@@ -233,14 +233,14 @@
             "duration": 81
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#G2YPP99LC",
+          "attackerTag": "#YQLPL2PG0",
           "defenderTag": "#PRUGPLRPG",
-          "stars": 2,
-          "destructionPercentage": 82,
-          "order": 23,
-          "duration": 169
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 127
         }
       },
       {
@@ -372,7 +372,7 @@
             "duration": 97
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QQPQRC8RQ",
           "defenderTag": "#99RCQLLCR",
@@ -451,15 +451,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/tUFJpip94ft9JKVjxdVhLzjfoXinkjMcw3B4Ek0Msa4.png"
     },
     "clanLevel": 11,
-    "attacks": 21,
-    "stars": 39,
-    "destructionPercentage": 93.86667,
+    "attacks": 25,
+    "stars": 41,
+    "destructionPercentage": 96.2,
     "members": [
       {
         "tag": "#YQLPL2PG0",
         "name": "LOOPER",
         "townhallLevel": 14,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#YQLPL2PG0",
+            "defenderTag": "#99RCQLLCR",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 44,
+            "duration": 110
+          },
+          {
+            "attackerTag": "#YQLPL2PG0",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PP9R8LJGG",
@@ -754,6 +772,16 @@
         "name": "Aminebb",
         "townhallLevel": 14,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2GVPPGVRU",
+            "defenderTag": "#L8JPLYYLJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#RJJGCV0P",
@@ -769,6 +797,16 @@
         "name": "hamada 2",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#9UQLUCRV8",
+            "defenderTag": "#88GVYL9VQ",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 46,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PRUGPLRPG",
