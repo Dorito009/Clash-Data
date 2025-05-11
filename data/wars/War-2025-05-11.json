@@ -232,7 +232,15 @@
         "name": "Tobo",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQPQRC8RQ",
+          "defenderTag": "#99RCQLLCR",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 19,
+          "duration": 160
+        }
       },
       {
         "tag": "#PPJLGLPVL",
@@ -295,9 +303,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/tUFJpip94ft9JKVjxdVhLzjfoXinkjMcw3B4Ek0Msa4.png"
     },
     "clanLevel": 11,
-    "attacks": 10,
-    "stars": 26,
-    "destructionPercentage": 62.466667,
+    "attacks": 11,
+    "stars": 28,
+    "destructionPercentage": 68.4,
     "members": [
       {
         "tag": "#YQLPL2PG0",
@@ -326,6 +334,16 @@
         "name": "\u0122X",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#QQPQRC8RQ",
+            "defenderTag": "#99RCQLLCR",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 19,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 0
       },
       {
