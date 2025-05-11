@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 8,
-    "stars": 20,
-    "destructionPercentage": 47.2,
+    "attacks": 9,
+    "stars": 21,
+    "destructionPercentage": 53.0,
     "members": [
       {
         "tag": "#88GVYL9VQ",
@@ -56,7 +56,15 @@
         "name": "Mo Amissi",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVJQ8Q9CQ",
+          "defenderTag": "#L9QP0YUC8",
+          "stars": 1,
+          "destructionPercentage": 56,
+          "order": 22,
+          "duration": 120
+        }
       },
       {
         "tag": "#8LYGCV8LY",
@@ -155,7 +163,15 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVJQ8Q9CQ",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 1,
+          "destructionPercentage": 61,
+          "order": 21,
+          "duration": 98
+        }
       },
       {
         "tag": "#QY2PCRLPJ",
@@ -232,6 +248,16 @@
         "name": "Tobo",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#99RCQLLCR",
+            "defenderTag": "#QQPQRC8RQ",
+            "stars": 1,
+            "destructionPercentage": 87,
+            "order": 20,
+            "duration": 97
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QQPQRC8RQ",
@@ -303,9 +329,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/tUFJpip94ft9JKVjxdVhLzjfoXinkjMcw3B4Ek0Msa4.png"
     },
     "clanLevel": 11,
-    "attacks": 11,
-    "stars": 28,
-    "destructionPercentage": 68.4,
+    "attacks": 13,
+    "stars": 30,
+    "destructionPercentage": 76.2,
     "members": [
       {
         "tag": "#YQLPL2PG0",
@@ -344,7 +370,15 @@
             "duration": 160
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#99RCQLLCR",
+          "defenderTag": "#QQPQRC8RQ",
+          "stars": 1,
+          "destructionPercentage": 87,
+          "order": 20,
+          "duration": 97
+        }
       },
       {
         "tag": "#P8J8908P9",
@@ -424,6 +458,24 @@
         "name": "Ahmed Wael",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QVJQ8Q9CQ",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 1,
+            "destructionPercentage": 61,
+            "order": 21,
+            "duration": 98
+          },
+          {
+            "attackerTag": "#QVJQ8Q9CQ",
+            "defenderTag": "#L9QP0YUC8",
+            "stars": 1,
+            "destructionPercentage": 56,
+            "order": 22,
+            "duration": 120
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#88GVYL9VQ",
