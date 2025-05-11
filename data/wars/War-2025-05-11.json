@@ -15,16 +15,34 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 6,
-    "stars": 14,
-    "destructionPercentage": 33.866665,
+    "attacks": 8,
+    "stars": 20,
+    "destructionPercentage": 47.2,
     "members": [
       {
         "tag": "#88GVYL9VQ",
         "name": "thijmen",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#88GVYL9VQ",
+            "defenderTag": "#QVJQ8Q9CQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 91
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GJ2CYG2RR",
+          "defenderTag": "#88GVYL9VQ",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 15,
+          "duration": 180
+        }
       },
       {
         "tag": "#RJJGCV0P",
@@ -199,7 +217,15 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GJ2CYG2RR",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 16,
+          "duration": 168
+        }
       },
       {
         "tag": "#99RCQLLCR",
@@ -213,6 +239,16 @@
         "name": "Elias",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PPJLGLPVL",
+            "defenderTag": "#Q090RYJUP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 164
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q090RYJUP",
@@ -259,9 +295,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/tUFJpip94ft9JKVjxdVhLzjfoXinkjMcw3B4Ek0Msa4.png"
     },
     "clanLevel": 11,
-    "attacks": 8,
-    "stars": 22,
-    "destructionPercentage": 51.066666,
+    "attacks": 10,
+    "stars": 26,
+    "destructionPercentage": 62.466667,
     "members": [
       {
         "tag": "#YQLPL2PG0",
@@ -370,7 +406,15 @@
         "name": "Ahmed Wael",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88GVYL9VQ",
+          "defenderTag": "#QVJQ8Q9CQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 91
+        }
       },
       {
         "tag": "#QL0V9LRGY",
@@ -410,6 +454,24 @@
         "name": "PAUSE\u221a\u221a",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#GJ2CYG2RR",
+            "defenderTag": "#88GVYL9VQ",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 15,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#GJ2CYG2RR",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 16,
+            "duration": 168
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -435,7 +497,15 @@
             "duration": 136
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PPJLGLPVL",
+          "defenderTag": "#Q090RYJUP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 164
+        }
       },
       {
         "tag": "#2GVPPGVRU",
