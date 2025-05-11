@@ -49,7 +49,15 @@
         "name": "JortGVA",
         "townhallLevel": 14,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2YPP99LC",
+          "defenderTag": "#RJJGCV0P",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 24,
+          "duration": 165
+        }
       },
       {
         "tag": "#L9QP0YUC8",
@@ -163,14 +171,14 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QVJQ8Q9CQ",
+          "attackerTag": "#G2YPP99LC",
           "defenderTag": "#PRUGPLRPG",
-          "stars": 1,
-          "destructionPercentage": 61,
-          "order": 21,
-          "duration": 98
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 23,
+          "duration": 169
         }
       },
       {
@@ -329,9 +337,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/tUFJpip94ft9JKVjxdVhLzjfoXinkjMcw3B4Ek0Msa4.png"
     },
     "clanLevel": 11,
-    "attacks": 13,
-    "stars": 30,
-    "destructionPercentage": 76.2,
+    "attacks": 15,
+    "stars": 33,
+    "destructionPercentage": 82.13333,
     "members": [
       {
         "tag": "#YQLPL2PG0",
@@ -618,6 +626,24 @@
         "name": "~\u00a6|[CRONOS]|\u00a6~",
         "townhallLevel": 12,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#G2YPP99LC",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 23,
+            "duration": 169
+          },
+          {
+            "attackerTag": "#G2YPP99LC",
+            "defenderTag": "#RJJGCV0P",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 24,
+            "duration": 165
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8LYGCV8LY",
