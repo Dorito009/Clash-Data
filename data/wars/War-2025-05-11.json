@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 9,
-    "stars": 21,
-    "destructionPercentage": 53.0,
+    "attacks": 10,
+    "stars": 22,
+    "destructionPercentage": 59.333332,
     "members": [
       {
         "tag": "#88GVYL9VQ",
@@ -64,6 +64,16 @@
         "name": "Mo Amissi",
         "townhallLevel": 13,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#9UQLUCRV8",
+            "stars": 1,
+            "destructionPercentage": 95,
+            "order": 25,
+            "duration": 163
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QVJQ8Q9CQ",
@@ -164,7 +174,15 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8UQ99Y2LV",
+          "defenderTag": "#PP9R8LJGG",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 26,
+          "duration": 174
+        }
       },
       {
         "tag": "#PRUGPLRPG",
@@ -337,9 +355,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/tUFJpip94ft9JKVjxdVhLzjfoXinkjMcw3B4Ek0Msa4.png"
     },
     "clanLevel": 11,
-    "attacks": 15,
-    "stars": 33,
-    "destructionPercentage": 82.13333,
+    "attacks": 16,
+    "stars": 35,
+    "destructionPercentage": 87.6,
     "members": [
       {
         "tag": "#YQLPL2PG0",
@@ -597,13 +615,31 @@
         "name": "hamada 2",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#9UQLUCRV8",
+          "stars": 1,
+          "destructionPercentage": 95,
+          "order": 25,
+          "duration": 163
+        }
       },
       {
         "tag": "#8UQ99Y2LV",
         "name": "\u0647\u0632\u064a\u0645",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#8UQ99Y2LV",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 26,
+            "duration": 174
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PP9R8LJGG",
