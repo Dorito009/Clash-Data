@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 16,
-    "stars": 33,
-    "destructionPercentage": 73.46667,
+    "attacks": 21,
+    "stars": 38,
+    "destructionPercentage": 90.333336,
     "members": [
       {
         "tag": "#88GVYL9VQ",
@@ -49,6 +49,16 @@
         "name": "JortGVA",
         "townhallLevel": 14,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#RJJGCV0P",
+            "defenderTag": "#2GVPPGVRU",
+            "stars": 2,
+            "destructionPercentage": 73,
+            "order": 39,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8UQ99Y2LV",
@@ -74,14 +84,14 @@
             "duration": 163
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#QQPQRC8RQ",
+          "attackerTag": "#P8J8908P9",
           "defenderTag": "#L9QP0YUC8",
-          "stars": 2,
-          "destructionPercentage": 52,
-          "order": 30,
-          "duration": 108
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 37,
+          "duration": 126
         }
       },
       {
@@ -147,6 +157,14 @@
             "destructionPercentage": 100,
             "order": 2,
             "duration": 86
+          },
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#GJ2CYG2RR",
+            "stars": 1,
+            "destructionPercentage": 90,
+            "order": 41,
+            "duration": 123
           }
         ],
         "opponentAttacks": 1,
@@ -205,6 +223,14 @@
             "destructionPercentage": 61,
             "order": 34,
             "duration": 102
+          },
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#GJ2CYG2RR",
+            "stars": 1,
+            "destructionPercentage": 58,
+            "order": 42,
+            "duration": 81
           }
         ],
         "opponentAttacks": 2,
@@ -263,6 +289,14 @@
             "destructionPercentage": 49,
             "order": 1,
             "duration": 116
+          },
+          {
+            "attackerTag": "#PCP89Q20Q",
+            "defenderTag": "#YC8PL20VP",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 40,
+            "duration": 132
           }
         ],
         "opponentAttacks": 1,
@@ -313,14 +347,14 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GJ2CYG2RR",
+          "attackerTag": "#P8J8908P9",
           "defenderTag": "#UVPQ9Y8U",
-          "stars": 2,
-          "destructionPercentage": 82,
-          "order": 16,
-          "duration": 168
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 114
         }
       },
       {
@@ -386,6 +420,14 @@
             "destructionPercentage": 59,
             "order": 13,
             "duration": 136
+          },
+          {
+            "attackerTag": "#8PV2Y0JPV",
+            "defenderTag": "#QG2QJQRY8",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 36,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -409,9 +451,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/tUFJpip94ft9JKVjxdVhLzjfoXinkjMcw3B4Ek0Msa4.png"
     },
     "clanLevel": 11,
-    "attacks": 19,
-    "stars": 37,
-    "destructionPercentage": 89.46667,
+    "attacks": 21,
+    "stars": 39,
+    "destructionPercentage": 93.86667,
     "members": [
       {
         "tag": "#YQLPL2PG0",
@@ -481,6 +523,24 @@
         "name": "ALLORD-OMAR",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#P8J8908P9",
+            "defenderTag": "#L9QP0YUC8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 126
+          },
+          {
+            "attackerTag": "#P8J8908P9",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LJ2J8QRPJ",
@@ -514,14 +574,14 @@
             "duration": 145
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LJ2J8QRPJ",
+          "attackerTag": "#8PV2Y0JPV",
           "defenderTag": "#QG2QJQRY8",
           "stars": 2,
-          "destructionPercentage": 87,
-          "order": 33,
-          "duration": 121
+          "destructionPercentage": 97,
+          "order": 36,
+          "duration": 180
         }
       },
       {
@@ -646,7 +706,15 @@
             "duration": 168
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPGCL8CYC",
+          "defenderTag": "#GJ2CYG2RR",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 41,
+          "duration": 123
+        }
       },
       {
         "tag": "#Q090RYJUP",
@@ -686,7 +754,15 @@
         "name": "Aminebb",
         "townhallLevel": 14,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RJJGCV0P",
+          "defenderTag": "#2GVPPGVRU",
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 39,
+          "duration": 130
+        }
       },
       {
         "tag": "#9UQLUCRV8",
@@ -751,7 +827,15 @@
             "duration": 125
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PCP89Q20Q",
+          "defenderTag": "#YC8PL20VP",
+          "stars": 2,
+          "destructionPercentage": 80,
+          "order": 40,
+          "duration": 132
+        }
       },
       {
         "tag": "#G2YPP99LC",
