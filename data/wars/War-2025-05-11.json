@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 23,
-    "stars": 39,
-    "destructionPercentage": 89.333336,
+    "attacks": 25,
+    "stars": 41,
+    "destructionPercentage": 93.26667,
     "members": [
       {
         "tag": "#88GVYL9VQ",
@@ -32,6 +32,14 @@
             "destructionPercentage": 100,
             "order": 18,
             "duration": 91
+          },
+          {
+            "attackerTag": "#88GVYL9VQ",
+            "defenderTag": "#9UQLUCRV8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 116
           }
         ],
         "opponentAttacks": 3,
@@ -388,6 +396,14 @@
             "destructionPercentage": 87,
             "order": 20,
             "duration": 97
+          },
+          {
+            "attackerTag": "#99RCQLLCR",
+            "defenderTag": "#YC8PL20VP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 53,
+            "duration": 113
           }
         ],
         "opponentAttacks": 3,
@@ -851,14 +867,14 @@
             "duration": 138
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#PRUGPLRPG",
+          "attackerTag": "#88GVYL9VQ",
           "defenderTag": "#9UQLUCRV8",
-          "stars": 2,
-          "destructionPercentage": 61,
-          "order": 34,
-          "duration": 102
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 116
         }
       },
       {
@@ -909,14 +925,14 @@
             "duration": 125
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PCP89Q20Q",
+          "attackerTag": "#99RCQLLCR",
           "defenderTag": "#YC8PL20VP",
-          "stars": 2,
-          "destructionPercentage": 80,
-          "order": 40,
-          "duration": 132
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "duration": 113
         }
       },
       {
