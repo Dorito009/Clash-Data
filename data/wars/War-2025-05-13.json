@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 3,
-    "stars": 7,
-    "destructionPercentage": 15.4,
+    "attacks": 6,
+    "stars": 13,
+    "destructionPercentage": 32.2,
     "members": [
       {
         "tag": "#YVPCR90PC",
@@ -56,6 +56,16 @@
         "name": "Florimannn",
         "townhallLevel": 13,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#Q2GQV2RYL",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 13,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q2GQV2RYL",
@@ -95,7 +105,25 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#Q2JU8YCU2",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 11,
+            "duration": 135
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRCRPYGP8",
+          "defenderTag": "#PP9R8LJGG",
+          "stars": 1,
+          "destructionPercentage": 74,
+          "order": 12,
+          "duration": 144
+        }
       },
       {
         "tag": "#PRUGPLRPG",
@@ -193,6 +221,16 @@
         "name": "Tobo",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#99RCQLLCR",
+            "defenderTag": "#9RC80298R",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 14,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -221,9 +259,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
     },
     "clanLevel": 10,
-    "attacks": 7,
-    "stars": 15,
-    "destructionPercentage": 42.933334,
+    "attacks": 8,
+    "stars": 16,
+    "destructionPercentage": 47.866665,
     "members": [
       {
         "tag": "#P0QQYGV8Y",
@@ -303,7 +341,15 @@
         "name": "\u270c\u2764\u063a\u0636\u0628 \u062c\u0647\u0646\u0645\u2764\u270c",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#99RCQLLCR",
+          "defenderTag": "#9RC80298R",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 14,
+          "duration": 180
+        }
       },
       {
         "tag": "#9LLU29LLG",
@@ -367,7 +413,15 @@
             "duration": 144
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9R8LJGG",
+          "defenderTag": "#Q2JU8YCU2",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 11,
+          "duration": 135
+        }
       },
       {
         "tag": "#PYGG8J99C",
@@ -381,6 +435,16 @@
         "name": "\u0627\u0644\u0646\u062c\u0645 \u0627\u0644\u0633\u0627\u0637\u0639",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QRCRPYGP8",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 1,
+            "destructionPercentage": 74,
+            "order": 12,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -405,7 +469,15 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#Q2GQV2RYL",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 13,
+          "duration": 180
+        }
       },
       {
         "tag": "#Q89CV2RJ2",
