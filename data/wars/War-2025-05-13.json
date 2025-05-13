@@ -5,7 +5,7 @@
   "battleModifier": "none",
   "preparationStartTime": "20250512T125448.000Z",
   "startTime": "20250513T115448.000Z",
-  "endTime": "20250514T115448.000Z",
+  "endTime": "20250514T122135.000Z",
   "clan": {
     "tag": "#2QGYR0GU2",
     "name": "EetMeBal",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 6.6666665,
     "members": [
       {
         "tag": "#YVPCR90PC",
@@ -31,14 +31,30 @@
         "name": "JortGVA",
         "townhallLevel": 14,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJGRRUV9P",
+          "defenderTag": "#RJJGCV0P",
+          "stars": 1,
+          "destructionPercentage": 79,
+          "order": 3,
+          "duration": 81
+        }
       },
       {
         "tag": "#8LYGCV8LY",
         "name": "Florimannn",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2GQV2RYL",
+          "defenderTag": "#8LYGCV8LY",
+          "stars": 1,
+          "destructionPercentage": 81,
+          "order": 2,
+          "duration": 140
+        }
       },
       {
         "tag": "#L8JPLYYLJ",
@@ -109,6 +125,16 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#Q89CV2RJ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 115
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -143,9 +169,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
     },
     "clanLevel": 10,
-    "attacks": 1,
-    "stars": 2,
-    "destructionPercentage": 5.6666665,
+    "attacks": 3,
+    "stars": 4,
+    "destructionPercentage": 16.333334,
     "members": [
       {
         "tag": "#P0QQYGV8Y",
@@ -201,6 +227,16 @@
         "name": "\u0623\u0628\u0637\u0627\u0644 \u0633\u0648\u0631\u064a\u0627",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LJGRRUV9P",
+            "defenderTag": "#RJJGCV0P",
+            "stars": 1,
+            "destructionPercentage": 79,
+            "order": 3,
+            "duration": 81
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -253,6 +289,16 @@
         "name": "Torki_b6",
         "townhallLevel": 13,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#Q2GQV2RYL",
+            "defenderTag": "#8LYGCV8LY",
+            "stars": 1,
+            "destructionPercentage": 81,
+            "order": 2,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -260,7 +306,15 @@
         "name": "m.d luffy",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y8LVCLUP2",
+          "defenderTag": "#Q89CV2RJ2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 115
+        }
       }
     ]
   }
