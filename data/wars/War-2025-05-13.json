@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 6,
+    "attacks": 7,
     "stars": 13,
     "destructionPercentage": 32.2,
     "members": [
@@ -66,14 +66,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q2GQV2RYL",
+          "attackerTag": "#L2LQULY2J",
           "defenderTag": "#8LYGCV8LY",
-          "stars": 1,
-          "destructionPercentage": 81,
-          "order": 2,
-          "duration": 140
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 160
         }
       },
       {
@@ -160,7 +160,15 @@
         "name": "Olivier05",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJGRRUV9P",
+          "defenderTag": "#YU982RCVV",
+          "stars": 1,
+          "destructionPercentage": 44,
+          "order": 15,
+          "duration": 87
+        }
       },
       {
         "tag": "#QY2PCRLPJ",
@@ -189,6 +197,14 @@
             "destructionPercentage": 100,
             "order": 4,
             "duration": 115
+          },
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#9RC80298R",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 16,
+            "duration": 130
           }
         ],
         "opponentAttacks": 1,
@@ -259,9 +275,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
     },
     "clanLevel": 10,
-    "attacks": 8,
-    "stars": 16,
-    "destructionPercentage": 47.866665,
+    "attacks": 10,
+    "stars": 19,
+    "destructionPercentage": 52.066666,
     "members": [
       {
         "tag": "#P0QQYGV8Y",
@@ -317,6 +333,16 @@
         "name": "lz",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#L2LQULY2J",
+            "defenderTag": "#8LYGCV8LY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -341,7 +367,7 @@
         "name": "\u270c\u2764\u063a\u0636\u0628 \u062c\u0647\u0646\u0645\u2764\u270c",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#99RCQLLCR",
           "defenderTag": "#9RC80298R",
@@ -379,6 +405,14 @@
             "destructionPercentage": 79,
             "order": 3,
             "duration": 81
+          },
+          {
+            "attackerTag": "#LJGRRUV9P",
+            "defenderTag": "#YU982RCVV",
+            "stars": 1,
+            "destructionPercentage": 44,
+            "order": 15,
+            "duration": 87
           }
         ],
         "opponentAttacks": 1,
