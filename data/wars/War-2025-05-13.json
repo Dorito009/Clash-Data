@@ -91,7 +91,15 @@
         "name": "Mika5578",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YU0Q8QV2J",
+          "defenderTag": "#L8JPLYYLJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 156
+        }
       },
       {
         "tag": "#QPGCL8CYC",
@@ -193,14 +201,30 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LLQYG9JC0",
+          "defenderTag": "#QY2PCRLPJ",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 23,
+          "duration": 79
+        }
       },
       {
         "tag": "#PCP89Q20Q",
         "name": "warrior",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YU0Q8QV2J",
+          "defenderTag": "#PCP89Q20Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "duration": 130
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -311,9 +335,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
     },
     "clanLevel": 10,
-    "attacks": 12,
-    "stars": 22,
-    "destructionPercentage": 59.933334,
+    "attacks": 15,
+    "stars": 30,
+    "destructionPercentage": 78.333336,
     "members": [
       {
         "tag": "#P0QQYGV8Y",
@@ -337,6 +361,16 @@
         "name": "Ren",
         "townhallLevel": 12,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#LLQYG9JC0",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 23,
+            "duration": 79
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -562,6 +596,24 @@
         "name": "dawod10-",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YU0Q8QV2J",
+            "defenderTag": "#L8JPLYYLJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 156
+          },
+          {
+            "attackerTag": "#YU0Q8QV2J",
+            "defenderTag": "#PCP89Q20Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 25,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 0
       },
       {
