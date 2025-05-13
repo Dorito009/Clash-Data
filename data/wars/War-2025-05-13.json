@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 10.533334,
+    "attacks": 3,
+    "stars": 7,
+    "destructionPercentage": 15.4,
     "members": [
       {
         "tag": "#YVPCR90PC",
@@ -31,6 +31,16 @@
         "name": "JortGVA",
         "townhallLevel": 14,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RJJGCV0P",
+            "defenderTag": "#LJGRRUV9P",
+            "stars": 2,
+            "destructionPercentage": 73,
+            "order": 10,
+            "duration": 131
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LJGRRUV9P",
@@ -153,14 +163,30 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQ9GJ0RY9",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 8,
+          "duration": 122
+        }
       },
       {
         "tag": "#LJ2J8QRPJ",
         "name": "FabianBawz",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QR89GCYP",
+          "defenderTag": "#LJ2J8QRPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 100
+        }
       },
       {
         "tag": "#99RCQLLCR",
@@ -195,9 +221,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
     },
     "clanLevel": 10,
-    "attacks": 5,
-    "stars": 10,
-    "destructionPercentage": 29.666666,
+    "attacks": 7,
+    "stars": 15,
+    "destructionPercentage": 42.933334,
     "members": [
       {
         "tag": "#P0QQYGV8Y",
@@ -236,6 +262,14 @@
             "destructionPercentage": 100,
             "order": 7,
             "duration": 177
+          },
+          {
+            "attackerTag": "#QQ9GJ0RY9",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 8,
+            "duration": 122
           }
         ],
         "opponentAttacks": 0
@@ -252,6 +286,16 @@
         "name": "Dz Power",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9QR89GCYP",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 100
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -291,7 +335,15 @@
             "duration": 81
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RJJGCV0P",
+          "defenderTag": "#LJGRRUV9P",
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 10,
+          "duration": 131
+        }
       },
       {
         "tag": "#2JLVJ80Y9",
