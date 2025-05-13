@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 6.6666665,
+    "attacks": 2,
+    "stars": 5,
+    "destructionPercentage": 10.533334,
     "members": [
       {
         "tag": "#YVPCR90PC",
@@ -68,6 +68,16 @@
         "name": "KoerpoerXD",
         "townhallLevel": 12,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#9LLU29LLG",
+            "stars": 2,
+            "destructionPercentage": 58,
+            "order": 6,
+            "duration": 94
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -82,7 +92,15 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P0QQYGV8Y",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 117
+        }
       },
       {
         "tag": "#9JQP9VUPY",
@@ -156,7 +174,15 @@
         "name": "Elias",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQ9GJ0RY9",
+          "defenderTag": "#PPJLGLPVL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 177
+        }
       }
     ]
   },
@@ -169,15 +195,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
     },
     "clanLevel": 10,
-    "attacks": 3,
-    "stars": 4,
-    "destructionPercentage": 16.333334,
+    "attacks": 5,
+    "stars": 10,
+    "destructionPercentage": 29.666666,
     "members": [
       {
         "tag": "#P0QQYGV8Y",
         "name": "ahmed.m",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#P0QQYGV8Y",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 117
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -192,6 +228,16 @@
         "name": "Punicher",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QQ9GJ0RY9",
+            "defenderTag": "#PPJLGLPVL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 177
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -220,7 +266,15 @@
         "name": "\u0102\u00d1 \u00cf\u015e",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPGCL8CYC",
+          "defenderTag": "#9LLU29LLG",
+          "stars": 2,
+          "destructionPercentage": 58,
+          "order": 6,
+          "duration": 94
+        }
       },
       {
         "tag": "#LJGRRUV9P",
