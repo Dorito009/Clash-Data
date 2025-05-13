@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 15,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -73,7 +73,15 @@
         "name": "123lucas123",
         "townhallLevel": 15,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2JU8YCU2",
+          "defenderTag": "#9JQP9VUPY",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 1,
+          "duration": 144
+        }
       },
       {
         "tag": "#YU982RCVV",
@@ -135,9 +143,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
     },
     "clanLevel": 10,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 5.6666665,
     "members": [
       {
         "tag": "#P0QQYGV8Y",
@@ -207,6 +215,16 @@
         "name": "\u0648\u064c\u0622\u0626\u0640\u0644\u064e",
         "townhallLevel": 16,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#Q2JU8YCU2",
+            "defenderTag": "#9JQP9VUPY",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 1,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 0
       },
       {
