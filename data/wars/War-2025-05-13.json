@@ -210,14 +210,14 @@
         "name": "Olivier05",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LJGRRUV9P",
+          "attackerTag": "#Q89CV2RJ2",
           "defenderTag": "#YU982RCVV",
-          "stars": 1,
-          "destructionPercentage": 44,
-          "order": 15,
-          "duration": 87
+          "stars": 2,
+          "destructionPercentage": 58,
+          "order": 31,
+          "duration": 119
         }
       },
       {
@@ -225,14 +225,14 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 15,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LLQYG9JC0",
+          "attackerTag": "#Q89CV2RJ2",
           "defenderTag": "#QY2PCRLPJ",
-          "stars": 2,
-          "destructionPercentage": 76,
-          "order": 23,
-          "duration": 79
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "duration": 135
         }
       },
       {
@@ -369,9 +369,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
     },
     "clanLevel": 10,
-    "attacks": 18,
-    "stars": 36,
-    "destructionPercentage": 89.666664,
+    "attacks": 20,
+    "stars": 38,
+    "destructionPercentage": 92.2,
     "members": [
       {
         "tag": "#P0QQYGV8Y",
@@ -722,6 +722,24 @@
         "name": "m.d luffy",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Q89CV2RJ2",
+            "defenderTag": "#YU982RCVV",
+            "stars": 2,
+            "destructionPercentage": 58,
+            "order": 31,
+            "duration": 119
+          },
+          {
+            "attackerTag": "#Q89CV2RJ2",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 32,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y8LVCLUP2",
