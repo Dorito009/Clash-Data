@@ -34,7 +34,15 @@
             "duration": 141
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PYGG8J99C",
+          "defenderTag": "#YVPCR90PC",
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 28,
+          "duration": 155
+        }
       },
       {
         "tag": "#RJJGCV0P",
@@ -51,14 +59,14 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LJGRRUV9P",
+          "attackerTag": "#PYGG8J99C",
           "defenderTag": "#RJJGCV0P",
-          "stars": 1,
-          "destructionPercentage": 79,
-          "order": 3,
-          "duration": 81
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 29,
+          "duration": 155
         }
       },
       {
@@ -353,9 +361,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
     },
     "clanLevel": 10,
-    "attacks": 16,
-    "stars": 33,
-    "destructionPercentage": 85.0,
+    "attacks": 18,
+    "stars": 36,
+    "destructionPercentage": 89.666664,
     "members": [
       {
         "tag": "#P0QQYGV8Y",
@@ -590,6 +598,24 @@
         "name": "Mi D\u00f8\u2764",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#PYGG8J99C",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 2,
+            "destructionPercentage": 67,
+            "order": 28,
+            "duration": 155
+          },
+          {
+            "attackerTag": "#PYGG8J99C",
+            "defenderTag": "#RJJGCV0P",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 29,
+            "duration": 155
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YVPCR90PC",
