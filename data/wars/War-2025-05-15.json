@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 6,
-    "stars": 16,
-    "destructionPercentage": 21.84,
+    "attacks": 7,
+    "stars": 18,
+    "destructionPercentage": 25.12,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -162,6 +162,16 @@
         "name": "Mika5578",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L8JPLYYLJ",
+            "defenderTag": "#PYRYCP2J2",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 24,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8YJCYRUCU",
@@ -433,7 +443,15 @@
         "name": "\u0645\u0635\u0637\u0641\u0649",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L8JPLYYLJ",
+          "defenderTag": "#PYRYCP2J2",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 24,
+          "duration": 143
+        }
       },
       {
         "tag": "#2VJRJQUYY",
