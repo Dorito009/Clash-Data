@@ -46,7 +46,15 @@
         "name": "legendary",
         "townhallLevel": 13,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LPLJPRLG",
+          "defenderTag": "#YL0QC08UQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 138
+        }
       },
       {
         "tag": "#88GVYL9VQ",
@@ -184,7 +192,15 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#99YGYL9C0",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 155
+        }
       },
       {
         "tag": "#PP9R8LJGG",
@@ -383,15 +399,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/mxCDJrLIlx7qkLynYyIyTdKZX9v61-sLzXF97jHuhMw.png"
     },
     "clanLevel": 9,
-    "attacks": 15,
-    "stars": 40,
-    "destructionPercentage": 58.28,
+    "attacks": 17,
+    "stars": 46,
+    "destructionPercentage": 66.28,
     "members": [
       {
         "tag": "#8LPLJPRLG",
         "name": "THE VENOM",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#8LPLJPRLG",
+            "defenderTag": "#YL0QC08UQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L9QP0YUC8",
@@ -577,6 +603,14 @@
             "destructionPercentage": 100,
             "order": 15,
             "duration": 124
+          },
+          {
+            "attackerTag": "#99YGYL9C0",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 155
           }
         ],
         "opponentAttacks": 0
