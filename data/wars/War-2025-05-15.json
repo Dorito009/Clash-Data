@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 22,
-    "stars": 50,
-    "destructionPercentage": 67.36,
+    "attacks": 25,
+    "stars": 58,
+    "destructionPercentage": 78.24,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -69,6 +69,14 @@
             "destructionPercentage": 100,
             "order": 38,
             "duration": 176
+          },
+          {
+            "attackerTag": "#88GVYL9VQ",
+            "defenderTag": "#L9JGPVVVP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 93
           }
         ],
         "opponentAttacks": 1,
@@ -234,6 +242,14 @@
             "destructionPercentage": 82,
             "order": 24,
             "duration": 143
+          },
+          {
+            "attackerTag": "#L8JPLYYLJ",
+            "defenderTag": "#2GUVP88VP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 141
           }
         ],
         "opponentAttacks": 1,
@@ -451,6 +467,14 @@
             "destructionPercentage": 65,
             "order": 14,
             "duration": 115
+          },
+          {
+            "attackerTag": "#PCP89Q20Q",
+            "defenderTag": "#QU8202U0J",
+            "stars": 2,
+            "destructionPercentage": 72,
+            "order": 47,
+            "duration": 89
           }
         ],
         "opponentAttacks": 1,
@@ -876,7 +900,15 @@
         "name": "DARK MAGICIAN",
         "townhallLevel": 12,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88GVYL9VQ",
+          "defenderTag": "#L9JGPVVVP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 93
+        }
       },
       {
         "tag": "#LYYRJG0Y0",
@@ -1052,7 +1084,15 @@
         "name": "mustafa",
         "townhallLevel": 14,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L8JPLYYLJ",
+          "defenderTag": "#2GUVP88VP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 141
+        }
       },
       {
         "tag": "#QU8202U0J",
@@ -1077,7 +1117,15 @@
             "duration": 63
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PCP89Q20Q",
+          "defenderTag": "#QU8202U0J",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 47,
+          "duration": 89
+        }
       },
       {
         "tag": "#2U8P02QY9",
