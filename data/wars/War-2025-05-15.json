@@ -106,7 +106,15 @@
         "name": "JortGVA",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G00JRPQVQ",
+          "defenderTag": "#RJJGCV0P",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 25,
+          "duration": 180
+        }
       },
       {
         "tag": "#L9QP0YUC8",
@@ -357,7 +365,15 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G00JRPQVQ",
+          "defenderTag": "#YCQ98GC88",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 26,
+          "duration": 113
+        }
       },
       {
         "tag": "#LJ2J8QRPJ",
@@ -409,9 +425,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/mxCDJrLIlx7qkLynYyIyTdKZX9v61-sLzXF97jHuhMw.png"
     },
     "clanLevel": 9,
-    "attacks": 17,
-    "stars": 46,
-    "destructionPercentage": 66.28,
+    "attacks": 19,
+    "stars": 50,
+    "destructionPercentage": 72.76,
     "members": [
       {
         "tag": "#8LPLJPRLG",
@@ -717,6 +733,24 @@
         "name": "\u0645\u062d\u0645\u062f \u0627\u0644\u0634\u0645\u0631\u064a",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#G00JRPQVQ",
+            "defenderTag": "#RJJGCV0P",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 25,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#G00JRPQVQ",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 26,
+            "duration": 113
+          }
+        ],
         "opponentAttacks": 0
       },
       {
