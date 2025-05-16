@@ -15,15 +15,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 34,
+    "attacks": 37,
     "stars": 70,
-    "destructionPercentage": 94.64,
+    "destructionPercentage": 94.84,
     "members": [
       {
         "tag": "#20PLP8P9",
         "name": "swag",
         "townhallLevel": 13,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#20PLP8P9",
+            "defenderTag": "#99YGYL9C0",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 64,
+            "duration": 113
+          },
+          {
+            "attackerTag": "#20PLP8P9",
+            "defenderTag": "#QU8202U0J",
+            "stars": 1,
+            "destructionPercentage": 72,
+            "order": 65,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q8VJULCV0",
@@ -406,6 +424,14 @@
             "destructionPercentage": 42,
             "order": 62,
             "duration": 69
+          },
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#QU8202U0J",
+            "stars": 1,
+            "destructionPercentage": 48,
+            "order": 66,
+            "duration": 79
           }
         ],
         "opponentAttacks": 1,
@@ -1049,14 +1075,14 @@
             "duration": 155
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#Q0RUPY9YP",
+          "attackerTag": "#20PLP8P9",
           "defenderTag": "#99YGYL9C0",
           "stars": 2,
-          "destructionPercentage": 77,
-          "order": 55,
-          "duration": 128
+          "destructionPercentage": 82,
+          "order": 64,
+          "duration": 113
         }
       },
       {
@@ -1299,7 +1325,7 @@
             "duration": 63
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#PCP89Q20Q",
           "defenderTag": "#QU8202U0J",
