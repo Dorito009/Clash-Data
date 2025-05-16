@@ -265,7 +265,7 @@
             "duration": 173
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2VJRJQUYY",
           "defenderTag": "#9JQP9VUPY",
@@ -365,7 +365,7 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G00JRPQVQ",
           "defenderTag": "#YCQ98GC88",
@@ -425,7 +425,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/mxCDJrLIlx7qkLynYyIyTdKZX9v61-sLzXF97jHuhMw.png"
     },
     "clanLevel": 9,
-    "attacks": 19,
+    "attacks": 21,
     "stars": 50,
     "destructionPercentage": 72.76,
     "members": [
@@ -805,6 +805,24 @@
         "name": "Mahde",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QU8202U0J",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 1,
+            "destructionPercentage": 12,
+            "order": 27,
+            "duration": 25
+          },
+          {
+            "attackerTag": "#QU8202U0J",
+            "defenderTag": "#9JQP9VUPY",
+            "stars": 0,
+            "destructionPercentage": 16,
+            "order": 28,
+            "duration": 63
+          }
+        ],
         "opponentAttacks": 0
       },
       {
