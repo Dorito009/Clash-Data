@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 32,
+    "attacks": 33,
     "stars": 70,
     "destructionPercentage": 94.64,
     "members": [
@@ -102,6 +102,14 @@
             "destructionPercentage": 100,
             "order": 30,
             "duration": 106
+          },
+          {
+            "attackerTag": "#2RG2JRVUP",
+            "defenderTag": "#99YGYL9C0",
+            "stars": 1,
+            "destructionPercentage": 96,
+            "order": 59,
+            "duration": 139
           }
         ],
         "opponentAttacks": 1,
@@ -496,7 +504,7 @@
             "duration": 90
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2U8P02QY9",
           "defenderTag": "#QY2PCRLPJ",
@@ -673,7 +681,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/mxCDJrLIlx7qkLynYyIyTdKZX9v61-sLzXF97jHuhMw.png"
     },
     "clanLevel": 9,
-    "attacks": 26,
+    "attacks": 27,
     "stars": 59,
     "destructionPercentage": 85.6,
     "members": [
@@ -909,6 +917,16 @@
         "name": "DARK KNIGHT",
         "townhallLevel": 12,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#Q8VJULCV0",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 60,
+            "duration": 162
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8LYGCV8LY",
@@ -1005,7 +1023,7 @@
             "duration": 155
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q0RUPY9YP",
           "defenderTag": "#99YGYL9C0",
