@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 25,
-    "stars": 58,
-    "destructionPercentage": 78.24,
+    "attacks": 30,
+    "stars": 67,
+    "destructionPercentage": 89.68,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -444,6 +444,24 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#PC82PQJLP",
+            "stars": 2,
+            "destructionPercentage": 63,
+            "order": 50,
+            "duration": 117
+          },
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#QGYVCG090",
+            "stars": 2,
+            "destructionPercentage": 53,
+            "order": 51,
+            "duration": 90
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2U8P02QY9",
@@ -492,6 +510,24 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#PC82PQJLP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 133
+          },
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#8PUY0ULV9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#99YGYL9C0",
@@ -580,6 +616,14 @@
             "destructionPercentage": 100,
             "order": 13,
             "duration": 144
+          },
+          {
+            "attackerTag": "#99RCQLLCR",
+            "defenderTag": "#8VU9QPGJ0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 53,
+            "duration": 90
           }
         ],
         "opponentAttacks": 0
@@ -768,14 +812,14 @@
             "duration": 174
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LJ2J8QRPJ",
+          "attackerTag": "#99RCQLLCR",
           "defenderTag": "#8VU9QPGJ0",
-          "stars": 2,
-          "destructionPercentage": 67,
-          "order": 31,
-          "duration": 94
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "duration": 90
         }
       },
       {
@@ -798,7 +842,15 @@
         "name": "\u0124\u00c5\u00c5\u0141\u0102\u014a\u0110",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y8LVCLUP2",
+          "defenderTag": "#PC82PQJLP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 133
+        }
       },
       {
         "tag": "#Q8VJULCV0",
@@ -820,7 +872,15 @@
         "name": "ABBAS",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QY2PCRLPJ",
+          "defenderTag": "#QGYVCG090",
+          "stars": 2,
+          "destructionPercentage": 53,
+          "order": 51,
+          "duration": 90
+        }
       },
       {
         "tag": "#8YJCYRUCU",
@@ -1077,7 +1137,15 @@
             "duration": 167
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y8LVCLUP2",
+          "defenderTag": "#8PUY0ULV9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 145
+        }
       },
       {
         "tag": "#2GUVP88VP",
