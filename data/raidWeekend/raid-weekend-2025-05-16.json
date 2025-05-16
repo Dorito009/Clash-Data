@@ -2,20 +2,36 @@
   "state": "ongoing",
   "startTime": "20250516T070000.000Z",
   "endTime": "20250519T070000.000Z",
-  "capitalTotalLoot": 29270,
+  "capitalTotalLoot": 74535,
   "raidsCompleted": 0,
-  "totalAttacks": 8,
-  "enemyDistrictsDestroyed": 3,
+  "totalAttacks": 22,
+  "enemyDistrictsDestroyed": 8,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
-      "tag": "#PP9R8LJGG",
-      "name": "NielsTheKiller",
-      "attacks": 2,
+      "tag": "#2PV82G8UG",
+      "name": "stan",
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9977
+      "capitalResourcesLooted": 21959
+    },
+    {
+      "tag": "#L202YG9L0",
+      "name": "matanoei",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17910
+    },
+    {
+      "tag": "#PP9R8LJGG",
+      "name": "NielsTheKiller",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15373
     },
     {
       "tag": "#99RCQLLCR",
@@ -24,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 19293
+    },
+    {
+      "tag": "#8PV2Y0JPV",
+      "name": "ropje",
+      "attacks": 0,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 0
     }
   ],
   "attackLog": [],
