@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 8,
-    "stars": 21,
-    "destructionPercentage": 29.12,
+    "attacks": 10,
+    "stars": 25,
+    "destructionPercentage": 35.12,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -101,6 +101,16 @@
         "name": "Olizes",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YVPCR90PC",
+            "defenderTag": "#G00JRPQVQ",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 32,
+            "duration": 131
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LYYRJG0Y0",
@@ -398,6 +408,16 @@
         "name": "FabianBawz",
         "townhallLevel": 14,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#8VU9QPGJ0",
+            "stars": 2,
+            "destructionPercentage": 67,
+            "order": 31,
+            "duration": 94
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -582,7 +602,15 @@
             "duration": 174
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#8VU9QPGJ0",
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 31,
+          "duration": 94
+        }
       },
       {
         "tag": "#QC8GY09RR",
@@ -787,7 +815,15 @@
             "duration": 113
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVPCR90PC",
+          "defenderTag": "#G00JRPQVQ",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 32,
+          "duration": 131
+        }
       },
       {
         "tag": "#QUL0JQ08C",
