@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250516T070000.000Z",
   "endTime": "20250519T070000.000Z",
-  "capitalTotalLoot": 153878,
-  "raidsCompleted": 1,
-  "totalAttacks": 44,
-  "enemyDistrictsDestroyed": 17,
+  "capitalTotalLoot": 214470,
+  "raidsCompleted": 2,
+  "totalAttacks": 60,
+  "enemyDistrictsDestroyed": 21,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -26,6 +26,14 @@
       "capitalResourcesLooted": 21959
     },
     {
+      "tag": "#P9RGRYC9",
+      "name": "davidanemoon",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23105
+    },
+    {
       "tag": "#LJU2P9CL2",
       "name": "FONDIE LIE",
       "attacks": 2,
@@ -42,12 +50,20 @@
       "capitalResourcesLooted": 17910
     },
     {
+      "tag": "#Q9P2J02U",
+      "name": "Langpootmug2304",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18027
+    },
+    {
       "tag": "#QPGCL8CYC",
       "name": "KoerpoerXD",
-      "attacks": 1,
+      "attacks": 5,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 1970
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21430
     },
     {
       "tag": "#PP9R8LJGG",
@@ -410,6 +426,298 @@
               },
               "destructionPercent": 82,
               "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2YQC000GG",
+        "name": "Full Jaz PUBG",
+        "level": 15,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3ej9vp5XDAQSSHdFQ0EkAsCw528gtP0vRyquNohhym0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3ej9vp5XDAQSSHdFQ0EkAsCw528gtP0vRyquNohhym0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3ej9vp5XDAQSSHdFQ0EkAsCw528gtP0vRyquNohhym0.png"
+        }
+      },
+      "attackCount": 22,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12080,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P9RGRYC9",
+                "name": "davidanemoon"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P9RGRYC9",
+                "name": "davidanemoon"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#P9RGRYC9",
+                "name": "davidanemoon"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QPGCL8CYC",
+                "name": "KoerpoerXD"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10460,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQ9C2LPUC",
+                "name": "_ Shadow_"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQ9C2LPUC",
+                "name": "_ Shadow_"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LQ9C2LPUC",
+                "name": "_ Shadow_"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8539,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9507,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8392,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJU2P9CL2",
+                "name": "FONDIE LIE"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LJU2P9CL2",
+                "name": "FONDIE LIE"
+              },
+              "destructionPercent": 32,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 7687,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8532,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9580,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6132,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PCP89Q20Q",
+                "name": "warrior"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 69,
+              "stars": 1
             }
           ]
         }
