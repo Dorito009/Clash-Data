@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 2,
-    "stars": 6,
-    "destructionPercentage": 10.0,
+    "attacks": 4,
+    "stars": 10,
+    "destructionPercentage": 19.3,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -93,14 +93,14 @@
             "duration": 133
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LGUJLGLJ8",
+          "attackerTag": "#LRCP800QY",
           "defenderTag": "#L9QP0YUC8",
-          "stars": 2,
-          "destructionPercentage": 69,
-          "order": 1,
-          "duration": 112
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 87
         }
       },
       {
@@ -166,6 +166,16 @@
         "name": "123lucas123",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#Q0LJ0UVQR",
+            "stars": 1,
+            "destructionPercentage": 86,
+            "order": 11,
+            "duration": 115
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q0LJ0UVQR",
@@ -196,6 +206,16 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#QVR0J80RR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -244,9 +264,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/bd-yyBWJQYA6X14uaeSu2_rlvLQHVt4YTsK4lcmlU5k.png"
     },
     "clanLevel": 13,
-    "attacks": 7,
-    "stars": 20,
-    "destructionPercentage": 33.45,
+    "attacks": 8,
+    "stars": 21,
+    "destructionPercentage": 35.0,
     "members": [
       {
         "tag": "#QV90GY0U2",
@@ -399,7 +419,15 @@
             "duration": 75
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JQP9VUPY",
+          "defenderTag": "#Q0LJ0UVQR",
+          "stars": 1,
+          "destructionPercentage": 86,
+          "order": 11,
+          "duration": 115
+        }
       },
       {
         "tag": "#QJ9JQJJGQ",
@@ -413,6 +441,16 @@
         "name": "h a r e s",
         "townhallLevel": 14,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LRCP800QY",
+            "defenderTag": "#L9QP0YUC8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 10,
+            "duration": 87
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -468,7 +506,15 @@
         "name": "Bauti2",
         "townhallLevel": 10,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QY2PCRLPJ",
+          "defenderTag": "#QVR0J80RR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 141
+        }
       }
     ]
   }
