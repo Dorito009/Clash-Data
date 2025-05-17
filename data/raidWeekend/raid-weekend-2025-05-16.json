@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250516T070000.000Z",
   "endTime": "20250519T070000.000Z",
-  "capitalTotalLoot": 405808,
-  "raidsCompleted": 4,
-  "totalAttacks": 113,
-  "enemyDistrictsDestroyed": 44,
+  "capitalTotalLoot": 428559,
+  "raidsCompleted": 5,
+  "totalAttacks": 119,
+  "enemyDistrictsDestroyed": 46,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -160,6 +160,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 3210
+    },
+    {
+      "tag": "#LJ2J8QRPJ",
+      "name": "FabianBawz",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22751
     },
     {
       "tag": "#YLCRQLJY9",
@@ -1374,6 +1382,314 @@
               },
               "destructionPercent": 100,
               "stars": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#VLCG2VPY",
+        "name": "Ultima Eclips",
+        "level": 25,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/M5d9Y4VjxUbQL6ClMs7h5F4MtSMcljiJ9_WEBxc5Fz8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/M5d9Y4VjxUbQL6ClMs7h5F4MtSMcljiJ9_WEBxc5Fz8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/M5d9Y4VjxUbQL6ClMs7h5F4MtSMcljiJ9_WEBxc5Fz8.png"
+        }
+      },
+      "attackCount": 24,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 12337,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJ2J8QRPJ",
+                "name": "FabianBawz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LJ2J8QRPJ",
+                "name": "FabianBawz"
+              },
+              "destructionPercent": 86,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 61,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10625,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9JQP9VUPY",
+                "name": "123lucas123"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8370,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PP9R8LJGG",
+                "name": "NielsTheKiller"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8657,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JQP9VUPY",
+                "name": "123lucas123"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JQP9VUPY",
+                "name": "123lucas123"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8870,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JQP9VUPY",
+                "name": "123lucas123"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 7968,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YLCRQLJY9",
+                "name": "official_cyrez"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#20PLP8P9",
+                "name": "swag"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9886,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9686,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6240,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 54,
+              "stars": 1
             }
           ]
         }
