@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 6,
+    "destructionPercentage": 10.0,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -45,20 +45,54 @@
         "name": "Olizes",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PPYVRLJ08",
+          "defenderTag": "#YVPCR90PC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 69
+        }
       },
       {
         "tag": "#RJJGCV0P",
         "name": "JortGVA",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L0UYVQLRP",
+          "defenderTag": "#RJJGCV0P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 129
+        }
       },
       {
         "tag": "#L9QP0YUC8",
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#G8Q20G9G0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 93
+          },
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#VGU8209U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LGUJLGLJ8",
@@ -147,7 +181,15 @@
         "name": "Olivier05",
         "townhallLevel": 14,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PPYVRLJ08",
+          "defenderTag": "#YU982RCVV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 76
+        }
       },
       {
         "tag": "#QY2PCRLPJ",
@@ -202,9 +244,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/bd-yyBWJQYA6X14uaeSu2_rlvLQHVt4YTsK4lcmlU5k.png"
     },
     "clanLevel": 13,
-    "attacks": 4,
-    "stars": 11,
-    "destructionPercentage": 18.45,
+    "attacks": 7,
+    "stars": 20,
+    "destructionPercentage": 33.45,
     "members": [
       {
         "tag": "#QV90GY0U2",
@@ -235,7 +277,15 @@
         "name": "Jalmis\u2665\ufe0f",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#VGU8209U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 133
+        }
       },
       {
         "tag": "#PVU2090RJ",
@@ -249,7 +299,15 @@
         "name": "fh junior",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#G8Q20G9G0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 93
+        }
       },
       {
         "tag": "#LVGLPQQVY",
@@ -270,6 +328,24 @@
         "name": "Don vitto",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#PPYVRLJ08",
+            "defenderTag": "#YU982RCVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 76
+          },
+          {
+            "attackerTag": "#PPYVRLJ08",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 69
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -351,6 +427,16 @@
         "name": "destructor",
         "townhallLevel": 14,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#L0UYVQLRP",
+            "defenderTag": "#RJJGCV0P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 129
+          }
+        ],
         "opponentAttacks": 0
       },
       {
