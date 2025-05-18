@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 28,
+    "attacks": 30,
     "stars": 59,
     "destructionPercentage": 99.7,
     "members": [
@@ -82,7 +82,7 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#VGU8209U",
           "defenderTag": "#2RG2JRVUP",
@@ -188,6 +188,24 @@
         "name": "Florimannn",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#QVR0J80RR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 69,
+            "duration": 73
+          },
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#LCG9UGQYR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 70,
+            "duration": 63
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2QJ882PGR",
@@ -236,7 +254,7 @@
             "duration": 84
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#Y89R9829U",
           "defenderTag": "#QPGCL8CYC",
@@ -317,14 +335,14 @@
             "duration": 121
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LPG2CLLUC",
+          "attackerTag": "#PVU2090RJ",
           "defenderTag": "#PRUGPLRPG",
           "stars": 2,
-          "destructionPercentage": 65,
-          "order": 54,
-          "duration": 128
+          "destructionPercentage": 87,
+          "order": 67,
+          "duration": 131
         }
       },
       {
@@ -416,7 +434,7 @@
             "duration": 108
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#LGUJLGLJ8",
           "defenderTag": "#QY2PCRLPJ",
@@ -584,9 +602,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/bd-yyBWJQYA6X14uaeSu2_rlvLQHVt4YTsK4lcmlU5k.png"
     },
     "clanLevel": 13,
-    "attacks": 36,
+    "attacks": 40,
     "stars": 57,
-    "destructionPercentage": 95.95,
+    "destructionPercentage": 97.05,
     "members": [
       {
         "tag": "#QV90GY0U2",
@@ -692,6 +710,24 @@
         "name": "cml_lpbr",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#PVU2090RJ",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 67,
+            "duration": 131
+          },
+          {
+            "attackerTag": "#PVU2090RJ",
+            "defenderTag": "#2RG2JRVUP",
+            "stars": 1,
+            "destructionPercentage": 88,
+            "order": 68,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q2VUQY8GU",
@@ -1088,7 +1124,7 @@
             "duration": 95
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QPGCL8CYC",
           "defenderTag": "#LCG9UGQYR",
@@ -1202,7 +1238,25 @@
         "name": "Bauti2",
         "townhallLevel": 10,
         "mapPosition": 20,
-        "opponentAttacks": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QVR0J80RR",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 1,
+            "destructionPercentage": 68,
+            "order": 65,
+            "duration": 128
+          },
+          {
+            "attackerTag": "#QVR0J80RR",
+            "defenderTag": "#QPGCL8CYC",
+            "stars": 1,
+            "destructionPercentage": 83,
+            "order": 66,
+            "duration": 132
+          }
+        ],
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QY2PCRLPJ",
           "defenderTag": "#QVR0J80RR",
