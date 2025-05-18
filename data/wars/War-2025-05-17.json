@@ -15,23 +15,23 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 4,
-    "stars": 10,
-    "destructionPercentage": 19.3,
+    "attacks": 5,
+    "stars": 12,
+    "destructionPercentage": 22.5,
     "members": [
       {
         "tag": "#20PLP8P9",
         "name": "swag",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LVGLPQQVY",
+          "attackerTag": "#G8Q20G9G0",
           "defenderTag": "#20PLP8P9",
-          "stars": 1,
-          "destructionPercentage": 93,
-          "order": 16,
-          "duration": 140
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 19,
+          "duration": 59
         }
       },
       {
@@ -261,6 +261,16 @@
         "name": "holy blobfish",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Q2VUQY8GU",
+            "defenderTag": "#Y89R9829U",
+            "stars": 2,
+            "destructionPercentage": 64,
+            "order": 18,
+            "duration": 104
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LVGLPQQVY",
@@ -304,9 +314,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/bd-yyBWJQYA6X14uaeSu2_rlvLQHVt4YTsK4lcmlU5k.png"
     },
     "clanLevel": 13,
-    "attacks": 13,
-    "stars": 30,
-    "destructionPercentage": 57.45,
+    "attacks": 14,
+    "stars": 31,
+    "destructionPercentage": 56.1,
     "members": [
       {
         "tag": "#QV90GY0U2",
@@ -359,6 +369,16 @@
         "name": "fh junior",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#G8Q20G9G0",
+            "defenderTag": "#20PLP8P9",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 19,
+            "duration": 59
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L9QP0YUC8",
@@ -473,7 +493,15 @@
         "name": "Per\u00a7eo",
         "townhallLevel": 12,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2VUQY8GU",
+          "defenderTag": "#Y89R9829U",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 18,
+          "duration": 104
+        }
       },
       {
         "tag": "#QQVY8C8J8",
