@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 10,
-    "stars": 26,
-    "destructionPercentage": 47.05,
+    "attacks": 11,
+    "stars": 28,
+    "destructionPercentage": 49.7,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -157,7 +157,15 @@
         "name": "Joran Bawz",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y89R9829U",
+          "defenderTag": "#LPGGPVPRP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 150
+        }
       },
       {
         "tag": "#QPGCL8CYC",
@@ -274,6 +282,14 @@
             "destructionPercentage": 100,
             "order": 12,
             "duration": 141
+          },
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#LPG2CLLUC",
+            "stars": 2,
+            "destructionPercentage": 53,
+            "order": 34,
+            "duration": 108
           }
         ],
         "opponentAttacks": 0
@@ -402,9 +418,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/bd-yyBWJQYA6X14uaeSu2_rlvLQHVt4YTsK4lcmlU5k.png"
     },
     "clanLevel": 13,
-    "attacks": 23,
-    "stars": 44,
-    "destructionPercentage": 77.9,
+    "attacks": 24,
+    "stars": 47,
+    "destructionPercentage": 82.9,
     "members": [
       {
         "tag": "#QV90GY0U2",
@@ -577,7 +593,15 @@
         "name": "Victorrv",
         "townhallLevel": 12,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QY2PCRLPJ",
+          "defenderTag": "#LPG2CLLUC",
+          "stars": 2,
+          "destructionPercentage": 53,
+          "order": 34,
+          "duration": 108
+        }
       },
       {
         "tag": "#9GVRUGRV0",
@@ -617,6 +641,16 @@
         "name": "Per\u00a7eo",
         "townhallLevel": 12,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Y89R9829U",
+            "defenderTag": "#LPGGPVPRP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 150
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q2VUQY8GU",
