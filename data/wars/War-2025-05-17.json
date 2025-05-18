@@ -39,7 +39,15 @@
         "name": "thijmen",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G8Q20G9G0",
+          "defenderTag": "#88GVYL9VQ",
+          "stars": 1,
+          "destructionPercentage": 89,
+          "order": 26,
+          "duration": 103
+        }
       },
       {
         "tag": "#2RG2JRVUP",
@@ -346,9 +354,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/bd-yyBWJQYA6X14uaeSu2_rlvLQHVt4YTsK4lcmlU5k.png"
     },
     "clanLevel": 13,
-    "attacks": 20,
-    "stars": 41,
-    "destructionPercentage": 72.55,
+    "attacks": 21,
+    "stars": 42,
+    "destructionPercentage": 77.0,
     "members": [
       {
         "tag": "#QV90GY0U2",
@@ -429,6 +437,14 @@
             "destructionPercentage": 66,
             "order": 19,
             "duration": 59
+          },
+          {
+            "attackerTag": "#G8Q20G9G0",
+            "defenderTag": "#88GVYL9VQ",
+            "stars": 1,
+            "destructionPercentage": 89,
+            "order": 26,
+            "duration": 103
           }
         ],
         "opponentAttacks": 1,
