@@ -183,7 +183,15 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RLYVPG8G",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 21,
+          "duration": 91
+        }
       },
       {
         "tag": "#9JQP9VUPY",
@@ -247,14 +255,30 @@
         "name": "warrior",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RLYVPG8G",
+          "defenderTag": "#PCP89Q20Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "duration": 115
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QV90GY0U2",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 22,
+          "duration": 112
+        }
       },
       {
         "tag": "#Q2VUQY8GU",
@@ -314,15 +338,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/bd-yyBWJQYA6X14uaeSu2_rlvLQHVt4YTsK4lcmlU5k.png"
     },
     "clanLevel": 13,
-    "attacks": 14,
-    "stars": 31,
-    "destructionPercentage": 56.1,
+    "attacks": 17,
+    "stars": 37,
+    "destructionPercentage": 68.8,
     "members": [
       {
         "tag": "#QV90GY0U2",
         "name": "Jonathan",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#QV90GY0U2",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 1,
+            "destructionPercentage": 90,
+            "order": 22,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -596,6 +630,24 @@
         "name": "fhh el pro",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#RLYVPG8G",
+            "defenderTag": "#PCP89Q20Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 20,
+            "duration": 115
+          },
+          {
+            "attackerTag": "#RLYVPG8G",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 2,
+            "destructionPercentage": 64,
+            "order": 21,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 0
       },
       {
