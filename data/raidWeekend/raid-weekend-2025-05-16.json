@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250516T070000.000Z",
   "endTime": "20250519T070000.000Z",
-  "capitalTotalLoot": 608666,
+  "capitalTotalLoot": 614091,
   "raidsCompleted": 8,
-  "totalAttacks": 172,
+  "totalAttacks": 173,
   "enemyDistrictsDestroyed": 64,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23627
+    },
+    {
+      "tag": "#RJJGCV0P",
+      "name": "JortGVA",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 5425
     },
     {
       "tag": "#L9QP0YUC8",
@@ -2420,9 +2428,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/146XZTXcVrAcR_ViSkclWVRBBt2xR9XJjpe6EaVl1V0.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2464,11 +2472,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 4,
-          "destructionPercent": 79,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 5335,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 8469,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#UGYCC2QJ",
+                "name": "rocchi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9C99PVJ99",
@@ -2561,10 +2577,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8314,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UGYCC2QJ",
+                "name": "rocchi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UGYCC2QJ",
+                "name": "rocchi"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#UGYCC2QJ",
+                "name": "rocchi"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
