@@ -3444,6 +3444,314 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#VY992R88",
+        "name": "Night-Raid",
+        "level": 16,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/EJAvp7Gt3Kq8FFWXwvUlM97acua5eYicuVHw49lO76A.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/EJAvp7Gt3Kq8FFWXwvUlM97acua5eYicuVHw49lO76A.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/EJAvp7Gt3Kq8FFWXwvUlM97acua5eYicuVHw49lO76A.png"
+        }
+      },
+      "attackCount": 24,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11730,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2RRC2VRJ8",
+                "name": "\u2022 ADMIRAL \u2022"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGPGGQPG9",
+                "name": "Coc\u75af\u4e86"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGPGGQPG9",
+                "name": "Coc\u75af\u4e86"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGPGGQPG9",
+                "name": "Coc\u75af\u4e86"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10507,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YGLJV008G",
+                "name": "ShimazuToyohisa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YYJ2U8LGQ",
+                "name": "Abo Almajd"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YYJ2U8LGQ",
+                "name": "Abo Almajd"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8214,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YGLJV008G",
+                "name": "ShimazuToyohisa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQP9VQPPP",
+                "name": "Pain55nagato"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9242,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YGLJV008G",
+                "name": "ShimazuToyohisa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YGLJV008G",
+                "name": "ShimazuToyohisa"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YQP9VQPPP",
+                "name": "Pain55nagato"
+              },
+              "destructionPercent": 35,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9723,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GG2V0CVVL",
+                "name": "\u062c\u0640\u0640\u0640\u0640\u0644\u0640\u0640\u0640\u0645\u0640\u0640\u0640\u0648\u062f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GG2V0CVVL",
+                "name": "\u062c\u0640\u0640\u0640\u0640\u0644\u0640\u0640\u0640\u0645\u0640\u0640\u0640\u0648\u062f"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YQP9VQPPP",
+                "name": "Pain55nagato"
+              },
+              "destructionPercent": 35,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8268,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGPGGQPG9",
+                "name": "Coc\u75af\u4e86"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGPGGQPG9",
+                "name": "Coc\u75af\u4e86"
+              },
+              "destructionPercent": 21,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8927,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGPGGQPG9",
+                "name": "Coc\u75af\u4e86"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GG2V0CVVL",
+                "name": "\u062c\u0640\u0640\u0640\u0640\u0644\u0640\u0640\u0640\u0645\u0640\u0640\u0640\u0648\u062f"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GG2V0CVVL",
+                "name": "\u062c\u0640\u0640\u0640\u0640\u0644\u0640\u0640\u0640\u0645\u0640\u0640\u0640\u0648\u062f"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8916,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQP9VQPPP",
+                "name": "Pain55nagato"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YYJ2U8LGQ",
+                "name": "Abo Almajd"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6184,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YGLJV008G",
+                "name": "ShimazuToyohisa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQP9VQPPP",
+                "name": "Pain55nagato"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            }
+          ]
+        }
+      ]
     }
   ]
 }
