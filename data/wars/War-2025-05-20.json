@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 5,
-    "stars": 13,
-    "destructionPercentage": 29.933332,
+    "attacks": 9,
+    "stars": 22,
+    "destructionPercentage": 50.933334,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -64,6 +64,24 @@
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#GLU0UGJ2Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 122
+          },
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#90YYU2R2P",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 20,
+            "duration": 109
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -110,6 +128,24 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#2GLPCQPQR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 121
+          },
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#2YC0CV8GP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 174
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2YC0CV8GP",
@@ -309,7 +345,15 @@
             "duration": 137
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#90YYU2R2P",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 20,
+          "duration": 109
+        }
       },
       {
         "tag": "#8V2CR2GY9",
@@ -385,7 +429,15 @@
         "name": "\u0645\u062d\u0645\u062f \u0627\u0644\u0634\u0631\u064a\u0641",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9R8LJGG",
+          "defenderTag": "#2GLPCQPQR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 121
+        }
       },
       {
         "tag": "#QJLRUJR0Y",
@@ -399,7 +451,15 @@
         "name": "Alustura",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#GLU0UGJ2Y",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 122
+        }
       },
       {
         "tag": "#2YC0CV8GP",
@@ -424,14 +484,14 @@
             "duration": 147
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9JQP9VUPY",
+          "attackerTag": "#PP9R8LJGG",
           "defenderTag": "#2YC0CV8GP",
-          "stars": 2,
-          "destructionPercentage": 77,
-          "order": 15,
-          "duration": 134
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 174
         }
       },
       {
