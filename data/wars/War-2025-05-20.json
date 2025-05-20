@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 9,
-    "stars": 22,
-    "destructionPercentage": 50.933334,
+    "attacks": 10,
+    "stars": 25,
+    "destructionPercentage": 57.6,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -82,13 +82,31 @@
             "duration": 109
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PJJQVP0L",
+          "defenderTag": "#L9QP0YUC8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 157
+        }
       },
       {
         "tag": "#8LYGCV8LY",
         "name": "Florimannn",
         "townhallLevel": 13,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#QJPCUP2YL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 120
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QJPCUP2YL",
@@ -280,7 +298,15 @@
         "name": "Tobo",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PJJQVP0L",
+          "defenderTag": "#99RCQLLCR",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 21,
+          "duration": 180
+        }
       }
     ]
   },
@@ -293,9 +319,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HJ7RkGIXIA66rur7UnwtDVDOJ0SWLow_iBl3B02piPQ.png"
     },
     "clanLevel": 12,
-    "attacks": 11,
-    "stars": 24,
-    "destructionPercentage": 55.8,
+    "attacks": 13,
+    "stars": 29,
+    "destructionPercentage": 68.933334,
     "members": [
       {
         "tag": "#8UQ8JVRUY",
@@ -382,6 +408,24 @@
         "name": "GraveDigger",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#PJJQVP0L",
+            "defenderTag": "#99RCQLLCR",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 21,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#PJJQVP0L",
+            "defenderTag": "#L9QP0YUC8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PCP89Q20Q",
@@ -531,7 +575,15 @@
             "duration": 120
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#QJPCUP2YL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 120
+        }
       },
       {
         "tag": "#LYR88ULRL",
