@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 13,
-    "stars": 31,
-    "destructionPercentage": 70.933334,
+    "attacks": 15,
+    "stars": 35,
+    "destructionPercentage": 79.46667,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -194,6 +194,14 @@
             "destructionPercentage": 77,
             "order": 15,
             "duration": 134
+          },
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#PJJQVP0L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 139
           }
         ],
         "opponentAttacks": 1,
@@ -259,6 +267,14 @@
             "destructionPercentage": 72,
             "order": 14,
             "duration": 129
+          },
+          {
+            "attackerTag": "#PCP89Q20Q",
+            "defenderTag": "#Y9RJUUGY8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 28,
+            "duration": 119
           }
         ],
         "opponentAttacks": 1,
@@ -470,14 +486,14 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PCP89Q20Q",
+          "attackerTag": "#9JQP9VUPY",
           "defenderTag": "#PJJQVP0L",
-          "stars": 2,
-          "destructionPercentage": 72,
-          "order": 14,
-          "duration": 129
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 139
         }
       },
       {
@@ -587,7 +603,15 @@
         "name": "alkardinal",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PCP89Q20Q",
+          "defenderTag": "#Y9RJUUGY8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "duration": 119
+        }
       },
       {
         "tag": "#GQRJJ0G20",
