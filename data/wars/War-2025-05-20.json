@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 10,
-    "stars": 25,
-    "destructionPercentage": 57.6,
+    "attacks": 13,
+    "stars": 31,
+    "destructionPercentage": 70.933334,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -291,6 +291,16 @@
         "name": "FabianBawz",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#GQU0LLY20",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 26,
+            "duration": 162
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -298,6 +308,24 @@
         "name": "Tobo",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#99RCQLLCR",
+            "defenderTag": "#8UQ8JVRUY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#99RCQLLCR",
+            "defenderTag": "#90YYU2R2P",
+            "stars": 1,
+            "destructionPercentage": 96,
+            "order": 25,
+            "duration": 90
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PJJQVP0L",
@@ -346,7 +374,15 @@
             "duration": 135
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#99RCQLLCR",
+          "defenderTag": "#8UQ8JVRUY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 101
+        }
       },
       {
         "tag": "#90YYU2R2P",
@@ -371,7 +407,7 @@
             "duration": 137
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#L9QP0YUC8",
           "defenderTag": "#90YYU2R2P",
@@ -401,7 +437,15 @@
         "name": "mohammad",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#GQU0LLY20",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "duration": 162
+        }
       },
       {
         "tag": "#PJJQVP0L",
