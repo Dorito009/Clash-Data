@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 16,
-    "stars": 38,
-    "destructionPercentage": 86.13333,
+    "attacks": 17,
+    "stars": 40,
+    "destructionPercentage": 91.066666,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -140,14 +140,30 @@
             "duration": 53
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8V2CR2GY9",
+          "defenderTag": "#LPGGPVPRP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "duration": 139
+        }
       },
       {
         "tag": "#Q0RUPY9YP",
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8V2CR2GY9",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "duration": 141
+        }
       },
       {
         "tag": "#PP9R8LJGG",
@@ -331,6 +347,14 @@
             "destructionPercentage": 100,
             "order": 26,
             "duration": 162
+          },
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#QJLRUJR0Y",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 34,
+            "duration": 119
           }
         ],
         "opponentAttacks": 1,
@@ -387,9 +411,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HJ7RkGIXIA66rur7UnwtDVDOJ0SWLow_iBl3B02piPQ.png"
     },
     "clanLevel": 12,
-    "attacks": 15,
-    "stars": 35,
-    "destructionPercentage": 82.26667,
+    "attacks": 17,
+    "stars": 41,
+    "destructionPercentage": 95.6,
     "members": [
       {
         "tag": "#8UQ8JVRUY",
@@ -462,6 +486,24 @@
         "name": "KHALED",
         "townhallLevel": 14,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#8V2CR2GY9",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 32,
+            "duration": 141
+          },
+          {
+            "attackerTag": "#8V2CR2GY9",
+            "defenderTag": "#LPGGPVPRP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 33,
+            "duration": 139
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YU982RCVV",
@@ -598,7 +640,15 @@
             "duration": 159
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#QJLRUJR0Y",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 34,
+          "duration": 119
+        }
       },
       {
         "tag": "#GLU0UGJ2Y",
