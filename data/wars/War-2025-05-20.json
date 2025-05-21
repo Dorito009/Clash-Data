@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 19,
+    "attacks": 21,
     "stars": 44,
     "destructionPercentage": 98.26667,
     "members": [
@@ -42,7 +42,7 @@
             "duration": 102
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#LYR88ULRL",
           "defenderTag": "#20PLP8P9",
@@ -115,14 +115,14 @@
             "duration": 120
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QJPCUP2YL",
+          "attackerTag": "#GQU0LLY20",
           "defenderTag": "#8LYGCV8LY",
-          "stars": 2,
-          "destructionPercentage": 79,
-          "order": 12,
-          "duration": 120
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "duration": 121
         }
       },
       {
@@ -294,6 +294,24 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#GQRJJ0G20",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 114
+          },
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#GLYGCLJPQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 67
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YGCLYLRUL",
@@ -429,9 +447,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HJ7RkGIXIA66rur7UnwtDVDOJ0SWLow_iBl3B02piPQ.png"
     },
     "clanLevel": 12,
-    "attacks": 17,
-    "stars": 41,
-    "destructionPercentage": 95.6,
+    "attacks": 19,
+    "stars": 42,
+    "destructionPercentage": 97.0,
     "members": [
       {
         "tag": "#8UQ8JVRUY",
@@ -537,6 +555,24 @@
         "name": "mohammad",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#GQU0LLY20",
+            "defenderTag": "#8LYGCV8LY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 39,
+            "duration": 121
+          },
+          {
+            "attackerTag": "#GQU0LLY20",
+            "defenderTag": "#20PLP8P9",
+            "stars": 1,
+            "destructionPercentage": 88,
+            "order": 40,
+            "duration": 162
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LJ2J8QRPJ",
@@ -585,7 +621,7 @@
         "name": "$ \u0623\u0651\u0644\u064e\u0645\u064b\u0624\u0633\u0650\u0640\u0633$",
         "townhallLevel": 9,
         "mapPosition": 15,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q0RUPY9YP",
           "defenderTag": "#GLYGCLJPQ",
@@ -744,7 +780,7 @@
         "name": "mohamed",
         "townhallLevel": 10,
         "mapPosition": 14,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LPGGPVPRP",
           "defenderTag": "#GQRJJ0G20",
