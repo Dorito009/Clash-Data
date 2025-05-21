@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 17,
-    "stars": 40,
-    "destructionPercentage": 91.066666,
+    "attacks": 19,
+    "stars": 44,
+    "destructionPercentage": 98.26667,
     "members": [
       {
         "tag": "#20PLP8P9",
@@ -155,6 +155,24 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#GLYGCLJPQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 41
+          },
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#90YYU2R2P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8V2CR2GY9",
@@ -471,14 +489,14 @@
             "duration": 137
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#L9QP0YUC8",
+          "attackerTag": "#Q0RUPY9YP",
           "defenderTag": "#90YYU2R2P",
-          "stars": 2,
-          "destructionPercentage": 92,
-          "order": 20,
-          "duration": 109
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 112
         }
       },
       {
@@ -567,7 +585,15 @@
         "name": "$ \u0623\u0651\u0644\u064e\u0645\u064b\u0624\u0633\u0650\u0640\u0633$",
         "townhallLevel": 9,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0RUPY9YP",
+          "defenderTag": "#GLYGCLJPQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 41
+        }
       },
       {
         "tag": "#YGCLYLRUL",
