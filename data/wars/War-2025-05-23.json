@@ -24,7 +24,15 @@
         "name": "_ Shadow_",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PVUUY9VUC",
+          "defenderTag": "#LQ9C2LPUC",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 15,
+          "duration": 96
+        }
       },
       {
         "tag": "#88GVYL9VQ",
@@ -162,7 +170,15 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PVUUY9VUC",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 101
+        }
       },
       {
         "tag": "#LGVVJCP2Y",
@@ -260,9 +276,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oyRHVKQyy-VxMLoptwkY00eJckLyZQfOGO8jFSh4BV8.png"
     },
     "clanLevel": 7,
-    "attacks": 12,
-    "stars": 26,
-    "destructionPercentage": 48.2,
+    "attacks": 14,
+    "stars": 31,
+    "destructionPercentage": 57.35,
     "members": [
       {
         "tag": "#RGQR9VV2",
@@ -308,6 +324,24 @@
         "name": "\u2665YORGA_ATLAR\u2665",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#PVUUY9VUC",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#PVUUY9VUC",
+            "defenderTag": "#LQ9C2LPUC",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 15,
+            "duration": 96
+          }
+        ],
         "opponentAttacks": 0
       },
       {
