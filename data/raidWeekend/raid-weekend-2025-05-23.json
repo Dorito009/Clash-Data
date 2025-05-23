@@ -2,20 +2,28 @@
   "state": "ongoing",
   "startTime": "20250523T070000.000Z",
   "endTime": "20250526T070000.000Z",
-  "capitalTotalLoot": 53585,
-  "raidsCompleted": 0,
-  "totalAttacks": 14,
-  "enemyDistrictsDestroyed": 4,
+  "capitalTotalLoot": 98852,
+  "raidsCompleted": 1,
+  "totalAttacks": 29,
+  "enemyDistrictsDestroyed": 9,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#R8JJQPUR",
       "name": "Matsie04T",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11241
+      "capitalResourcesLooted": 15369
+    },
+    {
+      "tag": "#8LYGCV8LY",
+      "name": "Florimannn",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 28982
     },
     {
       "tag": "#P8Y8VC9PV",
@@ -40,8 +48,333 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 21545
+    },
+    {
+      "tag": "#8PV2Y0JPV",
+      "name": "ropje",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 12157
     }
   ],
-  "attackLog": [],
+  "attackLog": [
+    {
+      "defender": {
+        "tag": "#JYG0G9",
+        "name": "\u6c5f\u590f\u5802",
+        "level": 22,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/nD8XHByDY-QpKksPVSYD4NH79hrIxVxmt6MGcIeBw7Q.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/nD8XHByDY-QpKksPVSYD4NH79hrIxVxmt6MGcIeBw7Q.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/nD8XHByDY-QpKksPVSYD4NH79hrIxVxmt6MGcIeBw7Q.png"
+        }
+      },
+      "attackCount": 25,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 4,
+          "totalLooted": 11992,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8LYGCV8LY",
+                "name": "Florimannn"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8LYGCV8LY",
+                "name": "Florimannn"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#R8JJQPUR",
+                "name": "Matsie04T"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#R8JJQPUR",
+                "name": "Matsie04T"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 3,
+          "totalLooted": 11029,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 3,
+          "totalLooted": 9434,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#R8JJQPUR",
+                "name": "Matsie04T"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 7671,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#R8JJQPUR",
+                "name": "Matsie04T"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#R8JJQPUR",
+                "name": "Matsie04T"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 3,
+          "totalLooted": 9366,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9CCVPU9RU",
+                "name": "Bassie"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9CCVPU9RU",
+                "name": "Bassie"
+              },
+              "destructionPercent": 37,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 4,
+          "totalLooted": 8467,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 0,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 7520,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9CCVPU9RU",
+                "name": "Bassie"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 7795,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9CCVPU9RU",
+                "name": "Bassie"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 5538,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#R8JJQPUR",
+                "name": "Matsie04T"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9CCVPU9RU",
+                "name": "Bassie"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "defenseLog": []
 }
