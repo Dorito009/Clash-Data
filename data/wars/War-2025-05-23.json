@@ -31,7 +31,7 @@
         "name": "thijmen",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QCVGVL0QJ",
           "defenderTag": "#88GVYL9VQ",
@@ -169,7 +169,15 @@
         "name": "motormeeuw",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#98P8C9L20",
+          "defenderTag": "#LGVVJCP2Y",
+          "stars": 1,
+          "destructionPercentage": 87,
+          "order": 12,
+          "duration": 136
+        }
       },
       {
         "tag": "#LJ2J8QRPJ",
@@ -252,9 +260,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oyRHVKQyy-VxMLoptwkY00eJckLyZQfOGO8jFSh4BV8.png"
     },
     "clanLevel": 7,
-    "attacks": 10,
-    "stars": 25,
-    "destructionPercentage": 43.85,
+    "attacks": 12,
+    "stars": 26,
+    "destructionPercentage": 48.2,
     "members": [
       {
         "tag": "#RGQR9VV2",
@@ -385,6 +393,24 @@
         "name": "kaan y.",
         "townhallLevel": 12,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#98P8C9L20",
+            "defenderTag": "#LGVVJCP2Y",
+            "stars": 1,
+            "destructionPercentage": 87,
+            "order": 12,
+            "duration": 136
+          },
+          {
+            "attackerTag": "#98P8C9L20",
+            "defenderTag": "#88GVYL9VQ",
+            "stars": 1,
+            "destructionPercentage": 53,
+            "order": 13,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 0
       },
       {
