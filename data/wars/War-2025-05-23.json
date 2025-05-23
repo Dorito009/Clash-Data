@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 20,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -59,7 +59,15 @@
         "name": "Joran Bawz",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LQYCR9QVU",
+          "defenderTag": "#LPGGPVPRP",
+          "stars": 1,
+          "destructionPercentage": 75,
+          "order": 1,
+          "duration": 98
+        }
       },
       {
         "tag": "#QPGCL8CYC",
@@ -115,7 +123,15 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LQYCR9QVU",
+          "defenderTag": "#QY2PCRLPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 82
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -170,9 +186,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oyRHVKQyy-VxMLoptwkY00eJckLyZQfOGO8jFSh4BV8.png"
     },
     "clanLevel": 7,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 4,
+    "destructionPercentage": 8.75,
     "members": [
       {
         "tag": "#RGQR9VV2",
@@ -235,6 +251,24 @@
         "name": "AKM\u2606BoCaH",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#LQYCR9QVU",
+            "defenderTag": "#LPGGPVPRP",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 1,
+            "duration": 98
+          },
+          {
+            "attackerTag": "#LQYCR9QVU",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 82
+          }
+        ],
         "opponentAttacks": 0
       },
       {
