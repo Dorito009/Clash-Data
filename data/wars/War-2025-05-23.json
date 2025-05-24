@@ -54,7 +54,15 @@
         "name": "BobbieAFCA1",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JGR8Y0VR",
+          "defenderTag": "#Q8G88Q9Y",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "duration": 146
+        }
       },
       {
         "tag": "#JCGVYY8U",
@@ -79,7 +87,15 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JGR8Y0VR",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 115
+        }
       },
       {
         "tag": "#L9QP0YUC8",
@@ -163,7 +179,15 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PGVQLJJU9",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 122
+        }
       },
       {
         "tag": "#9JQP9VUPY",
@@ -192,7 +216,15 @@
         "name": "legendar\u00a5",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PGVQLJJU9",
+          "defenderTag": "#2Y8Q09V09",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 141
+        }
       },
       {
         "tag": "#QY2PCRLPJ",
@@ -428,9 +460,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oyRHVKQyy-VxMLoptwkY00eJckLyZQfOGO8jFSh4BV8.png"
     },
     "clanLevel": 7,
-    "attacks": 15,
-    "stars": 33,
-    "destructionPercentage": 60.95,
+    "attacks": 19,
+    "stars": 45,
+    "destructionPercentage": 80.95,
     "members": [
       {
         "tag": "#RGQR9VV2",
@@ -678,6 +710,24 @@
         "name": "~K\u0130NG~",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#PGVQLJJU9",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 122
+          },
+          {
+            "attackerTag": "#PGVQLJJU9",
+            "defenderTag": "#2Y8Q09V09",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L9QP0YUC8",
@@ -755,6 +805,24 @@
         "name": "TAH\u0130R ACAR",
         "townhallLevel": 14,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2JGR8Y0VR",
+            "defenderTag": "#Q8G88Q9Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 33,
+            "duration": 146
+          },
+          {
+            "attackerTag": "#2JGR8Y0VR",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 34,
+            "duration": 115
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8PV2Y0JPV",
