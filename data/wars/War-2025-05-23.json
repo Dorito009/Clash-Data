@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 3,
-    "stars": 8,
-    "destructionPercentage": 13.8,
+    "attacks": 4,
+    "stars": 10,
+    "destructionPercentage": 18.65,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -233,6 +233,16 @@
         "name": "Bassie",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9CCVPU9RU",
+            "defenderTag": "#G009GVQLY",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 18,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QQ8LRGVUL",
@@ -381,7 +391,15 @@
         "name": "CanTutkun",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9CCVPU9RU",
+          "defenderTag": "#G009GVQLY",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 18,
+          "duration": 180
+        }
       },
       {
         "tag": "#QQ8LRGVUL",
