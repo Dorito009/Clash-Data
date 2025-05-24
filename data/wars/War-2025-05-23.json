@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 5.0,
+    "attacks": 3,
+    "stars": 8,
+    "destructionPercentage": 13.8,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -185,6 +185,24 @@
         "name": "motormeeuw",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#LGVVJCP2Y",
+            "defenderTag": "#LQYCR9QVU",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 16,
+            "duration": 116
+          },
+          {
+            "attackerTag": "#LGVVJCP2Y",
+            "defenderTag": "#L8V82PYR8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#98P8C9L20",
@@ -413,7 +431,15 @@
             "duration": 82
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGVVJCP2Y",
+          "defenderTag": "#LQYCR9QVU",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 16,
+          "duration": 116
+        }
       },
       {
         "tag": "#Q0RL02R88",
@@ -459,7 +485,15 @@
         "name": "DANGERC\u0130",
         "townhallLevel": 12,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGVVJCP2Y",
+          "defenderTag": "#L8V82PYR8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 86
+        }
       },
       {
         "tag": "#YPGJ2P9YG",
