@@ -3036,9 +3036,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EkOVwQ8D5PHoKi5sRlvLdvzoPOFgjB-JsPxFXzrIO4Q.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -3123,11 +3123,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 68,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 5590,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9041,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QCGPJGGVU",
+                "name": "warfreak"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QJ28V0PY2",
@@ -3185,20 +3193,62 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 96,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 7870,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QCGPJGGVU",
+                "name": "warfreak"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QCGPJGGVU",
+                "name": "warfreak"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QCGPJGGVU",
+                "name": "warfreak"
+              },
+              "destructionPercent": 29,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 4,
-          "destructionPercent": 29,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2180,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9101,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QCGPJGGVU",
+                "name": "warfreak"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QCGPJGGVU",
+                "name": "warfreak"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#2J80YUJ2P",
