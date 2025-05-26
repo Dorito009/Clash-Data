@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 20,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 5.0,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -108,6 +108,16 @@
         "name": "Olivier05",
         "townhallLevel": 14,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#YU982RCVV",
+            "defenderTag": "#2PJQGUYC9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 111
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -122,7 +132,15 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2G8JJLR0",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 114
+        }
       },
       {
         "tag": "#LGVVJCP2Y",
@@ -170,9 +188,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/9jiBiXy_Xa9qvFo3a0pZwn1fc_yYl25rgI2KKn9ukbw.png"
     },
     "clanLevel": 12,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 5.0,
     "members": [
       {
         "tag": "#P9G209VJ0",
@@ -207,6 +225,16 @@
         "name": "alm3rg",
         "townhallLevel": 13,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#Q2G8JJLR0",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -235,7 +263,15 @@
         "name": "mochimochi",
         "townhallLevel": 14,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YU982RCVV",
+          "defenderTag": "#2PJQGUYC9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 111
+        }
       },
       {
         "tag": "#Q02UUGCRG",
