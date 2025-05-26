@@ -165,7 +165,15 @@
             "duration": 113
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#22VCGC2V0",
+          "defenderTag": "#PP9R8LJGG",
+          "stars": 1,
+          "destructionPercentage": 99,
+          "order": 20,
+          "duration": 159
+        }
       },
       {
         "tag": "#PRUGPLRPG",
@@ -179,7 +187,15 @@
         "name": "123lucas123",
         "townhallLevel": 15,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#22VCGC2V0",
+          "defenderTag": "#9JQP9VUPY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 144
+        }
       },
       {
         "tag": "#YU982RCVV",
@@ -328,9 +344,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/9jiBiXy_Xa9qvFo3a0pZwn1fc_yYl25rgI2KKn9ukbw.png"
     },
     "clanLevel": 12,
-    "attacks": 11,
-    "stars": 26,
-    "destructionPercentage": 49.45,
+    "attacks": 13,
+    "stars": 30,
+    "destructionPercentage": 59.4,
     "members": [
       {
         "tag": "#P9G209VJ0",
@@ -577,6 +593,24 @@
         "name": "$ A\u0438\u2202\u0443 $",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#22VCGC2V0",
+            "defenderTag": "#9JQP9VUPY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 144
+          },
+          {
+            "attackerTag": "#22VCGC2V0",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 1,
+            "destructionPercentage": 99,
+            "order": 20,
+            "duration": 159
+          }
+        ],
         "opponentAttacks": 0
       },
       {
