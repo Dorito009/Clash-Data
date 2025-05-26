@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 2,
-    "stars": 6,
-    "destructionPercentage": 10.0,
+    "attacks": 4,
+    "stars": 11,
+    "destructionPercentage": 18.8,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -103,6 +103,16 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#9RQLL20VL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 113
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -171,6 +181,16 @@
         "name": "motormeeuw",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#LGVVJCP2Y",
+            "defenderTag": "#GQQQUR0JG",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 8,
+            "duration": 113
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -318,7 +338,15 @@
         "name": "Panos",
         "townhallLevel": 13,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGVVJCP2Y",
+          "defenderTag": "#GQQQUR0JG",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 8,
+          "duration": 113
+        }
       },
       {
         "tag": "#2PJQGUYC9",
@@ -396,7 +424,15 @@
         "name": "\u273f \u00a6 \u0114\u0475\uab75\ua646\u2c81\u0e01\u045c\u00ef\u03ee \u00a6",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9R8LJGG",
+          "defenderTag": "#9RQLL20VL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 113
+        }
       },
       {
         "tag": "#G8YYQ8J98",
