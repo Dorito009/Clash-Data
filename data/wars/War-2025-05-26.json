@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 14,
-    "stars": 27,
-    "destructionPercentage": 52.55,
+    "attacks": 17,
+    "stars": 31,
+    "destructionPercentage": 61.1,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -119,6 +119,24 @@
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#PUJ2UL89L",
+            "stars": 1,
+            "destructionPercentage": 90,
+            "order": 39,
+            "duration": 102
+          },
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#QG9U2RYCG",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 40,
+            "duration": 96
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -197,6 +215,14 @@
             "destructionPercentage": 100,
             "order": 7,
             "duration": 113
+          },
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#22VCGC2V0",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 38,
+            "duration": 100
           }
         ],
         "opponentAttacks": 3,
@@ -397,7 +423,15 @@
         "name": "Bassie",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QPVPYVUQ",
+          "defenderTag": "#9CCVPU9RU",
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 37,
+          "duration": 76
+        }
       },
       {
         "tag": "#99RCQLLCR",
@@ -450,9 +484,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/9jiBiXy_Xa9qvFo3a0pZwn1fc_yYl25rgI2KKn9ukbw.png"
     },
     "clanLevel": 12,
-    "attacks": 22,
-    "stars": 49,
-    "destructionPercentage": 85.7,
+    "attacks": 23,
+    "stars": 51,
+    "destructionPercentage": 89.05,
     "members": [
       {
         "tag": "#P9G209VJ0",
@@ -643,7 +677,15 @@
             "duration": 126
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#PUJ2UL89L",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 39,
+          "duration": 102
+        }
       },
       {
         "tag": "#GQQQUR0JG",
@@ -770,7 +812,15 @@
         "name": "wayhinmoe123",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#QG9U2RYCG",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 40,
+          "duration": 96
+        }
       },
       {
         "tag": "#22VCGC2V0",
@@ -795,14 +845,14 @@
             "duration": 159
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9JQP9VUPY",
+          "attackerTag": "#PP9R8LJGG",
           "defenderTag": "#22VCGC2V0",
-          "stars": 1,
-          "destructionPercentage": 84,
-          "order": 32,
-          "duration": 180
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 38,
+          "duration": 100
         }
       },
       {
@@ -872,6 +922,16 @@
         "name": "RIFAT",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#9QPVPYVUQ",
+            "defenderTag": "#9CCVPU9RU",
+            "stars": 2,
+            "destructionPercentage": 67,
+            "order": 37,
+            "duration": 76
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#88GVYL9VQ",
