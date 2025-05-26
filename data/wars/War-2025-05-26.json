@@ -15,16 +15,16 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 17,
-    "stars": 31,
-    "destructionPercentage": 61.1,
+    "attacks": 18,
+    "stars": 32,
+    "destructionPercentage": 60.1,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
         "name": "_ Shadow_",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G2JRG9GR2",
           "defenderTag": "#LQ9C2LPUC",
@@ -137,7 +137,15 @@
             "duration": 96
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G8YYQ8J98",
+          "defenderTag": "#L9QP0YUC8",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 42,
+          "duration": 150
+        }
       },
       {
         "tag": "#LPGGPVPRP",
@@ -423,14 +431,14 @@
         "name": "Bassie",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9QPVPYVUQ",
+          "attackerTag": "#9U0GR00J8",
           "defenderTag": "#9CCVPU9RU",
-          "stars": 2,
-          "destructionPercentage": 67,
-          "order": 37,
-          "duration": 76
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 165
         }
       },
       {
@@ -463,6 +471,16 @@
         "name": "ropje",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8PV2Y0JPV",
+            "defenderTag": "#PUJ2UL89L",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 44,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q99GPPQYV",
@@ -484,9 +502,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/9jiBiXy_Xa9qvFo3a0pZwn1fc_yYl25rgI2KKn9ukbw.png"
     },
     "clanLevel": 12,
-    "attacks": 23,
-    "stars": 51,
-    "destructionPercentage": 89.05,
+    "attacks": 26,
+    "stars": 54,
+    "destructionPercentage": 95.35,
     "members": [
       {
         "tag": "#P9G209VJ0",
@@ -584,6 +602,14 @@
             "destructionPercentage": 100,
             "order": 29,
             "duration": 153
+          },
+          {
+            "attackerTag": "#9U0GR00J8",
+            "defenderTag": "#9CCVPU9RU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 165
           }
         ],
         "opponentAttacks": 1,
@@ -677,14 +703,14 @@
             "duration": 126
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#L9QP0YUC8",
+          "attackerTag": "#8PV2Y0JPV",
           "defenderTag": "#PUJ2UL89L",
-          "stars": 1,
-          "destructionPercentage": 90,
-          "order": 39,
-          "duration": 102
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 44,
+          "duration": 118
         }
       },
       {
@@ -907,6 +933,24 @@
         "name": "cheenococheeno",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#G8YYQ8J98",
+            "defenderTag": "#L9QP0YUC8",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 42,
+            "duration": 150
+          },
+          {
+            "attackerTag": "#G8YYQ8J98",
+            "defenderTag": "#LQ9C2LPUC",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 43,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LJ2J8QRPJ",
