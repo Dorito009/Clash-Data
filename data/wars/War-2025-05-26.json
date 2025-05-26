@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 9,
-    "stars": 20,
-    "destructionPercentage": 38.35,
+    "attacks": 12,
+    "stars": 23,
+    "destructionPercentage": 46.6,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -214,6 +214,16 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#YVGL8QJUL",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 30,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YVGL8QJUL",
@@ -229,6 +239,16 @@
         "name": "123lucas123",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#22VCGC2V0",
+            "stars": 1,
+            "destructionPercentage": 84,
+            "order": 32,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#22VCGC2V0",
@@ -269,6 +289,16 @@
         "name": "Louise",
         "townhallLevel": 12,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#GQQQUR0JG",
+            "stars": 1,
+            "destructionPercentage": 65,
+            "order": 31,
+            "duration": 136
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QPQQ8929L",
@@ -586,7 +616,7 @@
             "duration": 116
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#QPGCL8CYC",
           "defenderTag": "#GQQQUR0JG",
@@ -673,7 +703,15 @@
             "duration": 114
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRUGPLRPG",
+          "defenderTag": "#YVGL8QJUL",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 30,
+          "duration": 114
+        }
       },
       {
         "tag": "#QG9U2RYCG",
@@ -705,7 +743,15 @@
             "duration": 159
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JQP9VUPY",
+          "defenderTag": "#22VCGC2V0",
+          "stars": 1,
+          "destructionPercentage": 84,
+          "order": 32,
+          "duration": 180
+        }
       },
       {
         "tag": "#2PJJ0JLPG",
