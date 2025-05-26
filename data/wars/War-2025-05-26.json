@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 8,
-    "stars": 18,
-    "destructionPercentage": 33.45,
+    "attacks": 9,
+    "stars": 20,
+    "destructionPercentage": 38.35,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
@@ -39,6 +39,16 @@
         "name": "thijmen",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#88GVYL9VQ",
+            "defenderTag": "#9QPVPYVUQ",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 27,
+            "duration": 137
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q2G8JJLR0",
@@ -196,7 +206,15 @@
         "name": "Dorito_009",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVGL8QJUL",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 2,
+          "destructionPercentage": 50,
+          "order": 26,
+          "duration": 114
+        }
       },
       {
         "tag": "#9JQP9VUPY",
@@ -368,9 +386,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/9jiBiXy_Xa9qvFo3a0pZwn1fc_yYl25rgI2KKn9ukbw.png"
     },
     "clanLevel": 12,
-    "attacks": 17,
-    "stars": 37,
-    "destructionPercentage": 69.6,
+    "attacks": 18,
+    "stars": 39,
+    "destructionPercentage": 72.1,
     "members": [
       {
         "tag": "#P9G209VJ0",
@@ -619,6 +637,16 @@
         "name": "REKAR",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YVGL8QJUL",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 2,
+            "destructionPercentage": 50,
+            "order": 26,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -720,7 +748,15 @@
         "name": "RIFAT",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88GVYL9VQ",
+          "defenderTag": "#9QPVPYVUQ",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 27,
+          "duration": 137
+        }
       }
     ]
   }
