@@ -3,7 +3,7 @@
   "startTime": "20250523T070000.000Z",
   "endTime": "20250526T070000.000Z",
   "capitalTotalLoot": 812284,
-  "raidsCompleted": 10,
+  "raidsCompleted": 11,
   "totalAttacks": 224,
   "enemyDistrictsDestroyed": 89,
   "offensiveReward": 0,
@@ -3036,18 +3036,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EkOVwQ8D5PHoKi5sRlvLdvzoPOFgjB-JsPxFXzrIO4Q.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 28,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 9,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11749,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QG2UY9J8V",
+                "name": "ioi 3"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QG2UY9J8V",
+                "name": "ioi 3"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QG2UY9J8V",
+                "name": "ioi 3"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QG2UY9J8V",
+                "name": "ioi 3"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -3193,11 +3227,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 96,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 7870,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 8955,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QG2UY9J8V",
+                "name": "ioi 3"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QCGPJGGVU",
