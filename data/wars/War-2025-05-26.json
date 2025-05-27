@@ -24,7 +24,7 @@
         "name": "_ Shadow_",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G2JRG9GR2",
           "defenderTag": "#LQ9C2LPUC",
@@ -218,7 +218,7 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#P9G209VJ0",
           "defenderTag": "#Q0RUPY9YP",
@@ -554,7 +554,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/9jiBiXy_Xa9qvFo3a0pZwn1fc_yYl25rgI2KKn9ukbw.png"
     },
     "clanLevel": 12,
-    "attacks": 29,
+    "attacks": 31,
     "stars": 54,
     "destructionPercentage": 95.35,
     "members": [
@@ -924,6 +924,24 @@
         "name": "wayhinmoe123",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QG9U2RYCG",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 1,
+            "destructionPercentage": 66,
+            "order": 54,
+            "duration": 76
+          },
+          {
+            "attackerTag": "#QG9U2RYCG",
+            "defenderTag": "#LQ9C2LPUC",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 55,
+            "duration": 80
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L9QP0YUC8",
