@@ -15,16 +15,16 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 26,
-    "stars": 46,
-    "destructionPercentage": 87.05,
+    "attacks": 27,
+    "stars": 48,
+    "destructionPercentage": 91.65,
     "members": [
       {
         "tag": "#LQ9C2LPUC",
         "name": "_ Shadow_",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#G2JRG9GR2",
           "defenderTag": "#LQ9C2LPUC",
@@ -499,6 +499,14 @@
             "destructionPercentage": 88,
             "order": 51,
             "duration": 88
+          },
+          {
+            "attackerTag": "#9CCVPU9RU",
+            "defenderTag": "#Q02UUGCRG",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 58,
+            "duration": 146
           }
         ],
         "opponentAttacks": 2,
@@ -572,7 +580,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/9jiBiXy_Xa9qvFo3a0pZwn1fc_yYl25rgI2KKn9ukbw.png"
     },
     "clanLevel": 12,
-    "attacks": 31,
+    "attacks": 32,
     "stars": 54,
     "destructionPercentage": 95.35,
     "members": [
@@ -878,7 +886,15 @@
         "name": "{marsi}",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9CCVPU9RU",
+          "defenderTag": "#Q02UUGCRG",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 58,
+          "duration": 146
+        }
       },
       {
         "tag": "#P222V2YP2",
@@ -1138,6 +1154,14 @@
             "destructionPercentage": 67,
             "order": 37,
             "duration": 76
+          },
+          {
+            "attackerTag": "#9QPVPYVUQ",
+            "defenderTag": "#LQ9C2LPUC",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 59,
+            "duration": 95
           }
         ],
         "opponentAttacks": 1,
