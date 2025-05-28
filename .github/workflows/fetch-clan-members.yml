@@ -2,7 +2,8 @@ name: Fetch Clash of Clans Clan and Member Data
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Every hour
+    - cron: "0 8-23 * * *"   # Every hour from 08:00 to 23:00
+    - cron: "0 0 * * *"      # Also run at 00:00
   workflow_dispatch: # Allows manual trigger
 
 concurrency:
