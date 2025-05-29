@@ -137,7 +137,15 @@
             "duration": 108
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G8RYV9UQ0",
+          "defenderTag": "#QPGCL8CYC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 133
+        }
       },
       {
         "tag": "#Q0RUPY9YP",
@@ -207,7 +215,15 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#92RULJRJY",
+          "defenderTag": "#QY2PCRLPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 145
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -316,9 +332,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Jn4g7-eLLS3xDytpLtN3nLtmwDUg18u0vRHuzFVj_dI.png"
     },
     "clanLevel": 14,
-    "attacks": 3,
-    "stars": 5,
-    "destructionPercentage": 10.85,
+    "attacks": 5,
+    "stars": 11,
+    "destructionPercentage": 20.85,
     "members": [
       {
         "tag": "#L0RJ0G2R0",
@@ -394,6 +410,16 @@
         "name": "Isagi Invoker",
         "townhallLevel": 12,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#G8RYV9UQ0",
+            "defenderTag": "#QPGCL8CYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QPGCL8CYC",
@@ -538,6 +564,16 @@
         "name": "gabriel",
         "townhallLevel": 12,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#92RULJRJY",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QY2PCRLPJ",
