@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 6,
-    "stars": 12,
-    "destructionPercentage": 23.8,
+    "attacks": 10,
+    "stars": 22,
+    "destructionPercentage": 39.5,
     "members": [
       {
         "tag": "#YCRG2JV2P",
@@ -77,6 +77,24 @@
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#L0RJ0G2R0",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 11,
+            "duration": 106
+          },
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#G8YY9QJUP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 122
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -168,6 +186,24 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#GPC2RLGJ8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 173
+          },
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#JV229PQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 167
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -175,7 +211,15 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYQRRVCV",
+          "defenderTag": "#YCQ98GC88",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 10,
+          "duration": 120
+        }
       },
       {
         "tag": "#LGVVJCP2Y",
@@ -213,7 +257,15 @@
             "duration": 159
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JV229PQ",
+          "defenderTag": "#PPJLGLPVL",
+          "stars": 2,
+          "destructionPercentage": 56,
+          "order": 7,
+          "duration": 108
+        }
       }
     ]
   },
@@ -226,22 +278,40 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Jn4g7-eLLS3xDytpLtN3nLtmwDUg18u0vRHuzFVj_dI.png"
     },
     "clanLevel": 14,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 4,
+    "destructionPercentage": 6.85,
     "members": [
       {
         "tag": "#L0RJ0G2R0",
         "name": "\u00b0\u00b0\u00b0[ Lenio ]",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#L0RJ0G2R0",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 11,
+          "duration": 106
+        }
       },
       {
         "tag": "#GYQRRVCV",
         "name": "massa40",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#GYQRRVCV",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 10,
+            "duration": 120
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -300,7 +370,15 @@
         "name": "\u2022Thorkell\u2022",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#G8YY9QJUP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 122
+        }
       },
       {
         "tag": "#GY8RYLUGV",
@@ -314,21 +392,39 @@
         "name": "\u2022Thorfinn\u2022",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y8LVCLUP2",
+          "defenderTag": "#GPC2RLGJ8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 173
+        }
       },
       {
         "tag": "#JV229PQ",
         "name": "Yuri G.M.",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 1,
+        "attacks": [
+          {
+            "attackerTag": "#JV229PQ",
+            "defenderTag": "#PPJLGLPVL",
+            "stars": 2,
+            "destructionPercentage": 56,
+            "order": 7,
+            "duration": 108
+          }
+        ],
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PPJLGLPVL",
+          "attackerTag": "#Y8LVCLUP2",
           "defenderTag": "#JV229PQ",
-          "stars": 1,
-          "destructionPercentage": 82,
-          "order": 6,
-          "duration": 159
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 167
         }
       },
       {
