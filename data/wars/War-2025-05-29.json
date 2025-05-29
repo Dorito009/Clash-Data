@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 14,
+    "attacks": 15,
     "stars": 28,
     "destructionPercentage": 50.65,
     "members": [
@@ -32,6 +32,14 @@
             "destructionPercentage": 76,
             "order": 22,
             "duration": 134
+          },
+          {
+            "attackerTag": "#YCRG2JV2P",
+            "defenderTag": "#Q20C8QCCY",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 23,
+            "duration": 157
           }
         ],
         "opponentAttacks": 0
@@ -41,7 +49,15 @@
         "name": "thijmen",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#82VPCUC80",
+          "defenderTag": "#88GVYL9VQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "duration": 148
+        }
       },
       {
         "tag": "#L202YG9L0",
@@ -91,14 +107,14 @@
             "duration": 144
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#L0RJ0G2R0",
+          "attackerTag": "#GYQRRVCV",
           "defenderTag": "#YVPCR90PC",
-          "stars": 1,
-          "destructionPercentage": 65,
-          "order": 19,
-          "duration": 119
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 25,
+          "duration": 180
         }
       },
       {
@@ -313,7 +329,15 @@
         "name": "FabianBawz",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#82VPCUC80",
+          "defenderTag": "#LJ2J8QRPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 153
+        }
       },
       {
         "tag": "#9CCVPU9RU",
@@ -358,9 +382,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Jn4g7-eLLS3xDytpLtN3nLtmwDUg18u0vRHuzFVj_dI.png"
     },
     "clanLevel": 14,
-    "attacks": 8,
-    "stars": 15,
-    "destructionPercentage": 30.95,
+    "attacks": 12,
+    "stars": 22,
+    "destructionPercentage": 42.3,
     "members": [
       {
         "tag": "#L0RJ0G2R0",
@@ -408,6 +432,14 @@
             "destructionPercentage": 81,
             "order": 10,
             "duration": 120
+          },
+          {
+            "attackerTag": "#GYQRRVCV",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 25,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -447,6 +479,24 @@
         "name": "L\u00c9CK\u00c3O SX",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#82VPCUC80",
+            "defenderTag": "#88GVYL9VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 26,
+            "duration": 148
+          },
+          {
+            "attackerTag": "#82VPCUC80",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 153
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -548,6 +598,16 @@
         "name": "buumba apel\u00e3o",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QRGY0QYGU",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 2,
+            "destructionPercentage": 56,
+            "order": 24,
+            "duration": 111
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -643,7 +703,7 @@
         "name": "CapPitoco",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#L202YG9L0",
           "defenderTag": "#Q20C8QCCY",
