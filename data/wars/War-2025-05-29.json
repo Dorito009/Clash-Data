@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 20,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 6,
+    "stars": 12,
+    "destructionPercentage": 23.8,
     "members": [
       {
         "tag": "#YCRG2JV2P",
@@ -38,6 +38,24 @@
         "name": "matanoei",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#L202YG9L0",
+            "defenderTag": "#QPL0VRC0C",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 1,
+            "duration": 131
+          },
+          {
+            "attackerTag": "#L202YG9L0",
+            "defenderTag": "#Q20C8QCCY",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 4,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -73,6 +91,24 @@
         "name": "KoerpoerXD",
         "townhallLevel": 13,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#G8RYV9UQ0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 97
+          },
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#QPL0VRC0C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 108
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -101,6 +137,16 @@
         "name": "123lucas123",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#PR2PRJRL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 166
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -157,6 +203,16 @@
         "name": "Elias",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PPJLGLPVL",
+            "defenderTag": "#JV229PQ",
+            "stars": 1,
+            "destructionPercentage": 82,
+            "order": 6,
+            "duration": 159
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -193,7 +249,15 @@
         "name": "brunoesl",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JQP9VUPY",
+          "defenderTag": "#PR2PRJRL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 166
+        }
       },
       {
         "tag": "#G2LL0JGR9",
@@ -214,7 +278,15 @@
         "name": "Isagi Invoker",
         "townhallLevel": 12,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPGCL8CYC",
+          "defenderTag": "#G8RYV9UQ0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 97
+        }
       },
       {
         "tag": "#G0RRC0U98",
@@ -233,7 +305,7 @@
       {
         "tag": "#GY8RYLUGV",
         "name": "Claudinha",
-        "townhallLevel": 13,
+        "townhallLevel": 14,
         "mapPosition": 13,
         "opponentAttacks": 0
       },
@@ -249,7 +321,15 @@
         "name": "Yuri G.M.",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PPJLGLPVL",
+          "defenderTag": "#JV229PQ",
+          "stars": 1,
+          "destructionPercentage": 82,
+          "order": 6,
+          "duration": 159
+        }
       },
       {
         "tag": "#QRGY0QYGU",
@@ -284,7 +364,15 @@
         "name": "GudaNaty\u2764\ufe0f",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPGCL8CYC",
+          "defenderTag": "#QPL0VRC0C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 108
+        }
       },
       {
         "tag": "#L098QLCJC",
@@ -305,7 +393,15 @@
         "name": "CapPitoco",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L202YG9L0",
+          "defenderTag": "#Q20C8QCCY",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 4,
+          "duration": 180
+        }
       },
       {
         "tag": "#L9PCRVU80",
