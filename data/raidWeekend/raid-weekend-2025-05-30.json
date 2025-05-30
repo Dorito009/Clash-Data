@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250530T070000.000Z",
   "endTime": "20250602T070000.000Z",
-  "capitalTotalLoot": 286998,
-  "raidsCompleted": 4,
-  "totalAttacks": 79,
-  "enemyDistrictsDestroyed": 30,
+  "capitalTotalLoot": 334730,
+  "raidsCompleted": 5,
+  "totalAttacks": 94,
+  "enemyDistrictsDestroyed": 36,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -26,6 +26,14 @@
       "capitalResourcesLooted": 10702
     },
     {
+      "tag": "#YCRG2JV2P",
+      "name": "nigler",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 2737
+    },
+    {
       "tag": "#L202YG9L0",
       "name": "matanoei",
       "attacks": 6,
@@ -40,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 27031
+    },
+    {
+      "tag": "#PYQVLRC9C",
+      "name": "Cqsper",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18347
     },
     {
       "tag": "#Q9P2J02U",
@@ -60,10 +76,10 @@
     {
       "tag": "#JCGVYY8U",
       "name": "de skelet boys",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11113
+      "capitalResourcesLooted": 21795
     },
     {
       "tag": "#L9QP0YUC8",
@@ -112,6 +128,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 32305
+    },
+    {
+      "tag": "#Y8LVCLUP2",
+      "name": "pro",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15966
     },
     {
       "tag": "#LGVVJCP2Y",
@@ -1047,6 +1071,314 @@
               "attacker": {
                 "tag": "#L9QP0YUC8",
                 "name": "Mo Amissi"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2QP8J889C",
+        "name": "BOHOL CLAN",
+        "level": 16,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FFgWSUpcX_Ai4m2vmkU0MgVSesO0e9JFTtvaVrl1yYY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FFgWSUpcX_Ai4m2vmkU0MgVSesO0e9JFTtvaVrl1yYY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FFgWSUpcX_Ai4m2vmkU0MgVSesO0e9JFTtvaVrl1yYY.png"
+        }
+      },
+      "attackCount": 24,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12112,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YCRG2JV2P",
+                "name": "nigler"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10682,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JCGVYY8U",
+                "name": "de skelet boys"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JCGVYY8U",
+                "name": "de skelet boys"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#JCGVYY8U",
+                "name": "de skelet boys"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8972,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9099,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQYQ92VLL",
+                "name": "Donjenso"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQYQ92VLL",
+                "name": "Donjenso"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9282,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQYQ92VLL",
+                "name": "Donjenso"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQYQ92VLL",
+                "name": "Donjenso"
+              },
+              "destructionPercent": 36,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8655,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9650,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#R8JJQPUR",
+                "name": "Matsie04T"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#R8JJQPUR",
+                "name": "Matsie04T"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#R8JJQPUR",
+                "name": "Matsie04T"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9745,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQYQ92VLL",
+                "name": "Donjenso"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GQYQ92VLL",
+                "name": "Donjenso"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6216,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
               },
               "destructionPercent": 80,
               "stars": 2
