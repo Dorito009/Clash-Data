@@ -530,7 +530,15 @@
         "name": "Bassie",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QP9UJ2VUQ",
+          "defenderTag": "#9CCVPU9RU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 98
+        }
       },
       {
         "tag": "#PPJLGLPVL",
@@ -576,9 +584,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Jn4g7-eLLS3xDytpLtN3nLtmwDUg18u0vRHuzFVj_dI.png"
     },
     "clanLevel": 14,
-    "attacks": 26,
-    "stars": 47,
-    "destructionPercentage": 84.75,
+    "attacks": 27,
+    "stars": 50,
+    "destructionPercentage": 89.75,
     "members": [
       {
         "tag": "#L0RJ0G2R0",
@@ -939,6 +947,14 @@
             "destructionPercentage": 80,
             "order": 14,
             "duration": 101
+          },
+          {
+            "attackerTag": "#QP9UJ2VUQ",
+            "defenderTag": "#9CCVPU9RU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 98
           }
         ],
         "opponentAttacks": 1,
