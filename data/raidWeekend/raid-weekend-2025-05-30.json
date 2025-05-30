@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250530T070000.000Z",
   "endTime": "20250602T070000.000Z",
-  "capitalTotalLoot": 159763,
-  "raidsCompleted": 2,
-  "totalAttacks": 44,
-  "enemyDistrictsDestroyed": 17,
+  "capitalTotalLoot": 197065,
+  "raidsCompleted": 3,
+  "totalAttacks": 55,
+  "enemyDistrictsDestroyed": 21,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -52,10 +52,10 @@
     {
       "tag": "#L9QP0YUC8",
       "name": "Mo Amissi",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 5096
+      "capitalResourcesLooted": 13023
     },
     {
       "tag": "#YRP99RVQR",
@@ -66,12 +66,20 @@
       "capitalResourcesLooted": 23050
     },
     {
+      "tag": "#R8JJQPUR",
+      "name": "Matsie04T",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 3270
+    },
+    {
       "tag": "#QPGCL8CYC",
       "name": "KoerpoerXD",
-      "attacks": 2,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 8963
+      "capitalResourcesLooted": 14378
     },
     {
       "tag": "#PP9R8LJGG",
@@ -88,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 19340
+    },
+    {
+      "tag": "#99RCQLLCR",
+      "name": "Tobo",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20690
     },
     {
       "tag": "#8PV2Y0JPV",
@@ -394,6 +410,306 @@
               },
               "destructionPercent": 84,
               "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2QRL9CP0V",
+        "name": "Fischjungs",
+        "level": 14,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pIilwB4PBIdNkWxVjxTlDTgeR3N0MQVHYzFkufOqQqo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pIilwB4PBIdNkWxVjxTlDTgeR3N0MQVHYzFkufOqQqo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pIilwB4PBIdNkWxVjxTlDTgeR3N0MQVHYzFkufOqQqo.png"
+        }
+      },
+      "attackCount": 23,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12340,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L9QP0YUC8",
+                "name": "Mo Amissi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QPGCL8CYC",
+                "name": "KoerpoerXD"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#L202YG9L0",
+                "name": "matanoei"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10702,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9081,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9199,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L202YG9L0",
+                "name": "matanoei"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L202YG9L0",
+                "name": "matanoei"
+              },
+              "destructionPercent": 92,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#L202YG9L0",
+                "name": "matanoei"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9548,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L9QP0YUC8",
+                "name": "Mo Amissi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#20PLP8P9",
+                "name": "swag"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8963,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPGCL8CYC",
+                "name": "KoerpoerXD"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QPGCL8CYC",
+                "name": "KoerpoerXD"
+              },
+              "destructionPercent": 69,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8332,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PP9R8LJGG",
+                "name": "NielsTheKiller"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PP9R8LJGG",
+                "name": "NielsTheKiller"
+              },
+              "destructionPercent": 66,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9356,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#L202YG9L0",
+                "name": "matanoei"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6138,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L9QP0YUC8",
+                "name": "Mo Amissi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L202YG9L0",
+                "name": "matanoei"
+              },
+              "destructionPercent": 62,
+              "stars": 1
             }
           ]
         }
