@@ -122,7 +122,15 @@
         "name": "de skelet boys",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2LL0JGR9",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 1,
+          "destructionPercentage": 78,
+          "order": 31,
+          "duration": 99
+        }
       },
       {
         "tag": "#L9QP0YUC8",
@@ -147,7 +155,15 @@
             "duration": 122
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G8YY9QJUP",
+          "defenderTag": "#L9QP0YUC8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "duration": 167
+        }
       },
       {
         "tag": "#LPGGPVPRP",
@@ -322,7 +338,15 @@
         "name": "motormeeuw",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GY8RYLUGV",
+          "defenderTag": "#LGVVJCP2Y",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "duration": 121
+        }
       },
       {
         "tag": "#LJ2J8QRPJ",
@@ -361,14 +385,14 @@
             "duration": 159
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#L0RJ0G2R0",
+          "attackerTag": "#G8YY9QJUP",
           "defenderTag": "#PPJLGLPVL",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 20,
-          "duration": 137
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 79
         }
       }
     ]
@@ -382,9 +406,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Jn4g7-eLLS3xDytpLtN3nLtmwDUg18u0vRHuzFVj_dI.png"
     },
     "clanLevel": 14,
-    "attacks": 12,
-    "stars": 22,
-    "destructionPercentage": 42.3,
+    "attacks": 16,
+    "stars": 30,
+    "destructionPercentage": 56.55,
     "members": [
       {
         "tag": "#L0RJ0G2R0",
@@ -472,6 +496,16 @@
         "name": "jhon ULC",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#G2LL0JGR9",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 1,
+            "destructionPercentage": 78,
+            "order": 31,
+            "duration": 99
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -536,6 +570,24 @@
         "name": "\u2022Thorkell\u2022",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#G8YY9QJUP",
+            "defenderTag": "#L9QP0YUC8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 29,
+            "duration": 167
+          },
+          {
+            "attackerTag": "#G8YY9QJUP",
+            "defenderTag": "#PPJLGLPVL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 30,
+            "duration": 79
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L9QP0YUC8",
@@ -551,6 +603,16 @@
         "name": "Claudinha",
         "townhallLevel": 14,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#GY8RYLUGV",
+            "defenderTag": "#LGVVJCP2Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 28,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 0
       },
       {
