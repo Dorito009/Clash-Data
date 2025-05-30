@@ -170,7 +170,15 @@
         "name": "Joran Bawz",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q20C8QCCY",
+          "defenderTag": "#LPGGPVPRP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "duration": 114
+        }
       },
       {
         "tag": "#QPGCL8CYC",
@@ -406,9 +414,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Jn4g7-eLLS3xDytpLtN3nLtmwDUg18u0vRHuzFVj_dI.png"
     },
     "clanLevel": 14,
-    "attacks": 16,
-    "stars": 30,
-    "destructionPercentage": 56.55,
+    "attacks": 17,
+    "stars": 33,
+    "destructionPercentage": 61.55,
     "members": [
       {
         "tag": "#L0RJ0G2R0",
@@ -765,6 +773,16 @@
         "name": "CapPitoco",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Q20C8QCCY",
+            "defenderTag": "#LPGGPVPRP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 32,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#L202YG9L0",
