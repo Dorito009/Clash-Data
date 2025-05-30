@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 18,
-    "stars": 33,
-    "destructionPercentage": 63.8,
+    "attacks": 21,
+    "stars": 39,
+    "destructionPercentage": 71.65,
     "members": [
       {
         "tag": "#YCRG2JV2P",
@@ -251,6 +251,24 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#QP9UJ2VUQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 103
+          },
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#GYQRRVCV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 39,
+            "duration": 173
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QP9UJ2VUQ",
@@ -281,6 +299,14 @@
             "destructionPercentage": 100,
             "order": 5,
             "duration": 166
+          },
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#L0RJ0G2R0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 135
           }
         ],
         "opponentAttacks": 0
@@ -475,14 +501,14 @@
             "duration": 137
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#L9QP0YUC8",
+          "attackerTag": "#9JQP9VUPY",
           "defenderTag": "#L0RJ0G2R0",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 11,
-          "duration": 106
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 37,
+          "duration": 135
         }
       },
       {
@@ -508,14 +534,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YCQ98GC88",
+          "attackerTag": "#PP9R8LJGG",
           "defenderTag": "#GYQRRVCV",
-          "stars": 1,
-          "destructionPercentage": 47,
-          "order": 13,
-          "duration": 57
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "duration": 173
         }
       },
       {
@@ -745,7 +771,15 @@
             "duration": 101
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9R8LJGG",
+          "defenderTag": "#QP9UJ2VUQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 103
+        }
       },
       {
         "tag": "#9208LU2P9",
