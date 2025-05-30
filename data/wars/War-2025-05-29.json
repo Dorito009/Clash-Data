@@ -244,7 +244,15 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPC2RLGJ8",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 95
+        }
       },
       {
         "tag": "#PP9R8LJGG",
@@ -366,7 +374,15 @@
             "duration": 167
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPC2RLGJ8",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 84
+        }
       },
       {
         "tag": "#YCQ98GC88",
@@ -474,9 +490,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Jn4g7-eLLS3xDytpLtN3nLtmwDUg18u0vRHuzFVj_dI.png"
     },
     "clanLevel": 14,
-    "attacks": 18,
-    "stars": 35,
-    "destructionPercentage": 64.9,
+    "attacks": 20,
+    "stars": 41,
+    "destructionPercentage": 74.9,
     "members": [
       {
         "tag": "#L0RJ0G2R0",
@@ -704,6 +720,24 @@
         "name": "\u2022Thorfinn\u2022",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GPC2RLGJ8",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 84
+          },
+          {
+            "attackerTag": "#GPC2RLGJ8",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y8LVCLUP2",
