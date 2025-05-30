@@ -317,7 +317,15 @@
             "duration": 135
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PR2PRJRL",
+          "defenderTag": "#9JQP9VUPY",
+          "stars": 1,
+          "destructionPercentage": 69,
+          "order": 42,
+          "duration": 95
+        }
       },
       {
         "tag": "#2Y8Q09V09",
@@ -490,9 +498,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Jn4g7-eLLS3xDytpLtN3nLtmwDUg18u0vRHuzFVj_dI.png"
     },
     "clanLevel": 14,
-    "attacks": 20,
-    "stars": 41,
-    "destructionPercentage": 74.9,
+    "attacks": 21,
+    "stars": 42,
+    "destructionPercentage": 78.35,
     "members": [
       {
         "tag": "#L0RJ0G2R0",
@@ -565,6 +573,16 @@
         "name": "brunoesl",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#PR2PRJRL",
+            "defenderTag": "#9JQP9VUPY",
+            "stars": 1,
+            "destructionPercentage": 69,
+            "order": 42,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9JQP9VUPY",
