@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 15,
-    "stars": 28,
-    "destructionPercentage": 50.65,
+    "attacks": 17,
+    "stars": 31,
+    "destructionPercentage": 59.9,
     "members": [
       {
         "tag": "#YCRG2JV2P",
@@ -42,7 +42,15 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9PCRVU80",
+          "defenderTag": "#YCRG2JV2P",
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 35,
+          "duration": 142
+        }
       },
       {
         "tag": "#88GVYL9VQ",
@@ -122,6 +130,24 @@
         "name": "de skelet boys",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#G2LL0JGR9",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 33,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#L098QLCJC",
+            "stars": 1,
+            "destructionPercentage": 91,
+            "order": 34,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G2LL0JGR9",
@@ -414,9 +440,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Jn4g7-eLLS3xDytpLtN3nLtmwDUg18u0vRHuzFVj_dI.png"
     },
     "clanLevel": 14,
-    "attacks": 17,
-    "stars": 33,
-    "destructionPercentage": 61.55,
+    "attacks": 18,
+    "stars": 35,
+    "destructionPercentage": 64.9,
     "members": [
       {
         "tag": "#L0RJ0G2R0",
@@ -514,7 +540,15 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#G2LL0JGR9",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 33,
+          "duration": 129
+        }
       },
       {
         "tag": "#82VPCUC80",
@@ -741,7 +775,15 @@
         "name": "inconvenientes",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#L098QLCJC",
+          "stars": 1,
+          "destructionPercentage": 91,
+          "order": 34,
+          "duration": 128
+        }
       },
       {
         "tag": "#92RULJRJY",
@@ -798,6 +840,16 @@
         "name": "\uff25\uff52\uff49\uff43",
         "townhallLevel": 12,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#L9PCRVU80",
+            "defenderTag": "#YCRG2JV2P",
+            "stars": 2,
+            "destructionPercentage": 67,
+            "order": 35,
+            "duration": 142
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YCRG2JV2P",
