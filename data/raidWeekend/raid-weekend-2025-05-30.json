@@ -2700,6 +2700,306 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#200C0JLU9",
+        "name": "\u00a5PURGATORY\u00a5",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png"
+        }
+      },
+      "attackCount": 23,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12178,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CRL28C80",
+                "name": "Sparta"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQG28YR8R",
+                "name": "Seandie\u2022\u2122"
+              },
+              "destructionPercent": 85,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GQG28YR8R",
+                "name": "Seandie\u2022\u2122"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GQG28YR8R",
+                "name": "Seandie\u2022\u2122"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10329,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQG28YR8R",
+                "name": "Seandie\u2022\u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#28P28YY9",
+                "name": "\u00a5BUBBA\u00a5"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YYUV20JCR",
+                "name": "\u00a5 TiKkA \u00a5"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8933,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQG28YR8R",
+                "name": "Seandie\u2022\u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQG28YR8R",
+                "name": "Seandie\u2022\u2122"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#L2G2RYJ8P",
+                "name": "\u00a5 Ruger \u00a5"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8848,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2YYYPPQG2",
+                "name": "F\u00a7FI\u00a7H"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2YYYPPQG2",
+                "name": "F\u00a7FI\u00a7H"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9183,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQCUQJGJ",
+                "name": "NephilimRoyalty"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2GY0R9QVV",
+                "name": "\u00a5 Neph \u00a5"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8398,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L2G2RYJ8P",
+                "name": "\u00a5 Ruger \u00a5"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2YYYPPQG2",
+                "name": "F\u00a7FI\u00a7H"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8679,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2GY0R9QVV",
+                "name": "\u00a5 Neph \u00a5"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2GY0R9QVV",
+                "name": "\u00a5 Neph \u00a5"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9524,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2YYYPPQG2",
+                "name": "F\u00a7FI\u00a7H"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2YYYPPQG2",
+                "name": "F\u00a7FI\u00a7H"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2YYYPPQG2",
+                "name": "F\u00a7FI\u00a7H"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6009,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RLUCL80Q",
+                "name": "\u00a5 DIZZLE \u00a5"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#RLUCL80Q",
+                "name": "\u00a5 DIZZLE \u00a5"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
+        }
+      ]
     }
   ]
 }
