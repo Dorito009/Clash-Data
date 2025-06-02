@@ -37,7 +37,7 @@
             "name": "SERAGAM 11",
             "townhallLevel": 13,
             "mapPosition": 12,
-            "opponentAttacks": 1,
+            "opponentAttacks": 2,
             "bestOpponentAttack": {
               "attackerTag": "#GQYQ92VLL",
               "defenderTag": "#GYQ9CGCYG",
@@ -229,7 +229,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 11,
+        "attacks": 12,
         "stars": 33,
         "destructionPercentage": 73.33333333333333,
         "members": [
@@ -395,6 +395,16 @@
             "name": "FabianBawz",
             "townhallLevel": 14,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#LJ2J8QRPJ",
+                "defenderTag": "#GYQ9CGCYG",
+                "stars": 0,
+                "destructionPercentage": 0,
+                "order": 12,
+                "duration": 0
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -780,7 +790,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
           "stars": 33,
-          "attacks": 11,
+          "attacks": 12,
           "destructionPercentage": 73.33333333333333
         }
       },
