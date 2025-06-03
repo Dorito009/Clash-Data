@@ -802,9 +802,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
         },
         "clanLevel": 24,
-        "attacks": 2,
-        "stars": 6,
-        "destructionPercentage": 13.333333333333334,
+        "attacks": 3,
+        "stars": 7,
+        "destructionPercentage": 19.066666666666666,
         "members": [
           {
             "tag": "#202VCLGPU",
@@ -887,6 +887,16 @@
             "name": "Aru",
             "townhallLevel": 17,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#2GLJQ0VR2",
+                "defenderTag": "#PP9R8LJGG",
+                "stars": 1,
+                "destructionPercentage": 86,
+                "order": 12,
+                "duration": 134
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#PP9R8LJGG",
@@ -1123,7 +1133,15 @@
                 "duration": 111
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2GLJQ0VR2",
+              "defenderTag": "#PP9R8LJGG",
+              "stars": 1,
+              "destructionPercentage": 86,
+              "order": 12,
+              "duration": 134
+            }
           },
           {
             "tag": "#PRUGPLRPG",
@@ -1604,9 +1622,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
           },
-          "stars": 6,
-          "attacks": 2,
-          "destructionPercentage": 13.333333333333334
+          "stars": 7,
+          "attacks": 3,
+          "destructionPercentage": 19.066666666666666
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -1643,9 +1661,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png"
           },
-          "stars": 17,
-          "attacks": 6,
-          "destructionPercentage": 39.333333333333336
+          "stars": 23,
+          "attacks": 8,
+          "destructionPercentage": 52.666666666666664
         }
       },
       {
