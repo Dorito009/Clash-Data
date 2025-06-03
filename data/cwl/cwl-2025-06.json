@@ -7,7 +7,7 @@
   ],
   "clanWars": [
     {
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "preparationStartTime": "20250601T104333.000Z",
       "startTime": "20250602T104331.000Z",
@@ -787,7 +787,7 @@
       "warStartTime": "20250602T104331.000Z"
     },
     {
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "preparationStartTime": "20250602T104337.000Z",
       "startTime": "20250603T111003.000Z",
@@ -1128,9 +1128,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/yuQATTFW4zOtIOwSi3tE3N2cDdauuZn2LdIfVOHkkVQ.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/yuQATTFW4zOtIOwSi3tE3N2cDdauuZn2LdIfVOHkkVQ.png"
           },
-          "stars": 35,
-          "attacks": 14,
-          "destructionPercentage": 82.13333333333334
+          "stars": 38,
+          "attacks": 15,
+          "destructionPercentage": 88.8
         },
         "clan2": {
           "tag": "#2GL8GRCUR",
@@ -1211,9 +1211,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DmpBfZByMSV2lH0pQ7fN465XLor5R20-zeaf0t4zc78.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DmpBfZByMSV2lH0pQ7fN465XLor5R20-zeaf0t4zc78.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         },
         "clan2": {
           "tag": "#2GL8GRCUR",
