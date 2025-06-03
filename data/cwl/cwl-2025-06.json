@@ -802,9 +802,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
         },
         "clanLevel": 24,
-        "attacks": 1,
-        "stars": 3,
-        "destructionPercentage": 6.666666666666667,
+        "attacks": 2,
+        "stars": 6,
+        "destructionPercentage": 13.333333333333334,
         "members": [
           {
             "tag": "#202VCLGPU",
@@ -954,13 +954,31 @@
             "name": "Chema",
             "townhallLevel": 13,
             "mapPosition": 14,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q0RUPY9YP",
+              "defenderTag": "#JJYY8GGG",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 11,
+              "duration": 117
+            }
           },
           {
             "tag": "#2UYGVRJ0G",
             "name": "Tacooo",
             "townhallLevel": 17,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#2UYGVRJ0G",
+                "defenderTag": "#8PV2Y0JPV",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 10,
+                "duration": 117
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -996,9 +1014,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 8,
-        "stars": 15,
-        "destructionPercentage": 44.733333333333334,
+        "attacks": 9,
+        "stars": 18,
+        "destructionPercentage": 51.4,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -1078,6 +1096,16 @@
             "name": "jermo",
             "townhallLevel": 13,
             "mapPosition": 32,
+            "attacks": [
+              {
+                "attackerTag": "#Q0RUPY9YP",
+                "defenderTag": "#JJYY8GGG",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 11,
+                "duration": 117
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1191,7 +1219,15 @@
             "name": "ropje",
             "townhallLevel": 14,
             "mapPosition": 10,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2UYGVRJ0G",
+              "defenderTag": "#8PV2Y0JPV",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 10,
+              "duration": 117
+            }
           }
         ]
       },
@@ -1568,9 +1604,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 6,
+          "attacks": 2,
+          "destructionPercentage": 13.333333333333334
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -1580,9 +1616,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
-          "stars": 15,
-          "attacks": 8,
-          "destructionPercentage": 44.733333333333334
+          "stars": 18,
+          "attacks": 9,
+          "destructionPercentage": 51.4
         }
       },
       {
@@ -1634,9 +1670,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png"
           },
-          "stars": 18,
-          "attacks": 7,
-          "destructionPercentage": 44.53333333333333
+          "stars": 19,
+          "attacks": 8,
+          "destructionPercentage": 48.2
         }
       },
       {
