@@ -21,9 +21,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/DzRQyaWSuB77K-IHSSw8z9AUainmedOWKCUYXaW7_m4.png"
         },
         "clanLevel": 6,
-        "attacks": 8,
-        "stars": 19,
-        "destructionPercentage": 47.93333333333333,
+        "attacks": 11,
+        "stars": 27,
+        "destructionPercentage": 66.26666666666667,
         "members": [
           {
             "tag": "#98J0CQ8PC",
@@ -127,6 +127,16 @@
             "name": "SERAGAM KUNING",
             "townhallLevel": 13,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#G0RJLPGVL",
+                "defenderTag": "#8PV2Y0JPV",
+                "stars": 2,
+                "destructionPercentage": 75,
+                "order": 23,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#8PV2Y0JPV",
@@ -167,7 +177,25 @@
             "name": "n10",
             "townhallLevel": 14,
             "mapPosition": 5,
-            "opponentAttacks": 0
+            "attacks": [
+              {
+                "attackerTag": "#9GQQCG8L8",
+                "defenderTag": "#YU982RCVV",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 26,
+                "duration": 132
+              }
+            ],
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YU982RCVV",
+              "defenderTag": "#9GQQCG8L8",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 24,
+              "duration": 92
+            }
           },
           {
             "tag": "#G9R2J2RLC",
@@ -214,6 +242,16 @@
             "name": "\u2605SERAGAM HITAM\u2605",
             "townhallLevel": 14,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#9PRRQVVGR",
+                "defenderTag": "#RJJGCV0P",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 25,
+                "duration": 160
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#RJJGCV0P",
@@ -325,9 +363,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 14,
-        "stars": 38,
-        "destructionPercentage": 86.26666666666667,
+        "attacks": 15,
+        "stars": 41,
+        "destructionPercentage": 92.93333333333334,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -386,7 +424,15 @@
                 "duration": 156
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9PRRQVVGR",
+              "defenderTag": "#RJJGCV0P",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "duration": 160
+            }
           },
           {
             "tag": "#L9QP0YUC8",
@@ -527,7 +573,25 @@
             "name": "Olivier05",
             "townhallLevel": 14,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "attacks": [
+              {
+                "attackerTag": "#YU982RCVV",
+                "defenderTag": "#9GQQCG8L8",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 24,
+                "duration": 92
+              }
+            ],
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9GQQCG8L8",
+              "defenderTag": "#YU982RCVV",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 26,
+              "duration": 132
+            }
           },
           {
             "tag": "#Y8LVCLUP2",
@@ -636,7 +700,15 @@
                 "duration": 119
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G0RJLPGVL",
+              "defenderTag": "#8PV2Y0JPV",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 23,
+              "duration": 180
+            }
           }
         ]
       },
@@ -957,9 +1029,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DzRQyaWSuB77K-IHSSw8z9AUainmedOWKCUYXaW7_m4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DzRQyaWSuB77K-IHSSw8z9AUainmedOWKCUYXaW7_m4.png"
           },
-          "stars": 19,
-          "attacks": 8,
-          "destructionPercentage": 47.93333333333333
+          "stars": 27,
+          "attacks": 11,
+          "destructionPercentage": 66.26666666666667
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -969,9 +1041,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
-          "stars": 38,
-          "attacks": 14,
-          "destructionPercentage": 86.26666666666667
+          "stars": 41,
+          "attacks": 15,
+          "destructionPercentage": 92.93333333333334
         }
       },
       {
