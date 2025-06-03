@@ -802,9 +802,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
         },
         "clanLevel": 24,
-        "attacks": 3,
-        "stars": 7,
-        "destructionPercentage": 19.066666666666666,
+        "attacks": 4,
+        "stars": 9,
+        "destructionPercentage": 25.2,
         "members": [
           {
             "tag": "#202VCLGPU",
@@ -841,6 +841,16 @@
             "name": "EL UNICO",
             "townhallLevel": 17,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#YQYJ202UV",
+                "defenderTag": "#9JQP9VUPY",
+                "stars": 2,
+                "destructionPercentage": 92,
+                "order": 15,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#9JQP9VUPY",
@@ -1004,7 +1014,15 @@
             "name": "aNnik",
             "townhallLevel": 17,
             "mapPosition": 1,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8QLPGU0VL",
+              "defenderTag": "#8VV2GRQY0",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 14,
+              "duration": 113
+            }
           },
           {
             "tag": "#8VQ2PPLGV",
@@ -1032,9 +1050,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 10,
-        "stars": 20,
-        "destructionPercentage": 56.86666666666667,
+        "attacks": 11,
+        "stars": 23,
+        "destructionPercentage": 63.53333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -1183,7 +1201,15 @@
                 "duration": 143
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YQYJ202UV",
+              "defenderTag": "#9JQP9VUPY",
+              "stars": 2,
+              "destructionPercentage": 92,
+              "order": 15,
+              "duration": 180
+            }
           },
           {
             "tag": "#YU982RCVV",
@@ -1248,6 +1274,16 @@
             "name": "obey",
             "townhallLevel": 16,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#8QLPGU0VL",
+                "defenderTag": "#8VV2GRQY0",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 14,
+                "duration": 113
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1640,9 +1676,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
           },
-          "stars": 7,
-          "attacks": 3,
-          "destructionPercentage": 19.066666666666666
+          "stars": 9,
+          "attacks": 4,
+          "destructionPercentage": 25.2
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -1652,9 +1688,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
-          "stars": 20,
-          "attacks": 10,
-          "destructionPercentage": 56.86666666666667
+          "stars": 23,
+          "attacks": 11,
+          "destructionPercentage": 63.53333333333333
         }
       },
       {
