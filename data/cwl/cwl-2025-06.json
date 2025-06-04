@@ -1483,9 +1483,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png"
         },
         "clanLevel": 19,
-        "attacks": 4,
-        "stars": 8,
-        "destructionPercentage": 21.6,
+        "attacks": 5,
+        "stars": 11,
+        "destructionPercentage": 28.266666666666666,
         "members": [
           {
             "tag": "#LJRRV8C9C",
@@ -1665,6 +1665,16 @@
             "name": "Putri Amanda",
             "townhallLevel": 15,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#YVQ9LV88C",
+                "defenderTag": "#PP9R8LJGG",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 15,
+                "duration": 157
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1842,7 +1852,15 @@
                 "duration": 96
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YVQ9LV88C",
+              "defenderTag": "#PP9R8LJGG",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 15,
+              "duration": 157
+            }
           },
           {
             "tag": "#PRUGPLRPG",
@@ -2476,9 +2494,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 6,
+          "attacks": 2,
+          "destructionPercentage": 13.333333333333334
         },
         "clan2": {
           "tag": "#2GL8GRCUR",
@@ -2488,9 +2506,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png"
           },
-          "stars": 5,
-          "attacks": 2,
-          "destructionPercentage": 13.133333333333333
+          "stars": 8,
+          "attacks": 4,
+          "destructionPercentage": 21.533333333333335
         }
       },
       {
@@ -2530,9 +2548,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png"
           },
-          "stars": 8,
-          "attacks": 4,
-          "destructionPercentage": 21.6
+          "stars": 11,
+          "attacks": 5,
+          "destructionPercentage": 28.266666666666666
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
