@@ -1483,9 +1483,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png"
         },
         "clanLevel": 19,
-        "attacks": 5,
-        "stars": 11,
-        "destructionPercentage": 28.266666666666666,
+        "attacks": 9,
+        "stars": 20,
+        "destructionPercentage": 52.6,
         "members": [
           {
             "tag": "#LJRRV8C9C",
@@ -1514,6 +1514,16 @@
             "name": "Ekep_RL",
             "townhallLevel": 15,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#2C2YQ8QUQ",
+                "defenderTag": "#YU982RCVV",
+                "stars": 2,
+                "destructionPercentage": 97,
+                "order": 18,
+                "duration": 129
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1576,6 +1586,16 @@
             "name": "anisa",
             "townhallLevel": 15,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#8JLPPUYGR",
+                "defenderTag": "#PRUGPLRPG",
+                "stars": 2,
+                "destructionPercentage": 77,
+                "order": 20,
+                "duration": 146
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1698,6 +1718,16 @@
             "name": "Ladi Avista",
             "townhallLevel": 14,
             "mapPosition": 11,
+            "attacks": [
+              {
+                "attackerTag": "#V220LYRG",
+                "defenderTag": "#GQYQ92VLL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 19,
+                "duration": 106
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#GQYQ92VLL",
@@ -1728,6 +1758,16 @@
             "name": "Adit CPL",
             "townhallLevel": 16,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#289YUGQLG",
+                "defenderTag": "#8PV2Y0JPV",
+                "stars": 2,
+                "destructionPercentage": 91,
+                "order": 21,
+                "duration": 165
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#8PV2Y0JPV",
@@ -1785,7 +1825,15 @@
                 "duration": 110
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#V220LYRG",
+              "defenderTag": "#GQYQ92VLL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "duration": 106
+            }
           },
           {
             "tag": "#RJJGCV0P",
@@ -1893,7 +1941,15 @@
             "name": "Dorito_009",
             "townhallLevel": 14,
             "mapPosition": 20,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8JLPPUYGR",
+              "defenderTag": "#PRUGPLRPG",
+              "stars": 2,
+              "destructionPercentage": 77,
+              "order": 20,
+              "duration": 146
+            }
           },
           {
             "tag": "#9JQP9VUPY",
@@ -1917,7 +1973,15 @@
             "name": "Olivier05",
             "townhallLevel": 14,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2C2YQ8QUQ",
+              "defenderTag": "#YU982RCVV",
+              "stars": 2,
+              "destructionPercentage": 97,
+              "order": 18,
+              "duration": 129
+            }
           },
           {
             "tag": "#Y8LVCLUP2",
@@ -2016,7 +2080,15 @@
                 "duration": 129
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#289YUGQLG",
+              "defenderTag": "#8PV2Y0JPV",
+              "stars": 2,
+              "destructionPercentage": 91,
+              "order": 21,
+              "duration": 165
+            }
           }
         ]
       },
@@ -2584,9 +2656,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png"
           },
-          "stars": 11,
-          "attacks": 5,
-          "destructionPercentage": 28.266666666666666
+          "stars": 20,
+          "attacks": 9,
+          "destructionPercentage": 52.6
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
