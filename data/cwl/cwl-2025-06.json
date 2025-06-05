@@ -1483,9 +1483,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png"
         },
         "clanLevel": 19,
-        "attacks": 10,
-        "stars": 22,
-        "destructionPercentage": 58.333333333333336,
+        "attacks": 12,
+        "stars": 27,
+        "destructionPercentage": 70.53333333333333,
         "members": [
           {
             "tag": "#LJRRV8C9C",
@@ -1547,6 +1547,16 @@
             "name": "khafi mirza",
             "townhallLevel": 17,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#80JGLVY2G",
+                "defenderTag": "#9JQP9VUPY",
+                "stars": 2,
+                "destructionPercentage": 83,
+                "order": 26,
+                "duration": 137
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#88JUGLUL",
@@ -1587,6 +1597,16 @@
             "name": "Davie faries",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#2CRJR0R9V",
+                "defenderTag": "#88JUGLUL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 27,
+                "duration": 166
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#8QLPGU0VL",
@@ -1842,7 +1862,15 @@
                 "duration": 180
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2CRJR0R9V",
+              "defenderTag": "#88JUGLUL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 27,
+              "duration": 166
+            }
           },
           {
             "tag": "#GQYQ92VLL",
@@ -2018,7 +2046,15 @@
                 "duration": 127
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#80JGLVY2G",
+              "defenderTag": "#9JQP9VUPY",
+              "stars": 2,
+              "destructionPercentage": 83,
+              "order": 26,
+              "duration": 137
+            }
           },
           {
             "tag": "#YU982RCVV",
@@ -2674,9 +2710,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
           },
-          "stars": 23,
-          "attacks": 8,
-          "destructionPercentage": 53.13333333333333
+          "stars": 26,
+          "attacks": 9,
+          "destructionPercentage": 59.8
         },
         "clan2": {
           "tag": "#2GL8GRCUR",
@@ -2728,9 +2764,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png"
           },
-          "stars": 22,
-          "attacks": 10,
-          "destructionPercentage": 58.333333333333336
+          "stars": 27,
+          "attacks": 12,
+          "destructionPercentage": 70.53333333333333
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
