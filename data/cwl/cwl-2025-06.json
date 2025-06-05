@@ -2236,9 +2236,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 11,
-        "stars": 33,
-        "destructionPercentage": 73.33333333333333,
+        "attacks": 12,
+        "stars": 36,
+        "destructionPercentage": 80.0,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2484,6 +2484,16 @@
             "name": "FabianBawz",
             "townhallLevel": 14,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#LJ2J8QRPJ",
+                "defenderTag": "#LR0YQ9PJP",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 24,
+                "duration": 154
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#LR0YQ9PJP",
@@ -2646,7 +2656,15 @@
                 "duration": 154
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LJ2J8QRPJ",
+              "defenderTag": "#LR0YQ9PJP",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 24,
+              "duration": 154
+            }
           },
           {
             "tag": "#9900PLYPP",
@@ -3474,9 +3492,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
           },
-          "stars": 5,
-          "attacks": 2,
-          "destructionPercentage": 11.2
+          "stars": 8,
+          "attacks": 3,
+          "destructionPercentage": 17.866666666666667
         },
         "clan2": {
           "tag": "#2LR0LQCY",
@@ -3528,9 +3546,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
-          "stars": 33,
-          "attacks": 11,
-          "destructionPercentage": 73.33333333333333
+          "stars": 36,
+          "attacks": 12,
+          "destructionPercentage": 80.0
         },
         "clan2": {
           "tag": "#2QVY8LPU9",
