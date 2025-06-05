@@ -1483,9 +1483,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png"
         },
         "clanLevel": 19,
-        "attacks": 9,
-        "stars": 20,
-        "destructionPercentage": 52.6,
+        "attacks": 10,
+        "stars": 22,
+        "destructionPercentage": 58.333333333333336,
         "members": [
           {
             "tag": "#LJRRV8C9C",
@@ -1702,6 +1702,16 @@
             "name": "PunK'.",
             "townhallLevel": 15,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#8U8U9882L",
+                "defenderTag": "#RJJGCV0P",
+                "stars": 2,
+                "destructionPercentage": 86,
+                "order": 25,
+                "duration": 132
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#PP9R8LJGG",
@@ -1874,7 +1884,15 @@
                 "duration": 114
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8U8U9882L",
+              "defenderTag": "#RJJGCV0P",
+              "stars": 2,
+              "destructionPercentage": 86,
+              "order": 25,
+              "duration": 132
+            }
           },
           {
             "tag": "#L9QP0YUC8",
@@ -2641,9 +2659,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png"
           },
-          "stars": 41,
-          "attacks": 14,
-          "destructionPercentage": 91.93333333333334
+          "stars": 44,
+          "attacks": 15,
+          "destructionPercentage": 98.6
         }
       },
       {
@@ -2710,9 +2728,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png"
           },
-          "stars": 20,
-          "attacks": 9,
-          "destructionPercentage": 52.6
+          "stars": 22,
+          "attacks": 10,
+          "destructionPercentage": 58.333333333333336
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
