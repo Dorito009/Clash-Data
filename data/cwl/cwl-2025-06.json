@@ -3157,7 +3157,15 @@
             "name": "FAILAP",
             "townhallLevel": 14,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8PV2Y0JPV",
+              "defenderTag": "#JJJCL288",
+              "stars": 0,
+              "destructionPercentage": 23,
+              "order": 18,
+              "duration": 180
+            }
           },
           {
             "tag": "#22GUQ8YG8",
@@ -3303,9 +3311,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 6,
+        "attacks": 7,
         "stars": 16,
-        "destructionPercentage": 39.0,
+        "destructionPercentage": 40.53333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3558,6 +3566,16 @@
             "name": "ropje",
             "townhallLevel": 14,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#8PV2Y0JPV",
+                "defenderTag": "#JJJCL288",
+                "stars": 0,
+                "destructionPercentage": 23,
+                "order": 18,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -4305,8 +4323,8 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
           "stars": 16,
-          "attacks": 6,
-          "destructionPercentage": 39.0
+          "attacks": 7,
+          "destructionPercentage": 40.53333333333333
         }
       },
       {
@@ -4319,9 +4337,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
           },
-          "stars": 9,
-          "attacks": 3,
-          "destructionPercentage": 20.0
+          "stars": 11,
+          "attacks": 4,
+          "destructionPercentage": 25.066666666666666
         },
         "clan2": {
           "tag": "#YVP9VQ0V",
