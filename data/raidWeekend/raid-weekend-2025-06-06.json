@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250606T070000.000Z",
   "endTime": "20250609T070000.000Z",
-  "capitalTotalLoot": 238932,
-  "raidsCompleted": 2,
-  "totalAttacks": 64,
-  "enemyDistrictsDestroyed": 25,
+  "capitalTotalLoot": 266709,
+  "raidsCompleted": 3,
+  "totalAttacks": 72,
+  "enemyDistrictsDestroyed": 28,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 24891
+    },
+    {
+      "tag": "#PYQVLRC9C",
+      "name": "Cqsper",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21726
     },
     {
       "tag": "#Q9P2J02U",
@@ -48,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 22445
+    },
+    {
+      "tag": "#YGLCC89CV",
+      "name": "Salvador3000",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 6051
     },
     {
       "tag": "#PRUGPLRPG",
@@ -742,6 +758,282 @@
               },
               "destructionPercent": 88,
               "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2LJY00VGL",
+        "name": "Bruxos Br 2",
+        "level": 14,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2AwtlxH-8O3vqs_X5x0W58x5H8Etw3VGAWpk09gAIBU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2AwtlxH-8O3vqs_X5x0W58x5H8Etw3VGAWpk09gAIBU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2AwtlxH-8O3vqs_X5x0W58x5H8Etw3VGAWpk09gAIBU.png"
+        }
+      },
+      "attackCount": 20,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 3,
+          "totalLooted": 12154,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 31,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 3,
+          "totalLooted": 11192,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 9230,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 3,
+          "totalLooted": 10204,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 8519,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 1,
+          "totalLooted": 7408,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 9431,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 9144,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "Jeroonie_xD"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 6197,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PYQVLRC9C",
+                "name": "Cqsper"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 89,
+              "stars": 1
             }
           ]
         }
