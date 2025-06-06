@@ -2320,7 +2320,15 @@
                 "duration": 73
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G2YGRGYGR",
+              "defenderTag": "#L9QP0YUC8",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 27,
+              "duration": 107
+            }
           },
           {
             "tag": "#QPGCL8CYC",
@@ -2579,7 +2587,15 @@
                 "duration": 120
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GCG88YVLG",
+              "defenderTag": "#8PV2Y0JPV",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 28,
+              "duration": 97
+            }
           }
         ]
       },
@@ -2592,9 +2608,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png"
         },
         "clanLevel": 9,
-        "attacks": 12,
-        "stars": 33,
-        "destructionPercentage": 75.13333333333334,
+        "attacks": 14,
+        "stars": 39,
+        "destructionPercentage": 88.46666666666667,
         "members": [
           {
             "tag": "#2YRL0Q8GP",
@@ -2833,6 +2849,16 @@
             "name": "\uce74\uc774\uc800\ube14\ub7ec",
             "townhallLevel": 16,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#GCG88YVLG",
+                "defenderTag": "#8PV2Y0JPV",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 28,
+                "duration": 97
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#8PV2Y0JPV",
@@ -2923,6 +2949,16 @@
             "name": "\uce74\ub9ac\ub098\ube14\ub7ec",
             "townhallLevel": 16,
             "mapPosition": 11,
+            "attacks": [
+              {
+                "attackerTag": "#G2YGRGYGR",
+                "defenderTag": "#L9QP0YUC8",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 27,
+                "duration": 107
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#L9QP0YUC8",
@@ -3528,9 +3564,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
           },
-          "stars": 16,
-          "attacks": 6,
-          "destructionPercentage": 37.333333333333336
+          "stars": 18,
+          "attacks": 7,
+          "destructionPercentage": 42.46666666666667
         },
         "clan2": {
           "tag": "#2LR0LQCY",
@@ -3555,9 +3591,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/yuQATTFW4zOtIOwSi3tE3N2cDdauuZn2LdIfVOHkkVQ.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/yuQATTFW4zOtIOwSi3tE3N2cDdauuZn2LdIfVOHkkVQ.png"
           },
-          "stars": 3,
-          "attacks": 2,
-          "destructionPercentage": 9.733333333333333
+          "stars": 5,
+          "attacks": 3,
+          "destructionPercentage": 15.266666666666667
         },
         "clan2": {
           "tag": "#YVP9VQ0V",
@@ -3594,9 +3630,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png"
           },
-          "stars": 33,
-          "attacks": 12,
-          "destructionPercentage": 75.13333333333334
+          "stars": 39,
+          "attacks": 14,
+          "destructionPercentage": 88.46666666666667
         }
       },
       {
