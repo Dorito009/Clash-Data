@@ -2420,7 +2420,15 @@
                 "duration": 100
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2YRL0Q8GP",
+              "defenderTag": "#PRUGPLRPG",
+              "stars": 2,
+              "destructionPercentage": 80,
+              "order": 29,
+              "duration": 117
+            }
           },
           {
             "tag": "#9JQP9VUPY",
@@ -2608,15 +2616,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png"
         },
         "clanLevel": 9,
-        "attacks": 14,
-        "stars": 39,
-        "destructionPercentage": 88.46666666666667,
+        "attacks": 15,
+        "stars": 41,
+        "destructionPercentage": 93.8,
         "members": [
           {
             "tag": "#2YRL0Q8GP",
             "name": "\uc575\uadf8\ub9ac\uc774\ud0a4",
             "townhallLevel": 13,
             "mapPosition": 26,
+            "attacks": [
+              {
+                "attackerTag": "#2YRL0Q8GP",
+                "defenderTag": "#PRUGPLRPG",
+                "stars": 2,
+                "destructionPercentage": 80,
+                "order": 29,
+                "duration": 117
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#PRUGPLRPG",
@@ -3630,9 +3648,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png"
           },
-          "stars": 39,
-          "attacks": 14,
-          "destructionPercentage": 88.46666666666667
+          "stars": 41,
+          "attacks": 15,
+          "destructionPercentage": 93.8
         }
       },
       {
