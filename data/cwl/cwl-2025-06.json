@@ -3092,7 +3092,15 @@
                 "duration": 143
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PP9R8LJGG",
+              "defenderTag": "#QJPY0VYC",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "duration": 81
+            }
           },
           {
             "tag": "#20GLJ00V",
@@ -3287,9 +3295,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 4,
-        "stars": 10,
-        "destructionPercentage": 25.666666666666668,
+        "attacks": 5,
+        "stars": 13,
+        "destructionPercentage": 32.333333333333336,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3400,6 +3408,16 @@
             "name": "NielsTheKiller",
             "townhallLevel": 15,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#PP9R8LJGG",
+                "defenderTag": "#QJPY0VYC",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 16,
+                "duration": 81
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#CQ0JLR00",
@@ -4268,9 +4286,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
-          "stars": 10,
-          "attacks": 4,
-          "destructionPercentage": 25.666666666666668
+          "stars": 13,
+          "attacks": 5,
+          "destructionPercentage": 32.333333333333336
         }
       },
       {
