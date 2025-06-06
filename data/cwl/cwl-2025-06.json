@@ -2236,9 +2236,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 14,
-        "stars": 42,
-        "destructionPercentage": 93.33333333333333,
+        "attacks": 15,
+        "stars": 45,
+        "destructionPercentage": 100.0,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2295,6 +2295,16 @@
             "name": "JortGVA",
             "townhallLevel": 14,
             "mapPosition": 8,
+            "attacks": [
+              {
+                "attackerTag": "#RJJGCV0P",
+                "defenderTag": "#9CC0UL8G",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 30,
+                "duration": 146
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#9CC0UL8G",
@@ -2860,7 +2870,15 @@
                 "duration": 110
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#RJJGCV0P",
+              "defenderTag": "#9CC0UL8G",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 30,
+              "duration": 146
+            }
           },
           {
             "tag": "#GCG88YVLG",
@@ -3636,9 +3654,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
-          "stars": 42,
-          "attacks": 14,
-          "destructionPercentage": 93.33333333333333
+          "stars": 45,
+          "attacks": 15,
+          "destructionPercentage": 100.0
         },
         "clan2": {
           "tag": "#2QVY8LPU9",
