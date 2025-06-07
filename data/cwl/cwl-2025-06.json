@@ -3872,7 +3872,15 @@
                 "duration": 77
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#P2LJCGJQG",
+              "defenderTag": "#L9QP0YUC8",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "duration": 105
+            }
           },
           {
             "tag": "#QPGCL8CYC",
@@ -3913,7 +3921,15 @@
                 "duration": 88
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PRL0GQRJ",
+              "defenderTag": "#PP9R8LJGG",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "duration": 165
+            }
           },
           {
             "tag": "#PRUGPLRPG",
@@ -4049,7 +4065,15 @@
                 "duration": 120
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#L0CUYQUQ2",
+              "defenderTag": "#8PV2Y0JPV",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 15,
+              "duration": 173
+            }
           }
         ]
       },
@@ -4062,9 +4086,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png"
         },
         "clanLevel": 6,
-        "attacks": 6,
-        "stars": 13,
-        "destructionPercentage": 31.466666666666665,
+        "attacks": 9,
+        "stars": 22,
+        "destructionPercentage": 51.46666666666667,
         "members": [
           {
             "tag": "#V2JYGRJ0",
@@ -4224,6 +4248,16 @@
             "name": "Ah Jeng",
             "townhallLevel": 15,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#PRL0GQRJ",
+                "defenderTag": "#PP9R8LJGG",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 17,
+                "duration": 165
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4231,6 +4265,16 @@
             "name": "Gonjeng",
             "townhallLevel": 13,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#L0CUYQUQ2",
+                "defenderTag": "#8PV2Y0JPV",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 15,
+                "duration": 173
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#L9QP0YUC8",
@@ -4293,6 +4337,16 @@
             "name": "AbizardBintang",
             "townhallLevel": 14,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#P2LJCGJQG",
+                "defenderTag": "#L9QP0YUC8",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 16,
+                "duration": 105
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -5110,9 +5164,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
           },
-          "stars": 9,
-          "attacks": 3,
-          "destructionPercentage": 20.0
+          "stars": 15,
+          "attacks": 5,
+          "destructionPercentage": 33.333333333333336
         },
         "clan2": {
           "tag": "#2QPQQGRQV",
@@ -5176,9 +5230,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png"
           },
-          "stars": 27,
-          "attacks": 11,
-          "destructionPercentage": 69.46666666666667
+          "stars": 29,
+          "attacks": 12,
+          "destructionPercentage": 75.13333333333334
         }
       },
       {
@@ -5203,9 +5257,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png"
           },
-          "stars": 13,
-          "attacks": 6,
-          "destructionPercentage": 31.466666666666665
+          "stars": 22,
+          "attacks": 9,
+          "destructionPercentage": 51.46666666666667
         }
       }
     ],
