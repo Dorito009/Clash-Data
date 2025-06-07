@@ -3814,9 +3814,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 11,
-        "stars": 33,
-        "destructionPercentage": 73.33333333333333,
+        "attacks": 12,
+        "stars": 36,
+        "destructionPercentage": 80.0,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3904,7 +3904,25 @@
             "name": "jermo",
             "townhallLevel": 13,
             "mapPosition": 32,
-            "opponentAttacks": 0
+            "attacks": [
+              {
+                "attackerTag": "#Q0RUPY9YP",
+                "defenderTag": "#2J29GVU9L",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 22,
+                "duration": 80
+              }
+            ],
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#R9220QRU",
+              "defenderTag": "#Q0RUPY9YP",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 21,
+              "duration": 113
+            }
           },
           {
             "tag": "#PP9R8LJGG",
@@ -4116,9 +4134,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png"
         },
         "clanLevel": 6,
-        "attacks": 9,
-        "stars": 22,
-        "destructionPercentage": 51.46666666666667,
+        "attacks": 10,
+        "stars": 25,
+        "destructionPercentage": 58.13333333333333,
         "members": [
           {
             "tag": "#V2JYGRJ0",
@@ -4165,6 +4183,16 @@
             "name": "PrIsIdEnT",
             "townhallLevel": 13,
             "mapPosition": 8,
+            "attacks": [
+              {
+                "attackerTag": "#R9220QRU",
+                "defenderTag": "#Q0RUPY9YP",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 21,
+                "duration": 113
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#99RCQLLCR",
@@ -4190,7 +4218,15 @@
                 "duration": 92
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q0RUPY9YP",
+              "defenderTag": "#2J29GVU9L",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 22,
+              "duration": 80
+            }
           },
           {
             "tag": "#YY0YRQ0CJ",
@@ -5299,9 +5335,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
-          "stars": 33,
-          "attacks": 11,
-          "destructionPercentage": 73.33333333333333
+          "stars": 36,
+          "attacks": 12,
+          "destructionPercentage": 80.0
         },
         "clan2": {
           "tag": "#2GL8GRCUR",
@@ -5311,9 +5347,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png"
           },
-          "stars": 22,
-          "attacks": 9,
-          "destructionPercentage": 51.46666666666667
+          "stars": 25,
+          "attacks": 10,
+          "destructionPercentage": 58.13333333333333
         }
       }
     ],
