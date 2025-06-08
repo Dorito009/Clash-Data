@@ -4023,14 +4023,14 @@
                 "duration": 110
               }
             ],
-            "opponentAttacks": 1,
+            "opponentAttacks": 2,
             "bestOpponentAttack": {
-              "attackerTag": "#2J29GVU9L",
+              "attackerTag": "#209VJ0JCV",
               "defenderTag": "#Y8LVCLUP2",
-              "stars": 1,
-              "destructionPercentage": 49,
-              "order": 7,
-              "duration": 92
+              "stars": 2,
+              "destructionPercentage": 68,
+              "order": 23,
+              "duration": 108
             }
           },
           {
@@ -4134,9 +4134,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png"
         },
         "clanLevel": 6,
-        "attacks": 10,
-        "stars": 25,
-        "destructionPercentage": 58.13333333333333,
+        "attacks": 11,
+        "stars": 26,
+        "destructionPercentage": 59.4,
         "members": [
           {
             "tag": "#V2JYGRJ0",
@@ -4168,6 +4168,16 @@
             "name": "luncai emas",
             "townhallLevel": 13,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#209VJ0JCV",
+                "defenderTag": "#Y8LVCLUP2",
+                "stars": 2,
+                "destructionPercentage": 68,
+                "order": 23,
+                "duration": 108
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#8PV2Y0JPV",
@@ -5254,9 +5264,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
           },
-          "stars": 18,
-          "attacks": 6,
-          "destructionPercentage": 40.0
+          "stars": 21,
+          "attacks": 7,
+          "destructionPercentage": 46.666666666666664
         },
         "clan2": {
           "tag": "#2QPQQGRQV",
@@ -5320,9 +5330,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png"
           },
-          "stars": 32,
-          "attacks": 13,
-          "destructionPercentage": 81.8
+          "stars": 38,
+          "attacks": 15,
+          "destructionPercentage": 95.13333333333334
         }
       },
       {
@@ -5347,9 +5357,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png"
           },
-          "stars": 25,
-          "attacks": 10,
-          "destructionPercentage": 58.13333333333333
+          "stars": 26,
+          "attacks": 11,
+          "destructionPercentage": 59.4
         }
       }
     ],
