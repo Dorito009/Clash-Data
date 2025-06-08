@@ -4540,9 +4540,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yuQATTFW4zOtIOwSi3tE3N2cDdauuZn2LdIfVOHkkVQ.png"
         },
         "clanLevel": 12,
-        "attacks": 4,
-        "stars": 7,
-        "destructionPercentage": 21.6,
+        "attacks": 7,
+        "stars": 14,
+        "destructionPercentage": 37.333333333333336,
         "members": [
           {
             "tag": "#888V2CP8Y",
@@ -4571,7 +4571,25 @@
             "name": "Hybrid`Theory\u2122",
             "townhallLevel": 15,
             "mapPosition": 6,
-            "opponentAttacks": 0
+            "attacks": [
+              {
+                "attackerTag": "#89J88UGGQ",
+                "defenderTag": "#RJJGCV0P",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 16,
+                "duration": 143
+              }
+            ],
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#RJJGCV0P",
+              "defenderTag": "#89J88UGGQ",
+              "stars": 2,
+              "destructionPercentage": 84,
+              "order": 15,
+              "duration": 180
+            }
           },
           {
             "tag": "#29RQGRYQJ",
@@ -4610,6 +4628,16 @@
             "name": "\"W A Y A N\"",
             "townhallLevel": 13,
             "mapPosition": 14,
+            "attacks": [
+              {
+                "attackerTag": "#L0Y8G0L0P",
+                "defenderTag": "#GQYQ92VLL",
+                "stars": 2,
+                "destructionPercentage": 79,
+                "order": 13,
+                "duration": 99
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#GQYQ92VLL",
@@ -4711,6 +4739,16 @@
             "name": "YanHadi'Jr",
             "townhallLevel": 12,
             "mapPosition": 22,
+            "attacks": [
+              {
+                "attackerTag": "#PG9RG98R8",
+                "defenderTag": "#Q0RUPY9YP",
+                "stars": 2,
+                "destructionPercentage": 57,
+                "order": 14,
+                "duration": 84
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4764,9 +4802,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 8,
-        "stars": 24,
-        "destructionPercentage": 53.333333333333336,
+        "attacks": 9,
+        "stars": 26,
+        "destructionPercentage": 58.93333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -4800,14 +4838,40 @@
                 "duration": 97
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#L0Y8G0L0P",
+              "defenderTag": "#GQYQ92VLL",
+              "stars": 2,
+              "destructionPercentage": 79,
+              "order": 13,
+              "duration": 99
+            }
           },
           {
             "tag": "#RJJGCV0P",
             "name": "JortGVA",
             "townhallLevel": 14,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "attacks": [
+              {
+                "attackerTag": "#RJJGCV0P",
+                "defenderTag": "#89J88UGGQ",
+                "stars": 2,
+                "destructionPercentage": 84,
+                "order": 15,
+                "duration": 180
+              }
+            ],
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#89J88UGGQ",
+              "defenderTag": "#RJJGCV0P",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "duration": 143
+            }
           },
           {
             "tag": "#L9QP0YUC8",
@@ -4854,7 +4918,15 @@
             "name": "jermo",
             "townhallLevel": 13,
             "mapPosition": 32,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PG9RG98R8",
+              "defenderTag": "#Q0RUPY9YP",
+              "stars": 2,
+              "destructionPercentage": 57,
+              "order": 14,
+              "duration": 84
+            }
           },
           {
             "tag": "#PP9R8LJGG",
@@ -5674,9 +5746,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/GWwc2zd2b48zYQbGQ7yDHGHe_MaaEuExvoroZSw8Nzg.png"
           },
-          "stars": 6,
-          "attacks": 2,
-          "destructionPercentage": 13.333333333333334
+          "stars": 9,
+          "attacks": 3,
+          "destructionPercentage": 20.0
         }
       },
       {
@@ -5743,9 +5815,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/yuQATTFW4zOtIOwSi3tE3N2cDdauuZn2LdIfVOHkkVQ.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/yuQATTFW4zOtIOwSi3tE3N2cDdauuZn2LdIfVOHkkVQ.png"
           },
-          "stars": 7,
-          "attacks": 4,
-          "destructionPercentage": 21.6
+          "stars": 14,
+          "attacks": 7,
+          "destructionPercentage": 37.333333333333336
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -5755,9 +5827,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
-          "stars": 24,
-          "attacks": 8,
-          "destructionPercentage": 53.333333333333336
+          "stars": 26,
+          "attacks": 9,
+          "destructionPercentage": 58.93333333333333
         }
       }
     ]
