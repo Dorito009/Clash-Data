@@ -4540,9 +4540,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yuQATTFW4zOtIOwSi3tE3N2cDdauuZn2LdIfVOHkkVQ.png"
         },
         "clanLevel": 12,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 4,
+        "stars": 7,
+        "destructionPercentage": 21.6,
         "members": [
           {
             "tag": "#888V2CP8Y",
@@ -4585,6 +4585,16 @@
             "name": "Pinn",
             "townhallLevel": 13,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#9PCUPVP9R",
+                "defenderTag": "#99RCQLLCR",
+                "stars": 1,
+                "destructionPercentage": 76,
+                "order": 9,
+                "duration": 94
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#99RCQLLCR",
@@ -4630,6 +4640,16 @@
             "name": "Burn It Down",
             "townhallLevel": 12,
             "mapPosition": 24,
+            "attacks": [
+              {
+                "attackerTag": "#QGGVL8Y2V",
+                "defenderTag": "#QPGCL8CYC",
+                "stars": 2,
+                "destructionPercentage": 75,
+                "order": 10,
+                "duration": 99
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#QPGCL8CYC",
@@ -4674,6 +4694,16 @@
             "name": "Fabloo",
             "townhallLevel": 13,
             "mapPosition": 11,
+            "attacks": [
+              {
+                "attackerTag": "#L0UUCUYJP",
+                "defenderTag": "#L9QP0YUC8",
+                "stars": 2,
+                "destructionPercentage": 83,
+                "order": 11,
+                "duration": 111
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4703,6 +4733,16 @@
             "name": "Tu_Lalit",
             "townhallLevel": 14,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#QQ0PL99RY",
+                "defenderTag": "#8PV2Y0JPV",
+                "stars": 2,
+                "destructionPercentage": 90,
+                "order": 12,
+                "duration": 134
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#8PV2Y0JPV",
@@ -4774,7 +4814,15 @@
             "name": "Mo Amissi",
             "townhallLevel": 14,
             "mapPosition": 14,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#L0UUCUYJP",
+              "defenderTag": "#L9QP0YUC8",
+              "stars": 2,
+              "destructionPercentage": 83,
+              "order": 11,
+              "duration": 111
+            }
           },
           {
             "tag": "#QPGCL8CYC",
@@ -4791,7 +4839,15 @@
                 "duration": 106
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QGGVL8Y2V",
+              "defenderTag": "#QPGCL8CYC",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 10,
+              "duration": 99
+            }
           },
           {
             "tag": "#Q0RUPY9YP",
@@ -4887,7 +4943,15 @@
                 "duration": 89
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9PCUPVP9R",
+              "defenderTag": "#99RCQLLCR",
+              "stars": 1,
+              "destructionPercentage": 76,
+              "order": 9,
+              "duration": 94
+            }
           },
           {
             "tag": "#8QLPGU0VL",
@@ -4911,7 +4975,15 @@
                 "duration": 145
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QQ0PL99RY",
+              "defenderTag": "#8PV2Y0JPV",
+              "stars": 2,
+              "destructionPercentage": 90,
+              "order": 12,
+              "duration": 134
+            }
           }
         ]
       },
@@ -5617,9 +5689,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DmpBfZByMSV2lH0pQ7fN465XLor5R20-zeaf0t4zc78.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DmpBfZByMSV2lH0pQ7fN465XLor5R20-zeaf0t4zc78.png"
           },
-          "stars": 12,
-          "attacks": 4,
-          "destructionPercentage": 26.666666666666668
+          "stars": 22,
+          "attacks": 8,
+          "destructionPercentage": 52.733333333333334
         },
         "clan2": {
           "tag": "#2QVY8LPU9",
@@ -5629,9 +5701,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/HZ4CyPBWo8VdKSBJEBexOlehtWBrr8kqUzC15CxbMmA.png"
           },
-          "stars": 30,
-          "attacks": 11,
-          "destructionPercentage": 70.0
+          "stars": 31,
+          "attacks": 12,
+          "destructionPercentage": 73.93333333333334
         }
       },
       {
@@ -5671,9 +5743,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/yuQATTFW4zOtIOwSi3tE3N2cDdauuZn2LdIfVOHkkVQ.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/yuQATTFW4zOtIOwSi3tE3N2cDdauuZn2LdIfVOHkkVQ.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 7,
+          "attacks": 4,
+          "destructionPercentage": 21.6
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
