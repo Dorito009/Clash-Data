@@ -4530,7 +4530,7 @@
       "teamSize": 15,
       "preparationStartTime": "20250607T123914.000Z",
       "startTime": "20250608T123910.000Z",
-      "endTime": "20250609T123910.000Z",
+      "endTime": "20250609T133325.000Z",
       "clan": {
         "tag": "#2QPQQGRQV",
         "name": "KiT-Gday",
@@ -4784,7 +4784,15 @@
                 "duration": 111
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#L9QP0YUC8",
+              "defenderTag": "#L0UUCUYJP",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 24,
+              "duration": 105
+            }
           },
           {
             "tag": "#PG9RG98R8",
@@ -4862,9 +4870,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
         },
         "clanLevel": 13,
-        "attacks": 14,
-        "stars": 41,
-        "destructionPercentage": 92.26666666666667,
+        "attacks": 15,
+        "stars": 44,
+        "destructionPercentage": 98.93333333333334,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -4938,6 +4946,16 @@
             "name": "Mo Amissi",
             "townhallLevel": 14,
             "mapPosition": 14,
+            "attacks": [
+              {
+                "attackerTag": "#L9QP0YUC8",
+                "defenderTag": "#L0UUCUYJP",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 24,
+                "duration": 105
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#L0UUCUYJP",
@@ -5860,9 +5878,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
           },
-          "stars": 2,
-          "attacks": 1,
-          "destructionPercentage": 5.2
+          "stars": 24,
+          "attacks": 12,
+          "destructionPercentage": 51.0
         },
         "clan2": {
           "tag": "#9YC82J90",
@@ -5887,9 +5905,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DmpBfZByMSV2lH0pQ7fN465XLor5R20-zeaf0t4zc78.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DmpBfZByMSV2lH0pQ7fN465XLor5R20-zeaf0t4zc78.png"
           },
-          "stars": 39,
-          "attacks": 14,
-          "destructionPercentage": 91.13333333333334
+          "stars": 41,
+          "attacks": 15,
+          "destructionPercentage": 94.93333333333334
         },
         "clan2": {
           "tag": "#2QVY8LPU9",
@@ -5914,9 +5932,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/jptozEkowa8eIG1hthiMPDqrEQvFymuwqoMvMiN99bA.png"
           },
-          "stars": 27,
-          "attacks": 10,
-          "destructionPercentage": 61.6
+          "stars": 30,
+          "attacks": 11,
+          "destructionPercentage": 68.26666666666667
         },
         "clan2": {
           "tag": "#2GL8GRCUR",
@@ -5953,9 +5971,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
           },
-          "stars": 41,
-          "attacks": 14,
-          "destructionPercentage": 92.26666666666667
+          "stars": 44,
+          "attacks": 15,
+          "destructionPercentage": 98.93333333333334
         }
       }
     ]
