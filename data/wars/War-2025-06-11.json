@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 9.05,
+    "attacks": 5,
+    "stars": 13,
+    "destructionPercentage": 23.55,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -31,7 +31,25 @@
         "name": "davidanemoon",
         "townhallLevel": 15,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#P9RGRYC9",
+            "defenderTag": "#2RJQ90LLJ",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 9,
+            "duration": 79
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PG09QL88U",
+          "defenderTag": "#P9RGRYC9",
+          "stars": 2,
+          "destructionPercentage": 84,
+          "order": 7,
+          "duration": 104
+        }
       },
       {
         "tag": "#L202YG9L0",
@@ -52,7 +70,15 @@
         "name": "Olizes",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLYJ0GPY0",
+          "defenderTag": "#YVPCR90PC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 90
+        }
       },
       {
         "tag": "#RJJGCV0P",
@@ -73,7 +99,15 @@
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLYJ0GPY0",
+          "defenderTag": "#L9QP0YUC8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 95
+        }
       },
       {
         "tag": "#YRP99RVQR",
@@ -87,6 +121,16 @@
         "name": "Matsie04T",
         "townhallLevel": 12,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#R8JJQPUR",
+            "defenderTag": "#GGR0Y09Y9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 105
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -125,7 +169,25 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#PGYUV8V9Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 147
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PG09QL88U",
+          "defenderTag": "#PP9R8LJGG",
+          "stars": 1,
+          "destructionPercentage": 81,
+          "order": 6,
+          "duration": 104
+        }
       },
       {
         "tag": "#PRUGPLRPG",
@@ -190,9 +252,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/nJ9gEd8dQNiLATN3Zk0otcLT6YOWKgrSY6Uxd-MwuK0.png"
     },
     "clanLevel": 19,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 18.25,
     "members": [
       {
         "tag": "#G89VURVV2",
@@ -220,6 +282,24 @@
         "name": "Chamod",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#PG09QL88U",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 1,
+            "destructionPercentage": 81,
+            "order": 6,
+            "duration": 104
+          },
+          {
+            "attackerTag": "#PG09QL88U",
+            "defenderTag": "#P9RGRYC9",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 7,
+            "duration": 104
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -227,6 +307,24 @@
         "name": "Piyal",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#GLYJ0GPY0",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 90
+          },
+          {
+            "attackerTag": "#GLYJ0GPY0",
+            "defenderTag": "#L9QP0YUC8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -263,14 +361,30 @@
         "name": "borey2",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9R8LJGG",
+          "defenderTag": "#PGYUV8V9Y",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 147
+        }
       },
       {
         "tag": "#GGR0Y09Y9",
         "name": "Muscle-Bro",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#R8JJQPUR",
+          "defenderTag": "#GGR0Y09Y9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 105
+        }
       },
       {
         "tag": "#L82YLYRU9",
@@ -312,7 +426,15 @@
         "name": "NumeshSL",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P9RGRYC9",
+          "defenderTag": "#2RJQ90LLJ",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 9,
+          "duration": 79
+        }
       },
       {
         "tag": "#QYVJ0YLCR",
