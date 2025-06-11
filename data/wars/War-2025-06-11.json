@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 9,
-    "stars": 20,
-    "destructionPercentage": 38.05,
+    "attacks": 11,
+    "stars": 24,
+    "destructionPercentage": 44.0,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -316,6 +316,24 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#8R0LJPUVR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 157
+          },
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#QYVJ0YLCR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 136
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -570,7 +588,15 @@
         "name": "dhanesh max (M)",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y8LVCLUP2",
+          "defenderTag": "#8R0LJPUVR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 157
+        }
       },
       {
         "tag": "#LVG28QUGG",
@@ -631,14 +657,14 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#UVPQ9Y8U",
+          "attackerTag": "#Y8LVCLUP2",
           "defenderTag": "#QYVJ0YLCR",
-          "stars": 2,
-          "destructionPercentage": 81,
-          "order": 1,
-          "duration": 150
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 136
         }
       },
       {
