@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 20,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 5,
+    "destructionPercentage": 9.05,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -94,6 +94,16 @@
         "name": "Florimannn",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#QQ9Y02L8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 176
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -157,6 +167,16 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#QYVJ0YLCR",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 1,
+            "duration": 150
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -228,7 +248,15 @@
         "name": "\u2666\ufe0fDarK DevilL\u2666\ufe0f",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#QQ9Y02L8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 176
+        }
       },
       {
         "tag": "#PGYUV8V9Y",
@@ -291,7 +319,15 @@
         "name": "TIGER",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#QYVJ0YLCR",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 1,
+          "duration": 150
+        }
       },
       {
         "tag": "#LCC9P08UP",
