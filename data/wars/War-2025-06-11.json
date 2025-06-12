@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 19,
-    "stars": 38,
-    "destructionPercentage": 70.5,
+    "attacks": 20,
+    "stars": 41,
+    "destructionPercentage": 75.5,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -352,6 +352,16 @@
         "name": "Dorito_009",
         "townhallLevel": 14,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#Q8CYGG29Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QYVJ0YLCR",
@@ -915,7 +925,15 @@
             "duration": 127
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRUGPLRPG",
+          "defenderTag": "#Q8CYGG29Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 143
+        }
       },
       {
         "tag": "#GPRLGCRRU",
