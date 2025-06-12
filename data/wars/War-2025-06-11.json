@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 26,
-    "stars": 54,
-    "destructionPercentage": 93.25,
+    "attacks": 29,
+    "stars": 55,
+    "destructionPercentage": 93.6,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -296,6 +296,14 @@
             "destructionPercentage": 100,
             "order": 2,
             "duration": 176
+          },
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#L82YLYRU9",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 48,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -354,6 +362,14 @@
             "destructionPercentage": 85,
             "order": 40,
             "duration": 144
+          },
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#L82YLYRU9",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 49,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -535,6 +551,14 @@
             "destructionPercentage": 81,
             "order": 1,
             "duration": 150
+          },
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#L82YLYRU9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 127
           }
         ],
         "opponentAttacks": 1,
@@ -809,14 +833,14 @@
         "name": "Ganu bhai",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 1,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#LJUQG29C2",
+          "attackerTag": "#UVPQ9Y8U",
           "defenderTag": "#L82YLYRU9",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 12,
-          "duration": 122
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 127
         }
       },
       {
