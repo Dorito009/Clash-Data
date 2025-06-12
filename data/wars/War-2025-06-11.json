@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 29,
-    "stars": 55,
-    "destructionPercentage": 93.6,
+    "attacks": 34,
+    "stars": 59,
+    "destructionPercentage": 99.0,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -223,6 +223,24 @@
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#LQYJ9J2CL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 99
+          },
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#Y0PJ0RL9J",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 53,
+            "duration": 96
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLYJ0GPY0",
@@ -246,6 +264,14 @@
             "destructionPercentage": 100,
             "order": 15,
             "duration": 103
+          },
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#Y0PJ0RL9J",
+            "stars": 0,
+            "destructionPercentage": 33,
+            "order": 51,
+            "duration": 66
           }
         ],
         "opponentAttacks": 1,
@@ -445,6 +471,16 @@
         "name": "123lucas123",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#2RJQ90LLJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 178
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -493,6 +529,14 @@
             "destructionPercentage": 81,
             "order": 26,
             "duration": 127
+          },
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#GGR0Y09Y9",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 54,
+            "duration": 118
           }
         ],
         "opponentAttacks": 1,
@@ -642,7 +686,15 @@
             "duration": 91
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#Y0PJ0RL9J",
+          "stars": 2,
+          "destructionPercentage": 80,
+          "order": 53,
+          "duration": 96
+        }
       },
       {
         "tag": "#90LPV9CCQ",
@@ -818,7 +870,7 @@
         "name": "Muscle-Bro",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#R8JJQPUR",
           "defenderTag": "#GGR0Y09Y9",
@@ -911,14 +963,14 @@
             "duration": 78
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#JCGVYY8U",
+          "attackerTag": "#L9QP0YUC8",
           "defenderTag": "#LQYJ9J2CL",
-          "stars": 2,
-          "destructionPercentage": 82,
-          "order": 34,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 99
         }
       },
       {
@@ -926,14 +978,14 @@
         "name": "NumeshSL",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#P9RGRYC9",
+          "attackerTag": "#9JQP9VUPY",
           "defenderTag": "#2RJQ90LLJ",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 9,
-          "duration": 79
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 178
         }
       },
       {
