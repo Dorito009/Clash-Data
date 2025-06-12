@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 17,
-    "stars": 35,
-    "destructionPercentage": 63.1,
+    "attacks": 18,
+    "stars": 36,
+    "destructionPercentage": 66.25,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -99,6 +99,14 @@
             "destructionPercentage": 82,
             "order": 10,
             "duration": 112
+          },
+          {
+            "attackerTag": "#Q9P2J02U",
+            "defenderTag": "#GPRLGCRRU",
+            "stars": 1,
+            "destructionPercentage": 63,
+            "order": 39,
+            "duration": 103
           }
         ],
         "opponentAttacks": 1,
@@ -319,7 +327,7 @@
             "duration": 147
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#Y0PJ0RL9J",
           "defenderTag": "#PP9R8LJGG",
@@ -478,7 +486,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/nJ9gEd8dQNiLATN3Zk0otcLT6YOWKgrSY6Uxd-MwuK0.png"
     },
     "clanLevel": 19,
-    "attacks": 20,
+    "attacks": 21,
     "stars": 52,
     "destructionPercentage": 87.6,
     "members": [
@@ -765,6 +773,14 @@
             "destructionPercentage": 100,
             "order": 37,
             "duration": 104
+          },
+          {
+            "attackerTag": "#LQYJ9J2CL",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 1,
+            "destructionPercentage": 47,
+            "order": 38,
+            "duration": 78
           }
         ],
         "opponentAttacks": 1,
@@ -906,7 +922,15 @@
             "duration": 95
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9P2J02U",
+          "defenderTag": "#GPRLGCRRU",
+          "stars": 1,
+          "destructionPercentage": 63,
+          "order": 39,
+          "duration": 103
+        }
       }
     ]
   }
