@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 15,
-    "stars": 30,
-    "destructionPercentage": 54.0,
+    "attacks": 16,
+    "stars": 33,
+    "destructionPercentage": 59.0,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -66,7 +66,25 @@
         "name": "matanoei",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#L202YG9L0",
+            "defenderTag": "#LCC9P08UP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 30,
+            "duration": 148
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LCC9P08UP",
+          "defenderTag": "#L202YG9L0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 109
+        }
       },
       {
         "tag": "#Q9P2J02U",
@@ -250,7 +268,15 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q8CYGG29Q",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "duration": 127
+        }
       },
       {
         "tag": "#PP9R8LJGG",
@@ -322,14 +348,14 @@
             "duration": 122
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q9PULQCPC",
+          "attackerTag": "#LCC9P08UP",
           "defenderTag": "#LJUQG29C2",
-          "stars": 2,
-          "destructionPercentage": 68,
-          "order": 22,
-          "duration": 106
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "duration": 108
         }
       },
       {
@@ -418,9 +444,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/nJ9gEd8dQNiLATN3Zk0otcLT6YOWKgrSY6Uxd-MwuK0.png"
     },
     "clanLevel": 19,
-    "attacks": 14,
-    "stars": 36,
-    "destructionPercentage": 61.0,
+    "attacks": 17,
+    "stars": 43,
+    "destructionPercentage": 72.6,
     "members": [
       {
         "tag": "#G89VURVV2",
@@ -734,7 +760,33 @@
         "name": "jenesis",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#LCC9P08UP",
+            "defenderTag": "#L202YG9L0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 109
+          },
+          {
+            "attackerTag": "#LCC9P08UP",
+            "defenderTag": "#LJUQG29C2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 32,
+            "duration": 108
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L202YG9L0",
+          "defenderTag": "#LCC9P08UP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 148
+        }
       },
       {
         "tag": "#Q8CYGG29Q",
@@ -749,6 +801,14 @@
             "destructionPercentage": 100,
             "order": 25,
             "duration": 166
+          },
+          {
+            "attackerTag": "#Q8CYGG29Q",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 33,
+            "duration": 127
           }
         ],
         "opponentAttacks": 0
