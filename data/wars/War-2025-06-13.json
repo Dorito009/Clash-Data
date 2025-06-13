@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 4,
-    "stars": 10,
-    "destructionPercentage": 17.9,
+    "attacks": 6,
+    "stars": 13,
+    "destructionPercentage": 22.9,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -182,6 +182,16 @@
         "name": "lev",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#LJUQG29C2",
+            "defenderTag": "#YPCUCQGPY",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 15,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -197,6 +207,14 @@
             "destructionPercentage": 100,
             "order": 10,
             "duration": 114
+          },
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#QU9YYQQPC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 136
           }
         ],
         "opponentAttacks": 0
@@ -341,14 +359,14 @@
         "name": "Mrityunjay",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#JCGVYY8U",
+          "attackerTag": "#Y8LVCLUP2",
           "defenderTag": "#QU9YYQQPC",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 13,
-          "duration": 160
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 136
         }
       },
       {
@@ -487,7 +505,15 @@
         "name": "Bhaumik",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJUQG29C2",
+          "defenderTag": "#YPCUCQGPY",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 15,
+          "duration": 121
+        }
       },
       {
         "tag": "#L20YGY0LU",
