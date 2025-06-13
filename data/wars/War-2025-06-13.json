@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 5,
+    "destructionPercentage": 8.25,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -46,7 +46,15 @@
         "name": "matanoei",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9UCULYCRC",
+          "defenderTag": "#L202YG9L0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 116
+        }
       },
       {
         "tag": "#YVPCR90PC",
@@ -104,7 +112,15 @@
         "name": "Florimannn",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9UCULYCRC",
+          "defenderTag": "#8LYGCV8LY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 116
+        }
       },
       {
         "tag": "#LPGGPVPRP",
@@ -153,6 +169,16 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#L20YGY0LU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 10,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -160,6 +186,16 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#2PCPL2QJ9",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 9,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -210,9 +246,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png"
     },
     "clanLevel": 14,
-    "attacks": 6,
-    "stars": 10,
-    "destructionPercentage": 22.4,
+    "attacks": 8,
+    "stars": 16,
+    "destructionPercentage": 32.4,
     "members": [
       {
         "tag": "#VRQYLRC9",
@@ -302,6 +338,24 @@
         "name": "YOLO",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#9UCULYCRC",
+            "defenderTag": "#8LYGCV8LY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 116
+          },
+          {
+            "attackerTag": "#9UCULYCRC",
+            "defenderTag": "#L202YG9L0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 116
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -316,7 +370,15 @@
         "name": "green",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCQ98GC88",
+          "defenderTag": "#2PCPL2QJ9",
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 9,
+          "duration": 107
+        }
       },
       {
         "tag": "#G29URQ29L",
@@ -378,7 +440,15 @@
         "name": "hopsin",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y8LVCLUP2",
+          "defenderTag": "#L20YGY0LU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 114
+        }
       },
       {
         "tag": "#G9RU8CYPP",
