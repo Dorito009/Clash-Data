@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 6,
-    "stars": 13,
-    "destructionPercentage": 22.9,
+    "attacks": 7,
+    "stars": 16,
+    "destructionPercentage": 27.9,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -168,6 +168,16 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#GPYGYJGPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -381,7 +391,15 @@
         "name": "vikingsfan1792",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9R8LJGG",
+          "defenderTag": "#GPYGYJGPP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 119
+        }
       },
       {
         "tag": "#LQJPQCYG9",
