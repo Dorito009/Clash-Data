@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 8.25,
+    "attacks": 4,
+    "stars": 10,
+    "destructionPercentage": 17.9,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -76,6 +76,16 @@
         "name": "de skelet boys",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#QU9YYQQPC",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 13,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GPULL229J",
@@ -134,6 +144,16 @@
         "name": "KoerpoerXD",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#9UCULYCRC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 132
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -233,7 +253,15 @@
         "name": "Tobo",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YQCPLJL8P",
+          "defenderTag": "#99RCQLLCR",
+          "stars": 1,
+          "destructionPercentage": 46,
+          "order": 11,
+          "duration": 72
+        }
       }
     ]
   },
@@ -246,9 +274,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png"
     },
     "clanLevel": 14,
-    "attacks": 8,
-    "stars": 16,
-    "destructionPercentage": 32.4,
+    "attacks": 9,
+    "stars": 17,
+    "destructionPercentage": 34.7,
     "members": [
       {
         "tag": "#VRQYLRC9",
@@ -279,6 +307,16 @@
         "name": "TopBinz",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YQCPLJL8P",
+            "defenderTag": "#99RCQLLCR",
+            "stars": 1,
+            "destructionPercentage": 46,
+            "order": 11,
+            "duration": 72
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -303,7 +341,15 @@
         "name": "Mrityunjay",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#QU9YYQQPC",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 13,
+          "duration": 160
+        }
       },
       {
         "tag": "#YUVJUV2PY",
@@ -356,7 +402,15 @@
             "duration": 116
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPGCL8CYC",
+          "defenderTag": "#9UCULYCRC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 132
+        }
       },
       {
         "tag": "#YVPUJRV9R",
