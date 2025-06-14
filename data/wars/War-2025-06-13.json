@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 16,
-    "stars": 34,
-    "destructionPercentage": 59.1,
+    "attacks": 17,
+    "stars": 37,
+    "destructionPercentage": 64.1,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -109,6 +109,16 @@
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#G29URQ29L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 34,
+            "duration": 117
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -141,7 +151,15 @@
         "name": "Matsie04T",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G80JVQUJL",
+          "defenderTag": "#R8JJQPUR",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 33,
+          "duration": 83
+        }
       },
       {
         "tag": "#8LYGCV8LY",
@@ -173,7 +191,15 @@
         "name": "Joran Bawz",
         "townhallLevel": 13,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G80JVQUJL",
+          "defenderTag": "#LPGGPVPRP",
+          "stars": 2,
+          "destructionPercentage": 54,
+          "order": 35,
+          "duration": 83
+        }
       },
       {
         "tag": "#QPGCL8CYC",
@@ -414,9 +440,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png"
     },
     "clanLevel": 14,
-    "attacks": 16,
-    "stars": 31,
-    "destructionPercentage": 57.75,
+    "attacks": 18,
+    "stars": 35,
+    "destructionPercentage": 64.55,
     "members": [
       {
         "tag": "#VRQYLRC9",
@@ -681,7 +707,15 @@
         "name": "unclebob",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#G29URQ29L",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 117
+        }
       },
       {
         "tag": "#G9V0UUYLQ",
@@ -800,6 +834,24 @@
         "name": "ChiIlBeanz",
         "townhallLevel": 12,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#G80JVQUJL",
+            "defenderTag": "#R8JJQPUR",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 33,
+            "duration": 83
+          },
+          {
+            "attackerTag": "#G80JVQUJL",
+            "defenderTag": "#LPGGPVPRP",
+            "stars": 2,
+            "destructionPercentage": 54,
+            "order": 35,
+            "duration": 83
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YRP99RVQR",
