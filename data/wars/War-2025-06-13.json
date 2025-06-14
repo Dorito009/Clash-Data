@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 10,
-    "stars": 22,
-    "destructionPercentage": 36.95,
+    "attacks": 11,
+    "stars": 25,
+    "destructionPercentage": 41.95,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -84,16 +84,24 @@
             "destructionPercentage": 93,
             "order": 13,
             "duration": 160
+          },
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#G9V0UUYLQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 124
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#GPULL229J",
+          "attackerTag": "#GP2G992UG",
           "defenderTag": "#JCGVYY8U",
-          "stars": 1,
-          "destructionPercentage": 77,
-          "order": 6,
-          "duration": 116
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "duration": 110
         }
       },
       {
@@ -245,7 +253,15 @@
             "duration": 136
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QU9YYQQPC",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 166
+        }
       },
       {
         "tag": "#YCQ98GC88",
@@ -338,9 +354,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png"
     },
     "clanLevel": 14,
-    "attacks": 11,
-    "stars": 20,
-    "destructionPercentage": 41.6,
+    "attacks": 14,
+    "stars": 25,
+    "destructionPercentage": 47.75,
     "members": [
       {
         "tag": "#VRQYLRC9",
@@ -404,6 +420,14 @@
             "destructionPercentage": 72,
             "order": 1,
             "duration": 113
+          },
+          {
+            "attackerTag": "#GP2G992UG",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 25,
+            "duration": 110
           }
         ],
         "opponentAttacks": 0
@@ -413,6 +437,24 @@
         "name": "Mrityunjay",
         "townhallLevel": 13,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#QU9YYQQPC",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 1,
+            "destructionPercentage": 98,
+            "order": 23,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#QU9YYQQPC",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 166
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y8LVCLUP2",
@@ -552,7 +594,15 @@
         "name": "tripurasaAbhi",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#G9V0UUYLQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 124
+        }
       },
       {
         "tag": "#GPULL229J",
