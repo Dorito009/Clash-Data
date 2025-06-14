@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 7,
-    "stars": 16,
-    "destructionPercentage": 27.9,
+    "attacks": 10,
+    "stars": 22,
+    "destructionPercentage": 36.95,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -185,6 +185,16 @@
         "name": "Dorito_009",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#9RYV88VR9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 142
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -266,6 +276,24 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 14,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#VRQYLRC9",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 18,
+            "duration": 167
+          },
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#YPCUCQGPY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 132
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#VRQYLRC9",
@@ -321,7 +349,15 @@
             "duration": 95
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#VRQYLRC9",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 18,
+          "duration": 167
+        }
       },
       {
         "tag": "#LUJLGV9R",
@@ -413,7 +449,15 @@
         "name": "Rizwan_YT",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRUGPLRPG",
+          "defenderTag": "#9RYV88VR9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 142
+        }
       },
       {
         "tag": "#9UCULYCRC",
@@ -523,14 +567,14 @@
         "name": "Bhaumik",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LJUQG29C2",
+          "attackerTag": "#UVPQ9Y8U",
           "defenderTag": "#YPCUCQGPY",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 15,
-          "duration": 121
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 132
         }
       },
       {
