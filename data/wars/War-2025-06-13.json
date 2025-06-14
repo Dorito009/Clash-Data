@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 12,
-    "stars": 27,
-    "destructionPercentage": 46.35,
+    "attacks": 16,
+    "stars": 34,
+    "destructionPercentage": 59.1,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -116,6 +116,24 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#YUVJUV2PY",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 30,
+            "duration": 124
+          },
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#G80JVQUJL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -130,6 +148,16 @@
         "name": "Florimannn",
         "townhallLevel": 13,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#GPULL229J",
+            "stars": 1,
+            "destructionPercentage": 63,
+            "order": 32,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9UCULYCRC",
@@ -160,6 +188,14 @@
             "destructionPercentage": 100,
             "order": 12,
             "duration": 132
+          },
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#LUJLGV9R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 29,
+            "duration": 137
           }
         ],
         "opponentAttacks": 0
@@ -412,14 +448,14 @@
         "name": "Alexanderbrine",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LJUQG29C2",
+          "attackerTag": "#QPGCL8CYC",
           "defenderTag": "#LUJLGV9R",
-          "stars": 2,
-          "destructionPercentage": 88,
-          "order": 26,
-          "duration": 118
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "duration": 137
         }
       },
       {
@@ -502,7 +538,15 @@
         "name": "AnthonyV258",
         "townhallLevel": 13,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP99RVQR",
+          "defenderTag": "#YUVJUV2PY",
+          "stars": 2,
+          "destructionPercentage": 80,
+          "order": 30,
+          "duration": 124
+        }
       },
       {
         "tag": "#GPYGYJGPP",
@@ -669,7 +713,15 @@
             "duration": 116
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#GPULL229J",
+          "stars": 1,
+          "destructionPercentage": 63,
+          "order": 32,
+          "duration": 130
+        }
       },
       {
         "tag": "#G822QLC0L",
@@ -748,7 +800,15 @@
         "name": "ChiIlBeanz",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP99RVQR",
+          "defenderTag": "#G80JVQUJL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 138
+        }
       }
     ]
   }
