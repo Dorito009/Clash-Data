@@ -169,7 +169,15 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9RYV88VR9",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "duration": 144
+        }
       },
       {
         "tag": "#PP9R8LJGG",
@@ -211,7 +219,15 @@
             "duration": 142
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9RYV88VR9",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 138
+        }
       },
       {
         "tag": "#LJUQG29C2",
@@ -362,9 +378,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png"
     },
     "clanLevel": 14,
-    "attacks": 14,
-    "stars": 25,
-    "destructionPercentage": 47.75,
+    "attacks": 16,
+    "stars": 31,
+    "destructionPercentage": 57.75,
     "members": [
       {
         "tag": "#VRQYLRC9",
@@ -533,6 +549,24 @@
         "name": "Rizwan_YT",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#9RYV88VR9",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 138
+          },
+          {
+            "attackerTag": "#9RYV88VR9",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 28,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PRUGPLRPG",
