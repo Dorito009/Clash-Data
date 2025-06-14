@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 34,
+    "attacks": 36,
     "stars": 59,
     "destructionPercentage": 97.5,
     "members": [
@@ -90,6 +90,24 @@
         "name": "matanoei",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#L202YG9L0",
+            "defenderTag": "#GPULL229J",
+            "stars": 1,
+            "destructionPercentage": 82,
+            "order": 57,
+            "duration": 143
+          },
+          {
+            "attackerTag": "#L202YG9L0",
+            "defenderTag": "#9UCULYCRC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 58,
+            "duration": 153
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9UCULYCRC",
@@ -394,14 +412,14 @@
             "duration": 116
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GPYGYJGPP",
+          "attackerTag": "#G822QLC0L",
           "defenderTag": "#PP9R8LJGG",
-          "stars": 1,
-          "destructionPercentage": 84,
-          "order": 20,
-          "duration": 131
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 59,
+          "duration": 140
         }
       },
       {
@@ -622,9 +640,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png"
     },
     "clanLevel": 14,
-    "attacks": 22,
-    "stars": 45,
-    "destructionPercentage": 81.45,
+    "attacks": 23,
+    "stars": 46,
+    "destructionPercentage": 81.5,
     "members": [
       {
         "tag": "#VRQYLRC9",
@@ -892,7 +910,7 @@
             "duration": 116
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QPGCL8CYC",
           "defenderTag": "#9UCULYCRC",
@@ -995,7 +1013,7 @@
             "duration": 116
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#P9RGRYC9",
           "defenderTag": "#GPULL229J",
@@ -1018,6 +1036,14 @@
             "destructionPercentage": 93,
             "order": 4,
             "duration": 180
+          },
+          {
+            "attackerTag": "#G822QLC0L",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 59,
+            "duration": 140
           }
         ],
         "opponentAttacks": 3,
