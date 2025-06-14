@@ -265,14 +265,14 @@
             "duration": 90
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G80JVQUJL",
+          "attackerTag": "#LUJLGV9R",
           "defenderTag": "#R8JJQPUR",
-          "stars": 2,
-          "destructionPercentage": 82,
-          "order": 33,
-          "duration": 83
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 154
         }
       },
       {
@@ -470,7 +470,15 @@
             "duration": 118
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LUJLGV9R",
+          "defenderTag": "#LJUQG29C2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 131
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -640,9 +648,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png"
     },
     "clanLevel": 14,
-    "attacks": 23,
-    "stars": 46,
-    "destructionPercentage": 81.5,
+    "attacks": 25,
+    "stars": 50,
+    "destructionPercentage": 87.4,
     "members": [
       {
         "tag": "#VRQYLRC9",
@@ -682,6 +690,24 @@
         "name": "Alexanderbrine",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#LUJLGV9R",
+            "defenderTag": "#LJUQG29C2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 131
+          },
+          {
+            "attackerTag": "#LUJLGV9R",
+            "defenderTag": "#R8JJQPUR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 154
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QPGCL8CYC",
