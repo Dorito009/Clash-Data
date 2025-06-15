@@ -2,20 +2,20 @@
   "state": "ongoing",
   "startTime": "20250613T070000.000Z",
   "endTime": "20250616T070000.000Z",
-  "capitalTotalLoot": 734857,
-  "raidsCompleted": 9,
-  "totalAttacks": 197,
-  "enemyDistrictsDestroyed": 77,
+  "capitalTotalLoot": 772364,
+  "raidsCompleted": 11,
+  "totalAttacks": 210,
+  "enemyDistrictsDestroyed": 81,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#20PLP8P9",
       "name": "swag",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 3385
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20190
     },
     {
       "tag": "#88JUGLUL",
@@ -242,6 +242,14 @@
       "capitalResourcesLooted": 15664
     },
     {
+      "tag": "#Q2VUQY8GU",
+      "name": "holy blobfish",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15893
+    },
+    {
       "tag": "#LJ2J8QRPJ",
       "name": "FabianBawz",
       "attacks": 3,
@@ -268,10 +276,10 @@
     {
       "tag": "#QU9LC8LCY",
       "name": "wasbakmonteu",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9372
+      "capitalResourcesLooted": 14181
     },
     {
       "tag": "#99RCQLLCR",
@@ -2677,6 +2685,338 @@
                 "name": "Florimannn"
               },
               "destructionPercent": 89,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#QYJ0QUL2",
+        "name": "Brgy. Tibay. Ph",
+        "level": 16,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/qpAcWFxPs_pHwD1rjSIzYYFoj7BGWSa-EsmG8C0O6gc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/qpAcWFxPs_pHwD1rjSIzYYFoj7BGWSa-EsmG8C0O6gc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/qpAcWFxPs_pHwD1rjSIzYYFoj7BGWSa-EsmG8C0O6gc.png"
+        }
+      },
+      "attackCount": 27,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 12469,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QU9LC8LCY",
+                "name": "wasbakmonteu"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2VUQY8GU",
+                "name": "holy blobfish"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q2VUQY8GU",
+                "name": "holy blobfish"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q2VUQY8GU",
+                "name": "holy blobfish"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#Q2VUQY8GU",
+                "name": "holy blobfish"
+              },
+              "destructionPercent": 21,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10670,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2VUQY8GU",
+                "name": "holy blobfish"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#20PLP8P9",
+                "name": "swag"
+              },
+              "destructionPercent": 69,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QU9LC8LCY",
+                "name": "wasbakmonteu"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#QU9LC8LCY",
+                "name": "wasbakmonteu"
+              },
+              "destructionPercent": 18,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9225,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#20PLP8P9",
+                "name": "swag"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#20PLP8P9",
+                "name": "swag"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#20PLP8P9",
+                "name": "swag"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10141,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 86,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9853,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YCQ98GC88",
+                "name": "Peter Pannekoek"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YCQ98GC88",
+                "name": "Peter Pannekoek"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8794,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8913,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YVPCR90PC",
+                "name": "Olizes"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9786,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YCQ98GC88",
+                "name": "Peter Pannekoek"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2RG2JRVUP",
+                "name": "Rinaldo"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2RG2JRVUP",
+                "name": "Rinaldo"
+              },
+              "destructionPercent": 42,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6258,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2VUQY8GU",
+                "name": "holy blobfish"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PRUGPLRPG",
+                "name": "Dorito_009"
+              },
+              "destructionPercent": 99,
               "stars": 2
             }
           ]
