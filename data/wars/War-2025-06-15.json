@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 6,
-    "stars": 18,
-    "destructionPercentage": 24.0,
+    "attacks": 7,
+    "stars": 20,
+    "destructionPercentage": 27.08,
     "members": [
       {
         "tag": "#C0YJU8LL",
@@ -199,6 +199,16 @@
         "name": "lev",
         "townhallLevel": 13,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#LJUQG29C2",
+            "defenderTag": "#QV2LYRLCG",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 10,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -305,7 +315,15 @@
         "name": "Vinit_Morya",
         "townhallLevel": 13,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJUQG29C2",
+          "defenderTag": "#QV2LYRLCG",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 10,
+          "duration": 95
+        }
       },
       {
         "tag": "#P0LLGRVJ",
