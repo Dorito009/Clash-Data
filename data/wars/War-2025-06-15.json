@@ -86,7 +86,15 @@
         "name": "matanoei",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCG0G0P28",
+          "defenderTag": "#L202YG9L0",
+          "stars": 1,
+          "destructionPercentage": 96,
+          "order": 20,
+          "duration": 180
+        }
       },
       {
         "tag": "#YVPCR90PC",
@@ -375,9 +383,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oMZcD81pCMfJIzoOTT1OxsfaeRDRJyYxPB7IqrZcpfk.png"
     },
     "clanLevel": 15,
-    "attacks": 9,
-    "stars": 24,
-    "destructionPercentage": 35.16,
+    "attacks": 10,
+    "stars": 25,
+    "destructionPercentage": 39.0,
     "members": [
       {
         "tag": "#YV8GQRJG2",
@@ -539,6 +547,16 @@
         "name": "AdhiiiS",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#QCG0G0P28",
+            "defenderTag": "#L202YG9L0",
+            "stars": 1,
+            "destructionPercentage": 96,
+            "order": 20,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
