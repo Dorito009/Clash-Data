@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 14,
-    "stars": 32,
-    "destructionPercentage": 44.8,
+    "attacks": 15,
+    "stars": 35,
+    "destructionPercentage": 48.8,
     "members": [
       {
         "tag": "#C0YJU8LL",
@@ -116,7 +116,15 @@
         "name": "de skelet boys",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PG0JCQQGC",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 25,
+          "duration": 96
+        }
       },
       {
         "tag": "#L9QP0YUC8",
@@ -406,6 +414,16 @@
         "name": "Tobo",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#99RCQLLCR",
+            "defenderTag": "#PV2V2V9PP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 26,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -419,9 +437,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oMZcD81pCMfJIzoOTT1OxsfaeRDRJyYxPB7IqrZcpfk.png"
     },
     "clanLevel": 15,
-    "attacks": 10,
-    "stars": 25,
-    "destructionPercentage": 39.0,
+    "attacks": 11,
+    "stars": 27,
+    "destructionPercentage": 42.48,
     "members": [
       {
         "tag": "#YV8GQRJG2",
@@ -545,7 +563,15 @@
         "name": "Khatri",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#99RCQLLCR",
+          "defenderTag": "#PV2V2V9PP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "duration": 144
+        }
       },
       {
         "tag": "#LJJG0PCPV",
@@ -744,6 +770,16 @@
         "name": "CoC BoY sUmIT*?",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#PG0JCQQGC",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 25,
+            "duration": 96
+          }
+        ],
         "opponentAttacks": 0
       },
       {
