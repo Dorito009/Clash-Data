@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 9,
-    "stars": 24,
-    "destructionPercentage": 32.0,
+    "attacks": 10,
+    "stars": 26,
+    "destructionPercentage": 35.76,
     "members": [
       {
         "tag": "#C0YJU8LL",
@@ -39,6 +39,16 @@
         "name": "Jeroonie_xD",
         "townhallLevel": 16,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#88JUGLUL",
+            "defenderTag": "#YL9JVGV9G",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 15,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PUJ9VCUYQ",
@@ -508,7 +518,15 @@
         "name": "ImUk",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88JUGLUL",
+          "defenderTag": "#YL9JVGV9G",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 15,
+          "duration": 180
+        }
       },
       {
         "tag": "#PGCJQP980",
