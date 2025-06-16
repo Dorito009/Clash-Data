@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 12,
-    "stars": 29,
-    "destructionPercentage": 43.08,
+    "attacks": 14,
+    "stars": 32,
+    "destructionPercentage": 44.8,
     "members": [
       {
         "tag": "#C0YJU8LL",
@@ -356,6 +356,24 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 14,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#QC9LPR8YQ",
+            "stars": 2,
+            "destructionPercentage": 55,
+            "order": 23,
+            "duration": 126
+          },
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#YU9ULQVC9",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 24,
+            "duration": 153
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -479,7 +497,15 @@
         "name": "1ManArmy",
         "townhallLevel": 14,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#QC9LPR8YQ",
+          "stars": 2,
+          "destructionPercentage": 55,
+          "order": 23,
+          "duration": 126
+        }
       },
       {
         "tag": "#G008P0QUC",
@@ -634,14 +660,14 @@
         "name": "STARK",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QPGCL8CYC",
+          "attackerTag": "#UVPQ9Y8U",
           "defenderTag": "#YU9ULQVC9",
-          "stars": 1,
-          "destructionPercentage": 97,
-          "order": 21,
-          "duration": 140
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 24,
+          "duration": 153
         }
       },
       {
