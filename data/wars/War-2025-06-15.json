@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 26,
-    "stars": 56,
-    "destructionPercentage": 80.72,
+    "attacks": 28,
+    "stars": 57,
+    "destructionPercentage": 80.32,
     "members": [
       {
         "tag": "#C0YJU8LL",
@@ -240,7 +240,15 @@
         "name": "Joran Bawz",
         "townhallLevel": 13,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCG0G0P28",
+          "defenderTag": "#LPGGPVPRP",
+          "stars": 1,
+          "destructionPercentage": 87,
+          "order": 42,
+          "duration": 178
+        }
       },
       {
         "tag": "#LLY9CRLJ0",
@@ -426,6 +434,24 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#PUJ9VCUYQ",
+            "stars": 2,
+            "destructionPercentage": 67,
+            "order": 43,
+            "duration": 122
+          },
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#YL9JVGV9G",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 44,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PUJ9VCUYQ",
@@ -563,9 +589,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oMZcD81pCMfJIzoOTT1OxsfaeRDRJyYxPB7IqrZcpfk.png"
     },
     "clanLevel": 15,
-    "attacks": 15,
-    "stars": 37,
-    "destructionPercentage": 57.44,
+    "attacks": 16,
+    "stars": 38,
+    "destructionPercentage": 60.92,
     "members": [
       {
         "tag": "#YV8GQRJG2",
@@ -819,6 +845,14 @@
             "destructionPercentage": 96,
             "order": 20,
             "duration": 180
+          },
+          {
+            "attackerTag": "#QCG0G0P28",
+            "defenderTag": "#LPGGPVPRP",
+            "stars": 1,
+            "destructionPercentage": 87,
+            "order": 42,
+            "duration": 178
           }
         ],
         "opponentAttacks": 0
@@ -850,7 +884,7 @@
         "name": "ImUk",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#88JUGLUL",
           "defenderTag": "#YL9JVGV9G",
@@ -1040,14 +1074,14 @@
             "duration": 149
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#88JUGLUL",
+          "attackerTag": "#YCQ98GC88",
           "defenderTag": "#PUJ9VCUYQ",
-          "stars": 1,
-          "destructionPercentage": 77,
-          "order": 38,
-          "duration": 135
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 43,
+          "duration": 122
         }
       }
     ]
