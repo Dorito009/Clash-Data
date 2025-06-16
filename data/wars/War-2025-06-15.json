@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 10,
-    "stars": 26,
-    "destructionPercentage": 35.76,
+    "attacks": 12,
+    "stars": 29,
+    "destructionPercentage": 43.08,
     "members": [
       {
         "tag": "#C0YJU8LL",
@@ -194,6 +194,16 @@
         "name": "KoerpoerXD",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#YU9ULQVC9",
+            "stars": 1,
+            "destructionPercentage": 97,
+            "order": 21,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YVQR9C8RC",
@@ -264,6 +274,14 @@
             "stars": 2,
             "destructionPercentage": 77,
             "order": 10,
+            "duration": 95
+          },
+          {
+            "attackerTag": "#LJUQG29C2",
+            "defenderTag": "#G8PQ9QQL2",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 22,
             "duration": 95
           }
         ],
@@ -446,7 +464,15 @@
         "name": "Timin",
         "townhallLevel": 12,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJUQG29C2",
+          "defenderTag": "#G8PQ9QQL2",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 22,
+          "duration": 95
+        }
       },
       {
         "tag": "#QC9LPR8YQ",
@@ -608,7 +634,15 @@
         "name": "STARK",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPGCL8CYC",
+          "defenderTag": "#YU9ULQVC9",
+          "stars": 1,
+          "destructionPercentage": 97,
+          "order": 21,
+          "duration": 140
+        }
       },
       {
         "tag": "#8YJGG0L8G",
