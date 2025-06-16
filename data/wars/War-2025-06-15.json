@@ -64,7 +64,15 @@
         "name": "nigler",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVQR9C8RC",
+          "defenderTag": "#YCRG2JV2P",
+          "stars": 1,
+          "destructionPercentage": 87,
+          "order": 19,
+          "duration": 139
+        }
       },
       {
         "tag": "#P9RGRYC9",
@@ -163,14 +171,30 @@
         "name": "RafGamerNL",
         "townhallLevel": 12,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G008P0QUC",
+          "defenderTag": "#LLY9CRLJ0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 130
+        }
       },
       {
         "tag": "#QPGCL8CYC",
         "name": "KoerpoerXD",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVQR9C8RC",
+          "defenderTag": "#QPGCL8CYC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 131
+        }
       },
       {
         "tag": "#Q0RUPY9YP",
@@ -323,7 +347,15 @@
             "duration": 139
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G008P0QUC",
+          "defenderTag": "#QU9LC8LCY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 68
+        }
       },
       {
         "tag": "#99RCQLLCR",
@@ -343,9 +375,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oMZcD81pCMfJIzoOTT1OxsfaeRDRJyYxPB7IqrZcpfk.png"
     },
     "clanLevel": 15,
-    "attacks": 5,
-    "stars": 14,
-    "destructionPercentage": 19.68,
+    "attacks": 9,
+    "stars": 24,
+    "destructionPercentage": 35.16,
     "members": [
       {
         "tag": "#YV8GQRJG2",
@@ -420,6 +452,24 @@
         "name": "Vinit\u2122",
         "townhallLevel": 11,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#G008P0QUC",
+            "defenderTag": "#QU9LC8LCY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 68
+          },
+          {
+            "attackerTag": "#G008P0QUC",
+            "defenderTag": "#LLY9CRLJ0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QU9LC8LCY",
@@ -576,6 +626,24 @@
         "name": "Arav",
         "townhallLevel": 14,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#YVQR9C8RC",
+            "defenderTag": "#QPGCL8CYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 131
+          },
+          {
+            "attackerTag": "#YVQR9C8RC",
+            "defenderTag": "#YCRG2JV2P",
+            "stars": 1,
+            "destructionPercentage": 87,
+            "order": 19,
+            "duration": 139
+          }
+        ],
         "opponentAttacks": 0
       },
       {
