@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 24,
-    "stars": 53,
-    "destructionPercentage": 75.04,
+    "attacks": 26,
+    "stars": 56,
+    "destructionPercentage": 80.72,
     "members": [
       {
         "tag": "#C0YJU8LL",
@@ -47,6 +47,14 @@
             "destructionPercentage": 94,
             "order": 15,
             "duration": 180
+          },
+          {
+            "attackerTag": "#88JUGLUL",
+            "defenderTag": "#PUJ9VCUYQ",
+            "stars": 1,
+            "destructionPercentage": 77,
+            "order": 38,
+            "duration": 135
           }
         ],
         "opponentAttacks": 1,
@@ -451,7 +459,15 @@
             "duration": 177
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YV8GQRJG2",
+          "defenderTag": "#LJ2J8QRPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 111
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -516,9 +532,25 @@
             "destructionPercentage": 100,
             "order": 26,
             "duration": 144
+          },
+          {
+            "attackerTag": "#99RCQLLCR",
+            "defenderTag": "#PGCJQP980",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 39,
+            "duration": 98
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YV8GQRJG2",
+          "defenderTag": "#99RCQLLCR",
+          "stars": 1,
+          "destructionPercentage": 74,
+          "order": 40,
+          "duration": 109
+        }
       }
     ]
   },
@@ -531,15 +563,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oMZcD81pCMfJIzoOTT1OxsfaeRDRJyYxPB7IqrZcpfk.png"
     },
     "clanLevel": 15,
-    "attacks": 13,
-    "stars": 33,
-    "destructionPercentage": 50.48,
+    "attacks": 15,
+    "stars": 37,
+    "destructionPercentage": 57.44,
     "members": [
       {
         "tag": "#YV8GQRJG2",
         "name": "Naveed Sultan",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YV8GQRJG2",
+            "defenderTag": "#99RCQLLCR",
+            "stars": 1,
+            "destructionPercentage": 74,
+            "order": 40,
+            "duration": 109
+          },
+          {
+            "attackerTag": "#YV8GQRJG2",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 111
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LJ2J8QRPJ",
@@ -815,7 +865,15 @@
         "name": "E.D SAHIL",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#99RCQLLCR",
+          "defenderTag": "#PGCJQP980",
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 39,
+          "duration": 98
+        }
       },
       {
         "tag": "#YU9ULQVC9",
@@ -982,7 +1040,15 @@
             "duration": 149
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88JUGLUL",
+          "defenderTag": "#PUJ9VCUYQ",
+          "stars": 1,
+          "destructionPercentage": 77,
+          "order": 38,
+          "duration": 135
+        }
       }
     ]
   }
