@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 15,
-    "stars": 35,
-    "destructionPercentage": 48.8,
+    "attacks": 20,
+    "stars": 50,
+    "destructionPercentage": 68.8,
     "members": [
       {
         "tag": "#C0YJU8LL",
@@ -131,6 +131,24 @@
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#9G9JQPJC9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 81
+          },
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#P0LLGRVJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 28,
+            "duration": 84
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -210,6 +228,14 @@
             "destructionPercentage": 97,
             "order": 21,
             "duration": 140
+          },
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#GGGR0V00L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 80
           }
         ],
         "opponentAttacks": 1,
@@ -357,6 +383,24 @@
         "name": "FabianBawz",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#YV8GQRJG2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 29,
+            "duration": 155
+          },
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#8YJGG0L8G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 30,
+            "duration": 177
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -446,7 +490,15 @@
         "name": "Naveed Sultan",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#YV8GQRJG2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "duration": 155
+        }
       },
       {
         "tag": "#QV2LYRLCG",
@@ -468,7 +520,15 @@
         "name": "Mark",
         "townhallLevel": 14,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#P0LLGRVJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "duration": 84
+        }
       },
       {
         "tag": "#G90LP2LV0",
@@ -593,7 +653,15 @@
         "name": "MOHIT 1",
         "townhallLevel": 14,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#9G9JQPJC9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 81
+        }
       },
       {
         "tag": "#88G8LPYPU",
@@ -701,14 +769,30 @@
         "name": "Jay",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ2J8QRPJ",
+          "defenderTag": "#8YJGG0L8G",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 177
+        }
       },
       {
         "tag": "#GGGR0V00L",
         "name": "Timin 2nd",
         "townhallLevel": 11,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPGCL8CYC",
+          "defenderTag": "#GGGR0V00L",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 80
+        }
       },
       {
         "tag": "#QC0C82908",
