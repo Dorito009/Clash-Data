@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3CHqlppayOhLf6HG3L0Po61K3TI6LV7sK9aEuSEsyPw.png"
     },
     "clanLevel": 13,
-    "attacks": 28,
-    "stars": 57,
-    "destructionPercentage": 80.32,
+    "attacks": 29,
+    "stars": 59,
+    "destructionPercentage": 82.8,
     "members": [
       {
         "tag": "#C0YJU8LL",
@@ -87,7 +87,25 @@
         "name": "davidanemoon",
         "townhallLevel": 15,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#P9RGRYC9",
+            "defenderTag": "#8L0CJR0GC",
+            "stars": 2,
+            "destructionPercentage": 62,
+            "order": 46,
+            "duration": 55
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8L0CJR0GC",
+          "defenderTag": "#P9RGRYC9",
+          "stars": 1,
+          "destructionPercentage": 79,
+          "order": 49,
+          "duration": 164
+        }
       },
       {
         "tag": "#L202YG9L0",
@@ -352,7 +370,15 @@
         "name": "Olivier05",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8L0CJR0GC",
+          "defenderTag": "#YU982RCVV",
+          "stars": 2,
+          "destructionPercentage": 84,
+          "order": 48,
+          "duration": 162
+        }
       },
       {
         "tag": "#LJUQG29C2",
@@ -402,7 +428,15 @@
             "duration": 138
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G90LP2LV0",
+          "defenderTag": "#QY2PCRLPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 131
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -568,14 +602,14 @@
             "duration": 98
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YV8GQRJG2",
+          "attackerTag": "#9G9JQPJC9",
           "defenderTag": "#99RCQLLCR",
-          "stars": 1,
-          "destructionPercentage": 74,
-          "order": 40,
-          "duration": 109
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 157
         }
       }
     ]
@@ -589,9 +623,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oMZcD81pCMfJIzoOTT1OxsfaeRDRJyYxPB7IqrZcpfk.png"
     },
     "clanLevel": 15,
-    "attacks": 16,
-    "stars": 38,
-    "destructionPercentage": 60.92,
+    "attacks": 20,
+    "stars": 46,
+    "destructionPercentage": 72.48,
     "members": [
       {
         "tag": "#YV8GQRJG2",
@@ -669,6 +703,14 @@
             "destructionPercentage": 100,
             "order": 1,
             "duration": 114
+          },
+          {
+            "attackerTag": "#G90LP2LV0",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 131
           }
         ],
         "opponentAttacks": 1,
@@ -787,6 +829,14 @@
             "destructionPercentage": 100,
             "order": 33,
             "duration": 112
+          },
+          {
+            "attackerTag": "#9G9JQPJC9",
+            "defenderTag": "#99RCQLLCR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 157
           }
         ],
         "opponentAttacks": 1,
@@ -877,7 +927,33 @@
         "name": "El Sa3daney",
         "townhallLevel": 15,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#8L0CJR0GC",
+            "defenderTag": "#YU982RCVV",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 48,
+            "duration": 162
+          },
+          {
+            "attackerTag": "#8L0CJR0GC",
+            "defenderTag": "#P9RGRYC9",
+            "stars": 1,
+            "destructionPercentage": 79,
+            "order": 49,
+            "duration": 164
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P9RGRYC9",
+          "defenderTag": "#8L0CJR0GC",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 46,
+          "duration": 55
+        }
       },
       {
         "tag": "#YL9JVGV9G",
