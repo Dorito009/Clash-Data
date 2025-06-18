@@ -15,16 +15,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 25,
-    "stars": 53,
-    "destructionPercentage": 92.95,
+    "attacks": 27,
+    "stars": 55,
+    "destructionPercentage": 96.05,
     "members": [
       {
         "tag": "#88JUGLUL",
         "name": "Jeroonie_xD",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LPP8QRRJU",
+          "defenderTag": "#88JUGLUL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 135
+        }
       },
       {
         "tag": "#YCRG2JV2P",
@@ -99,14 +107,14 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LYGG0UP2R",
+          "attackerTag": "#L9RGP2PPJ",
           "defenderTag": "#YVPCR90PC",
           "stars": 2,
-          "destructionPercentage": 86,
-          "order": 33,
-          "duration": 147
+          "destructionPercentage": 99,
+          "order": 48,
+          "duration": 175
         }
       },
       {
@@ -248,14 +256,14 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q9LV2PQRJ",
+          "attackerTag": "#L9RGP2PPJ",
           "defenderTag": "#QPGCL8CYC",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 30,
-          "duration": 122
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 111
         }
       },
       {
@@ -306,13 +314,39 @@
             "duration": 121
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y0PLGJV9L",
+          "defenderTag": "#PP9R8LJGG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 132
+        }
       },
       {
         "tag": "#PRUGPLRPG",
         "name": "Dorito_009",
         "townhallLevel": 14,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#YGPUR2U9V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 113
+          },
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#GG0LP8RQ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 84
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LYPP92G2J",
@@ -403,7 +437,15 @@
             "duration": 152
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LPP8QRRJU",
+          "defenderTag": "#YCQ98GC88",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 50,
+          "duration": 124
+        }
       },
       {
         "tag": "#LJ2J8QRPJ",
@@ -428,14 +470,14 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#L9C0U8Y0L",
+          "attackerTag": "#LQ0UJPULC",
           "defenderTag": "#LJ2J8QRPJ",
-          "stars": 2,
-          "destructionPercentage": 88,
-          "order": 19,
-          "duration": 123
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 110
         }
       },
       {
@@ -540,15 +582,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lJCygb6_9_ZkAl3Da_O93OxwiyRl6ho0AOzXwHNk8YI.png"
     },
     "clanLevel": 16,
-    "attacks": 19,
-    "stars": 48,
-    "destructionPercentage": 83.35,
+    "attacks": 27,
+    "stars": 58,
+    "destructionPercentage": 98.65,
     "members": [
       {
         "tag": "#L9RGP2PPJ",
         "name": "SABINO",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L9RGP2PPJ",
+            "defenderTag": "#QPGCL8CYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 111
+          },
+          {
+            "attackerTag": "#L9RGP2PPJ",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 48,
+            "duration": 175
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#99RCQLLCR",
@@ -572,6 +632,14 @@
             "destructionPercentage": 100,
             "order": 44,
             "duration": 111
+          },
+          {
+            "attackerTag": "#LQ0UJPULC",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 110
           }
         ],
         "opponentAttacks": 2,
@@ -622,6 +690,16 @@
         "name": "VEGITA",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#Y0PLGJV9L",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 132
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YCQ98GC88",
@@ -768,6 +846,24 @@
         "name": "MARCOS@#\u20ac",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LPP8QRRJU",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 50,
+            "duration": 124
+          },
+          {
+            "attackerTag": "#LPP8QRRJU",
+            "defenderTag": "#88JUGLUL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 51,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PP9R8LJGG",
@@ -798,14 +894,14 @@
         "name": "NELSON",
         "townhallLevel": 14,
         "mapPosition": 11,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q0RUPY9YP",
+          "attackerTag": "#PRUGPLRPG",
           "defenderTag": "#YGPUR2U9V",
-          "stars": 2,
-          "destructionPercentage": 64,
-          "order": 41,
-          "duration": 132
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 113
         }
       },
       {
@@ -879,14 +975,32 @@
         "name": "SaTou",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 1,
+        "attacks": [
+          {
+            "attackerTag": "#GG0LP8RQ2",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 2,
+            "destructionPercentage": 58,
+            "order": 52,
+            "duration": 88
+          },
+          {
+            "attackerTag": "#GG0LP8RQ2",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 53,
+            "duration": 80
+          }
+        ],
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LJUQG29C2",
+          "attackerTag": "#PRUGPLRPG",
           "defenderTag": "#GG0LP8RQ2",
-          "stars": 2,
-          "destructionPercentage": 74,
-          "order": 25,
-          "duration": 82
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 84
         }
       },
       {
