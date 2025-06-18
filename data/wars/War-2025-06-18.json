@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 15,
-    "stars": 34,
-    "destructionPercentage": 64.5,
+    "attacks": 16,
+    "stars": 37,
+    "destructionPercentage": 69.5,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -73,6 +73,16 @@
         "name": "Olizes",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YVPCR90PC",
+            "defenderTag": "#G0YRY999U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -477,7 +487,15 @@
             "duration": 133
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVPCR90PC",
+          "defenderTag": "#G0YRY999U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 134
+        }
       },
       {
         "tag": "#G8J09QVQV",
