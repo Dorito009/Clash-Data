@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 10,
-    "stars": 22,
-    "destructionPercentage": 41.7,
+    "attacks": 13,
+    "stars": 29,
+    "destructionPercentage": 54.7,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -46,6 +46,16 @@
         "name": "davidanemoon",
         "townhallLevel": 15,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#P9RGRYC9",
+            "defenderTag": "#LQCPJG02P",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 14,
+            "duration": 61
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -203,6 +213,16 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#Y0PLGJV9L",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 13,
+            "duration": 152
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -252,6 +272,16 @@
         "name": "Tobo",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#99RCQLLCR",
+            "defenderTag": "#L9RGP2PPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 136
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -291,7 +321,15 @@
         "name": "SABINO",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#99RCQLLCR",
+          "defenderTag": "#L9RGP2PPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 136
+        }
       },
       {
         "tag": "#LQ0UJPULC",
@@ -346,7 +384,15 @@
         "name": "VEGITA",
         "townhallLevel": 15,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCQ98GC88",
+          "defenderTag": "#Y0PLGJV9L",
+          "stars": 2,
+          "destructionPercentage": 84,
+          "order": 13,
+          "duration": 152
+        }
       },
       {
         "tag": "#G0YRY999U",
@@ -441,7 +487,15 @@
         "name": "\u2728#FURIANO#\u2728",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P9RGRYC9",
+          "defenderTag": "#LQCPJG02P",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 14,
+          "duration": 61
+        }
       },
       {
         "tag": "#Q9LV2PQRJ",
