@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 5,
-    "stars": 11,
-    "destructionPercentage": 23.15,
+    "attacks": 7,
+    "stars": 17,
+    "destructionPercentage": 33.15,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -31,7 +31,15 @@
         "name": "nigler",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P0CGP8GRL",
+          "defenderTag": "#YCRG2JV2P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 129
+        }
       },
       {
         "tag": "#P9RGRYC9",
@@ -59,6 +67,24 @@
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#G8J09QVQV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 121
+          },
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#P0CGP8GRL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 63
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -66,7 +92,15 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P0CGP8GRL",
+          "defenderTag": "#YRP99RVQR",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 9,
+          "duration": 118
+        }
       },
       {
         "tag": "#R8JJQPUR",
@@ -220,9 +254,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lJCygb6_9_ZkAl3Da_O93OxwiyRl6ho0AOzXwHNk8YI.png"
     },
     "clanLevel": 16,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 5,
+    "destructionPercentage": 9.75,
     "members": [
       {
         "tag": "#L9RGP2PPJ",
@@ -251,7 +285,33 @@
         "name": "Ceres Fauna",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#P0CGP8GRL",
+            "defenderTag": "#YCRG2JV2P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#P0CGP8GRL",
+            "defenderTag": "#YRP99RVQR",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 9,
+            "duration": 118
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#P0CGP8GRL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 63
+        }
       },
       {
         "tag": "#Y0PLGJV9L",
@@ -272,7 +332,15 @@
         "name": "Jotta A",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#G8J09QVQV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 121
+        }
       },
       {
         "tag": "#GQUY0GRJC",
