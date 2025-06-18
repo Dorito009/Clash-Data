@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 13,
-    "stars": 29,
-    "destructionPercentage": 54.7,
+    "attacks": 15,
+    "stars": 34,
+    "destructionPercentage": 64.5,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -31,6 +31,16 @@
         "name": "nigler",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#YCRG2JV2P",
+            "defenderTag": "#Q9LV2PQRJ",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 17,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#P0CGP8GRL",
@@ -120,6 +130,16 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#QP8LQQV8C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 83
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#P0CGP8GRL",
@@ -190,7 +210,15 @@
         "name": "lev",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YQ8YVVQQC",
+          "defenderTag": "#LJUQG29C2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "duration": 138
+        }
       },
       {
         "tag": "#QY2PCRLPJ",
@@ -207,7 +235,15 @@
             "duration": 46
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YQ8YVVQQC",
+          "defenderTag": "#QY2PCRLPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 100
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -248,7 +284,15 @@
             "duration": 98
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9C0U8Y0L",
+          "defenderTag": "#LJ2J8QRPJ",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 19,
+          "duration": 123
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -273,7 +317,15 @@
             "duration": 160
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9C0U8Y0L",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 98
+        }
       },
       {
         "tag": "#99RCQLLCR",
@@ -320,9 +372,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lJCygb6_9_ZkAl3Da_O93OxwiyRl6ho0AOzXwHNk8YI.png"
     },
     "clanLevel": 16,
-    "attacks": 3,
-    "stars": 8,
-    "destructionPercentage": 14.75,
+    "attacks": 7,
+    "stars": 19,
+    "destructionPercentage": 34.15,
     "members": [
       {
         "tag": "#L9RGP2PPJ",
@@ -520,7 +572,15 @@
         "name": "CHELDON",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCRG2JV2P",
+          "defenderTag": "#Q9LV2PQRJ",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 17,
+          "duration": 180
+        }
       },
       {
         "tag": "#GG0LP8RQ2",
@@ -556,6 +616,24 @@
         "name": "Fl\u00e1vio@Em\u00edlio",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#L9C0U8Y0L",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 98
+          },
+          {
+            "attackerTag": "#L9C0U8Y0L",
+            "defenderTag": "#LJ2J8QRPJ",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 19,
+            "duration": 123
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#UVPQ9Y8U",
@@ -571,6 +649,24 @@
         "name": "T.K",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#YQ8YVVQQC",
+            "defenderTag": "#LJUQG29C2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 20,
+            "duration": 138
+          },
+          {
+            "attackerTag": "#YQ8YVVQQC",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 100
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QPGCL8CYC",
@@ -586,7 +682,15 @@
         "name": "NELSON MONSTER",
         "townhallLevel": 12,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP99RVQR",
+          "defenderTag": "#QP8LQQV8C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 83
+        }
       }
     ]
   }
