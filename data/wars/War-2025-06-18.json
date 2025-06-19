@@ -107,14 +107,14 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#L9RGP2PPJ",
+          "attackerTag": "#LLRV9QRRC",
           "defenderTag": "#YVPCR90PC",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 48,
-          "duration": 175
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 56,
+          "duration": 108
         }
       },
       {
@@ -437,14 +437,14 @@
             "duration": 152
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LPP8QRRJU",
+          "attackerTag": "#Y0PLGJV9L",
           "defenderTag": "#YCQ98GC88",
-          "stars": 2,
-          "destructionPercentage": 74,
-          "order": 50,
-          "duration": 124
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 154
         }
       },
       {
@@ -582,9 +582,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lJCygb6_9_ZkAl3Da_O93OxwiyRl6ho0AOzXwHNk8YI.png"
     },
     "clanLevel": 16,
-    "attacks": 27,
-    "stars": 58,
-    "destructionPercentage": 98.65,
+    "attacks": 30,
+    "stars": 60,
+    "destructionPercentage": 100.0,
     "members": [
       {
         "tag": "#L9RGP2PPJ",
@@ -698,6 +698,14 @@
             "destructionPercentage": 100,
             "order": 54,
             "duration": 132
+          },
+          {
+            "attackerTag": "#Y0PLGJV9L",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 154
           }
         ],
         "opponentAttacks": 1,
@@ -1008,6 +1016,24 @@
         "name": "#MARCOS#",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LLRV9QRRC",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 56,
+            "duration": 108
+          },
+          {
+            "attackerTag": "#LLRV9QRRC",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 57,
+            "duration": 147
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#P9RGRYC9",
