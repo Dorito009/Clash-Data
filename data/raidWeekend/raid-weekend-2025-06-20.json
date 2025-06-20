@@ -2,13 +2,30 @@
   "state": "ongoing",
   "startTime": "20250620T070000.000Z",
   "endTime": "20250623T070000.000Z",
-  "capitalTotalLoot": 0,
+  "capitalTotalLoot": 47782,
   "raidsCompleted": 0,
-  "totalAttacks": 0,
-  "enemyDistrictsDestroyed": 0,
+  "totalAttacks": 9,
+  "enemyDistrictsDestroyed": 2,
   "offensiveReward": 0,
   "defensiveReward": 0,
-  "members": [],
+  "members": [
+    {
+      "tag": "#88JUGLUL",
+      "name": "Jeroonie_xD",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 32331
+    },
+    {
+      "tag": "#9JQP9VUPY",
+      "name": "123lucas123",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15451
+    }
+  ],
   "attackLog": [],
   "defenseLog": []
 }
