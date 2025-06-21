@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 15,
-    "stars": 37,
-    "destructionPercentage": 63.8,
+    "attacks": 17,
+    "stars": 40,
+    "destructionPercentage": 71.05,
     "members": [
       {
         "tag": "#YCRG2JV2P",
@@ -39,6 +39,24 @@
         "name": "davidanemoon",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#P9RGRYC9",
+            "defenderTag": "#C9VCLQ9J",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 37,
+            "duration": 56
+          },
+          {
+            "attackerTag": "#P9RGRYC9",
+            "defenderTag": "#YCL892Q8Y",
+            "stars": 1,
+            "destructionPercentage": 84,
+            "order": 38,
+            "duration": 56
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YCL892Q8Y",
@@ -643,7 +661,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P9RGRYC9",
+          "defenderTag": "#YCL892Q8Y",
+          "stars": 1,
+          "destructionPercentage": 84,
+          "order": 38,
+          "duration": 56
+        }
       },
       {
         "tag": "#CLRJ80P8",
@@ -726,7 +752,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P9RGRYC9",
+          "defenderTag": "#C9VCLQ9J",
+          "stars": 2,
+          "destructionPercentage": 61,
+          "order": 37,
+          "duration": 56
+        }
       },
       {
         "tag": "#LPLJ08UYV",
