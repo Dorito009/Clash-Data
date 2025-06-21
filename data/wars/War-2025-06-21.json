@@ -15,16 +15,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 9,
-    "stars": 23,
-    "destructionPercentage": 39.25,
+    "attacks": 11,
+    "stars": 28,
+    "destructionPercentage": 48.85,
     "members": [
       {
         "tag": "#YCRG2JV2P",
         "name": "nigler",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2LYGYUC0",
+          "defenderTag": "#YCRG2JV2P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "duration": 110
+        }
       },
       {
         "tag": "#P9RGRYC9",
@@ -126,6 +134,24 @@
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#LQ8UGVV0L",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 26,
+            "duration": 100
+          },
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#LYR2RY0PU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 74
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -354,9 +380,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/bPaQT2Irp4oihDg07n0V678OmepkUiRPjwakT3dw154.png"
     },
     "clanLevel": 17,
-    "attacks": 16,
-    "stars": 30,
-    "destructionPercentage": 57.55,
+    "attacks": 17,
+    "stars": 33,
+    "destructionPercentage": 62.55,
     "members": [
       {
         "tag": "#G0082PLVG",
@@ -446,7 +472,15 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#LYR2RY0PU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 74
+        }
       },
       {
         "tag": "#YPGQG0Q2L",
@@ -662,6 +696,14 @@
             "destructionPercentage": 100,
             "order": 14,
             "duration": 115
+          },
+          {
+            "attackerTag": "#Q2LYGYUC0",
+            "defenderTag": "#YCRG2JV2P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 28,
+            "duration": 110
           }
         ],
         "opponentAttacks": 0
@@ -686,7 +728,15 @@
         "name": "<<_\u041a\u0430\u0420\u0433\u0410\u0441_>>\u043e7",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#LQ8UGVV0L",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 26,
+          "duration": 100
+        }
       },
       {
         "tag": "#YYRR0PJ9G",
