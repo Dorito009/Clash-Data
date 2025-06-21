@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 12,
-    "stars": 29,
-    "destructionPercentage": 49.25,
+    "attacks": 14,
+    "stars": 34,
+    "destructionPercentage": 58.8,
     "members": [
       {
         "tag": "#YCRG2JV2P",
@@ -117,6 +117,14 @@
             "destructionPercentage": 100,
             "order": 11,
             "duration": 141
+          },
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#9YLL988UP",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 31,
+            "duration": 154
           }
         ],
         "opponentAttacks": 1,
@@ -241,6 +249,16 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PP9R8LJGG",
+            "defenderTag": "#LPLJ08UYV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 30,
+            "duration": 173
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -527,7 +545,15 @@
         "name": "\u041a\u043b\u044d\u0448\u0435\u0440",
         "townhallLevel": 13,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#9YLL988UP",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 31,
+          "duration": 154
+        }
       },
       {
         "tag": "#QPQYCG0RL",
@@ -649,7 +675,15 @@
         "name": "|389IQ|",
         "townhallLevel": 16,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9R8LJGG",
+          "defenderTag": "#LPLJ08UYV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 173
+        }
       },
       {
         "tag": "#YU0VG2PJ9",
