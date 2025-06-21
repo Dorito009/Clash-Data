@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 5.0,
+    "attacks": 3,
+    "stars": 9,
+    "destructionPercentage": 15.0,
     "members": [
       {
         "tag": "#YCRG2JV2P",
@@ -75,7 +75,25 @@
         "name": "de skelet boys",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#CLRJ80P8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 141
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CLRJ80P8",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 8,
+          "duration": 176
+        }
       },
       {
         "tag": "#L9QP0YUC8",
@@ -126,6 +144,16 @@
         "name": "KoerpoerXD",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#YPGQG0Q2L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QY9Q989VG",
@@ -177,7 +205,15 @@
         "name": "je_vader_045",
         "townhallLevel": 14,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CLRJ80P8",
+          "defenderTag": "#LG0L98JVV",
+          "stars": 1,
+          "destructionPercentage": 87,
+          "order": 10,
+          "duration": 180
+        }
       },
       {
         "tag": "#LJ2J8QRPJ",
@@ -228,9 +264,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/bPaQT2Irp4oihDg07n0V678OmepkUiRPjwakT3dw154.png"
     },
     "clanLevel": 17,
-    "attacks": 6,
-    "stars": 12,
-    "destructionPercentage": 27.5,
+    "attacks": 8,
+    "stars": 15,
+    "destructionPercentage": 35.95,
     "members": [
       {
         "tag": "#G0082PLVG",
@@ -283,7 +319,15 @@
         "name": "\u0421\u0435\u0440\u0451\u0433\u0430",
         "townhallLevel": 14,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPGCL8CYC",
+          "defenderTag": "#YPGQG0Q2L",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 106
+        }
       },
       {
         "tag": "#YP80P9P2V",
@@ -336,7 +380,33 @@
         "name": "\u0413\u043b\u0435\u0431",
         "townhallLevel": 13,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#CLRJ80P8",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 8,
+            "duration": 176
+          },
+          {
+            "attackerTag": "#CLRJ80P8",
+            "defenderTag": "#LG0L98JVV",
+            "stars": 1,
+            "destructionPercentage": 87,
+            "order": 10,
+            "duration": 180
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#CLRJ80P8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 141
+        }
       },
       {
         "tag": "#LYYYU908J",
