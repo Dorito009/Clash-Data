@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 27,
-    "stars": 54,
-    "destructionPercentage": 93.0,
+    "attacks": 29,
+    "stars": 57,
+    "destructionPercentage": 97.8,
     "members": [
       {
         "tag": "#YCRG2JV2P",
@@ -335,7 +335,15 @@
             "duration": 127
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YGRCY0LC",
+          "defenderTag": "#PP9R8LJGG",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 51,
+          "duration": 153
+        }
       },
       {
         "tag": "#PRUGPLRPG",
@@ -350,6 +358,14 @@
             "destructionPercentage": 100,
             "order": 48,
             "duration": 133
+          },
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#QPQYCG0RL",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 49,
+            "duration": 150
           }
         ],
         "opponentAttacks": 1,
@@ -433,14 +449,14 @@
             "duration": 163
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#CLRJ80P8",
+          "attackerTag": "#YGRCY0LC",
           "defenderTag": "#LG0L98JVV",
-          "stars": 1,
-          "destructionPercentage": 87,
-          "order": 10,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 176
         }
       },
       {
@@ -481,6 +497,16 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#YU0VG2PJ9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 150
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YYRR0PJ9G",
@@ -552,9 +578,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/bPaQT2Irp4oihDg07n0V678OmepkUiRPjwakT3dw154.png"
     },
     "clanLevel": 17,
-    "attacks": 21,
-    "stars": 43,
-    "destructionPercentage": 80.25,
+    "attacks": 23,
+    "stars": 47,
+    "destructionPercentage": 84.7,
     "members": [
       {
         "tag": "#G0082PLVG",
@@ -586,6 +612,24 @@
         "name": "HYPERION",
         "townhallLevel": 14,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#YGRCY0LC",
+            "defenderTag": "#LG0L98JVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 176
+          },
+          {
+            "attackerTag": "#YGRCY0LC",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 51,
+            "duration": 153
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LG0L98JVV",
@@ -730,7 +774,15 @@
         "name": "Grandpa",
         "townhallLevel": 14,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRUGPLRPG",
+          "defenderTag": "#QPQYCG0RL",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 49,
+          "duration": 150
+        }
       },
       {
         "tag": "#YCL892Q8Y",
@@ -886,14 +938,14 @@
             "duration": 146
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#QY2PCRLPJ",
+          "attackerTag": "#UVPQ9Y8U",
           "defenderTag": "#YU0VG2PJ9",
-          "stars": 2,
-          "destructionPercentage": 95,
-          "order": 44,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 150
         }
       },
       {
