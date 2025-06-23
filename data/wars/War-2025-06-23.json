@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 5.0,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -66,7 +66,25 @@
         "name": "Matsie04T",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#R8JJQPUR",
+            "defenderTag": "#8RPCGJPYQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 102
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8RPCGJPYQ",
+          "defenderTag": "#R8JJQPUR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 90
+        }
       },
       {
         "tag": "#8LYGCV8LY",
@@ -101,7 +119,15 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RQG0LQLU",
+          "defenderTag": "#PP9R8LJGG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 164
+        }
       },
       {
         "tag": "#PRUGPLRPG",
@@ -194,9 +220,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/gOT-i9E9sJWlgrOl_dJziPGYmhp38C1hWj5Vct_Tgd0.png"
     },
     "clanLevel": 11,
-    "attacks": 3,
-    "stars": 8,
-    "destructionPercentage": 14.75,
+    "attacks": 5,
+    "stars": 14,
+    "destructionPercentage": 24.75,
     "members": [
       {
         "tag": "#9GGP2P9LY",
@@ -231,7 +257,25 @@
         "name": "BADUT",
         "townhallLevel": 13,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#8RPCGJPYQ",
+            "defenderTag": "#R8JJQPUR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 90
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#R8JJQPUR",
+          "defenderTag": "#8RPCGJPYQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 102
+        }
       },
       {
         "tag": "#9Y2UQPUQC",
@@ -357,6 +401,16 @@
         "name": "Just.dance",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#RQG0LQLU",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 164
+          }
+        ],
         "opponentAttacks": 0
       },
       {
