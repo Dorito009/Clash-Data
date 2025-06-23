@@ -31,7 +31,15 @@
         "name": "davidanemoon",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L0C2QJCGU",
+          "defenderTag": "#P9RGRYC9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 141
+        }
       },
       {
         "tag": "#YVPCR90PC",
@@ -252,9 +260,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/gOT-i9E9sJWlgrOl_dJziPGYmhp38C1hWj5Vct_Tgd0.png"
     },
     "clanLevel": 11,
-    "attacks": 9,
-    "stars": 25,
-    "destructionPercentage": 44.6,
+    "attacks": 10,
+    "stars": 28,
+    "destructionPercentage": 49.6,
     "members": [
       {
         "tag": "#9GGP2P9LY",
@@ -275,6 +283,16 @@
         "name": "\u0420\u043e\u043c\u0438\u043a",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#L0C2QJCGU",
+            "defenderTag": "#P9RGRYC9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 0
       },
       {
