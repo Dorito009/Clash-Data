@@ -164,14 +164,30 @@
         "name": "Joran Bawz",
         "townhallLevel": 13,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVRLQQJ8Y",
+          "defenderTag": "#LPGGPVPRP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "duration": 102
+        }
       },
       {
         "tag": "#QPGCL8CYC",
         "name": "KoerpoerXD",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YQUY9YPJQ",
+          "defenderTag": "#QPGCL8CYC",
+          "stars": 2,
+          "destructionPercentage": 60,
+          "order": 22,
+          "duration": 92
+        }
       },
       {
         "tag": "#Q0RUPY9YP",
@@ -225,7 +241,15 @@
         "name": "lev",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVRLQQJ8Y",
+          "defenderTag": "#LJUQG29C2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 94
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -332,9 +356,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/gOT-i9E9sJWlgrOl_dJziPGYmhp38C1hWj5Vct_Tgd0.png"
     },
     "clanLevel": 11,
-    "attacks": 14,
-    "stars": 40,
-    "destructionPercentage": 69.6,
+    "attacks": 17,
+    "stars": 48,
+    "destructionPercentage": 82.6,
     "members": [
       {
         "tag": "#9GGP2P9LY",
@@ -551,6 +575,24 @@
         "name": "Nomad 0",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#YVRLQQJ8Y",
+            "defenderTag": "#LPGGPVPRP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 20,
+            "duration": 102
+          },
+          {
+            "attackerTag": "#YVRLQQJ8Y",
+            "defenderTag": "#LJUQG29C2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 94
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -624,6 +666,16 @@
         "name": "GuardiAn",
         "townhallLevel": 13,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#YQUY9YPJQ",
+            "defenderTag": "#QPGCL8CYC",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 22,
+            "duration": 92
+          }
+        ],
         "opponentAttacks": 0
       },
       {
