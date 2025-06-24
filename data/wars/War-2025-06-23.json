@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 20,
-    "stars": 48,
-    "destructionPercentage": 83.15,
+    "attacks": 22,
+    "stars": 52,
+    "destructionPercentage": 88.8,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -72,6 +72,24 @@
         "name": "Olizes",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YVPCR90PC",
+            "defenderTag": "#LYV2VURY2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 150
+          },
+          {
+            "attackerTag": "#YVPCR90PC",
+            "defenderTag": "#9RCJV090V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LQLRG2YLP",
@@ -606,7 +624,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVPCR90PC",
+          "defenderTag": "#9RCJV090V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 128
+        }
       },
       {
         "tag": "#8RPCGJPYQ",
@@ -762,14 +788,14 @@
             "duration": 158
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8PV2Y0JPV",
+          "attackerTag": "#YVPCR90PC",
           "defenderTag": "#LYV2VURY2",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 24,
-          "duration": 145
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 150
         }
       },
       {
