@@ -5,7 +5,7 @@
   "battleModifier": "none",
   "preparationStartTime": "20250622T185751.000Z",
   "startTime": "20250623T175751.000Z",
-  "endTime": "20250624T175751.000Z",
+  "endTime": "20250624T182234.000Z",
   "clan": {
     "tag": "#2QGYR0GU2",
     "name": "EetMeBal",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 10,
-    "stars": 22,
-    "destructionPercentage": 37.6,
+    "attacks": 11,
+    "stars": 24,
+    "destructionPercentage": 41.3,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -99,6 +99,16 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#G2J88VV2L",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 29,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G2J88VV2L",
@@ -636,7 +646,15 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP99RVQR",
+          "defenderTag": "#G2J88VV2L",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 29,
+          "duration": 130
+        }
       },
       {
         "tag": "#YVRLQQJ8Y",
