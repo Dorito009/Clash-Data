@@ -38,7 +38,15 @@
         "name": "davidanemoon",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G0PQVYPU8",
+          "defenderTag": "#P9RGRYC9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 162
+        }
       },
       {
         "tag": "#YVPCR90PC",
@@ -212,9 +220,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oyr7wuqdlaAk3KMvK5YYMCQ6J2NoNpcIkxBd6a7hQ0M.png"
     },
     "clanLevel": 16,
-    "attacks": 4,
-    "stars": 12,
-    "destructionPercentage": 20.0,
+    "attacks": 5,
+    "stars": 15,
+    "destructionPercentage": 25.0,
     "members": [
       {
         "tag": "#YC2GJJYCY",
@@ -384,6 +392,16 @@
         "name": "Squish",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#G0PQVYPU8",
+            "defenderTag": "#P9RGRYC9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 162
+          }
+        ],
         "opponentAttacks": 0
       },
       {
