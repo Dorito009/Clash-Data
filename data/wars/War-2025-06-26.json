@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 4,
-    "stars": 10,
-    "destructionPercentage": 18.4,
+    "attacks": 6,
+    "stars": 12,
+    "destructionPercentage": 26.25,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -163,6 +163,24 @@
         "name": "Florimannn",
         "townhallLevel": 13,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#QYLQVLUP",
+            "stars": 1,
+            "destructionPercentage": 71,
+            "order": 18,
+            "duration": 109
+          },
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#LYCY2CUPU",
+            "stars": 1,
+            "destructionPercentage": 86,
+            "order": 19,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LYCY2CUPU",
@@ -233,7 +251,15 @@
         "name": "Dorito_009",
         "townhallLevel": 14,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QR2G9LYPY",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 20,
+          "duration": 180
+        }
       },
       {
         "tag": "#QY2PCRLPJ",
@@ -314,9 +340,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oyr7wuqdlaAk3KMvK5YYMCQ6J2NoNpcIkxBd6a7hQ0M.png"
     },
     "clanLevel": 16,
-    "attacks": 13,
-    "stars": 35,
-    "destructionPercentage": 61.85,
+    "attacks": 14,
+    "stars": 37,
+    "destructionPercentage": 66.5,
     "members": [
       {
         "tag": "#YC2GJJYCY",
@@ -353,7 +379,15 @@
         "name": "Buttersnaps",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#QYLQVLUP",
+          "stars": 1,
+          "destructionPercentage": 71,
+          "order": 18,
+          "duration": 109
+        }
       },
       {
         "tag": "#LYCY2CUPU",
@@ -378,7 +412,15 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#LYCY2CUPU",
+          "stars": 1,
+          "destructionPercentage": 86,
+          "order": 19,
+          "duration": 121
+        }
       },
       {
         "tag": "#L00J8R899",
@@ -601,6 +643,16 @@
         "name": "redhotchilpeper",
         "townhallLevel": 14,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#QR2G9LYPY",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 20,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
