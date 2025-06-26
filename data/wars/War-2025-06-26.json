@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 3,
-    "stars": 7,
-    "destructionPercentage": 13.4,
+    "attacks": 4,
+    "stars": 10,
+    "destructionPercentage": 18.4,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -85,7 +85,15 @@
         "name": "JortGVA",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GVCRRJRL",
+          "defenderTag": "#RJJGCV0P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 128
+        }
       },
       {
         "tag": "#L9QP0YUC8",
@@ -114,6 +122,16 @@
         "name": "Matsie04T",
         "townhallLevel": 12,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#R8JJQPUR",
+            "defenderTag": "#8P90VQ0J8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 125
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -256,9 +274,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oyr7wuqdlaAk3KMvK5YYMCQ6J2NoNpcIkxBd6a7hQ0M.png"
     },
     "clanLevel": 16,
-    "attacks": 7,
-    "stars": 20,
-    "destructionPercentage": 34.95,
+    "attacks": 8,
+    "stars": 23,
+    "destructionPercentage": 39.95,
     "members": [
       {
         "tag": "#YC2GJJYCY",
@@ -349,6 +367,16 @@
         "name": "ASSASSINSLORD34",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#GVCRRJRL",
+            "defenderTag": "#RJJGCV0P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -409,7 +437,15 @@
         "name": "SAGAR",
         "townhallLevel": 12,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#R8JJQPUR",
+          "defenderTag": "#8P90VQ0J8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 125
+        }
       },
       {
         "tag": "#Q9YYJLV8L",
