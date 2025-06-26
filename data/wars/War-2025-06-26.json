@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 1,
-    "stars": 2,
-    "destructionPercentage": 4.55,
+    "attacks": 2,
+    "stars": 5,
+    "destructionPercentage": 9.55,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -31,7 +31,15 @@
         "name": "nigler",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9YYJLV8L",
+          "defenderTag": "#YCRG2JV2P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 109
+        }
       },
       {
         "tag": "#P9RGRYC9",
@@ -53,6 +61,16 @@
         "name": "Olizes",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YVPCR90PC",
+            "defenderTag": "#L00J8R899",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 156
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -81,7 +99,15 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9YYJLV8L",
+          "defenderTag": "#YRP99RVQR",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 8,
+          "duration": 180
+        }
       },
       {
         "tag": "#R8JJQPUR",
@@ -220,9 +246,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oyr7wuqdlaAk3KMvK5YYMCQ6J2NoNpcIkxBd6a7hQ0M.png"
     },
     "clanLevel": 16,
-    "attacks": 5,
-    "stars": 15,
-    "destructionPercentage": 25.0,
+    "attacks": 7,
+    "stars": 20,
+    "destructionPercentage": 34.95,
     "members": [
       {
         "tag": "#YC2GJJYCY",
@@ -283,7 +309,15 @@
         "name": "swag<3",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVPCR90PC",
+          "defenderTag": "#L00J8R899",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 156
+        }
       },
       {
         "tag": "#QPUVCG2GU",
@@ -364,6 +398,24 @@
         "name": "\u0645\u0624\u0645\u0646 \u0628\u0646\u064a \u0635\u062e\u0631",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Q9YYJLV8L",
+            "defenderTag": "#YCRG2JV2P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 109
+          },
+          {
+            "attackerTag": "#Q9YYJLV8L",
+            "defenderTag": "#YRP99RVQR",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 8,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
