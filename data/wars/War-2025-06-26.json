@@ -350,13 +350,13 @@
             "duration": 148
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#GVCRRJRL",
+          "attackerTag": "#Q02VLQCVR",
           "defenderTag": "#PP9R8LJGG",
           "stars": 2,
-          "destructionPercentage": 83,
-          "order": 30,
+          "destructionPercentage": 93,
+          "order": 49,
           "duration": 180
         }
       },
@@ -504,9 +504,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oyr7wuqdlaAk3KMvK5YYMCQ6J2NoNpcIkxBd6a7hQ0M.png"
     },
     "clanLevel": 16,
-    "attacks": 29,
+    "attacks": 30,
     "stars": 55,
-    "destructionPercentage": 97.65,
+    "destructionPercentage": 98.15,
     "members": [
       {
         "tag": "#YC2GJJYCY",
@@ -871,6 +871,16 @@
         "name": "mihir",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#Q02VLQCVR",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 49,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#P9RGRYC9",
