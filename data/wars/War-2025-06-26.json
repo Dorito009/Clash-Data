@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 10,
-    "stars": 20,
-    "destructionPercentage": 38.0,
+    "attacks": 14,
+    "stars": 31,
+    "destructionPercentage": 57.95,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -117,6 +117,24 @@
         "name": "JortGVA",
         "townhallLevel": 14,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#RJJGCV0P",
+            "defenderTag": "#QPUVCG2GU",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 39,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#RJJGCV0P",
+            "defenderTag": "#GVCRRJRL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 158
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GVCRRJRL",
@@ -147,6 +165,24 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#QPV2R2QLR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 107
+          },
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#Q9YYJLV8L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QPV2R2QLR",
@@ -550,7 +586,15 @@
         "name": "rivermud83",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RJJGCV0P",
+          "defenderTag": "#QPUVCG2GU",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 39,
+          "duration": 180
+        }
       },
       {
         "tag": "#GVCRRJRL",
@@ -575,7 +619,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RJJGCV0P",
+          "defenderTag": "#GVCRRJRL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 158
+        }
       },
       {
         "tag": "#QC9C0RGCP",
@@ -640,7 +692,15 @@
             "duration": 154
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP99RVQR",
+          "defenderTag": "#QPV2R2QLR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 37,
+          "duration": 107
+        }
       },
       {
         "tag": "#89C2GVLJG",
@@ -740,7 +800,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP99RVQR",
+          "defenderTag": "#Q9YYJLV8L",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 143
+        }
       },
       {
         "tag": "#Q02VLQCVR",
