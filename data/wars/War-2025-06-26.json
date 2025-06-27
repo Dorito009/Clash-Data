@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 8,
-    "stars": 15,
-    "destructionPercentage": 32.3,
+    "attacks": 10,
+    "stars": 20,
+    "destructionPercentage": 38.0,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -170,6 +170,14 @@
             "destructionPercentage": 100,
             "order": 11,
             "duration": 125
+          },
+          {
+            "attackerTag": "#R8JJQPUR",
+            "defenderTag": "#QC9C0RGCP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 119
           }
         ],
         "opponentAttacks": 1,
@@ -381,6 +389,14 @@
             "destructionPercentage": 77,
             "order": 10,
             "duration": 142
+          },
+          {
+            "attackerTag": "#8PV2Y0JPV",
+            "defenderTag": "#LYCY2CUPU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 147
           }
         ],
         "opponentAttacks": 1,
@@ -504,14 +520,14 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8LYGCV8LY",
+          "attackerTag": "#8PV2Y0JPV",
           "defenderTag": "#LYCY2CUPU",
-          "stars": 1,
-          "destructionPercentage": 86,
-          "order": 19,
-          "duration": 121
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 147
         }
       },
       {
@@ -566,7 +582,15 @@
         "name": "Squash",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#R8JJQPUR",
+          "defenderTag": "#QC9C0RGCP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 119
+        }
       },
       {
         "tag": "#QVLC9VCRQ",
