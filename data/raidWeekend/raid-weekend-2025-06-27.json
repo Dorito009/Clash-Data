@@ -756,5 +756,282 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#29GRPC8J",
+        "name": "BURMA EMPIRE",
+        "level": 23,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ynh-7mjSMnxzLV4yg04gr6Kl4EINsGrH32AohjB9oRE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ynh-7mjSMnxzLV4yg04gr6Kl4EINsGrH32AohjB9oRE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ynh-7mjSMnxzLV4yg04gr6Kl4EINsGrH32AohjB9oRE.png"
+        }
+      },
+      "attackCount": 20,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12262,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2UVYRLGU9",
+                "name": "CONQUEROR"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2UVYRLGU9",
+                "name": "CONQUEROR"
+              },
+              "destructionPercent": 89,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2UVYRLGU9",
+                "name": "CONQUEROR"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10993,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YCJ8PJV2G",
+                "name": "nay"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YCJ8PJV2G",
+                "name": "nay"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YCJ8PJV2G",
+                "name": "nay"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8791,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YCJ8PJV2G",
+                "name": "nay"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YCJ8PJV2G",
+                "name": "nay"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9132,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#20RV8Q2CQ",
+                "name": "*CONQUEROR*"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#20RV8Q2CQ",
+                "name": "*CONQUEROR*"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9435,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2UC0JG28Y",
+                "name": "CONQUEROR\u00ae"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2UC0JG28Y",
+                "name": "CONQUEROR\u00ae"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8804,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2UVYRLGU9",
+                "name": "CONQUEROR"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YCJ8PJV2G",
+                "name": "nay"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9150,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#20RV8Q2CQ",
+                "name": "*CONQUEROR*"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#20RV8Q2CQ",
+                "name": "*CONQUEROR*"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9189,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#20RV8Q2CQ",
+                "name": "*CONQUEROR*"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#20RV8Q2CQ",
+                "name": "*CONQUEROR*"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6315,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CQCL99GG",
+                "name": "CANTONAR"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CQCL99GG",
+                "name": "CANTONAR"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
