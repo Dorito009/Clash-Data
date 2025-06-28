@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 8,
-    "stars": 18,
-    "destructionPercentage": 34.5,
+    "attacks": 9,
+    "stars": 21,
+    "destructionPercentage": 39.5,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -142,6 +142,16 @@
         "name": "Florimannn",
         "townhallLevel": 14,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#L88QVV80Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 152
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -507,7 +517,15 @@
         "name": "Indian devil",
         "townhallLevel": 14,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#L88QVV80Y",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 152
+        }
       },
       {
         "tag": "#Q0RV0L2CR",
