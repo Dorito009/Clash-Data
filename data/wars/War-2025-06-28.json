@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 3,
-    "stars": 7,
-    "destructionPercentage": 13.95,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 18.65,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -31,7 +31,15 @@
         "name": "nigler",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PQJU2YY8J",
+          "defenderTag": "#YCRG2JV2P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 130
+        }
       },
       {
         "tag": "#P9RGRYC9",
@@ -66,6 +74,16 @@
         "name": "de skelet boys",
         "townhallLevel": 13,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#QLLCJ9LU2",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 6,
+            "duration": 177
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -164,7 +182,15 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PQJU2YY8J",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 157
+        }
       },
       {
         "tag": "#LG0L98JVV",
@@ -216,9 +242,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B7SRBbVUH0MGvo5f8IXmPzc9q2TpWrkXhU4kM__9Krg.png"
     },
     "clanLevel": 16,
-    "attacks": 2,
-    "stars": 3,
-    "destructionPercentage": 7.3,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 17.3,
     "members": [
       {
         "tag": "#LGLJG9YPU",
@@ -307,6 +333,24 @@
         "name": "Prabhat",
         "townhallLevel": 13,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#PQJU2YY8J",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 157
+          },
+          {
+            "attackerTag": "#PQJU2YY8J",
+            "defenderTag": "#YCRG2JV2P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -329,7 +373,15 @@
         "name": "haaku8848",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#QLLCJ9LU2",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 6,
+          "duration": 177
+        }
       },
       {
         "tag": "#P8VGQ20R",
