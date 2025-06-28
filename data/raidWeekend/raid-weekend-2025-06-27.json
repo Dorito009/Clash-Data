@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250627T070000.000Z",
   "endTime": "20250630T070000.000Z",
-  "capitalTotalLoot": 217121,
+  "capitalTotalLoot": 252272,
   "raidsCompleted": 3,
-  "totalAttacks": 62,
-  "enemyDistrictsDestroyed": 22,
+  "totalAttacks": 72,
+  "enemyDistrictsDestroyed": 26,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -32,6 +32,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29057
+    },
+    {
+      "tag": "#LJU2P9CL2",
+      "name": "FONDIE LIE",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21111
     },
     {
       "tag": "#Q9P2J02U",
@@ -116,10 +124,10 @@
     {
       "tag": "#UVPQ9Y8U",
       "name": "JOC DE FAKKEL",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 3270
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17310
     }
   ],
   "attackLog": [
