@@ -225,7 +225,15 @@
             "duration": 92
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L88QVV80Y",
+          "defenderTag": "#QPGCL8CYC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "duration": 166
+        }
       },
       {
         "tag": "#PP9R8LJGG",
@@ -344,7 +352,15 @@
             "duration": 141
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0RV0L2CR",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "duration": 136
+        }
       },
       {
         "tag": "#QU9LC8LCY",
@@ -372,9 +388,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B7SRBbVUH0MGvo5f8IXmPzc9q2TpWrkXhU4kM__9Krg.png"
     },
     "clanLevel": 16,
-    "attacks": 14,
-    "stars": 32,
-    "destructionPercentage": 57.2,
+    "attacks": 16,
+    "stars": 38,
+    "destructionPercentage": 67.2,
     "members": [
       {
         "tag": "#LGLJG9YPU",
@@ -689,6 +705,16 @@
         "name": "Indian devil",
         "townhallLevel": 14,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#L88QVV80Y",
+            "defenderTag": "#QPGCL8CYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 26,
+            "duration": 166
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8LYGCV8LY",
@@ -712,6 +738,14 @@
             "destructionPercentage": 85,
             "order": 19,
             "duration": 138
+          },
+          {
+            "attackerTag": "#Q0RV0L2CR",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 25,
+            "duration": 136
           }
         ],
         "opponentAttacks": 0
