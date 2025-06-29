@@ -3120,6 +3120,266 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#2YJR9009P",
+        "name": "INDIAN",
+        "level": 24,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/XfrwS8cFy0Bt-8eOqWiFwotown2iPCVyWdOarg10ck8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/XfrwS8cFy0Bt-8eOqWiFwotown2iPCVyWdOarg10ck8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/XfrwS8cFy0Bt-8eOqWiFwotown2iPCVyWdOarg10ck8.png"
+        }
+      },
+      "attackCount": 18,
+      "districtCount": 9,
+      "districtsDestroyed": 8,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 98,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 11785,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8CCP0YCJ",
+                "name": "Ayush"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8CCP0YCJ",
+                "name": "Ayush"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8CCP0YCJ",
+                "name": "Ayush"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10636,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9P9RR8GPR",
+                "name": "fusion"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9P9RR8GPR",
+                "name": "fusion"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8974,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9P9RR8GPR",
+                "name": "fusion"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9P9RR8GPR",
+                "name": "fusion"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9036,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8J22R9G9Q",
+                "name": "HIREN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2YLJYQV8U",
+                "name": "HIRENSINH"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9624,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2YLJYQV8U",
+                "name": "HIRENSINH"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2JVJJJJV0",
+                "name": "piyush"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8660,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9P9RR8GPR",
+                "name": "fusion"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9P9RR8GPR",
+                "name": "fusion"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9174,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JVJJJJV0",
+                "name": "piyush"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2JVJJJJV0",
+                "name": "piyush"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9318,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JVJJJJV0",
+                "name": "piyush"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9CJQR00R9",
+                "name": "DEVARSH"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 1,
+          "totalLooted": 5640,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQG08RLGG",
+                "name": "Sayan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            }
+          ]
+        }
+      ]
     }
   ]
 }
