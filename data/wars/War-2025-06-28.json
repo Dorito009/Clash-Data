@@ -110,7 +110,15 @@
             "duration": 177
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y9CJ9CG0C",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 24,
+          "duration": 90
+        }
       },
       {
         "tag": "#L9QP0YUC8",
@@ -364,9 +372,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B7SRBbVUH0MGvo5f8IXmPzc9q2TpWrkXhU4kM__9Krg.png"
     },
     "clanLevel": 16,
-    "attacks": 13,
-    "stars": 30,
-    "destructionPercentage": 53.75,
+    "attacks": 14,
+    "stars": 32,
+    "destructionPercentage": 57.2,
     "members": [
       {
         "tag": "#LGLJG9YPU",
@@ -635,6 +643,16 @@
         "name": "Naveen",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#Y9CJ9CG0C",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 2,
+            "destructionPercentage": 69,
+            "order": 24,
+            "duration": 90
+          }
+        ],
         "opponentAttacks": 0
       },
       {
