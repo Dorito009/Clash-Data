@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 28,
-    "stars": 59,
-    "destructionPercentage": 99.05,
+    "attacks": 31,
+    "stars": 60,
+    "destructionPercentage": 100.0,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -214,14 +214,14 @@
             "duration": 161
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#Y9CJ9CG0C",
+          "attackerTag": "#P8VGQ20R",
           "defenderTag": "#JCGVYY8U",
-          "stars": 2,
-          "destructionPercentage": 69,
-          "order": 24,
-          "duration": 90
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 57,
+          "duration": 168
         }
       },
       {
@@ -409,6 +409,24 @@
         "name": "Dorito_009",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#Q0RV0L2CR",
+            "stars": 2,
+            "destructionPercentage": 50,
+            "order": 54,
+            "duration": 70
+          },
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#LPG9U2U2",
+            "stars": 2,
+            "destructionPercentage": 50,
+            "order": 56,
+            "duration": 69
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QLLCJ9LU2",
@@ -432,6 +450,14 @@
             "destructionPercentage": 100,
             "order": 33,
             "duration": 119
+          },
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#Y2PVQ2CJL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 103
           }
         ],
         "opponentAttacks": 1,
@@ -588,9 +614,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B7SRBbVUH0MGvo5f8IXmPzc9q2TpWrkXhU4kM__9Krg.png"
     },
     "clanLevel": 16,
-    "attacks": 25,
-    "stars": 55,
-    "destructionPercentage": 93.65,
+    "attacks": 26,
+    "stars": 56,
+    "destructionPercentage": 95.2,
     "members": [
       {
         "tag": "#LGLJG9YPU",
@@ -681,14 +707,14 @@
             "duration": 121
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#P9RGRYC9",
+          "attackerTag": "#9JQP9VUPY",
           "defenderTag": "#Y2PVQ2CJL",
-          "stars": 2,
-          "destructionPercentage": 81,
-          "order": 39,
-          "duration": 100
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 103
         }
       },
       {
@@ -896,6 +922,14 @@
             "destructionPercentage": 53,
             "order": 29,
             "duration": 83
+          },
+          {
+            "attackerTag": "#P8VGQ20R",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 57,
+            "duration": 168
           }
         ],
         "opponentAttacks": 1,
@@ -946,7 +980,7 @@
         "name": "Ankit",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#88JUGLUL",
           "defenderTag": "#LPG9U2U2",
@@ -1110,7 +1144,7 @@
             "duration": 136
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PP9R8LJGG",
           "defenderTag": "#Q0RV0L2CR",
