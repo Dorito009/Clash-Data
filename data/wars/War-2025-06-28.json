@@ -151,7 +151,15 @@
             "duration": 119
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QGUJL292Q",
+          "defenderTag": "#R8JJQPUR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 125
+        }
       },
       {
         "tag": "#8LYGCV8LY",
@@ -208,7 +216,15 @@
         "name": "NielsTheKiller",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0RV0L2CR",
+          "defenderTag": "#PP9R8LJGG",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 19,
+          "duration": 138
+        }
       },
       {
         "tag": "#PRUGPLRPG",
@@ -239,14 +255,14 @@
             "duration": 156
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LGLJG9YPU",
+          "attackerTag": "#QGUJL292Q",
           "defenderTag": "#QY2PCRLPJ",
-          "stars": 1,
-          "destructionPercentage": 59,
-          "order": 5,
-          "duration": 84
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 18,
+          "duration": 180
         }
       },
       {
@@ -314,9 +330,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B7SRBbVUH0MGvo5f8IXmPzc9q2TpWrkXhU4kM__9Krg.png"
     },
     "clanLevel": 16,
-    "attacks": 7,
-    "stars": 17,
-    "destructionPercentage": 30.65,
+    "attacks": 10,
+    "stars": 23,
+    "destructionPercentage": 41.9,
     "members": [
       {
         "tag": "#LGLJG9YPU",
@@ -511,6 +527,24 @@
         "name": "Nikhil",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#QGUJL292Q",
+            "defenderTag": "#R8JJQPUR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 125
+          },
+          {
+            "attackerTag": "#QGUJL292Q",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 18,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QY2PCRLPJ",
@@ -584,6 +618,16 @@
         "name": "chan360",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#Q0RV0L2CR",
+            "defenderTag": "#PP9R8LJGG",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 19,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
