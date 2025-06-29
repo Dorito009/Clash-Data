@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250627T070000.000Z",
   "endTime": "20250630T070000.000Z",
-  "capitalTotalLoot": 549094,
-  "raidsCompleted": 7,
-  "totalAttacks": 157,
-  "enemyDistrictsDestroyed": 53,
+  "capitalTotalLoot": 574624,
+  "raidsCompleted": 8,
+  "totalAttacks": 163,
+  "enemyDistrictsDestroyed": 55,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -196,10 +196,10 @@
     {
       "tag": "#Y8LVCLUP2",
       "name": "pro",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 2390
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24010
     },
     {
       "tag": "#LG0L98JVV",
@@ -236,10 +236,10 @@
     {
       "tag": "#QU9LC8LCY",
       "name": "wasbakmonteu",
-      "attacks": 3,
+      "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 5571
+      "capitalResourcesLooted": 9481
     },
     {
       "tag": "#99RCQLLCR",
@@ -1890,6 +1890,346 @@
               },
               "destructionPercent": 35,
               "stars": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#YLLGGQ9G",
+        "name": "kiko007",
+        "level": 18,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/vOcxm5tk0MNVzxtBj5IK8ZKPFDjhSJx-uwn4oDiQR3U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/vOcxm5tk0MNVzxtBj5IK8ZKPFDjhSJx-uwn4oDiQR3U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/vOcxm5tk0MNVzxtBj5IK8ZKPFDjhSJx-uwn4oDiQR3U.png"
+        }
+      },
+      "attackCount": 28,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13256,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y8LVCLUP2",
+                "name": "pro"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10067,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#99RCQLLCR",
+                "name": "Tobo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#99RCQLLCR",
+                "name": "Tobo"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LJ2J8QRPJ",
+                "name": "FabianBawz"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9677,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QU9LC8LCY",
+                "name": "wasbakmonteu"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#99RCQLLCR",
+                "name": "Tobo"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#99RCQLLCR",
+                "name": "Tobo"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 9943,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#99RCQLLCR",
+                "name": "Tobo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LJ2J8QRPJ",
+                "name": "FabianBawz"
+              },
+              "destructionPercent": 80,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YV22UJ0G",
+                "name": "J0r-D"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QU9LC8LCY",
+                "name": "wasbakmonteu"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9575,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJ2J8QRPJ",
+                "name": "FabianBawz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LJ2J8QRPJ",
+                "name": "FabianBawz"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10307,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#99RCQLLCR",
+                "name": "Tobo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LJ2J8QRPJ",
+                "name": "FabianBawz"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LJ2J8QRPJ",
+                "name": "FabianBawz"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10082,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYJ9URVLL",
+                "name": "angerfist"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYJ9URVLL",
+                "name": "angerfist"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QYJ9URVLL",
+                "name": "angerfist"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11384,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYJ9URVLL",
+                "name": "angerfist"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYJ9URVLL",
+                "name": "angerfist"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYJ9URVLL",
+                "name": "angerfist"
+              },
+              "destructionPercent": 32,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10465,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YV22UJ0G",
+                "name": "J0r-D"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YV22UJ0G",
+                "name": "J0r-D"
+              },
+              "destructionPercent": 85,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YV22UJ0G",
+                "name": "J0r-D"
+              },
+              "destructionPercent": 47,
+              "stars": 0
             }
           ]
         }
