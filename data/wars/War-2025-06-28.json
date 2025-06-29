@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 16,
-    "stars": 34,
-    "destructionPercentage": 62.5,
+    "attacks": 21,
+    "stars": 46,
+    "destructionPercentage": 86.05,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -56,13 +56,49 @@
         "name": "davidanemoon",
         "townhallLevel": 16,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#P9RGRYC9",
+            "defenderTag": "#Y2PVQ2CJL",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 39,
+            "duration": 100
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2P2929RY8",
+          "defenderTag": "#P9RGRYC9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 71
+        }
       },
       {
         "tag": "#YVPCR90PC",
         "name": "Olizes",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YVPCR90PC",
+            "defenderTag": "#9L2YJRUQY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 172
+          },
+          {
+            "attackerTag": "#YVPCR90PC",
+            "defenderTag": "#LPG9U2U2",
+            "stars": 1,
+            "destructionPercentage": 90,
+            "order": 37,
+            "duration": 142
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y2PVQ2CJL",
@@ -134,6 +170,14 @@
             "destructionPercentage": 94,
             "order": 6,
             "duration": 177
+          },
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#Y9CJ9CG0C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 161
           }
         ],
         "opponentAttacks": 1,
@@ -174,6 +218,14 @@
             "destructionPercentage": 100,
             "order": 9,
             "duration": 118
+          },
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#2LL8892VC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 100
           }
         ],
         "opponentAttacks": 1,
@@ -466,9 +518,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B7SRBbVUH0MGvo5f8IXmPzc9q2TpWrkXhU4kM__9Krg.png"
     },
     "clanLevel": 16,
-    "attacks": 19,
-    "stars": 46,
-    "destructionPercentage": 79.85,
+    "attacks": 20,
+    "stars": 49,
+    "destructionPercentage": 84.85,
     "members": [
       {
         "tag": "#LGLJG9YPU",
@@ -541,7 +593,15 @@
             "duration": 121
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P9RGRYC9",
+          "defenderTag": "#Y2PVQ2CJL",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 39,
+          "duration": 100
+        }
       },
       {
         "tag": "#QVQRVP09U",
@@ -603,7 +663,15 @@
         "name": "Mr. A\u00aeyan",
         "townhallLevel": 13,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP99RVQR",
+          "defenderTag": "#2LL8892VC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 100
+        }
       },
       {
         "tag": "#8JCCVVC99",
@@ -782,7 +850,15 @@
         "name": "Ankit",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVPCR90PC",
+          "defenderTag": "#LPG9U2U2",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 37,
+          "duration": 142
+        }
       },
       {
         "tag": "#Y9CJ9CG0C",
@@ -799,13 +875,31 @@
             "duration": 90
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#Y9CJ9CG0C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 161
+        }
       },
       {
         "tag": "#2P2929RY8",
         "name": "ashu",
         "townhallLevel": 16,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2P2929RY8",
+            "defenderTag": "#P9RGRYC9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 71
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#88JUGLUL",
@@ -836,7 +930,15 @@
         "name": "LunarClash",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVPCR90PC",
+          "defenderTag": "#9L2YJRUQY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 172
+        }
       },
       {
         "tag": "#L88QVV80Y",
