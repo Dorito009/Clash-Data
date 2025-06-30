@@ -3,7 +3,7 @@
   "startTime": "20250627T070000.000Z",
   "endTime": "20250630T070000.000Z",
   "capitalTotalLoot": 693037,
-  "raidsCompleted": 9,
+  "raidsCompleted": 10,
   "totalAttacks": 195,
   "enemyDistrictsDestroyed": 66,
   "offensiveReward": 0,
@@ -3132,19 +3132,27 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/XfrwS8cFy0Bt-8eOqWiFwotown2iPCVyWdOarg10ck8.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 9,
-          "destructionPercent": 98,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 11785,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12595,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P9JCYJ08V",
+                "name": "JAINIL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8CCP0YCJ",
