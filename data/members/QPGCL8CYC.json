@@ -1788,11 +1788,11 @@
     "2025-07-01": {
       "townHallLevel": 13,
       "townHallWeaponLevel": 4,
-      "expLevel": 123,
-      "trophies": 3582,
+      "expLevel": 124,
+      "trophies": 3629,
       "bestTrophies": 3712,
       "warStars": 318,
-      "attackWins": 0,
+      "attackWins": 3,
       "defenseWins": 0,
       "builderHallLevel": 8,
       "builderBaseTrophies": 2153,
@@ -1802,7 +1802,15 @@
       "donations": 0,
       "donationsReceived": 0,
       "clanCapitalContributions": 994932,
-      "league": 0
+      "league": {
+        "id": 29000017,
+        "name": "Champion League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png"
+        }
+      }
     }
   }
 }
