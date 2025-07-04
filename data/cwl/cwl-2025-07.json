@@ -778,7 +778,7 @@
       "warStartTime": "20250702T201536.000Z"
     },
     {
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "preparationStartTime": "20250702T201542.000Z",
       "startTime": "20250703T201541.000Z",
@@ -1530,7 +1530,7 @@
       "warStartTime": "20250703T201541.000Z"
     },
     {
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "preparationStartTime": "20250703T201753.000Z",
       "startTime": "20250704T201750.000Z",
@@ -1954,9 +1954,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/m7n0oWoo--BwU0-oFTOg791_GEupZoqPr_vPNYJobGs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/m7n0oWoo--BwU0-oFTOg791_GEupZoqPr_vPNYJobGs.png"
           },
-          "stars": 30,
-          "attacks": 11,
-          "destructionPercentage": 66.46666666666667
+          "stars": 33,
+          "attacks": 12,
+          "destructionPercentage": 73.13333333333334
         },
         "clan2": {
           "tag": "#2QCVPLCCC",
@@ -1981,9 +1981,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/vc2_SgzMYnnBZb-ezFuThtm0ccdKTLGGLdb1Y1QGJws.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/vc2_SgzMYnnBZb-ezFuThtm0ccdKTLGGLdb1Y1QGJws.png"
           },
-          "stars": 19,
-          "attacks": 9,
-          "destructionPercentage": 51.06666666666667
+          "stars": 27,
+          "attacks": 12,
+          "destructionPercentage": 70.66666666666667
         },
         "clan2": {
           "tag": "#U9Y8UQ08",
@@ -1993,9 +1993,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/7ZAIsG_7KGLJBmq2uxhW2OngvmzTWVEw_DWlEbzcmz0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/7ZAIsG_7KGLJBmq2uxhW2OngvmzTWVEw_DWlEbzcmz0.png"
           },
-          "stars": 34,
-          "attacks": 13,
-          "destructionPercentage": 78.93333333333334
+          "stars": 37,
+          "attacks": 14,
+          "destructionPercentage": 85.6
         }
       }
     ],
