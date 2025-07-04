@@ -2054,7 +2054,7 @@
       "townHallLevel": 15,
       "townHallWeaponLevel": 5,
       "expLevel": 193,
-      "trophies": 4978,
+      "trophies": 4979,
       "bestTrophies": 5159,
       "warStars": 910,
       "attackWins": 0,
@@ -2064,10 +2064,18 @@
       "bestBuilderBaseTrophies": 4081,
       "role": "coLeader",
       "warPreference": "in",
-      "donations": 45,
+      "donations": 81,
       "donationsReceived": 166,
       "clanCapitalContributions": 1726097,
-      "league": 0
+      "league": {
+        "id": 29000021,
+        "name": "Titan League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+        }
+      }
     }
   }
 }
