@@ -792,9 +792,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hlNWMj5a7VK9pcp8sXKaPvBJFk5jYjlK57fRHwi3ZR0.png"
         },
         "clanLevel": 22,
-        "attacks": 13,
-        "stars": 27,
-        "destructionPercentage": 66.13333333333334,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 72.8,
         "members": [
           {
             "tag": "#88PL0L98U",
@@ -958,6 +958,16 @@
             "name": "Niranjan",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#2R0LUGLPV",
+                "defenderTag": "#9JQP9VUPY",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 24,
+                "duration": 103
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1338,7 +1348,15 @@
                 "duration": 123
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2R0LUGLPV",
+              "defenderTag": "#9JQP9VUPY",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 24,
+              "duration": 103
+            }
           },
           {
             "tag": "#YU982RCVV",
@@ -1810,9 +1828,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/hlNWMj5a7VK9pcp8sXKaPvBJFk5jYjlK57fRHwi3ZR0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/hlNWMj5a7VK9pcp8sXKaPvBJFk5jYjlK57fRHwi3ZR0.png"
           },
-          "stars": 27,
-          "attacks": 13,
-          "destructionPercentage": 66.13333333333334
+          "stars": 30,
+          "attacks": 14,
+          "destructionPercentage": 72.8
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
