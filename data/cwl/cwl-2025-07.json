@@ -1016,7 +1016,15 @@
                 "duration": 115
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#99RCQLLCR",
+              "defenderTag": "#Q0YRVQU22",
+              "stars": 2,
+              "destructionPercentage": 68,
+              "order": 20,
+              "duration": 119
+            }
           },
           {
             "tag": "#8PPYQU8PC",
@@ -1088,9 +1096,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 7,
-        "stars": 17,
-        "destructionPercentage": 41.13333333333333,
+        "attacks": 8,
+        "stars": 19,
+        "destructionPercentage": 45.666666666666664,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -1346,6 +1354,16 @@
             "name": "Tobo",
             "townhallLevel": 14,
             "mapPosition": 18,
+            "attacks": [
+              {
+                "attackerTag": "#99RCQLLCR",
+                "defenderTag": "#Q0YRVQU22",
+                "stars": 2,
+                "destructionPercentage": 68,
+                "order": 20,
+                "duration": 119
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#Q0YRVQU22",
@@ -1750,9 +1768,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 17,
-          "attacks": 7,
-          "destructionPercentage": 41.13333333333333
+          "stars": 19,
+          "attacks": 8,
+          "destructionPercentage": 45.666666666666664
         }
       },
       {
@@ -1819,9 +1837,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/vc2_SgzMYnnBZb-ezFuThtm0ccdKTLGGLdb1Y1QGJws.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/vc2_SgzMYnnBZb-ezFuThtm0ccdKTLGGLdb1Y1QGJws.png"
           },
-          "stars": 15,
-          "attacks": 6,
-          "destructionPercentage": 35.46666666666667
+          "stars": 16,
+          "attacks": 7,
+          "destructionPercentage": 40.8
         },
         "clan2": {
           "tag": "#U9Y8UQ08",
