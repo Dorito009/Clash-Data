@@ -1545,9 +1545,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
         },
         "clanLevel": 19,
-        "attacks": 13,
-        "stars": 36,
-        "destructionPercentage": 85.0,
+        "attacks": 14,
+        "stars": 39,
+        "destructionPercentage": 91.66666666666667,
         "members": [
           {
             "tag": "#8U2CV88LV",
@@ -1579,6 +1579,16 @@
             "name": "Rohat jan",
             "townhallLevel": 17,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#LY92JPUP8",
+                "defenderTag": "#L9QP0YUC8",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 24,
+                "duration": 154
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#L9QP0YUC8",
@@ -1629,7 +1639,15 @@
                 "duration": 141
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#99RCQLLCR",
+              "defenderTag": "#G2L8J09QP",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "duration": 110
+            }
           },
           {
             "tag": "#U2URUYL0",
@@ -1875,9 +1893,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 10,
-        "stars": 19,
-        "destructionPercentage": 50.733333333333334,
+        "attacks": 11,
+        "stars": 22,
+        "destructionPercentage": 57.4,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -1959,7 +1977,15 @@
                 "duration": 89
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LY92JPUP8",
+              "defenderTag": "#L9QP0YUC8",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 24,
+              "duration": 154
+            }
           },
           {
             "tag": "#QPGCL8CYC",
@@ -2153,6 +2179,16 @@
             "name": "Tobo",
             "townhallLevel": 14,
             "mapPosition": 19,
+            "attacks": [
+              {
+                "attackerTag": "#99RCQLLCR",
+                "defenderTag": "#G2L8J09QP",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 25,
+                "duration": 110
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#G2L8J09QP",
@@ -2727,9 +2763,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
           },
-          "stars": 36,
-          "attacks": 13,
-          "destructionPercentage": 85.0
+          "stars": 39,
+          "attacks": 14,
+          "destructionPercentage": 91.66666666666667
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -2739,9 +2775,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 19,
-          "attacks": 10,
-          "destructionPercentage": 50.733333333333334
+          "stars": 22,
+          "attacks": 11,
+          "destructionPercentage": 57.4
         }
       },
       {
@@ -2766,9 +2802,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/vc2_SgzMYnnBZb-ezFuThtm0ccdKTLGGLdb1Y1QGJws.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/vc2_SgzMYnnBZb-ezFuThtm0ccdKTLGGLdb1Y1QGJws.png"
           },
-          "stars": 10,
-          "attacks": 6,
-          "destructionPercentage": 26.333333333333332
+          "stars": 12,
+          "attacks": 7,
+          "destructionPercentage": 31.266666666666666
         }
       }
     ],
