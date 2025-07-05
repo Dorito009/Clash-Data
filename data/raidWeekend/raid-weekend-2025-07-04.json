@@ -836,5 +836,280 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#2Y088Q0V8",
+        "name": "Legado d OLAF",
+        "level": 18,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/gvIRqNlLray1w2wGg9SwKe2hKdpyc29GzOzOxYWBmJk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/gvIRqNlLray1w2wGg9SwKe2hKdpyc29GzOzOxYWBmJk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/gvIRqNlLray1w2wGg9SwKe2hKdpyc29GzOzOxYWBmJk.png"
+        }
+      },
+      "attackCount": 20,
+      "districtCount": 9,
+      "districtsDestroyed": 8,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11023,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UR9YJ9L2",
+                "name": "Andre"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UR9YJ9L2",
+                "name": "Andre"
+              },
+              "destructionPercent": 95,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#UR9YJ9L2",
+                "name": "Andre"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8545,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQR2VPJ0V",
+                "name": "gaditano13"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQR2VPJ0V",
+                "name": "gaditano13"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9396,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLPQP9YCV",
+                "name": "Robert"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QLPQP9YCV",
+                "name": "Robert"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QLPQP9YCV",
+                "name": "Robert"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9309,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UR9YJ9L2",
+                "name": "Andre"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y02JP0LPL",
+                "name": "andres"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8687,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UR9YJ9L2",
+                "name": "Andre"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UR9YJ9L2",
+                "name": "Andre"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9201,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLPQP9YCV",
+                "name": "Robert"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QLPQP9YCV",
+                "name": "Robert"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y02JP0LPL",
+                "name": "andres"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9793,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLPQP9YCV",
+                "name": "Robert"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y02JP0LPL",
+                "name": "andres"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y02JP0LPL",
+                "name": "andres"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6267,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y02JP0LPL",
+                "name": "andres"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y02JP0LPL",
+                "name": "andres"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
