@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250704T070000.000Z",
   "endTime": "20250707T070000.000Z",
-  "capitalTotalLoot": 227963,
-  "raidsCompleted": 2,
-  "totalAttacks": 68,
-  "enemyDistrictsDestroyed": 20,
+  "capitalTotalLoot": 244462,
+  "raidsCompleted": 3,
+  "totalAttacks": 74,
+  "enemyDistrictsDestroyed": 22,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 17224
+    },
+    {
+      "tag": "#PCP89Q20Q",
+      "name": "warrior",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16499
     },
     {
       "tag": "#LG0L98JVV",
@@ -848,18 +856,44 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/gvIRqNlLray1w2wGg9SwKe2hKdpyc29GzOzOxYWBmJk.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 9,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11977,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P0QJGGQ9R",
+                "name": "LEO 11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P0QJGGQ9R",
+                "name": "LEO 11"
+              },
+              "destructionPercent": 71,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P0QJGGQ9R",
+                "name": "LEO 11"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
