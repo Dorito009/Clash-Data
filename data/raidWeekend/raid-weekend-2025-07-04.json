@@ -3036,6 +3036,266 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#9JRYPLJ0",
+        "name": "BunkerHillHeros",
+        "level": 26,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0mzNpfcUilpSSAMYNSkQLykQkL6huBg7HZZo8dFT6i8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0mzNpfcUilpSSAMYNSkQLykQkL6huBg7HZZo8dFT6i8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0mzNpfcUilpSSAMYNSkQLykQkL6huBg7HZZo8dFT6i8.png"
+        }
+      },
+      "attackCount": 18,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12319,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#29882PJUV",
+                "name": "freestateflyin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#29882PJUV",
+                "name": "freestateflyin"
+              },
+              "destructionPercent": 78,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#29882PJUV",
+                "name": "freestateflyin"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10471,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#C8JJ0QRY",
+                "name": "spartacus"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#C8JJ0QRY",
+                "name": "spartacus"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8676,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2802VLPJ",
+                "name": "cliffyeoh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#R09R8V0U",
+                "name": "Bean"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9190,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#R09R8V0U",
+                "name": "Bean"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#R09R8V0U",
+                "name": "Bean"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9678,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#C8JJ0QRY",
+                "name": "spartacus"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#C8JJ0QRY",
+                "name": "spartacus"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8618,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2802VLPJ",
+                "name": "cliffyeoh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2802VLPJ",
+                "name": "cliffyeoh"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9342,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2802VLPJ",
+                "name": "cliffyeoh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2802VLPJ",
+                "name": "cliffyeoh"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9289,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#C8JJ0QRY",
+                "name": "spartacus"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#C8JJ0QRY",
+                "name": "spartacus"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 1,
+          "totalLooted": 5709,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#J2LQGLVR",
+                "name": "aldo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            }
+          ]
+        }
+      ]
     }
   ]
 }
