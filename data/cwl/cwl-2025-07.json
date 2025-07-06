@@ -2302,7 +2302,7 @@
       "warStartTime": "20250704T201750.000Z"
     },
     {
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "preparationStartTime": "20250704T202746.000Z",
       "startTime": "20250705T202743.000Z",
@@ -3036,7 +3036,7 @@
       "warStartTime": "20250705T202743.000Z"
     },
     {
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "preparationStartTime": "20250705T204328.000Z",
       "startTime": "20250706T204326.000Z",
@@ -3240,7 +3240,7 @@
           {
             "tag": "#9JQP9VUPY",
             "name": "123lucas123",
-            "townhallLevel": 15,
+            "townhallLevel": 16,
             "mapPosition": 4,
             "opponentAttacks": 0
           },
@@ -3626,9 +3626,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
           },
-          "stars": 39,
-          "attacks": 14,
-          "destructionPercentage": 90.13333333333334
+          "stars": 42,
+          "attacks": 15,
+          "destructionPercentage": 96.8
         },
         "clan2": {
           "tag": "#2YUC2GP0C",
@@ -3748,9 +3748,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         }
       },
       {
@@ -3790,9 +3790,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/XH-gb9OnNSGV8hBOu5_S_lxNi0K3YeEmvUw1qBzusqg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/XH-gb9OnNSGV8hBOu5_S_lxNi0K3YeEmvUw1qBzusqg.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 2,
+          "attacks": 1,
+          "destructionPercentage": 5.333333333333333
         },
         "clan2": {
           "tag": "#2YUC2GP0C",
