@@ -2316,9 +2316,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 10,
-        "stars": 25,
-        "destructionPercentage": 63.06666666666667,
+        "attacks": 11,
+        "stars": 28,
+        "destructionPercentage": 69.73333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2335,7 +2335,15 @@
                 "duration": 176
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9R8VP2V0L",
+              "defenderTag": "#88JUGLUL",
+              "stars": 2,
+              "destructionPercentage": 87,
+              "order": 18,
+              "duration": 118
+            }
           },
           {
             "tag": "#GQYQ92VLL",
@@ -2443,7 +2451,15 @@
                 "duration": 117
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YLL0P0PG8",
+              "defenderTag": "#Q0RUPY9YP",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "duration": 122
+            }
           },
           {
             "tag": "#PP9R8LJGG",
@@ -2524,7 +2540,15 @@
                 "duration": 154
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YPP9G8QP8",
+              "defenderTag": "#LG0L98JVV",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 20,
+              "duration": 105
+            }
           },
           {
             "tag": "#LJ2J8QRPJ",
@@ -2556,13 +2580,31 @@
                 "duration": 111
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Y9PCP2RPV",
+              "defenderTag": "#99RCQLLCR",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 21,
+              "duration": 84
+            }
           },
           {
             "tag": "#8QLPGU0VL",
             "name": "obey",
             "townhallLevel": 16,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#8QLPGU0VL",
+                "defenderTag": "#YPYULGC0R",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 17,
+                "duration": 103
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#YPYULGC0R",
@@ -2584,9 +2626,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/7ZAIsG_7KGLJBmq2uxhW2OngvmzTWVEw_DWlEbzcmz0.png"
         },
         "clanLevel": 22,
-        "attacks": 6,
-        "stars": 16,
-        "destructionPercentage": 37.2,
+        "attacks": 10,
+        "stars": 27,
+        "destructionPercentage": 63.0,
         "members": [
           {
             "tag": "#PP9UP9929",
@@ -2640,6 +2682,16 @@
             "name": "Chita Kukar",
             "townhallLevel": 14,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#YPP9G8QP8",
+                "defenderTag": "#LG0L98JVV",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 20,
+                "duration": 105
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#LG0L98JVV",
@@ -2685,6 +2737,16 @@
             "name": "ZUBAIR_Zebi",
             "townhallLevel": 14,
             "mapPosition": 13,
+            "attacks": [
+              {
+                "attackerTag": "#Y9PCP2RPV",
+                "defenderTag": "#99RCQLLCR",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 21,
+                "duration": 84
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#99RCQLLCR",
@@ -2717,6 +2779,16 @@
             "name": "ZUBAIR.rehmani",
             "townhallLevel": 14,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#YLL0P0PG8",
+                "defenderTag": "#Q0RUPY9YP",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 19,
+                "duration": 122
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#Q0RUPY9YP",
@@ -2789,6 +2861,16 @@
             "name": "Haider Ali",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#9R8VP2V0L",
+                "defenderTag": "#88JUGLUL",
+                "stars": 2,
+                "destructionPercentage": 87,
+                "order": 18,
+                "duration": 118
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#88JUGLUL",
@@ -2814,7 +2896,15 @@
                 "duration": 117
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8QLPGU0VL",
+              "defenderTag": "#YPYULGC0R",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "duration": 103
+            }
           },
           {
             "tag": "#YUL88V9YC",
@@ -3441,7 +3531,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/vc2_SgzMYnnBZb-ezFuThtm0ccdKTLGGLdb1Y1QGJws.png"
           },
           "stars": 20,
-          "attacks": 13,
+          "attacks": 14,
           "destructionPercentage": 52.13333333333333
         }
       },
@@ -3482,9 +3572,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 25,
-          "attacks": 10,
-          "destructionPercentage": 63.06666666666667
+          "stars": 28,
+          "attacks": 11,
+          "destructionPercentage": 69.73333333333333
         },
         "clan2": {
           "tag": "#U9Y8UQ08",
@@ -3494,9 +3584,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/7ZAIsG_7KGLJBmq2uxhW2OngvmzTWVEw_DWlEbzcmz0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/7ZAIsG_7KGLJBmq2uxhW2OngvmzTWVEw_DWlEbzcmz0.png"
           },
-          "stars": 16,
-          "attacks": 6,
-          "destructionPercentage": 37.2
+          "stars": 27,
+          "attacks": 10,
+          "destructionPercentage": 63.0
         }
       },
       {
@@ -3509,9 +3599,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/XH-gb9OnNSGV8hBOu5_S_lxNi0K3YeEmvUw1qBzusqg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/XH-gb9OnNSGV8hBOu5_S_lxNi0K3YeEmvUw1qBzusqg.png"
           },
-          "stars": 28,
-          "attacks": 14,
-          "destructionPercentage": 74.33333333333333
+          "stars": 30,
+          "attacks": 15,
+          "destructionPercentage": 79.73333333333333
         },
         "clan2": {
           "tag": "#2QCVPLCCC",
@@ -3521,9 +3611,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png"
           },
-          "stars": 16,
-          "attacks": 11,
-          "destructionPercentage": 49.46666666666667
+          "stars": 23,
+          "attacks": 14,
+          "destructionPercentage": 65.73333333333333
         }
       }
     ],
