@@ -2316,15 +2316,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 9,
-        "stars": 22,
-        "destructionPercentage": 56.4,
+        "attacks": 10,
+        "stars": 25,
+        "destructionPercentage": 63.06666666666667,
         "members": [
           {
             "tag": "#88JUGLUL",
             "name": "Jeroonie_xD",
             "townhallLevel": 16,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#88JUGLUL",
+                "defenderTag": "#9R8VP2V0L",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 16,
+                "duration": 176
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2779,7 +2789,15 @@
             "name": "Haider Ali",
             "townhallLevel": 17,
             "mapPosition": 1,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#88JUGLUL",
+              "defenderTag": "#9R8VP2V0L",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "duration": 176
+            }
           },
           {
             "tag": "#YPYULGC0R",
@@ -3410,9 +3428,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
           },
-          "stars": 33,
-          "attacks": 12,
-          "destructionPercentage": 76.8
+          "stars": 36,
+          "attacks": 13,
+          "destructionPercentage": 83.46666666666667
         },
         "clan2": {
           "tag": "#2YUC2GP0C",
@@ -3464,9 +3482,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 22,
-          "attacks": 9,
-          "destructionPercentage": 56.4
+          "stars": 25,
+          "attacks": 10,
+          "destructionPercentage": 63.06666666666667
         },
         "clan2": {
           "tag": "#U9Y8UQ08",
