@@ -2316,9 +2316,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 3,
+        "destructionPercentage": 6.666666666666667,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2346,14 +2346,40 @@
             "name": "JortGVA",
             "townhallLevel": 15,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YUL88V9YC",
+              "defenderTag": "#RJJGCV0P",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 3,
+              "duration": 145
+            }
           },
           {
             "tag": "#L9QP0YUC8",
             "name": "Mo Amissi",
             "townhallLevel": 14,
             "mapPosition": 14,
-            "opponentAttacks": 0
+            "attacks": [
+              {
+                "attackerTag": "#L9QP0YUC8",
+                "defenderTag": "#8CUCPRUPR",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 2,
+                "duration": 80
+              }
+            ],
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8CUCPRUPR",
+              "defenderTag": "#L9QP0YUC8",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 4,
+              "duration": 180
+            }
           },
           {
             "tag": "#QPGCL8CYC",
@@ -2388,7 +2414,15 @@
             "name": "123lucas123",
             "townhallLevel": 15,
             "mapPosition": 4,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#CLQ8VGJR",
+              "defenderTag": "#9JQP9VUPY",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 5,
+              "duration": 110
+            }
           },
           {
             "tag": "#YU982RCVV",
@@ -2444,9 +2478,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/7ZAIsG_7KGLJBmq2uxhW2OngvmzTWVEw_DWlEbzcmz0.png"
         },
         "clanLevel": 22,
-        "attacks": 1,
-        "stars": 3,
-        "destructionPercentage": 6.666666666666667,
+        "attacks": 4,
+        "stars": 11,
+        "destructionPercentage": 26.4,
         "members": [
           {
             "tag": "#PP9UP9929",
@@ -2533,13 +2567,41 @@
             "name": "\u00c0 \u0644 I Y \u00c1 N",
             "townhallLevel": 16,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "attacks": [
+              {
+                "attackerTag": "#8CUCPRUPR",
+                "defenderTag": "#L9QP0YUC8",
+                "stars": 2,
+                "destructionPercentage": 96,
+                "order": 4,
+                "duration": 180
+              }
+            ],
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#L9QP0YUC8",
+              "defenderTag": "#8CUCPRUPR",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 2,
+              "duration": 80
+            }
           },
           {
             "tag": "#CLQ8VGJR",
             "name": "ali",
             "townhallLevel": 17,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#CLQ8VGJR",
+                "defenderTag": "#9JQP9VUPY",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 5,
+                "duration": 110
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2561,6 +2623,16 @@
             "name": "Zeeshan Jutt",
             "townhallLevel": 17,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#YUL88V9YC",
+                "defenderTag": "#RJJGCV0P",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 3,
+                "duration": 145
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -3170,9 +3242,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/vc2_SgzMYnnBZb-ezFuThtm0ccdKTLGGLdb1Y1QGJws.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/vc2_SgzMYnnBZb-ezFuThtm0ccdKTLGGLdb1Y1QGJws.png"
           },
-          "stars": 4,
-          "attacks": 2,
-          "destructionPercentage": 7.533333333333333
+          "stars": 7,
+          "attacks": 4,
+          "destructionPercentage": 14.933333333333334
         }
       },
       {
@@ -3212,9 +3284,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         },
         "clan2": {
           "tag": "#U9Y8UQ08",
@@ -3224,9 +3296,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/7ZAIsG_7KGLJBmq2uxhW2OngvmzTWVEw_DWlEbzcmz0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/7ZAIsG_7KGLJBmq2uxhW2OngvmzTWVEw_DWlEbzcmz0.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 11,
+          "attacks": 4,
+          "destructionPercentage": 26.4
         }
       },
       {
