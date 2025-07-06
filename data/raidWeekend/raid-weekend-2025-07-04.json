@@ -1556,6 +1556,274 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#G222CJYG",
+        "name": "RISE OF EMPIRE",
+        "level": 22,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/tKMan4cwf_9wHNu0ZO1uiB_p-syVRAeAINdX31yUYOI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/tKMan4cwf_9wHNu0ZO1uiB_p-syVRAeAINdX31yUYOI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/tKMan4cwf_9wHNu0ZO1uiB_p-syVRAeAINdX31yUYOI.png"
+        }
+      },
+      "attackCount": 19,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11869,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#92GLPQQVC",
+                "name": "karma"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#92GLPQQVC",
+                "name": "karma"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#92GLPQQVC",
+                "name": "karma"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10681,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G982GUJC0",
+                "name": "IKRAAM"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G982GUJC0",
+                "name": "IKRAAM"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8604,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#VVCQCRQ",
+                "name": "The Zodiac"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9RQYPGPR9",
+                "name": "gaurav"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9186,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G982GUJC0",
+                "name": "IKRAAM"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G982GUJC0",
+                "name": "IKRAAM"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9306,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9RQYPGPR9",
+                "name": "gaurav"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G982GUJC0",
+                "name": "IKRAAM"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8507,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#VVCQCRQ",
+                "name": "The Zodiac"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#VVCQCRQ",
+                "name": "The Zodiac"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9291,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRUJ29GCG",
+                "name": "Rishi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PRUJ29GCG",
+                "name": "Rishi"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9439,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRUJ29GCG",
+                "name": "Rishi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PRUJ29GCG",
+                "name": "Rishi"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6291,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#92GLPQQVC",
+                "name": "karma"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G982GUJC0",
+                "name": "IKRAAM"
+              },
+              "destructionPercent": 99,
+              "stars": 1
+            }
+          ]
+        }
+      ]
     }
   ]
 }
