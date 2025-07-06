@@ -2316,9 +2316,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 3,
-        "stars": 9,
-        "destructionPercentage": 20.0,
+        "attacks": 4,
+        "stars": 11,
+        "destructionPercentage": 26.4,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2464,6 +2464,16 @@
             "name": "je_vader_045",
             "townhallLevel": 14,
             "mapPosition": 18,
+            "attacks": [
+              {
+                "attackerTag": "#LG0L98JVV",
+                "defenderTag": "#YPP9G8QP8",
+                "stars": 2,
+                "destructionPercentage": 96,
+                "order": 10,
+                "duration": 154
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2562,7 +2572,15 @@
             "name": "Chita Kukar",
             "townhallLevel": 14,
             "mapPosition": 12,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LG0L98JVV",
+              "defenderTag": "#YPP9G8QP8",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 10,
+              "duration": 154
+            }
           },
           {
             "tag": "#LJY2RLRYC",
@@ -3302,9 +3320,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
           },
-          "stars": 28,
-          "attacks": 10,
-          "destructionPercentage": 64.93333333333334
+          "stars": 30,
+          "attacks": 11,
+          "destructionPercentage": 70.13333333333334
         },
         "clan2": {
           "tag": "#2YUC2GP0C",
@@ -3356,9 +3374,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 9,
-          "attacks": 3,
-          "destructionPercentage": 20.0
+          "stars": 11,
+          "attacks": 4,
+          "destructionPercentage": 26.4
         },
         "clan2": {
           "tag": "#U9Y8UQ08",
@@ -3395,9 +3413,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png"
           },
-          "stars": 4,
-          "attacks": 3,
-          "destructionPercentage": 15.333333333333334
+          "stars": 6,
+          "attacks": 4,
+          "destructionPercentage": 19.0
         }
       }
     ],
