@@ -3041,7 +3041,7 @@
       "teamSize": 15,
       "preparationStartTime": "20250705T204328.000Z",
       "startTime": "20250706T204326.000Z",
-      "endTime": "20250707T204326.000Z",
+      "endTime": "20250707T211447.000Z",
       "clan": {
         "tag": "#RUGGY9G",
         "name": "The spartiates",
@@ -3051,9 +3051,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/m7n0oWoo--BwU0-oFTOg791_GEupZoqPr_vPNYJobGs.png"
         },
         "clanLevel": 21,
-        "attacks": 9,
-        "stars": 25,
-        "destructionPercentage": 57.6,
+        "attacks": 10,
+        "stars": 27,
+        "destructionPercentage": 61.46666666666667,
         "members": [
           {
             "tag": "#RJ0GRV2U",
@@ -3100,6 +3100,16 @@
             "name": "DIABLO\u00a7",
             "townhallLevel": 14,
             "mapPosition": 16,
+            "attacks": [
+              {
+                "attackerTag": "#LVQ0GCRL",
+                "defenderTag": "#LG0L98JVV",
+                "stars": 2,
+                "destructionPercentage": 58,
+                "order": 16,
+                "duration": 88
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#LG0L98JVV",
@@ -3259,7 +3269,15 @@
                 "duration": 133
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q0RUPY9YP",
+              "defenderTag": "#QYRUVGPQ0",
+              "stars": 1,
+              "destructionPercentage": 89,
+              "order": 17,
+              "duration": 120
+            }
           },
           {
             "tag": "#9PPRCV2C0",
@@ -3309,9 +3327,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 6,
-        "stars": 15,
-        "destructionPercentage": 37.4,
+        "attacks": 7,
+        "stars": 16,
+        "destructionPercentage": 43.333333333333336,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3432,6 +3450,16 @@
             "name": "jermo",
             "townhallLevel": 13,
             "mapPosition": 37,
+            "attacks": [
+              {
+                "attackerTag": "#Q0RUPY9YP",
+                "defenderTag": "#QYRUVGPQ0",
+                "stars": 1,
+                "destructionPercentage": 89,
+                "order": 17,
+                "duration": 120
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#20GLCL8QP",
@@ -3511,7 +3539,15 @@
                 "duration": 110
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LVQ0GCRL",
+              "defenderTag": "#LG0L98JVV",
+              "stars": 2,
+              "destructionPercentage": 58,
+              "order": 16,
+              "duration": 88
+            }
           },
           {
             "tag": "#LJ2J8QRPJ",
@@ -3558,8 +3594,8 @@
       "state": "preparation",
       "teamSize": 15,
       "preparationStartTime": "20250706T212903.000Z",
-      "startTime": "20250707T212900.000Z",
-      "endTime": "20250708T212900.000Z",
+      "startTime": "20250707T215946.000Z",
+      "endTime": "20250708T215946.000Z",
       "clan": {
         "tag": "#2QGYR0GU2",
         "name": "EetMeBal",
@@ -3800,7 +3836,7 @@
           }
         ]
       },
-      "warStartTime": "20250707T212900.000Z"
+      "warStartTime": "20250707T215946.000Z"
     }
   ],
   "rounds": [
@@ -4255,9 +4291,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/hlNWMj5a7VK9pcp8sXKaPvBJFk5jYjlK57fRHwi3ZR0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/hlNWMj5a7VK9pcp8sXKaPvBJFk5jYjlK57fRHwi3ZR0.png"
           },
-          "stars": 16,
-          "attacks": 12,
-          "destructionPercentage": 47.2
+          "stars": 21,
+          "attacks": 14,
+          "destructionPercentage": 56.333333333333336
         },
         "clan2": {
           "tag": "#289C2GY00",
@@ -4282,9 +4318,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/m7n0oWoo--BwU0-oFTOg791_GEupZoqPr_vPNYJobGs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/m7n0oWoo--BwU0-oFTOg791_GEupZoqPr_vPNYJobGs.png"
           },
-          "stars": 25,
-          "attacks": 9,
-          "destructionPercentage": 57.6
+          "stars": 27,
+          "attacks": 10,
+          "destructionPercentage": 61.46666666666667
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -4294,9 +4330,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 15,
-          "attacks": 6,
-          "destructionPercentage": 37.4
+          "stars": 16,
+          "attacks": 7,
+          "destructionPercentage": 43.333333333333336
         }
       },
       {
@@ -4309,9 +4345,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/XH-gb9OnNSGV8hBOu5_S_lxNi0K3YeEmvUw1qBzusqg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/XH-gb9OnNSGV8hBOu5_S_lxNi0K3YeEmvUw1qBzusqg.png"
           },
-          "stars": 18,
-          "attacks": 8,
-          "destructionPercentage": 46.86666666666667
+          "stars": 25,
+          "attacks": 11,
+          "destructionPercentage": 64.26666666666667
         },
         "clan2": {
           "tag": "#2YUC2GP0C",
