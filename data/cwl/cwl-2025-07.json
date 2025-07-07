@@ -3085,7 +3085,15 @@
             "name": "Nonoland",
             "townhallLevel": 17,
             "mapPosition": 4,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PP9R8LJGG",
+              "defenderTag": "#PULJJCG8C",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 14,
+              "duration": 180
+            }
           },
           {
             "tag": "#LVQ0GCRL",
@@ -3141,7 +3149,15 @@
                 "duration": 180
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#88JUGLUL",
+              "defenderTag": "#UPYPUCGP",
+              "stars": 1,
+              "destructionPercentage": 65,
+              "order": 13,
+              "duration": 164
+            }
           },
           {
             "tag": "#8RPUCLV98",
@@ -3283,15 +3299,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 4,
-        "stars": 12,
-        "destructionPercentage": 26.666666666666668,
+        "attacks": 6,
+        "stars": 15,
+        "destructionPercentage": 37.4,
         "members": [
           {
             "tag": "#88JUGLUL",
             "name": "Jeroonie_xD",
             "townhallLevel": 16,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#88JUGLUL",
+                "defenderTag": "#UPYPUCGP",
+                "stars": 1,
+                "destructionPercentage": 65,
+                "order": 13,
+                "duration": 164
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#UPYPUCGP",
@@ -3411,6 +3437,16 @@
             "name": "NielsTheKiller",
             "townhallLevel": 15,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#PP9R8LJGG",
+                "defenderTag": "#PULJJCG8C",
+                "stars": 2,
+                "destructionPercentage": 96,
+                "order": 14,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4240,9 +4276,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 12,
-          "attacks": 4,
-          "destructionPercentage": 26.666666666666668
+          "stars": 15,
+          "attacks": 6,
+          "destructionPercentage": 37.4
         }
       },
       {
@@ -4255,9 +4291,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/XH-gb9OnNSGV8hBOu5_S_lxNi0K3YeEmvUw1qBzusqg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/XH-gb9OnNSGV8hBOu5_S_lxNi0K3YeEmvUw1qBzusqg.png"
           },
-          "stars": 16,
-          "attacks": 7,
-          "destructionPercentage": 40.8
+          "stars": 18,
+          "attacks": 8,
+          "destructionPercentage": 46.86666666666667
         },
         "clan2": {
           "tag": "#2YUC2GP0C",
