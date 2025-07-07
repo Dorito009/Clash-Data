@@ -1885,7 +1885,7 @@
       "townHallLevel": 13,
       "townHallWeaponLevel": 5,
       "expLevel": 157,
-      "trophies": 3370,
+      "trophies": 3363,
       "bestTrophies": 4295,
       "warStars": 338,
       "attackWins": 0,
@@ -1898,7 +1898,15 @@
       "donations": 0,
       "donationsReceived": 0,
       "clanCapitalContributions": 462802,
-      "league": 0
+      "league": {
+        "id": 29000016,
+        "name": "Champion League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
+        }
+      }
     }
   }
 }
