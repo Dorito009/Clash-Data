@@ -3768,15 +3768,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 7,
-        "stars": 21,
-        "destructionPercentage": 46.666666666666664,
+        "attacks": 8,
+        "stars": 23,
+        "destructionPercentage": 51.06666666666667,
         "members": [
           {
             "tag": "#88JUGLUL",
             "name": "Jeroonie_xD",
             "townhallLevel": 16,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#88JUGLUL",
+                "defenderTag": "#PY8CGURCV",
+                "stars": 2,
+                "destructionPercentage": 66,
+                "order": 15,
+                "duration": 155
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4206,7 +4216,15 @@
             "name": "LeChapelierFou",
             "townhallLevel": 17,
             "mapPosition": 2,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#88JUGLUL",
+              "defenderTag": "#PY8CGURCV",
+              "stars": 2,
+              "destructionPercentage": 66,
+              "order": 15,
+              "duration": 155
+            }
           },
           {
             "tag": "#LGPRPV8L2",
@@ -5076,9 +5094,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png"
           },
-          "stars": 22,
-          "attacks": 10,
-          "destructionPercentage": 52.06666666666667
+          "stars": 23,
+          "attacks": 11,
+          "destructionPercentage": 54.86666666666667
         }
       },
       {
@@ -5130,9 +5148,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/m7n0oWoo--BwU0-oFTOg791_GEupZoqPr_vPNYJobGs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/m7n0oWoo--BwU0-oFTOg791_GEupZoqPr_vPNYJobGs.png"
           },
-          "stars": 9,
-          "attacks": 5,
-          "destructionPercentage": 27.533333333333335
+          "stars": 20,
+          "attacks": 9,
+          "destructionPercentage": 52.666666666666664
         }
       },
       {
@@ -5145,9 +5163,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 21,
-          "attacks": 7,
-          "destructionPercentage": 46.666666666666664
+          "stars": 23,
+          "attacks": 8,
+          "destructionPercentage": 51.06666666666667
         },
         "clan2": {
           "tag": "#2QCVPLCCC",
