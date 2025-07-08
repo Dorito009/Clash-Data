@@ -3768,9 +3768,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 8,
-        "stars": 23,
-        "destructionPercentage": 51.06666666666667,
+        "attacks": 9,
+        "stars": 25,
+        "destructionPercentage": 57.333333333333336,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3972,6 +3972,16 @@
             "name": "je_vader_045",
             "townhallLevel": 14,
             "mapPosition": 16,
+            "attacks": [
+              {
+                "attackerTag": "#LG0L98JVV",
+                "defenderTag": "#9CCRVL9J9",
+                "stars": 2,
+                "destructionPercentage": 94,
+                "order": 16,
+                "duration": 129
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4120,7 +4130,15 @@
             "name": "Farceur",
             "townhallLevel": 14,
             "mapPosition": 10,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LG0L98JVV",
+              "defenderTag": "#9CCRVL9J9",
+              "stars": 2,
+              "destructionPercentage": 94,
+              "order": 16,
+              "duration": 129
+            }
           },
           {
             "tag": "#G9UUYJC9J",
@@ -5163,9 +5181,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 23,
-          "attacks": 8,
-          "destructionPercentage": 51.06666666666667
+          "stars": 25,
+          "attacks": 9,
+          "destructionPercentage": 57.333333333333336
         },
         "clan2": {
           "tag": "#2QCVPLCCC",
