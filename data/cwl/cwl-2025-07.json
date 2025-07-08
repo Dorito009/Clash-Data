@@ -3754,7 +3754,7 @@
       "warStartTime": "20250706T204326.000Z"
     },
     {
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "preparationStartTime": "20250706T212903.000Z",
       "startTime": "20250707T215946.000Z",
@@ -4506,7 +4506,7 @@
       "warStartTime": "20250707T215946.000Z"
     },
     {
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "preparationStartTime": "20250707T221411.000Z",
       "startTime": "20250708T221409.000Z",
@@ -5382,9 +5382,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/m7n0oWoo--BwU0-oFTOg791_GEupZoqPr_vPNYJobGs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/m7n0oWoo--BwU0-oFTOg791_GEupZoqPr_vPNYJobGs.png"
           },
-          "stars": 30,
-          "attacks": 13,
-          "destructionPercentage": 75.13333333333334
+          "stars": 33,
+          "attacks": 14,
+          "destructionPercentage": 81.8
         }
       },
       {
