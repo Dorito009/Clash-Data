@@ -4520,9 +4520,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png"
         },
         "clanLevel": 20,
-        "attacks": 10,
-        "stars": 19,
-        "destructionPercentage": 52.8,
+        "attacks": 11,
+        "stars": 21,
+        "destructionPercentage": 57.8,
         "members": [
           {
             "tag": "#QRLJLY2RQ",
@@ -4596,6 +4596,16 @@
             "name": "nino_v9",
             "townhallLevel": 13,
             "mapPosition": 30,
+            "attacks": [
+              {
+                "attackerTag": "#Q2G8UU0QQ",
+                "defenderTag": "#Q0RUPY9YP",
+                "stars": 2,
+                "destructionPercentage": 75,
+                "order": 19,
+                "duration": 101
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#Q0RUPY9YP",
@@ -4937,7 +4947,15 @@
                 "duration": 150
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q2G8UU0QQ",
+              "defenderTag": "#Q0RUPY9YP",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 19,
+              "duration": 101
+            }
           },
           {
             "tag": "#PP9R8LJGG",
@@ -5831,9 +5849,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png"
           },
-          "stars": 19,
-          "attacks": 10,
-          "destructionPercentage": 52.8
+          "stars": 21,
+          "attacks": 11,
+          "destructionPercentage": 57.8
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
