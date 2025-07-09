@@ -4520,9 +4520,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png"
         },
         "clanLevel": 20,
-        "attacks": 11,
-        "stars": 21,
-        "destructionPercentage": 57.8,
+        "attacks": 12,
+        "stars": 23,
+        "destructionPercentage": 62.733333333333334,
         "members": [
           {
             "tag": "#QRLJLY2RQ",
@@ -4652,6 +4652,16 @@
             "name": "Oryon_Iso",
             "townhallLevel": 12,
             "mapPosition": 36,
+            "attacks": [
+              {
+                "attackerTag": "#LRJ9QPG29",
+                "defenderTag": "#QPGCL8CYC",
+                "stars": 2,
+                "destructionPercentage": 74,
+                "order": 20,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#QPGCL8CYC",
@@ -4930,7 +4940,15 @@
                 "duration": 116
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LRJ9QPG29",
+              "defenderTag": "#QPGCL8CYC",
+              "stars": 2,
+              "destructionPercentage": 74,
+              "order": 20,
+              "duration": 180
+            }
           },
           {
             "tag": "#Q0RUPY9YP",
@@ -5795,9 +5813,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
           },
-          "stars": 26,
-          "attacks": 10,
-          "destructionPercentage": 66.13333333333334
+          "stars": 29,
+          "attacks": 11,
+          "destructionPercentage": 72.8
         },
         "clan2": {
           "tag": "#2QCVPLCCC",
@@ -5849,9 +5867,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png"
           },
-          "stars": 21,
-          "attacks": 11,
-          "destructionPercentage": 57.8
+          "stars": 23,
+          "attacks": 12,
+          "destructionPercentage": 62.733333333333334
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
