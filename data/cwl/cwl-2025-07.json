@@ -4520,9 +4520,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png"
         },
         "clanLevel": 20,
-        "attacks": 5,
-        "stars": 9,
-        "destructionPercentage": 26.533333333333335,
+        "attacks": 6,
+        "stars": 12,
+        "destructionPercentage": 33.2,
         "members": [
           {
             "tag": "#QRLJLY2RQ",
@@ -4620,6 +4620,16 @@
             "name": "ponykiki",
             "townhallLevel": 15,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#GLYRJ8JL2",
+                "defenderTag": "#YU982RCVV",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 8,
+                "duration": 141
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4811,7 +4821,15 @@
             "name": "Olivier05",
             "townhallLevel": 14,
             "mapPosition": 9,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GLYRJ8JL2",
+              "defenderTag": "#YU982RCVV",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
+              "duration": 141
+            }
           },
           {
             "tag": "#LG0L98JVV",
@@ -5618,9 +5636,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/7ZAIsG_7KGLJBmq2uxhW2OngvmzTWVEw_DWlEbzcmz0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/7ZAIsG_7KGLJBmq2uxhW2OngvmzTWVEw_DWlEbzcmz0.png"
           },
-          "stars": 4,
-          "attacks": 2,
-          "destructionPercentage": 8.8
+          "stars": 6,
+          "attacks": 3,
+          "destructionPercentage": 13.666666666666666
         }
       },
       {
@@ -5633,9 +5651,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png"
           },
-          "stars": 9,
-          "attacks": 5,
-          "destructionPercentage": 26.533333333333335
+          "stars": 12,
+          "attacks": 6,
+          "destructionPercentage": 33.2
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
