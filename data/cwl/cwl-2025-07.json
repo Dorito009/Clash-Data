@@ -4520,9 +4520,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png"
         },
         "clanLevel": 20,
-        "attacks": 13,
-        "stars": 24,
-        "destructionPercentage": 66.4,
+        "attacks": 14,
+        "stars": 26,
+        "destructionPercentage": 71.73333333333333,
         "members": [
           {
             "tag": "#QRLJLY2RQ",
@@ -4631,13 +4631,31 @@
                 "duration": 122
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PRUGPLRPG",
+              "defenderTag": "#LLQC2Y2PG",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 26,
+              "duration": 158
+            }
           },
           {
             "tag": "#QC2PC8CPU",
             "name": "Monkey D. Luffy",
             "townhallLevel": 16,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#QC2PC8CPU",
+                "defenderTag": "#PP9R8LJGG",
+                "stars": 2,
+                "destructionPercentage": 80,
+                "order": 25,
+                "duration": 136
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#PP9R8LJGG",
@@ -4713,7 +4731,15 @@
                 "duration": 108
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#99RCQLLCR",
+              "defenderTag": "#L9L0QP229",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 24,
+              "duration": 77
+            }
           },
           {
             "tag": "#GLYRJ8JL2",
@@ -4850,9 +4876,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 10,
-        "stars": 26,
-        "destructionPercentage": 63.6,
+        "attacks": 12,
+        "stars": 32,
+        "destructionPercentage": 76.93333333333334,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -5026,13 +5052,31 @@
                 "duration": 158
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QC2PC8CPU",
+              "defenderTag": "#PP9R8LJGG",
+              "stars": 2,
+              "destructionPercentage": 80,
+              "order": 25,
+              "duration": 136
+            }
           },
           {
             "tag": "#PRUGPLRPG",
             "name": "Dorito_009",
             "townhallLevel": 14,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#PRUGPLRPG",
+                "defenderTag": "#LLQC2Y2PG",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 26,
+                "duration": 158
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#LLQC2Y2PG",
@@ -5128,6 +5172,16 @@
             "name": "Tobo",
             "townhallLevel": 14,
             "mapPosition": 20,
+            "attacks": [
+              {
+                "attackerTag": "#99RCQLLCR",
+                "defenderTag": "#L9L0QP229",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 24,
+                "duration": 77
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#L9L0QP229",
@@ -5879,9 +5933,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/jUyrqInERWIlqunscvoNBAVJlbeUDsw_OXAIuBWTYK8.png"
           },
-          "stars": 21,
-          "attacks": 12,
-          "destructionPercentage": 53.13333333333333
+          "stars": 25,
+          "attacks": 14,
+          "destructionPercentage": 61.666666666666664
         }
       },
       {
@@ -5921,9 +5975,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/neHmEqSf2MWE4o4GWimOTDN2K8Bi2b4vgfK-_5MZ-XE.png"
           },
-          "stars": 24,
-          "attacks": 13,
-          "destructionPercentage": 66.4
+          "stars": 26,
+          "attacks": 14,
+          "destructionPercentage": 71.73333333333333
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -5933,9 +5987,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 26,
-          "attacks": 10,
-          "destructionPercentage": 63.6
+          "stars": 32,
+          "attacks": 12,
+          "destructionPercentage": 76.93333333333334
         }
       }
     ]
