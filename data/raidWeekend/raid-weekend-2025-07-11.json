@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250711T070000.000Z",
   "endTime": "20250714T070000.000Z",
-  "capitalTotalLoot": 31329,
+  "capitalTotalLoot": 56162,
   "raidsCompleted": 0,
-  "totalAttacks": 6,
-  "enemyDistrictsDestroyed": 1,
+  "totalAttacks": 12,
+  "enemyDistrictsDestroyed": 3,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,22 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 31329
+    },
+    {
+      "tag": "#QPGCL8CYC",
+      "name": "KoerpoerXD",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 5929
+    },
+    {
+      "tag": "#9VLL0CLJP",
+      "name": "Jipperish",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18904
     }
   ],
   "attackLog": [],
