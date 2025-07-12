@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250711T070000.000Z",
   "endTime": "20250714T070000.000Z",
-  "capitalTotalLoot": 263364,
-  "raidsCompleted": 3,
-  "totalAttacks": 80,
-  "enemyDistrictsDestroyed": 24,
+  "capitalTotalLoot": 272350,
+  "raidsCompleted": 4,
+  "totalAttacks": 83,
+  "enemyDistrictsDestroyed": 26,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 31329
+    },
+    {
+      "tag": "#LJU2P9CL2",
+      "name": "FONDIE LIE",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 8986
     },
     {
       "tag": "#JVURPLYR",
@@ -832,18 +840,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/XTNA8AnuB5vaingGYdsgRX2s8SsJ9X90evJT7uvB2GU.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12674,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YCRRJ9Y29",
+                "name": "Big Daddy"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YCRRJ9Y29",
+                "name": "Big Daddy"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#L8UUR8L09",
+                "name": "Baby Daddy"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#L8UUR8L09",
+                "name": "Baby Daddy"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -946,11 +988,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 85,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 7640,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 9879,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#L8UUR8L09",
+                "name": "Baby Daddy"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QC0URPPRR",
