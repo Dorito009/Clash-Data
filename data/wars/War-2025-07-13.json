@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 8,
-    "stars": 23,
-    "destructionPercentage": 39.75,
+    "attacks": 11,
+    "stars": 30,
+    "destructionPercentage": 52.7,
     "members": [
       {
         "tag": "#88JUGLUL",
         "name": "Jeroonie_xD",
         "townhallLevel": 16,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#88JUGLUL",
+            "defenderTag": "#9JJRQC2C9",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 20,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9JJRQC2C9",
@@ -88,7 +98,15 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8U808YUUL",
+          "defenderTag": "#YVPCR90PC",
+          "stars": 1,
+          "destructionPercentage": 85,
+          "order": 19,
+          "duration": 166
+        }
       },
       {
         "tag": "#YJ8QUV0QY",
@@ -119,7 +137,15 @@
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJCC99VGJ",
+          "defenderTag": "#L9QP0YUC8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 157
+        }
       },
       {
         "tag": "#YRP99RVQR",
@@ -220,6 +246,16 @@
         "name": "Louise",
         "townhallLevel": 13,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#LRCY2JVPY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -269,6 +305,16 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 14,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#9JGJGJLYJ",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 22,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -293,7 +339,15 @@
             "duration": 150
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QV9C8UUGG",
+          "defenderTag": "#8PV2Y0JPV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 153
+        }
       }
     ]
   },
@@ -306,9 +360,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/G6-0GLGxSIMbhLNa4IhCBZpXOdL1j237YpZ8_DU23rQ.png"
     },
     "clanLevel": 19,
-    "attacks": 8,
-    "stars": 17,
-    "destructionPercentage": 30.65,
+    "attacks": 11,
+    "stars": 24,
+    "destructionPercentage": 44.9,
     "members": [
       {
         "tag": "#QPQ0UYQJP",
@@ -340,13 +394,31 @@
         "name": "komeilkk",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QY2PCRLPJ",
+          "defenderTag": "#LRCY2JVPY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 134
+        }
       },
       {
         "tag": "#8U808YUUL",
         "name": "KORUPTOR",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#8U808YUUL",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 1,
+            "destructionPercentage": 85,
+            "order": 19,
+            "duration": 166
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YVPCR90PC",
@@ -380,7 +452,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88JUGLUL",
+          "defenderTag": "#9JJRQC2C9",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 20,
+          "duration": 112
+        }
       },
       {
         "tag": "#QC0900LLV",
@@ -443,6 +523,16 @@
         "name": "Lazada",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#QJCC99VGJ",
+            "defenderTag": "#L9QP0YUC8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -534,6 +624,16 @@
         "name": "BARACUDA",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QV9C8UUGG",
+            "defenderTag": "#8PV2Y0JPV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 153
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8PV2Y0JPV",
@@ -566,7 +666,15 @@
         "name": "KIM HOA 500",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#9JGJGJLYJ",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 22,
+          "duration": 106
+        }
       },
       {
         "tag": "#QG8VY9JLP",
