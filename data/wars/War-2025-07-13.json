@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 19,
-    "stars": 48,
-    "destructionPercentage": 83.75,
+    "attacks": 20,
+    "stars": 50,
+    "destructionPercentage": 87.65,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -32,6 +32,14 @@
             "destructionPercentage": 91,
             "order": 20,
             "duration": 112
+          },
+          {
+            "attackerTag": "#88JUGLUL",
+            "defenderTag": "#Q0RCRQPJJ",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 37,
+            "duration": 135
           }
         ],
         "opponentAttacks": 1,
@@ -602,7 +610,15 @@
         "name": "tralala",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88JUGLUL",
+          "defenderTag": "#Q0RCRQPJJ",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 37,
+          "duration": 135
+        }
       },
       {
         "tag": "#QYVR0220Q",
