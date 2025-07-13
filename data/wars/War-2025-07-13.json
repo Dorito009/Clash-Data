@@ -24,7 +24,15 @@
         "name": "Jeroonie_xD",
         "townhallLevel": 16,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JJRQC2C9",
+          "defenderTag": "#88JUGLUL",
+          "stars": 0,
+          "destructionPercentage": 20,
+          "order": 12,
+          "duration": 180
+        }
       },
       {
         "tag": "#P9RGRYC9",
@@ -55,7 +63,15 @@
         "name": "p.e.k.k.a",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JJRQC2C9",
+          "defenderTag": "#JVURPLYR",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 11,
+          "duration": 180
+        }
       },
       {
         "tag": "#YVPCR90PC",
@@ -120,7 +136,15 @@
             "duration": 85
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVP2LPJ0Q",
+          "defenderTag": "#YRP99RVQR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 130
+        }
       },
       {
         "tag": "#8LYGCV8LY",
@@ -144,14 +168,14 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PPP9G99CV",
+          "attackerTag": "#QPQ0UYQJP",
           "defenderTag": "#QPGCL8CYC",
-          "stars": 2,
-          "destructionPercentage": 88,
-          "order": 7,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 165
         }
       },
       {
@@ -174,7 +198,15 @@
         "name": "Dorito_009",
         "townhallLevel": 14,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYVR0220Q",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 171
+        }
       },
       {
         "tag": "#9JQP9VUPY",
@@ -205,7 +237,15 @@
             "duration": 135
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QC0900LLV",
+          "defenderTag": "#LG0L98JVV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 173
+        }
       },
       {
         "tag": "#9VLL0CLJP",
@@ -266,15 +306,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/G6-0GLGxSIMbhLNa4IhCBZpXOdL1j237YpZ8_DU23rQ.png"
     },
     "clanLevel": 19,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 9.4,
+    "attacks": 8,
+    "stars": 17,
+    "destructionPercentage": 30.65,
     "members": [
       {
         "tag": "#QPQ0UYQJP",
         "name": "KLIWON",
         "townhallLevel": 13,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QPQ0UYQJP",
+            "defenderTag": "#QPGCL8CYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 165
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9VLL0CLJP",
@@ -312,6 +362,24 @@
         "name": "cukrek brutall",
         "townhallLevel": 16,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9JJRQC2C9",
+            "defenderTag": "#JVURPLYR",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 11,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#9JJRQC2C9",
+            "defenderTag": "#88JUGLUL",
+            "stars": 0,
+            "destructionPercentage": 20,
+            "order": 12,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -319,6 +387,16 @@
         "name": "VERTIGO",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#QC0900LLV",
+            "defenderTag": "#LG0L98JVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 173
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LG0L98JVV",
@@ -341,6 +419,16 @@
         "name": "JIBRIL",
         "townhallLevel": 14,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#QYVR0220Q",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 171
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -461,6 +549,16 @@
         "name": "BAYI TABUNG",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QVP2LPJ0Q",
+            "defenderTag": "#YRP99RVQR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 0
       },
       {
