@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 15,
-    "stars": 39,
-    "destructionPercentage": 68.35,
+    "attacks": 19,
+    "stars": 48,
+    "destructionPercentage": 83.75,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -161,6 +161,14 @@
             "destructionPercentage": 81,
             "order": 23,
             "duration": 94
+          },
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#QVP2LPJ0Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 33,
+            "duration": 130
           }
         ],
         "opponentAttacks": 1,
@@ -203,6 +211,24 @@
         "name": "Florimannn",
         "townhallLevel": 14,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#QG8VY9JLP",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 35,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#QJYYCQCQP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 177
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -281,6 +307,14 @@
             "destructionPercentage": 100,
             "order": 32,
             "duration": 130
+          },
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#9JJRQC2C9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 34,
+            "duration": 125
           }
         ],
         "opponentAttacks": 0
@@ -528,14 +562,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#88JUGLUL",
+          "attackerTag": "#9JQP9VUPY",
           "defenderTag": "#9JJRQC2C9",
-          "stars": 2,
-          "destructionPercentage": 91,
-          "order": 20,
-          "duration": 112
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 125
         }
       },
       {
@@ -632,7 +666,15 @@
         "name": "Ragil_Indul",
         "townhallLevel": 12,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#QJYYCQCQP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 177
+        }
       },
       {
         "tag": "#QCQUPV9J9",
@@ -779,7 +821,15 @@
             "duration": 130
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#QVP2LPJ0Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "duration": 130
+        }
       },
       {
         "tag": "#9JGJGJLYJ",
@@ -821,7 +871,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#QG8VY9JLP",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 35,
+          "duration": 180
+        }
       },
       {
         "tag": "#QJL9J2GVU",
