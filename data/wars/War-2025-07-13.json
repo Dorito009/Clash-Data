@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 5,
-    "stars": 14,
-    "destructionPercentage": 24.75,
+    "attacks": 8,
+    "stars": 23,
+    "destructionPercentage": 39.75,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -79,6 +79,16 @@
         "name": "daan",
         "townhallLevel": 14,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#YJ8QUV0QY",
+            "defenderTag": "#QCQUPV9J9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -100,6 +110,16 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#92LG9RYV8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 85
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -114,14 +134,40 @@
         "name": "KoerpoerXD",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#QJL9J2GVU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 10,
+            "duration": 115
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PPP9G99CV",
+          "defenderTag": "#QPGCL8CYC",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 7,
+          "duration": 180
+        }
       },
       {
         "tag": "#Q0RUPY9YP",
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PPP9G99CV",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 153
+        }
       },
       {
         "tag": "#PRUGPLRPG",
@@ -220,9 +266,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/G6-0GLGxSIMbhLNa4IhCBZpXOdL1j237YpZ8_DU23rQ.png"
     },
     "clanLevel": 19,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 5,
+    "destructionPercentage": 9.4,
     "members": [
       {
         "tag": "#QPQ0UYQJP",
@@ -323,20 +369,54 @@
         "name": "Toko pedia",
         "townhallLevel": 14,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJ8QUV0QY",
+          "defenderTag": "#QCQUPV9J9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 160
+        }
       },
       {
         "tag": "#92LG9RYV8",
         "name": "Nico Robin",
         "townhallLevel": 13,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP99RVQR",
+          "defenderTag": "#92LG9RYV8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 85
+        }
       },
       {
         "tag": "#PPP9G99CV",
         "name": "SHOPEE EXPRES",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#PPP9G99CV",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 153
+          },
+          {
+            "attackerTag": "#PPP9G99CV",
+            "defenderTag": "#QPGCL8CYC",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 7,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -402,7 +482,15 @@
         "name": "moedh",
         "townhallLevel": 13,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPGCL8CYC",
+          "defenderTag": "#QJL9J2GVU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 115
+        }
       }
     ]
   }
