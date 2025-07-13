@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 20,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 4.75,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -129,6 +129,16 @@
         "name": "je_vader_045",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#LG0L98JVV",
+            "defenderTag": "#QC0900LLV",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 1,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -207,7 +217,15 @@
         "name": "VERTIGO",
         "townhallLevel": 14,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LG0L98JVV",
+          "defenderTag": "#QC0900LLV",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 1,
+          "duration": 135
+        }
       },
       {
         "tag": "#Q0RCRQPJJ",
@@ -275,7 +293,7 @@
       {
         "tag": "#JJQYVJYC",
         "name": "Noddy Schicksal",
-        "townhallLevel": 16,
+        "townhallLevel": 17,
         "mapPosition": 4,
         "opponentAttacks": 0
       },
