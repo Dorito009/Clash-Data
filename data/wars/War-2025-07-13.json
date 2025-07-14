@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 28,
+    "attacks": 30,
     "stars": 58,
-    "destructionPercentage": 97.95,
+    "destructionPercentage": 98.4,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -65,6 +65,14 @@
             "destructionPercentage": 100,
             "order": 2,
             "duration": 133
+          },
+          {
+            "attackerTag": "#P9RGRYC9",
+            "defenderTag": "#QJCC99VGJ",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 58,
+            "duration": 162
           }
         ],
         "opponentAttacks": 1,
@@ -426,6 +434,14 @@
             "destructionPercentage": 100,
             "order": 21,
             "duration": 134
+          },
+          {
+            "attackerTag": "#QY2PCRLPJ",
+            "defenderTag": "#QJYYCQCQP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 57,
+            "duration": 119
           }
         ],
         "opponentAttacks": 2,
@@ -835,14 +851,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#L9QP0YUC8",
+          "attackerTag": "#P9RGRYC9",
           "defenderTag": "#QJCC99VGJ",
           "stars": 2,
-          "destructionPercentage": 81,
-          "order": 23,
-          "duration": 94
+          "destructionPercentage": 90,
+          "order": 58,
+          "duration": 162
         }
       },
       {
@@ -850,7 +866,7 @@
         "name": "Ragil_Indul",
         "townhallLevel": 12,
         "mapPosition": 19,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#8LYGCV8LY",
           "defenderTag": "#QJYYCQCQP",
