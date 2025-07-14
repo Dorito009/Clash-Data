@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 24,
-    "stars": 56,
-    "destructionPercentage": 96.65,
+    "attacks": 28,
+    "stars": 58,
+    "destructionPercentage": 97.95,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -82,6 +82,24 @@
         "name": "Donjenso",
         "townhallLevel": 14,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#QC0900LLV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 53,
+            "duration": 106
+          },
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#QYVR0220Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 124
+          }
+        ],
         "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#8U808YUUL",
@@ -309,6 +327,24 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#LRCY2JVPY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 76
+          },
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#QJYYCQCQP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 56,
+            "duration": 97
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PPP9G99CV",
@@ -586,7 +622,7 @@
         "name": "komeilkk",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QY2PCRLPJ",
           "defenderTag": "#LRCY2JVPY",
@@ -685,14 +721,14 @@
             "duration": 153
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LG0L98JVV",
+          "attackerTag": "#GQYQ92VLL",
           "defenderTag": "#QC0900LLV",
-          "stars": 2,
-          "destructionPercentage": 95,
-          "order": 1,
-          "duration": 135
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "duration": 106
         }
       },
       {
@@ -733,14 +769,14 @@
             "duration": 173
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YRP99RVQR",
+          "attackerTag": "#GQYQ92VLL",
           "defenderTag": "#QYVR0220Q",
-          "stars": 2,
-          "destructionPercentage": 79,
-          "order": 38,
-          "duration": 116
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 124
         }
       },
       {
@@ -814,7 +850,7 @@
         "name": "Ragil_Indul",
         "townhallLevel": 12,
         "mapPosition": 19,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8LYGCV8LY",
           "defenderTag": "#QJYYCQCQP",
