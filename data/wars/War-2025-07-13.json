@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 21,
-    "stars": 52,
-    "destructionPercentage": 91.6,
+    "attacks": 23,
+    "stars": 56,
+    "destructionPercentage": 96.65,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -42,14 +42,14 @@
             "duration": 135
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9JJRQC2C9",
+          "attackerTag": "#JJQYVJYC",
           "defenderTag": "#88JUGLUL",
-          "stars": 0,
-          "destructionPercentage": 20,
-          "order": 12,
-          "duration": 180
+          "stars": 1,
+          "destructionPercentage": 75,
+          "order": 43,
+          "duration": 145
         }
       },
       {
@@ -74,13 +74,13 @@
         "name": "Donjenso",
         "townhallLevel": 14,
         "mapPosition": 12,
-        "opponentAttacks": 1,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#QG8VY9JLP",
+          "attackerTag": "#8U808YUUL",
           "defenderTag": "#GQYQ92VLL",
           "stars": 2,
-          "destructionPercentage": 94,
-          "order": 25,
+          "destructionPercentage": 95,
+          "order": 47,
           "duration": 180
         }
       },
@@ -114,14 +114,14 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LJ0GRPJ8G",
+          "attackerTag": "#QV9C8UUGG",
           "defenderTag": "#YVPCR90PC",
-          "stars": 2,
-          "destructionPercentage": 98,
-          "order": 30,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 172
         }
       },
       {
@@ -308,6 +308,24 @@
         "name": "Dorito_009",
         "townhallLevel": 14,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#LJ0GRPJ8G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 44,
+            "duration": 137
+          },
+          {
+            "attackerTag": "#PRUGPLRPG",
+            "defenderTag": "#QG8VY9JLP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QYVR0220Q",
@@ -502,9 +520,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/G6-0GLGxSIMbhLNa4IhCBZpXOdL1j237YpZ8_DU23rQ.png"
     },
     "clanLevel": 19,
-    "attacks": 21,
-    "stars": 45,
-    "destructionPercentage": 80.25,
+    "attacks": 26,
+    "stars": 47,
+    "destructionPercentage": 83.15,
     "members": [
       {
         "tag": "#QPQ0UYQJP",
@@ -567,6 +585,14 @@
             "destructionPercentage": 85,
             "order": 19,
             "duration": 166
+          },
+          {
+            "attackerTag": "#8U808YUUL",
+            "defenderTag": "#GQYQ92VLL",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 47,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -673,6 +699,14 @@
             "destructionPercentage": 100,
             "order": 16,
             "duration": 171
+          },
+          {
+            "attackerTag": "#QYVR0220Q",
+            "defenderTag": "#GQYQ92VLL",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 46,
+            "duration": 173
           }
         ],
         "opponentAttacks": 1,
@@ -713,6 +747,14 @@
             "destructionPercentage": 100,
             "order": 17,
             "duration": 157
+          },
+          {
+            "attackerTag": "#QJCC99VGJ",
+            "defenderTag": "#GQYQ92VLL",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 48,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -828,13 +870,31 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRUGPLRPG",
+          "defenderTag": "#LJ0GRPJ8G",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 44,
+          "duration": 137
+        }
       },
       {
         "tag": "#JJQYVJYC",
         "name": "Noddy Schicksal",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#JJQYVJYC",
+            "defenderTag": "#88JUGLUL",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 43,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#P9RGRYC9",
@@ -858,6 +918,14 @@
             "destructionPercentage": 100,
             "order": 18,
             "duration": 153
+          },
+          {
+            "attackerTag": "#QV9C8UUGG",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 172
           }
         ],
         "opponentAttacks": 1,
@@ -951,14 +1019,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8LYGCV8LY",
+          "attackerTag": "#PRUGPLRPG",
           "defenderTag": "#QG8VY9JLP",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 35,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 127
         }
       },
       {
