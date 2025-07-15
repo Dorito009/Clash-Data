@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 4.0,
+    "attacks": 4,
+    "stars": 11,
+    "destructionPercentage": 15.64,
     "members": [
       {
         "tag": "#YGU8QQR0",
@@ -66,6 +66,24 @@
         "name": "Mo Amissi",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#LRV0L88PG",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 6,
+            "duration": 88
+          },
+          {
+            "attackerTag": "#L9QP0YUC8",
+            "defenderTag": "#88VJL0V0R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LRV0L88PG",
@@ -183,6 +201,16 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 14,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#G0YJVU8P9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 117
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -350,7 +378,15 @@
         "name": "Gabriel 2007",
         "townhallLevel": 16,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#G0YJVU8P9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 117
+        }
       },
       {
         "tag": "#G9Q9QURQ2",
@@ -438,7 +474,15 @@
             "duration": 118
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#LRV0L88PG",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 6,
+          "duration": 88
+        }
       },
       {
         "tag": "#8020UVCJJ",
@@ -452,7 +496,15 @@
         "name": "JOAQUIN Rubies",
         "townhallLevel": 14,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9QP0YUC8",
+          "defenderTag": "#88VJL0V0R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 95
+        }
       }
     ]
   }
