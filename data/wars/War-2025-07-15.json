@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 17,
-    "stars": 34,
-    "destructionPercentage": 47.88,
+    "attacks": 20,
+    "stars": 43,
+    "destructionPercentage": 59.88,
     "members": [
       {
         "tag": "#YGU8QQR0",
@@ -185,6 +185,24 @@
         "name": "Florimannn",
         "townhallLevel": 14,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#QL208C9C8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 145
+          },
+          {
+            "attackerTag": "#8LYGCV8LY",
+            "defenderTag": "#LR0QGCP8Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 179
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G0YJVU8P9",
@@ -418,14 +436,14 @@
         "name": "milan",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#22U989CGG",
+          "attackerTag": "#G9Q9QURQ2",
           "defenderTag": "#G0LLY0JC0",
           "stars": 2,
-          "destructionPercentage": 83,
-          "order": 32,
-          "duration": 96
+          "destructionPercentage": 96,
+          "order": 52,
+          "duration": 180
         }
       },
       {
@@ -450,6 +468,16 @@
         "name": "Bassie",
         "townhallLevel": 13,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#9CCVPU9RU",
+            "defenderTag": "#QRPPR2L0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 51,
+            "duration": 117
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G9Y20J9P8",
@@ -549,9 +577,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/P3WsSQrXgVgRTuJHhgcXUkZyVeI4hHQJs90XIqg-xCg.png"
     },
     "clanLevel": 14,
-    "attacks": 31,
+    "attacks": 32,
     "stars": 62,
-    "destructionPercentage": 85.2,
+    "destructionPercentage": 85.72,
     "members": [
       {
         "tag": "#P9VU8UQCJ",
@@ -664,7 +692,15 @@
         "name": "marck ferreira",
         "townhallLevel": 14,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9CCVPU9RU",
+          "defenderTag": "#QRPPR2L0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 117
+        }
       },
       {
         "tag": "#L9P29LP8G",
@@ -762,7 +798,15 @@
             "duration": 119
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#QL208C9C8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 145
+        }
       },
       {
         "tag": "#29J898PVV",
@@ -843,6 +887,14 @@
             "destructionPercentage": 100,
             "order": 36,
             "duration": 140
+          },
+          {
+            "attackerTag": "#G9Q9QURQ2",
+            "defenderTag": "#G0LLY0JC0",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 52,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -860,7 +912,15 @@
         "name": "CHS Caos",
         "townhallLevel": 14,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LYGCV8LY",
+          "defenderTag": "#LR0QGCP8Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 179
+        }
       },
       {
         "tag": "#QGLJVCP9R",
