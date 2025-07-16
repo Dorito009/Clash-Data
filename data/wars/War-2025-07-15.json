@@ -71,14 +71,14 @@
         "name": "Olizes",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G9Y20J9P8",
+          "attackerTag": "#2YYYY99QY",
           "defenderTag": "#YVPCR90PC",
-          "stars": 1,
-          "destructionPercentage": 75,
-          "order": 21,
-          "duration": 112
+          "stars": 2,
+          "destructionPercentage": 54,
+          "order": 39,
+          "duration": 82
         }
       },
       {
@@ -96,7 +96,15 @@
             "duration": 147
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JYJPQY20",
+          "defenderTag": "#YJ8QUV0QY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 37,
+          "duration": 146
+        }
       },
       {
         "tag": "#JCGVYY8U",
@@ -344,14 +352,14 @@
             "duration": 90
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QGLJVCP9R",
+          "attackerTag": "#G9Q9QURQ2",
           "defenderTag": "#LG0L98JVV",
-          "stars": 1,
-          "destructionPercentage": 68,
-          "order": 28,
-          "duration": 87
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 140
         }
       },
       {
@@ -461,7 +469,15 @@
         "name": "Mauro",
         "townhallLevel": 14,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JYJPQY20",
+          "defenderTag": "#LRRCYRP8Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 124
+        }
       },
       {
         "tag": "#8PV2Y0JPV",
@@ -499,9 +515,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/P3WsSQrXgVgRTuJHhgcXUkZyVeI4hHQJs90XIqg-xCg.png"
     },
     "clanLevel": 14,
-    "attacks": 22,
-    "stars": 50,
-    "destructionPercentage": 72.28,
+    "attacks": 26,
+    "stars": 59,
+    "destructionPercentage": 80.72,
     "members": [
       {
         "tag": "#P9VU8UQCJ",
@@ -643,6 +659,24 @@
         "name": "malverde :3",
         "townhallLevel": 15,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#9JYJPQY20",
+            "defenderTag": "#YJ8QUV0QY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 146
+          },
+          {
+            "attackerTag": "#9JYJPQY20",
+            "defenderTag": "#LRRCYRP8Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 124
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8PV2Y0JPV",
@@ -749,6 +783,16 @@
         "name": "Spider-Man",
         "townhallLevel": 15,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#G9Q9QURQ2",
+            "defenderTag": "#LG0L98JVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#P9RGRYC9",
@@ -836,6 +880,16 @@
         "name": "JoyBoy",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#2YYYY99QY",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 2,
+            "destructionPercentage": 54,
+            "order": 39,
+            "duration": 82
+          }
+        ],
         "opponentAttacks": 0
       },
       {
