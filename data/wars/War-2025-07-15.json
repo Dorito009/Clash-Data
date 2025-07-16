@@ -144,14 +144,14 @@
             "duration": 95
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LRV0L88PG",
+          "attackerTag": "#Q9UGCQCUC",
           "defenderTag": "#L9QP0YUC8",
           "stars": 2,
-          "destructionPercentage": 67,
-          "order": 2,
-          "duration": 118
+          "destructionPercentage": 89,
+          "order": 40,
+          "duration": 154
         }
       },
       {
@@ -454,14 +454,14 @@
         "name": "Tobo",
         "townhallLevel": 14,
         "mapPosition": 10,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LV9UU8CU8",
+          "attackerTag": "#Q9UGCQCUC",
           "defenderTag": "#99RCQLLCR",
-          "stars": 2,
-          "destructionPercentage": 77,
-          "order": 8,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 121
         }
       },
       {
@@ -515,9 +515,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/P3WsSQrXgVgRTuJHhgcXUkZyVeI4hHQJs90XIqg-xCg.png"
     },
     "clanLevel": 14,
-    "attacks": 26,
-    "stars": 59,
-    "destructionPercentage": 80.72,
+    "attacks": 28,
+    "stars": 60,
+    "destructionPercentage": 82.52,
     "members": [
       {
         "tag": "#P9VU8UQCJ",
@@ -955,6 +955,24 @@
         "name": "Dr Strange",
         "townhallLevel": 15,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#Q9UGCQCUC",
+            "defenderTag": "#L9QP0YUC8",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 40,
+            "duration": 154
+          },
+          {
+            "attackerTag": "#Q9UGCQCUC",
+            "defenderTag": "#99RCQLLCR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 0
       },
       {
