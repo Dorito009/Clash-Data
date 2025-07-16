@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 14,
-    "stars": 27,
-    "destructionPercentage": 39.96,
+    "attacks": 17,
+    "stars": 34,
+    "destructionPercentage": 47.88,
     "members": [
       {
         "tag": "#YGU8QQR0",
@@ -71,14 +71,32 @@
         "name": "Olizes",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 2,
+        "attacks": [
+          {
+            "attackerTag": "#YVPCR90PC",
+            "defenderTag": "#Q9UGCQCUC",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 44,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#YVPCR90PC",
+            "defenderTag": "#G9Y20J9P8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 136
+          }
+        ],
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#2YYYY99QY",
+          "attackerTag": "#2URV08YJ",
           "defenderTag": "#YVPCR90PC",
-          "stars": 2,
-          "destructionPercentage": 54,
-          "order": 39,
-          "duration": 82
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 75
         }
       },
       {
@@ -94,6 +112,14 @@
             "destructionPercentage": 100,
             "order": 12,
             "duration": 147
+          },
+          {
+            "attackerTag": "#YJ8QUV0QY",
+            "defenderTag": "#8020UVCJJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 171
           }
         ],
         "opponentAttacks": 1,
@@ -144,14 +170,14 @@
             "duration": 95
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#Q9UGCQCUC",
+          "attackerTag": "#2URV08YJ",
           "defenderTag": "#L9QP0YUC8",
-          "stars": 2,
-          "destructionPercentage": 89,
-          "order": 40,
-          "duration": 154
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 81
         }
       },
       {
@@ -523,9 +549,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/P3WsSQrXgVgRTuJHhgcXUkZyVeI4hHQJs90XIqg-xCg.png"
     },
     "clanLevel": 14,
-    "attacks": 29,
-    "stars": 60,
-    "destructionPercentage": 82.92,
+    "attacks": 31,
+    "stars": 62,
+    "destructionPercentage": 85.2,
     "members": [
       {
         "tag": "#P9VU8UQCJ",
@@ -606,6 +632,24 @@
         "name": "Iron Man",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2URV08YJ",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 75
+          },
+          {
+            "attackerTag": "#2URV08YJ",
+            "defenderTag": "#L9QP0YUC8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 81
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -956,14 +1000,14 @@
             "duration": 112
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#8PV2Y0JPV",
+          "attackerTag": "#YVPCR90PC",
           "defenderTag": "#G9Y20J9P8",
-          "stars": 1,
-          "destructionPercentage": 99,
-          "order": 42,
-          "duration": 163
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 136
         }
       },
       {
@@ -989,7 +1033,15 @@
             "duration": 121
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVPCR90PC",
+          "defenderTag": "#Q9UGCQCUC",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 44,
+          "duration": 180
+        }
       },
       {
         "tag": "#LRV0L88PG",
@@ -1039,7 +1091,15 @@
             "duration": 82
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJ8QUV0QY",
+          "defenderTag": "#8020UVCJJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 171
+        }
       },
       {
         "tag": "#88VJL0V0R",
