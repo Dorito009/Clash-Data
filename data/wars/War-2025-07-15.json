@@ -1,5 +1,5 @@
 {
-  "state": "inWar",
+  "state": "warEnded",
   "teamSize": 25,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,16 +15,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 31,
-    "stars": 68,
-    "destructionPercentage": 93.84,
+    "attacks": 32,
+    "stars": 69,
+    "destructionPercentage": 94.04,
     "members": [
       {
         "tag": "#YGU8QQR0",
         "name": "Tiago 007",
         "townhallLevel": 14,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CL28290G",
+          "defenderTag": "#YGU8QQR0",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 66,
+          "duration": 180
+        }
       },
       {
         "tag": "#88JUGLUL",
@@ -239,7 +247,7 @@
             "duration": 179
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G0YJVU8P9",
           "defenderTag": "#8LYGCV8LY",
@@ -537,6 +545,14 @@
             "destructionPercentage": 100,
             "order": 5,
             "duration": 117
+          },
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#P9VU8UQCJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 68,
+            "duration": 170
           }
         ],
         "opponentAttacks": 1,
@@ -681,9 +697,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/P3WsSQrXgVgRTuJHhgcXUkZyVeI4hHQJs90XIqg-xCg.png"
     },
     "clanLevel": 14,
-    "attacks": 34,
-    "stars": 64,
-    "destructionPercentage": 89.88,
+    "attacks": 36,
+    "stars": 66,
+    "destructionPercentage": 93.84,
     "members": [
       {
         "tag": "#P9VU8UQCJ",
@@ -700,14 +716,14 @@
             "duration": 112
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#JCGVYY8U",
+          "attackerTag": "#UVPQ9Y8U",
           "defenderTag": "#P9VU8UQCJ",
-          "stars": 2,
-          "destructionPercentage": 95,
-          "order": 54,
-          "duration": 85
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 68,
+          "duration": 170
         }
       },
       {
@@ -829,6 +845,24 @@
         "name": "MORDIS EL PRO\u263a",
         "townhallLevel": 14,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#CL28290G",
+            "defenderTag": "#YGU8QQR0",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 66,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#CL28290G",
+            "defenderTag": "#8LYGCV8LY",
+            "stars": 1,
+            "destructionPercentage": 68,
+            "order": 67,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PRUGPLRPG",
