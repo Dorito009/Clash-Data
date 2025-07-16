@@ -360,7 +360,15 @@
         "name": "milan",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#22U989CGG",
+          "defenderTag": "#G0LLY0JC0",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 32,
+          "duration": 96
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -467,9 +475,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/P3WsSQrXgVgRTuJHhgcXUkZyVeI4hHQJs90XIqg-xCg.png"
     },
     "clanLevel": 14,
-    "attacks": 18,
-    "stars": 41,
-    "destructionPercentage": 58.24,
+    "attacks": 19,
+    "stars": 43,
+    "destructionPercentage": 61.56,
     "members": [
       {
         "tag": "#P9VU8UQCJ",
@@ -793,6 +801,16 @@
         "name": "Alejandra~",
         "townhallLevel": 14,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#22U989CGG",
+            "defenderTag": "#G0LLY0JC0",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 32,
+            "duration": 96
+          }
+        ],
         "opponentAttacks": 0
       },
       {
