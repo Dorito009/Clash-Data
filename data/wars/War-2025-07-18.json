@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 25,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 4,
+    "stars": 8,
+    "destructionPercentage": 11.4,
     "members": [
       {
         "tag": "#YGU8QQR0",
@@ -38,13 +38,31 @@
         "name": "p.e.k.k.a",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2RQP8LYPG",
+          "defenderTag": "#JVURPLYR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 126
+        }
       },
       {
         "tag": "#YVPCR90PC",
         "name": "Olizes",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YVPCR90PC",
+            "defenderTag": "#Y2G2VRQY0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 163
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -87,6 +105,24 @@
         "name": "KoerpoerXD",
         "townhallLevel": 13,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#YQU8RLR8R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#QPGCL8CYC",
+            "defenderTag": "#9U0URL88R",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 4,
+            "duration": 92
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -178,6 +214,16 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 14,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#9U0URL88R",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 1,
+            "duration": 165
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -205,9 +251,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B6DnsWZo3jqVQ9p50TrNK0RAFWlGbTJrARGTpbpM5FY.png"
     },
     "clanLevel": 10,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 4.0,
     "members": [
       {
         "tag": "#20GVJCYPU",
@@ -256,7 +302,15 @@
         "name": "ARDI YAGESYA",
         "townhallLevel": 14,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPGCL8CYC",
+          "defenderTag": "#9U0URL88R",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 4,
+          "duration": 92
+        }
       },
       {
         "tag": "#YJGYJPJRU",
@@ -284,7 +338,15 @@
         "name": "(\u20acBabyJump\u20ac)",
         "townhallLevel": 12,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPGCL8CYC",
+          "defenderTag": "#YQU8RLR8R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 101
+        }
       },
       {
         "tag": "#PRJCCCCRJ",
@@ -333,6 +395,16 @@
         "name": "MUHARIEFS CN",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2RQP8LYPG",
+            "defenderTag": "#JVURPLYR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -361,7 +433,15 @@
         "name": "Maharaja",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVPCR90PC",
+          "defenderTag": "#Y2G2VRQY0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 163
+        }
       },
       {
         "tag": "#Y2J2Q99RJ",
