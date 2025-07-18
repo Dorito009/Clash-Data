@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 13,
-    "stars": 32,
-    "destructionPercentage": 43.96,
+    "attacks": 15,
+    "stars": 36,
+    "destructionPercentage": 49.28,
     "members": [
       {
         "tag": "#YGU8QQR0",
@@ -205,7 +205,15 @@
             "duration": 92
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LY0RCQCRR",
+          "defenderTag": "#QPGCL8CYC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 103
+        }
       },
       {
         "tag": "#YYUV9PP9P",
@@ -348,6 +356,24 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#2RQP8LYPG",
+            "stars": 2,
+            "destructionPercentage": 54,
+            "order": 38,
+            "duration": 78
+          },
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#Y20GJUGLP",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 39,
+            "duration": 88
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2RQP8LYPG",
@@ -413,14 +439,14 @@
         "name": "milan",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QURRGPC89",
+          "attackerTag": "#2VRYRGLPY",
           "defenderTag": "#G0LLY0JC0",
-          "stars": 2,
-          "destructionPercentage": 56,
-          "order": 17,
-          "duration": 97
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 37,
+          "duration": 151
         }
       },
       {
@@ -438,14 +464,14 @@
             "duration": 165
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Y2G2VRQY0",
+          "attackerTag": "#2VRYRGLPY",
           "defenderTag": "#UVPQ9Y8U",
-          "stars": 1,
-          "destructionPercentage": 66,
-          "order": 26,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 154
         }
       },
       {
@@ -481,9 +507,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B6DnsWZo3jqVQ9p50TrNK0RAFWlGbTJrARGTpbpM5FY.png"
     },
     "clanLevel": 10,
-    "attacks": 21,
-    "stars": 53,
-    "destructionPercentage": 72.76,
+    "attacks": 24,
+    "stars": 59,
+    "destructionPercentage": 79.88,
     "members": [
       {
         "tag": "#20GVJCYPU",
@@ -565,6 +591,16 @@
         "name": "LoWPrF",
         "townhallLevel": 13,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#LY0RCQCRR",
+            "defenderTag": "#QPGCL8CYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 103
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -769,7 +805,15 @@
         "name": "abimanyu",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCQ98GC88",
+          "defenderTag": "#Y20GJUGLP",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 39,
+          "duration": 88
+        }
       },
       {
         "tag": "#LRL0UCULV",
@@ -809,7 +853,15 @@
             "duration": 125
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCQ98GC88",
+          "defenderTag": "#2RQP8LYPG",
+          "stars": 2,
+          "destructionPercentage": 54,
+          "order": 38,
+          "duration": 78
+        }
       },
       {
         "tag": "#QU0JGVL2L",
@@ -841,6 +893,24 @@
         "name": "Galih",
         "townhallLevel": 14,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2VRYRGLPY",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 154
+          },
+          {
+            "attackerTag": "#2VRYRGLPY",
+            "defenderTag": "#G0LLY0JC0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 0
       },
       {
