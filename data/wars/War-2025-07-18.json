@@ -15,23 +15,39 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 7,
-    "stars": 17,
-    "destructionPercentage": 23.4,
+    "attacks": 8,
+    "stars": 18,
+    "destructionPercentage": 24.0,
     "members": [
       {
         "tag": "#YGU8QQR0",
         "name": "Tiago 007",
         "townhallLevel": 14,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QURRGPC89",
+          "defenderTag": "#YGU8QQR0",
+          "stars": 2,
+          "destructionPercentage": 60,
+          "order": 18,
+          "duration": 83
+        }
       },
       {
         "tag": "#P9RGRYC9",
         "name": "davidanemoon",
         "townhallLevel": 16,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QC9200V9J",
+          "defenderTag": "#P9RGRYC9",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 16,
+          "duration": 114
+        }
       },
       {
         "tag": "#JVURPLYR",
@@ -61,9 +77,25 @@
             "destructionPercentage": 100,
             "order": 5,
             "duration": 163
+          },
+          {
+            "attackerTag": "#YVPCR90PC",
+            "defenderTag": "#9U0URL88R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 135
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QG2V900QP",
+          "defenderTag": "#YVPCR90PC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 112
+        }
       },
       {
         "tag": "#YJ8QUV0QY",
@@ -253,7 +285,15 @@
         "name": "je_vader_045",
         "townhallLevel": 14,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QG2V900QP",
+          "defenderTag": "#LG0L98JVV",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 15,
+          "duration": 162
+        }
       },
       {
         "tag": "#9VLL0CLJP",
@@ -277,7 +317,15 @@
         "name": "milan",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QURRGPC89",
+          "defenderTag": "#G0LLY0JC0",
+          "stars": 2,
+          "destructionPercentage": 56,
+          "order": 17,
+          "duration": 97
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -321,9 +369,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B6DnsWZo3jqVQ9p50TrNK0RAFWlGbTJrARGTpbpM5FY.png"
     },
     "clanLevel": 10,
-    "attacks": 6,
-    "stars": 18,
-    "destructionPercentage": 24.0,
+    "attacks": 11,
+    "stars": 29,
+    "destructionPercentage": 39.36,
     "members": [
       {
         "tag": "#20GVJCYPU",
@@ -368,6 +416,24 @@
         "name": "anam1234",
         "townhallLevel": 14,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#QURRGPC89",
+            "defenderTag": "#G0LLY0JC0",
+            "stars": 2,
+            "destructionPercentage": 56,
+            "order": 17,
+            "duration": 97
+          },
+          {
+            "attackerTag": "#QURRGPC89",
+            "defenderTag": "#YGU8QQR0",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 18,
+            "duration": 83
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -382,14 +448,14 @@
         "name": "ARDI YAGESYA",
         "townhallLevel": 14,
         "mapPosition": 14,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#QPGCL8CYC",
+          "attackerTag": "#YVPCR90PC",
           "defenderTag": "#9U0URL88R",
-          "stars": 2,
-          "destructionPercentage": 85,
-          "order": 4,
-          "duration": 92
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 135
         }
       },
       {
@@ -447,6 +513,24 @@
         "name": "rezasman",
         "townhallLevel": 15,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QG2V900QP",
+            "defenderTag": "#YVPCR90PC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 112
+          },
+          {
+            "attackerTag": "#QG2V900QP",
+            "defenderTag": "#LG0L98JVV",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 15,
+            "duration": 162
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -548,6 +632,16 @@
         "name": "Mei Lien Merry\u2665",
         "townhallLevel": 16,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#QC9200V9J",
+            "defenderTag": "#P9RGRYC9",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 16,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9JQP9VUPY",
