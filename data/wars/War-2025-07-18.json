@@ -15,15 +15,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 19,
-    "stars": 47,
-    "destructionPercentage": 65.24,
+    "attacks": 21,
+    "stars": 51,
+    "destructionPercentage": 71.04,
     "members": [
       {
         "tag": "#YGU8QQR0",
         "name": "Tiago 007",
         "townhallLevel": 14,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#YGU8QQR0",
+            "defenderTag": "#Y2J2Q99RJ",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 44,
+            "duration": 92
+          },
+          {
+            "attackerTag": "#YGU8QQR0",
+            "defenderTag": "#LY0RCQCRR",
+            "stars": 2,
+            "destructionPercentage": 62,
+            "order": 45,
+            "duration": 57
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y2G2VRQY0",
@@ -635,7 +653,15 @@
             "duration": 103
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YGU8QQR0",
+          "defenderTag": "#LY0RCQCRR",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 45,
+          "duration": 57
+        }
       },
       {
         "tag": "#QURRGPC89",
@@ -1034,7 +1060,15 @@
         "name": "\u00a5 Venom \u00a5",
         "townhallLevel": 13,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YGU8QQR0",
+          "defenderTag": "#Y2J2Q99RJ",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 44,
+          "duration": 92
+        }
       },
       {
         "tag": "#QQP2L88C0",
