@@ -102,7 +102,15 @@
         "name": "daan",
         "townhallLevel": 14,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRJCCCCRJ",
+          "defenderTag": "#YJ8QUV0QY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 158
+        }
       },
       {
         "tag": "#RJJGCV0P",
@@ -249,7 +257,15 @@
         "name": "son of godd",
         "townhallLevel": 14,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#28LLVGCQL",
+          "defenderTag": "#VRY9GG0J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 126
+        }
       },
       {
         "tag": "#QY2PCRLPJ",
@@ -310,7 +326,15 @@
             "duration": 102
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#28LLVGCQL",
+          "defenderTag": "#9VLL0CLJP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "duration": 165
+        }
       },
       {
         "tag": "#G0LLY0JC0",
@@ -356,7 +380,15 @@
         "name": "Mauro",
         "townhallLevel": 14,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRJCCCCRJ",
+          "defenderTag": "#LRRCYRP8Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 136
+        }
       }
     ]
   },
@@ -369,9 +401,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B6DnsWZo3jqVQ9p50TrNK0RAFWlGbTJrARGTpbpM5FY.png"
     },
     "clanLevel": 10,
-    "attacks": 11,
-    "stars": 29,
-    "destructionPercentage": 39.36,
+    "attacks": 15,
+    "stars": 41,
+    "destructionPercentage": 55.36,
     "members": [
       {
         "tag": "#20GVJCYPU",
@@ -470,6 +502,24 @@
         "name": "saminista",
         "townhallLevel": 14,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#28LLVGCQL",
+            "defenderTag": "#9VLL0CLJP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 20,
+            "duration": 165
+          },
+          {
+            "attackerTag": "#28LLVGCQL",
+            "defenderTag": "#VRY9GG0J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -499,6 +549,24 @@
         "name": "\u221aCaptenOlenk",
         "townhallLevel": 14,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PRJCCCCRJ",
+            "defenderTag": "#YJ8QUV0QY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 158
+          },
+          {
+            "attackerTag": "#PRJCCCCRJ",
+            "defenderTag": "#LRRCYRP8Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 136
+          }
+        ],
         "opponentAttacks": 0
       },
       {
