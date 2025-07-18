@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 15,
-    "stars": 36,
-    "destructionPercentage": 49.28,
+    "attacks": 16,
+    "stars": 39,
+    "destructionPercentage": 53.28,
     "members": [
       {
         "tag": "#YGU8QQR0",
@@ -243,6 +243,14 @@
             "destructionPercentage": 100,
             "order": 13,
             "duration": 64
+          },
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#GRGYCJYGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 78
           }
         ],
         "opponentAttacks": 0
@@ -633,7 +641,15 @@
         "name": "titisanarief",
         "townhallLevel": 11,
         "mapPosition": 25,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0RUPY9YP",
+          "defenderTag": "#GRGYCJYGG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 78
+        }
       },
       {
         "tag": "#9U0URL88R",
