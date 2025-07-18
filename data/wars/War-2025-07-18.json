@@ -130,7 +130,15 @@
         "name": "BruceVDH",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QU0JGVL2L",
+          "defenderTag": "#YYUV9PP9P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 169
+        }
       },
       {
         "tag": "#Q0RUPY9YP",
@@ -144,14 +152,30 @@
         "name": "nout",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8PULJLQR2",
+          "defenderTag": "#Q02QCCRL8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 120
+        }
       },
       {
         "tag": "#PRUGPLRPG",
         "name": "Dorito_009",
         "townhallLevel": 14,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QU0JGVL2L",
+          "defenderTag": "#PRUGPLRPG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 128
+        }
       },
       {
         "tag": "#9JQP9VUPY",
@@ -251,9 +275,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B6DnsWZo3jqVQ9p50TrNK0RAFWlGbTJrARGTpbpM5FY.png"
     },
     "clanLevel": 10,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 4.0,
+    "attacks": 4,
+    "stars": 12,
+    "destructionPercentage": 16.0,
     "members": [
       {
         "tag": "#20GVJCYPU",
@@ -274,6 +298,16 @@
         "name": "fahrezanw",
         "townhallLevel": 13,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#8PULJLQR2",
+            "defenderTag": "#Q02QCCRL8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 120
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -412,6 +446,24 @@
         "name": "AKILA3",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#QU0JGVL2L",
+            "defenderTag": "#PRUGPLRPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 128
+          },
+          {
+            "attackerTag": "#QU0JGVL2L",
+            "defenderTag": "#YYUV9PP9P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 169
+          }
+        ],
         "opponentAttacks": 0
       },
       {
