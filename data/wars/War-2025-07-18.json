@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 21,
-    "stars": 51,
-    "destructionPercentage": 71.04,
+    "attacks": 22,
+    "stars": 53,
+    "destructionPercentage": 74.36,
     "members": [
       {
         "tag": "#YGU8QQR0",
@@ -135,7 +135,7 @@
         "name": "JortGVA",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y20GJUGLP",
           "defenderTag": "#RJJGCV0P",
@@ -450,7 +450,7 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2RQP8LYPG",
           "defenderTag": "#YCQ98GC88",
@@ -506,6 +506,14 @@
             "destructionPercentage": 100,
             "order": 12,
             "duration": 102
+          },
+          {
+            "attackerTag": "#9VLL0CLJP",
+            "defenderTag": "#8PULJLQR2",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 54,
+            "duration": 155
           }
         ],
         "opponentAttacks": 1,
@@ -599,7 +607,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B6DnsWZo3jqVQ9p50TrNK0RAFWlGbTJrARGTpbpM5FY.png"
     },
     "clanLevel": 10,
-    "attacks": 30,
+    "attacks": 32,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -676,7 +684,15 @@
             "duration": 120
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VLL0CLJP",
+          "defenderTag": "#8PULJLQR2",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 54,
+          "duration": 155
+        }
       },
       {
         "tag": "#LY0RCQCRR",
@@ -836,6 +852,24 @@
         "name": "(\u20acBabyJump\u20ac)",
         "townhallLevel": 12,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#YQU8RLR8R",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 1,
+            "destructionPercentage": 18,
+            "order": 52,
+            "duration": 20
+          },
+          {
+            "attackerTag": "#YQU8RLR8R",
+            "defenderTag": "#RJJGCV0P",
+            "stars": 1,
+            "destructionPercentage": 17,
+            "order": 53,
+            "duration": 31
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QPGCL8CYC",
