@@ -135,7 +135,15 @@
         "name": "JortGVA",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y20GJUGLP",
+          "defenderTag": "#RJJGCV0P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 106
+        }
       },
       {
         "tag": "#JCGVYY8U",
@@ -451,14 +459,14 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QG2V900QP",
+          "attackerTag": "#Y20GJUGLP",
           "defenderTag": "#LG0L98JVV",
-          "stars": 2,
-          "destructionPercentage": 97,
-          "order": 15,
-          "duration": 162
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 86
         }
       },
       {
@@ -559,9 +567,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B6DnsWZo3jqVQ9p50TrNK0RAFWlGbTJrARGTpbpM5FY.png"
     },
     "clanLevel": 10,
-    "attacks": 24,
-    "stars": 59,
-    "destructionPercentage": 79.88,
+    "attacks": 26,
+    "stars": 63,
+    "destructionPercentage": 84.0,
     "members": [
       {
         "tag": "#20GVJCYPU",
@@ -881,6 +889,24 @@
         "name": "abimanyu",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#Y20GJUGLP",
+            "defenderTag": "#RJJGCV0P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 106
+          },
+          {
+            "attackerTag": "#Y20GJUGLP",
+            "defenderTag": "#LG0L98JVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YCQ98GC88",
