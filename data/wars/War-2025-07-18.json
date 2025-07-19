@@ -1,5 +1,5 @@
 {
-  "state": "inWar",
+  "state": "warEnded",
   "teamSize": 25,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -450,7 +450,7 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#2RQP8LYPG",
           "defenderTag": "#YCQ98GC88",
@@ -483,7 +483,7 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#Y20GJUGLP",
           "defenderTag": "#LG0L98JVV",
@@ -607,7 +607,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B6DnsWZo3jqVQ9p50TrNK0RAFWlGbTJrARGTpbpM5FY.png"
     },
     "clanLevel": 10,
-    "attacks": 33,
+    "attacks": 35,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -958,6 +958,24 @@
         "name": "SHAKIRAH7",
         "townhallLevel": 14,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#GY99JPCQR",
+            "defenderTag": "#LG0L98JVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 56,
+            "duration": 167
+          },
+          {
+            "attackerTag": "#GY99JPCQR",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 50,
+            "order": 57,
+            "duration": 51
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q0RUPY9YP",
