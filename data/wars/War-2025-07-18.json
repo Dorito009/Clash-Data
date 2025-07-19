@@ -279,7 +279,15 @@
             "duration": 78
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LRL0UCULV",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 152
+        }
       },
       {
         "tag": "#Q02QCCRL8",
@@ -384,7 +392,15 @@
             "duration": 100
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJGYJPJRU",
+          "defenderTag": "#QY2PCRLPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 124
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -401,7 +417,15 @@
             "duration": 153
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LRL0UCULV",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 156
+        }
       },
       {
         "tag": "#YCQ98GC88",
@@ -539,7 +563,15 @@
         "name": "wasbakmonteu",
         "townhallLevel": 11,
         "mapPosition": 25,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJGYJPJRU",
+          "defenderTag": "#QU9LC8LCY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 107
+        }
       },
       {
         "tag": "#LRRCYRP8Q",
@@ -567,9 +599,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/B6DnsWZo3jqVQ9p50TrNK0RAFWlGbTJrARGTpbpM5FY.png"
     },
     "clanLevel": 10,
-    "attacks": 26,
-    "stars": 63,
-    "destructionPercentage": 84.0,
+    "attacks": 30,
+    "stars": 75,
+    "destructionPercentage": 100.0,
     "members": [
       {
         "tag": "#20GVJCYPU",
@@ -739,6 +771,24 @@
         "name": "SL'Mizou",
         "townhallLevel": 13,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#YJGYJPJRU",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 124
+          },
+          {
+            "attackerTag": "#YJGYJPJRU",
+            "defenderTag": "#QU9LC8LCY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 51,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -922,6 +972,24 @@
         "name": "ardi0223",
         "townhallLevel": 14,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#LRL0UCULV",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 156
+          },
+          {
+            "attackerTag": "#LRL0UCULV",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 152
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9VLL0CLJP",
