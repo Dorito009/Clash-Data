@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 375538,
+  "capitalTotalLoot": 394335,
   "raidsCompleted": 6,
-  "totalAttacks": 111,
-  "enemyDistrictsDestroyed": 34,
+  "totalAttacks": 117,
+  "enemyDistrictsDestroyed": 35,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -56,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 11220
+    },
+    {
+      "tag": "#YJ8QUV0QY",
+      "name": "daan",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18797
     },
     {
       "tag": "#JCGVYY8U",
@@ -1835,6 +1843,282 @@
                 "name": "Ms"
               },
               "destructionPercent": 56,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#P09CY08V",
+        "name": "IRANIAN HEROES",
+        "level": 23,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2ekn3r0o8o335VfysFD7Pv0JsWdrduGo3kUsM-ZxaCg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2ekn3r0o8o335VfysFD7Pv0JsWdrduGo3kUsM-ZxaCg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2ekn3r0o8o335VfysFD7Pv0JsWdrduGo3kUsM-ZxaCg.png"
+        }
+      },
+      "attackCount": 20,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13475,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QUPPLP0G9",
+                "name": "DEPRES"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QL9L9G2RQ",
+                "name": "\u0274\u026a\u0262\u029c\u1d1b \ua730\u1d1c\u0280\u028f"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QL9L9G2RQ",
+                "name": "\u0274\u026a\u0262\u029c\u1d1b \ua730\u1d1c\u0280\u028f"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QL9L9G2RQ",
+                "name": "\u0274\u026a\u0262\u029c\u1d1b \ua730\u1d1c\u0280\u028f"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10502,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QL9L9G2RQ",
+                "name": "\u0274\u026a\u0262\u029c\u1d1b \ua730\u1d1c\u0280\u028f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QUVVU088L",
+                "name": "xti_sabet"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8646,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QUVVU088L",
+                "name": "xti_sabet"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QUVVU088L",
+                "name": "xti_sabet"
+              },
+              "destructionPercent": 61,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9097,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QUVVU088L",
+                "name": "xti_sabet"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQJQ8UJUY",
+                "name": "Eagle"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9414,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QUVVU088L",
+                "name": "xti_sabet"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QUVVU088L",
+                "name": "xti_sabet"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8549,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QL9L9G2RQ",
+                "name": "\u0274\u026a\u0262\u029c\u1d1b \ua730\u1d1c\u0280\u028f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QL9L9G2RQ",
+                "name": "\u0274\u026a\u0262\u029c\u1d1b \ua730\u1d1c\u0280\u028f"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9141,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQJQ8UJUY",
+                "name": "Eagle"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQJQ8UJUY",
+                "name": "Eagle"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9315,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQJQ8UJUY",
+                "name": "Eagle"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQJQ8UJUY",
+                "name": "Eagle"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6795,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQJQ8UJUY",
+                "name": "Eagle"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JUYP2Y0Y",
+                "name": "D\u00c2R\u049a\u2667\u2664P\u0126\u053e\u0404\u0418\u012aX"
+              },
+              "destructionPercent": 82,
               "stars": 2
             }
           ]
