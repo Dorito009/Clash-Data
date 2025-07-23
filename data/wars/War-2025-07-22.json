@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 3,
-    "stars": 8,
-    "destructionPercentage": 27.7,
+    "attacks": 6,
+    "stars": 17,
+    "destructionPercentage": 57.7,
     "members": [
       {
         "tag": "#JCGVYY8U",
         "name": "de skelet boys",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#YC092UUPQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#98VRQLVY2",
@@ -150,6 +160,24 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#29CGYVLJ9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 124
+          },
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#98VRQLVY2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 90
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q0GCYYJ0R",
@@ -195,7 +223,15 @@
         "name": "belal",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#29CGYVLJ9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 124
+        }
       },
       {
         "tag": "#2GUGCL2J",
@@ -252,7 +288,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#98VRQLVY2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 90
+        }
       },
       {
         "tag": "#99Y9Q8JPU",
@@ -354,7 +398,15 @@
         "name": "sanjoy",
         "townhallLevel": 12,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#YC092UUPQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 118
+        }
       }
     ]
   }
