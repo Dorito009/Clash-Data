@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 12,
+    "attacks": 14,
     "stars": 29,
     "destructionPercentage": 99.2,
     "members": [
@@ -90,6 +90,14 @@
             "destructionPercentage": 100,
             "order": 9,
             "duration": 99
+          },
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#YC092UUPQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 25,
+            "duration": 80
           }
         ],
         "opponentAttacks": 2,
@@ -195,6 +203,14 @@
             "destructionPercentage": 100,
             "order": 6,
             "duration": 149
+          },
+          {
+            "attackerTag": "#9VLL0CLJP",
+            "defenderTag": "#2QR9QGVG",
+            "stars": 1,
+            "destructionPercentage": 36,
+            "order": 26,
+            "duration": 97
           }
         ],
         "opponentAttacks": 2,
@@ -437,7 +453,7 @@
         "name": "SEAKER\u2713",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9JQP9VUPY",
           "defenderTag": "#2QR9QGVG",
@@ -536,7 +552,7 @@
             "duration": 94
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#JCGVYY8U",
           "defenderTag": "#YC092UUPQ",
