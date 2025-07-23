@@ -15,16 +15,16 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 17.7,
+    "attacks": 3,
+    "stars": 8,
+    "destructionPercentage": 27.7,
     "members": [
       {
         "tag": "#JCGVYY8U",
         "name": "de skelet boys",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#98VRQLVY2",
           "defenderTag": "#JCGVYY8U",
@@ -54,6 +54,16 @@
         "name": "jermo",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#QRLRYY980",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 99
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -140,7 +150,15 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0GCYYJ0R",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 1,
+          "destructionPercentage": 61,
+          "order": 10,
+          "duration": 130
+        }
       },
       {
         "tag": "#99RCQLLCR",
@@ -168,9 +186,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/M5wHg2sRlQrGRnP0HT2UL9h28HERmqK_tqnG66q7X9A.png"
     },
     "clanLevel": 10,
-    "attacks": 6,
-    "stars": 13,
-    "destructionPercentage": 55.1,
+    "attacks": 8,
+    "stars": 14,
+    "destructionPercentage": 61.2,
     "members": [
       {
         "tag": "#29CGYVLJ9",
@@ -256,7 +274,15 @@
         "name": "\u00c4L\u00c4S",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0RUPY9YP",
+          "defenderTag": "#QRLRYY980",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 99
+        }
       },
       {
         "tag": "#2QR9QGVG",
@@ -270,6 +296,24 @@
         "name": "macheyne",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#Q0GCYYJ0R",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 1,
+            "destructionPercentage": 61,
+            "order": 10,
+            "duration": 130
+          },
+          {
+            "attackerTag": "#Q0GCYYJ0R",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 1,
+            "destructionPercentage": 58,
+            "order": 11,
+            "duration": 132
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PCP89Q20Q",
