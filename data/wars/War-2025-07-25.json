@@ -31,7 +31,15 @@
         "name": "de skelet boys",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9R8PR29R",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 139
+        }
       },
       {
         "tag": "#Q0RUPY9YP",
@@ -116,7 +124,15 @@
             "duration": 109
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9R8PR29R",
+          "defenderTag": "#G0LLY0JC0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 131
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -144,9 +160,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/XSAwkJxMU_eVL7Gxdjn1Dr9IPIwSTp0Xcv9BIFMXqs0.png"
     },
     "clanLevel": 11,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 19.0,
+    "attacks": 4,
+    "stars": 11,
+    "destructionPercentage": 39.0,
     "members": [
       {
         "tag": "#LJ9GJYLGQ",
@@ -174,6 +190,24 @@
         "name": "Pedro Jorge 2.2",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#9R8PR29R",
+            "defenderTag": "#G0LLY0JC0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 131
+          },
+          {
+            "attackerTag": "#9R8PR29R",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 139
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y8LVCLUP2",
