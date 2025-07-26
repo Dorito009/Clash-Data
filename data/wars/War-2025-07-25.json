@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 8.3,
     "members": [
       {
         "tag": "#YJ8QUV0QY",
@@ -80,6 +80,16 @@
         "name": "milan",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#G0LLY0JC0",
+            "defenderTag": "#9R8PR29R",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 1,
+            "duration": 109
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -130,7 +140,15 @@
         "name": "Pedro Jorge 2.2",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G0LLY0JC0",
+          "defenderTag": "#9R8PR29R",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 1,
+          "duration": 109
+        }
       },
       {
         "tag": "#920JYUCC2",
