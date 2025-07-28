@@ -2374,10 +2374,10 @@
       "townHallLevel": 14,
       "townHallWeaponLevel": 5,
       "expLevel": 167,
-      "trophies": 4536,
+      "trophies": 4580,
       "bestTrophies": 4982,
       "warStars": 599,
-      "attackWins": 0,
+      "attackWins": 3,
       "defenseWins": 0,
       "builderHallLevel": 9,
       "builderBaseTrophies": 2541,
@@ -2387,7 +2387,15 @@
       "donations": 0,
       "donationsReceived": 0,
       "clanCapitalContributions": 964612,
-      "league": 0
+      "league": {
+        "id": 29000020,
+        "name": "Titan League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
+        }
+      }
     }
   }
 }
