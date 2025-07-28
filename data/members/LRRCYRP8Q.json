@@ -411,10 +411,10 @@
       "townHallLevel": 14,
       "townHallWeaponLevel": 5,
       "expLevel": 156,
-      "trophies": 4078,
+      "trophies": 4089,
       "bestTrophies": 4540,
       "warStars": 197,
-      "attackWins": 0,
+      "attackWins": 11,
       "defenseWins": 0,
       "builderHallLevel": 9,
       "builderBaseTrophies": 2456,
@@ -424,7 +424,15 @@
       "donations": 0,
       "donationsReceived": 0,
       "clanCapitalContributions": 751664,
-      "league": 0
+      "league": {
+        "id": 29000018,
+        "name": "Champion League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png"
+        }
+      }
     }
   }
 }
