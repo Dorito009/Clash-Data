@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 38.2,
+    "attacks": 3,
+    "stars": 7,
+    "destructionPercentage": 56.2,
     "members": [
       {
         "tag": "#JCGVYY8U",
@@ -56,6 +56,16 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#LUV2CPQYY",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 5,
+            "duration": 171
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -174,7 +184,15 @@
         "name": "Qumar",
         "townhallLevel": 15,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCQ98GC88",
+          "defenderTag": "#LUV2CPQYY",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 5,
+          "duration": 171
+        }
       }
     ]
   }
