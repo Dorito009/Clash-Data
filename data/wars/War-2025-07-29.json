@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 4,
-    "stars": 9,
-    "destructionPercentage": 71.4,
+    "attacks": 5,
+    "stars": 12,
+    "destructionPercentage": 91.4,
     "members": [
       {
         "tag": "#JCGVYY8U",
@@ -82,7 +82,15 @@
             "duration": 142
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#808PPYVRJ",
+          "defenderTag": "#YCQ98GC88",
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 10,
+          "duration": 68
+        }
       },
       {
         "tag": "#LJ2J8QRPJ",
@@ -112,9 +120,25 @@
             "destructionPercentage": 91,
             "order": 4,
             "duration": 180
+          },
+          {
+            "attackerTag": "#9VLL0CLJP",
+            "defenderTag": "#2JLVRJQPU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 109
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JLVRJQPU",
+          "defenderTag": "#9VLL0CLJP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 166
+        }
       }
     ]
   },
@@ -127,9 +151,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/V7cmoSctput0BqPFryJVsEGqV96Wgit9Zx_II4GcatU.png"
     },
     "clanLevel": 26,
-    "attacks": 3,
-    "stars": 9,
-    "destructionPercentage": 60.0,
+    "attacks": 5,
+    "stars": 14,
+    "destructionPercentage": 93.0,
     "members": [
       {
         "tag": "#YJ0LLJRLL",
@@ -169,15 +193,41 @@
             "destructionPercentage": 100,
             "order": 6,
             "duration": 124
+          },
+          {
+            "attackerTag": "#2JLVRJQPU",
+            "defenderTag": "#9VLL0CLJP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 166
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VLL0CLJP",
+          "defenderTag": "#2JLVRJQPU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 109
+        }
       },
       {
         "tag": "#808PPYVRJ",
         "name": "Brekker",
         "townhallLevel": 14,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#808PPYVRJ",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 10,
+            "duration": 68
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9VLL0CLJP",
