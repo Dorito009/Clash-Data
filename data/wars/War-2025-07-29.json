@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 5,
+    "attacks": 7,
     "stars": 12,
-    "destructionPercentage": 91.4,
+    "destructionPercentage": 94.0,
     "members": [
       {
         "tag": "#JCGVYY8U",
@@ -97,6 +97,24 @@
         "name": "FabianBawz",
         "townhallLevel": 14,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#808PPYVRJ",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 11,
+            "duration": 138
+          },
+          {
+            "attackerTag": "#LJ2J8QRPJ",
+            "defenderTag": "#9GJCRJVRY",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 12,
+            "duration": 175
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9GJCRJVRY",
@@ -228,7 +246,7 @@
             "duration": 68
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9VLL0CLJP",
           "defenderTag": "#808PPYVRJ",
@@ -253,14 +271,14 @@
             "duration": 121
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YCQ98GC88",
+          "attackerTag": "#LJ2J8QRPJ",
           "defenderTag": "#9GJCRJVRY",
           "stars": 2,
-          "destructionPercentage": 76,
-          "order": 7,
-          "duration": 142
+          "destructionPercentage": 89,
+          "order": 12,
+          "duration": 175
         }
       },
       {
