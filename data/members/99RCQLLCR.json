@@ -2296,7 +2296,7 @@
       "townHallLevel": 14,
       "townHallWeaponLevel": 5,
       "expLevel": 199,
-      "trophies": 4303,
+      "trophies": 4315,
       "bestTrophies": 5021,
       "warStars": 1860,
       "attackWins": 0,
@@ -2309,7 +2309,15 @@
       "donations": 0,
       "donationsReceived": 0,
       "clanCapitalContributions": 1124088,
-      "league": 0
+      "league": {
+        "id": 29000019,
+        "name": "Titan League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png"
+        }
+      }
     }
   }
 }
