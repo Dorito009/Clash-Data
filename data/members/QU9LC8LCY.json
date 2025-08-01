@@ -2754,7 +2754,7 @@
       "townHallLevel": 11,
       "townHallWeaponLevel": 0,
       "expLevel": 87,
-      "trophies": 1886,
+      "trophies": 1890,
       "bestTrophies": 1896,
       "warStars": 5,
       "attackWins": 0,
@@ -2767,7 +2767,15 @@
       "donations": 0,
       "donationsReceived": 0,
       "clanCapitalContributions": 343063,
-      "league": 0
+      "league": {
+        "id": 29000009,
+        "name": "Gold League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+        }
+      }
     }
   }
 }
