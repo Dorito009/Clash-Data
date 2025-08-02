@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
-  "capitalTotalLoot": 418496,
+  "capitalTotalLoot": 434311,
   "raidsCompleted": 6,
-  "totalAttacks": 121,
-  "enemyDistrictsDestroyed": 38,
+  "totalAttacks": 127,
+  "enemyDistrictsDestroyed": 39,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -184,6 +184,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 24785
+    },
+    {
+      "tag": "#9CCVPU9RU",
+      "name": "Bassie",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15815
     }
   ],
   "attackLog": [
@@ -1820,6 +1828,290 @@
               },
               "destructionPercent": 94,
               "stars": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#2028QLVGY",
+        "name": "GUJARAT LIONS",
+        "level": 23,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/RVuOx6jPPHomGpbUWvPmyQZTcCQkzt_zi2bM0U-hVmI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/RVuOx6jPPHomGpbUWvPmyQZTcCQkzt_zi2bM0U-hVmI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/RVuOx6jPPHomGpbUWvPmyQZTcCQkzt_zi2bM0U-hVmI.png"
+        }
+      },
+      "attackCount": 21,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13406,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RGCQ8QVL",
+                "name": "Rasik"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#RGCQ8QVL",
+                "name": "Rasik"
+              },
+              "destructionPercent": 95,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#RGCQ8QVL",
+                "name": "Rasik"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#RGCQ8QVL",
+                "name": "Rasik"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11060,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGPUP8Y8V",
+                "name": "jnd khan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#92Q8YQLQG",
+                "name": "Yogesh"
+              },
+              "destructionPercent": 93,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QLRYVGLGJ",
+                "name": "Kim Teahyng BTS"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8763,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QJU800RRJ",
+                "name": "SAVAN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QJU800RRJ",
+                "name": "SAVAN"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9392,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QJU800RRJ",
+                "name": "SAVAN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QJU800RRJ",
+                "name": "SAVAN"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9357,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#92Q8YQLQG",
+                "name": "Yogesh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#92Q8YQLQG",
+                "name": "Yogesh"
+              },
+              "destructionPercent": 37,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8573,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2Q992Q2LQ",
+                "name": "PRANAV AMIN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2Q992Q2LQ",
+                "name": "PRANAV AMIN"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9324,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QJU800RRJ",
+                "name": "SAVAN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QJU800RRJ",
+                "name": "SAVAN"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9381,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLRYVGLGJ",
+                "name": "Kim Teahyng BTS"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QLRYVGLGJ",
+                "name": "Kim Teahyng BTS"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6842,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGPUP8Y8V",
+                "name": "jnd khan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#92Q8YQLQG",
+                "name": "Yogesh"
+              },
+              "destructionPercent": 95,
+              "stars": 2
             }
           ]
         }
