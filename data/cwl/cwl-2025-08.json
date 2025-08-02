@@ -21,9 +21,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/xHulI0FD-dlSfamUXIhNPejP7ddYJA7XAnj9-WTREtI.png"
         },
         "clanLevel": 25,
-        "attacks": 2,
-        "stars": 6,
-        "destructionPercentage": 13.333333333333334,
+        "attacks": 4,
+        "stars": 12,
+        "destructionPercentage": 26.666666666666668,
         "members": [
           {
             "tag": "#2QJLULR2",
@@ -82,6 +82,16 @@
             "name": "Asphyxia",
             "townhallLevel": 17,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#P0CUP80PP",
+                "defenderTag": "#9JQP9VUPY",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 3,
+                "duration": 158
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -124,6 +134,16 @@
             "name": "TheQuizWhiz",
             "townhallLevel": 13,
             "mapPosition": 25,
+            "attacks": [
+              {
+                "attackerTag": "#GLRPRUU8P",
+                "defenderTag": "#JCGVYY8U",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 5,
+                "duration": 152
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -141,7 +161,15 @@
                 "duration": 165
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YCQ98GC88",
+              "defenderTag": "#90U0JCUJ9",
+              "stars": 2,
+              "destructionPercentage": 59,
+              "order": 4,
+              "duration": 110
+            }
           },
           {
             "tag": "#2G0RR80QQ",
@@ -161,9 +189,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 2,
+        "destructionPercentage": 3.933333333333333,
         "members": [
           {
             "tag": "#GQYQ92VLL",
@@ -177,7 +205,15 @@
             "name": "de skelet boys",
             "townhallLevel": 13,
             "mapPosition": 38,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GLRPRUU8P",
+              "defenderTag": "#JCGVYY8U",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 5,
+              "duration": 152
+            }
           },
           {
             "tag": "#2QPGRGG9J",
@@ -233,13 +269,31 @@
             "name": "123lucas123",
             "townhallLevel": 16,
             "mapPosition": 4,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#P0CUP80PP",
+              "defenderTag": "#9JQP9VUPY",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 3,
+              "duration": 158
+            }
           },
           {
             "tag": "#YCQ98GC88",
             "name": "Peter Pannekoek",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#YCQ98GC88",
+                "defenderTag": "#90U0JCUJ9",
+                "stars": 2,
+                "destructionPercentage": 59,
+                "order": 4,
+                "duration": 110
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#90U0JCUJ9",
@@ -563,9 +617,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png"
           },
-          "stars": 9,
-          "attacks": 3,
-          "destructionPercentage": 20.0
+          "stars": 20,
+          "attacks": 8,
+          "destructionPercentage": 47.46666666666667
         }
       },
       {
@@ -605,9 +659,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/xHulI0FD-dlSfamUXIhNPejP7ddYJA7XAnj9-WTREtI.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/xHulI0FD-dlSfamUXIhNPejP7ddYJA7XAnj9-WTREtI.png"
           },
-          "stars": 6,
-          "attacks": 2,
-          "destructionPercentage": 13.333333333333334
+          "stars": 12,
+          "attacks": 4,
+          "destructionPercentage": 26.666666666666668
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -617,9 +671,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 2,
+          "attacks": 1,
+          "destructionPercentage": 3.933333333333333
         }
       },
       {
@@ -644,9 +698,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Tc2TsQ1QihlGUSHgTR0HUQhXgANo0lanqf5rMJx0nqA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Tc2TsQ1QihlGUSHgTR0HUQhXgANo0lanqf5rMJx0nqA.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 2,
+          "attacks": 1,
+          "destructionPercentage": 4.133333333333334
         }
       }
     ],
