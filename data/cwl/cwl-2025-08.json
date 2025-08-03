@@ -883,14 +883,30 @@
                 "duration": 91
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LRRCYRP8Q",
+              "defenderTag": "#2CV28QVR2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 13,
+              "duration": 118
+            }
           },
           {
             "tag": "#LVUUGRRLU",
             "name": "kiko",
             "townhallLevel": 15,
             "mapPosition": 11,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#99RCQLLCR",
+              "defenderTag": "#LVUUGRRLU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 12,
+              "duration": 86
+            }
           },
           {
             "tag": "#G29ULURCJ",
@@ -959,7 +975,15 @@
             "name": "kaka",
             "townhallLevel": 15,
             "mapPosition": 9,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LJ2J8QRPJ",
+              "defenderTag": "#8J8VYLGV9",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 14,
+              "duration": 156
+            }
           }
         ]
       },
@@ -972,9 +996,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 7,
-        "stars": 18,
-        "destructionPercentage": 45.0,
+        "attacks": 10,
+        "stars": 27,
+        "destructionPercentage": 65.0,
         "members": [
           {
             "tag": "#GQYQ92VLL",
@@ -1160,6 +1184,16 @@
             "name": "FabianBawz",
             "townhallLevel": 14,
             "mapPosition": 16,
+            "attacks": [
+              {
+                "attackerTag": "#LJ2J8QRPJ",
+                "defenderTag": "#8J8VYLGV9",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 14,
+                "duration": 156
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1174,6 +1208,16 @@
             "name": "Tobo",
             "townhallLevel": 14,
             "mapPosition": 19,
+            "attacks": [
+              {
+                "attackerTag": "#99RCQLLCR",
+                "defenderTag": "#LVUUGRRLU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 12,
+                "duration": 86
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1181,6 +1225,16 @@
             "name": "Mauro",
             "townhallLevel": 14,
             "mapPosition": 18,
+            "attacks": [
+              {
+                "attackerTag": "#LRRCYRP8Q",
+                "defenderTag": "#2CV28QVR2",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 13,
+                "duration": 118
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -1597,9 +1651,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 18,
-          "attacks": 7,
-          "destructionPercentage": 45.0
+          "stars": 27,
+          "attacks": 10,
+          "destructionPercentage": 65.0
         }
       },
       {
