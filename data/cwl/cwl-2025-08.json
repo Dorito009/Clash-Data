@@ -794,14 +794,30 @@
             "name": "kaki",
             "townhallLevel": 14,
             "mapPosition": 15,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2QPGRGG9J",
+              "defenderTag": "#LUP290CCL",
+              "stars": 2,
+              "destructionPercentage": 87,
+              "order": 5,
+              "duration": 124
+            }
           },
           {
             "tag": "#Q9PUJ28PU",
             "name": "kiki",
             "townhallLevel": 15,
             "mapPosition": 13,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8LYGCV8LY",
+              "defenderTag": "#Q9PUJ28PU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 4,
+              "duration": 152
+            }
           },
           {
             "tag": "#GQ9GQLCVP",
@@ -843,7 +859,15 @@
             "name": "dhany",
             "townhallLevel": 12,
             "mapPosition": 22,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#JCGVYY8U",
+              "defenderTag": "#G29ULURCJ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 3,
+              "duration": 146
+            }
           },
           {
             "tag": "#YRURR9VPG",
@@ -894,9 +918,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 1,
-        "stars": 3,
-        "destructionPercentage": 6.666666666666667,
+        "attacks": 4,
+        "stars": 11,
+        "destructionPercentage": 25.8,
         "members": [
           {
             "tag": "#GQYQ92VLL",
@@ -910,6 +934,16 @@
             "name": "de skelet boys",
             "townhallLevel": 13,
             "mapPosition": 38,
+            "attacks": [
+              {
+                "attackerTag": "#JCGVYY8U",
+                "defenderTag": "#G29ULURCJ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 3,
+                "duration": 146
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -917,6 +951,16 @@
             "name": "JoeyvGils",
             "townhallLevel": 14,
             "mapPosition": 36,
+            "attacks": [
+              {
+                "attackerTag": "#2QPGRGG9J",
+                "defenderTag": "#LUP290CCL",
+                "stars": 2,
+                "destructionPercentage": 87,
+                "order": 5,
+                "duration": 124
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -931,6 +975,16 @@
             "name": "Florimannn",
             "townhallLevel": 14,
             "mapPosition": 35,
+            "attacks": [
+              {
+                "attackerTag": "#8LYGCV8LY",
+                "defenderTag": "#Q9PUJ28PU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 4,
+                "duration": 152
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1165,6 +1219,13 @@
         "destructionPercentage": 0.0,
         "members": [
           {
+            "tag": "#YG0R280U2",
+            "name": "das",
+            "townhallLevel": 14,
+            "mapPosition": 37,
+            "opponentAttacks": 0
+          },
+          {
             "tag": "#Y0PL2PUUG",
             "name": "Secan1987",
             "townhallLevel": 15,
@@ -1211,13 +1272,6 @@
             "name": "huele tanguetas",
             "townhallLevel": 13,
             "mapPosition": 49,
-            "opponentAttacks": 0
-          },
-          {
-            "tag": "#9YJ2P8GJ0",
-            "name": "sspac",
-            "townhallLevel": 14,
-            "mapPosition": 44,
             "opponentAttacks": 0
           },
           {
@@ -1396,9 +1450,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/xHulI0FD-dlSfamUXIhNPejP7ddYJA7XAnj9-WTREtI.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/xHulI0FD-dlSfamUXIhNPejP7ddYJA7XAnj9-WTREtI.png"
           },
-          "stars": 17,
-          "attacks": 6,
-          "destructionPercentage": 38.13333333333333
+          "stars": 24,
+          "attacks": 9,
+          "destructionPercentage": 55.8
         },
         "clan2": {
           "tag": "#Q2YU9CUU",
@@ -1435,9 +1489,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 11,
+          "attacks": 4,
+          "destructionPercentage": 25.8
         }
       },
       {
@@ -1462,9 +1516,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/OF08N7zUa_f5aEaVO0tzP18YIBNwhq0ydbu-Oz29_Mg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/OF08N7zUa_f5aEaVO0tzP18YIBNwhq0ydbu-Oz29_Mg.png"
           },
-          "stars": 16,
-          "attacks": 7,
-          "destructionPercentage": 38.666666666666664
+          "stars": 21,
+          "attacks": 9,
+          "destructionPercentage": 51.266666666666666
         }
       },
       {
@@ -1489,9 +1543,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Tc2TsQ1QihlGUSHgTR0HUQhXgANo0lanqf5rMJx0nqA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Tc2TsQ1QihlGUSHgTR0HUQhXgANo0lanqf5rMJx0nqA.png"
           },
-          "stars": 15,
-          "attacks": 6,
-          "destructionPercentage": 36.06666666666667
+          "stars": 18,
+          "attacks": 7,
+          "destructionPercentage": 42.733333333333334
         }
       }
     ],
