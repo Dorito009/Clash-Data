@@ -742,7 +742,7 @@
       "warStartTime": "20250802T081047.000Z"
     },
     {
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "preparationStartTime": "20250802T081235.000Z",
       "startTime": "20250803T081233.000Z",
@@ -1494,7 +1494,7 @@
       "warStartTime": "20250803T081233.000Z"
     },
     {
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "preparationStartTime": "20250803T082323.000Z",
       "startTime": "20250804T082313.000Z",
@@ -1931,7 +1931,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/OF08N7zUa_f5aEaVO0tzP18YIBNwhq0ydbu-Oz29_Mg.png"
           },
           "stars": 29,
-          "attacks": 14,
+          "attacks": 15,
           "destructionPercentage": 78.33333333333333
         }
       },
