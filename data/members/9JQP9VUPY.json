@@ -2834,10 +2834,10 @@
     "2025-08-04": {
       "townHallLevel": 16,
       "townHallWeaponLevel": 1,
-      "expLevel": 195,
-      "trophies": 4870,
+      "expLevel": 196,
+      "trophies": 4885,
       "bestTrophies": 5159,
-      "warStars": 943,
+      "warStars": 945,
       "attackWins": 0,
       "defenseWins": 0,
       "builderHallLevel": 10,
@@ -2848,7 +2848,15 @@
       "donations": 48,
       "donationsReceived": 106,
       "clanCapitalContributions": 1820570,
-      "league": 0
+      "league": {
+        "id": 29000021,
+        "name": "Titan League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+        }
+      }
     }
   }
 }
