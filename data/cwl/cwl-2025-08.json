@@ -756,9 +756,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/qbHnlIpr0P5l-sPf0Yz4JStsmgdx-LbHWL1ByARoT64.png"
         },
         "clanLevel": 14,
-        "attacks": 14,
-        "stars": 40,
-        "destructionPercentage": 88.4,
+        "attacks": 15,
+        "stars": 42,
+        "destructionPercentage": 93.2,
         "members": [
           {
             "tag": "#GQ2VPQ880",
@@ -909,7 +909,15 @@
                 "duration": 117
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q0RUPY9YP",
+              "defenderTag": "#80C2G2RQJ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 26,
+              "duration": 108
+            }
           },
           {
             "tag": "#Q98J99QV0",
@@ -991,6 +999,16 @@
             "name": "dhany",
             "townhallLevel": 12,
             "mapPosition": 22,
+            "attacks": [
+              {
+                "attackerTag": "#G29ULURCJ",
+                "defenderTag": "#JCGVYY8U",
+                "stars": 2,
+                "destructionPercentage": 72,
+                "order": 27,
+                "duration": 131
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#JCGVYY8U",
@@ -1104,9 +1122,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 11,
-        "stars": 30,
-        "destructionPercentage": 71.66666666666667,
+        "attacks": 12,
+        "stars": 33,
+        "destructionPercentage": 78.33333333333333,
         "members": [
           {
             "tag": "#GQYQ92VLL",
@@ -1148,7 +1166,15 @@
                 "duration": 146
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G29ULURCJ",
+              "defenderTag": "#JCGVYY8U",
+              "stars": 2,
+              "destructionPercentage": 72,
+              "order": 27,
+              "duration": 131
+            }
           },
           {
             "tag": "#2QPGRGG9J",
@@ -1235,6 +1261,16 @@
             "name": "jermo",
             "townhallLevel": 14,
             "mapPosition": 37,
+            "attacks": [
+              {
+                "attackerTag": "#Q0RUPY9YP",
+                "defenderTag": "#80C2G2RQJ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 26,
+                "duration": 108
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#80C2G2RQJ",
@@ -1837,9 +1873,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/qbHnlIpr0P5l-sPf0Yz4JStsmgdx-LbHWL1ByARoT64.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/qbHnlIpr0P5l-sPf0Yz4JStsmgdx-LbHWL1ByARoT64.png"
           },
-          "stars": 40,
-          "attacks": 14,
-          "destructionPercentage": 88.4
+          "stars": 42,
+          "attacks": 15,
+          "destructionPercentage": 93.2
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -1849,9 +1885,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 30,
-          "attacks": 11,
-          "destructionPercentage": 71.66666666666667
+          "stars": 33,
+          "attacks": 12,
+          "destructionPercentage": 78.33333333333333
         }
       },
       {
