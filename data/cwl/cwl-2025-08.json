@@ -2305,7 +2305,15 @@
                 "duration": 112
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9VLL0CLJP",
+              "defenderTag": "#Q99LGVCPR",
+              "stars": 1,
+              "destructionPercentage": 46,
+              "order": 24,
+              "duration": 116
+            }
           },
           {
             "tag": "#LVCU00VL9",
@@ -2574,9 +2582,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 10,
-        "stars": 22,
-        "destructionPercentage": 56.2,
+        "attacks": 11,
+        "stars": 23,
+        "destructionPercentage": 59.266666666666666,
         "members": [
           {
             "tag": "#LJU2P9CL2",
@@ -2812,6 +2820,16 @@
             "name": "Jipperish",
             "townhallLevel": 15,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#9VLL0CLJP",
+                "defenderTag": "#Q99LGVCPR",
+                "stars": 1,
+                "destructionPercentage": 46,
+                "order": 24,
+                "duration": 116
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#Q99LGVCPR",
@@ -3521,9 +3539,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Tc2TsQ1QihlGUSHgTR0HUQhXgANo0lanqf5rMJx0nqA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Tc2TsQ1QihlGUSHgTR0HUQhXgANo0lanqf5rMJx0nqA.png"
           },
-          "stars": 31,
-          "attacks": 11,
-          "destructionPercentage": 72.33333333333333
+          "stars": 34,
+          "attacks": 12,
+          "destructionPercentage": 79.0
         }
       },
       {
@@ -3575,9 +3593,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 22,
-          "attacks": 10,
-          "destructionPercentage": 56.2
+          "stars": 23,
+          "attacks": 11,
+          "destructionPercentage": 59.266666666666666
         }
       }
     ],
