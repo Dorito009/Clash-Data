@@ -2244,9 +2244,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png"
         },
         "clanLevel": 18,
-        "attacks": 14,
-        "stars": 38,
-        "destructionPercentage": 84.4,
+        "attacks": 15,
+        "stars": 41,
+        "destructionPercentage": 91.06666666666666,
         "members": [
           {
             "tag": "#92PLU0VJ8",
@@ -2413,7 +2413,15 @@
                 "duration": 118
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PRUGPLRPG",
+              "defenderTag": "#98UL88G9V",
+              "stars": 2,
+              "destructionPercentage": 54,
+              "order": 30,
+              "duration": 112
+            }
           },
           {
             "tag": "#9GP9LCU29",
@@ -2445,6 +2453,16 @@
             "name": "sai banu",
             "townhallLevel": 17,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#LULYQP9UL",
+                "defenderTag": "#8LYGCV8LY",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 29,
+                "duration": 72
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#PP9R8LJGG",
@@ -2616,9 +2634,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 14,
-        "stars": 29,
-        "destructionPercentage": 77.13333333333334,
+        "attacks": 15,
+        "stars": 31,
+        "destructionPercentage": 80.73333333333333,
         "members": [
           {
             "tag": "#LJU2P9CL2",
@@ -2735,7 +2753,15 @@
                 "duration": 151
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LULYQP9UL",
+              "defenderTag": "#8LYGCV8LY",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 29,
+              "duration": 72
+            }
           },
           {
             "tag": "#Q0RUPY9YP",
@@ -2792,6 +2818,16 @@
             "name": "Dorito_009",
             "townhallLevel": 15,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#PRUGPLRPG",
+                "defenderTag": "#98UL88G9V",
+                "stars": 2,
+                "destructionPercentage": 54,
+                "order": 30,
+                "duration": 112
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#98UL88G9V",
@@ -3653,9 +3689,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png"
           },
-          "stars": 38,
-          "attacks": 14,
-          "destructionPercentage": 84.4
+          "stars": 41,
+          "attacks": 15,
+          "destructionPercentage": 91.06666666666666
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -3665,9 +3701,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 29,
-          "attacks": 14,
-          "destructionPercentage": 77.13333333333334
+          "stars": 31,
+          "attacks": 15,
+          "destructionPercentage": 80.73333333333333
         }
       }
     ],
