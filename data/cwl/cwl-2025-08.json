@@ -3033,9 +3033,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png"
         },
         "clanLevel": 23,
-        "attacks": 3,
-        "stars": 8,
-        "destructionPercentage": 18.866666666666667,
+        "attacks": 4,
+        "stars": 10,
+        "destructionPercentage": 24.733333333333334,
         "members": [
           {
             "tag": "#LLPYJRCY",
@@ -3164,13 +3164,31 @@
             "name": "IWrateHulk",
             "townhallLevel": 17,
             "mapPosition": 2,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9JQP9VUPY",
+              "defenderTag": "#RPY9YGQY",
+              "stars": 2,
+              "destructionPercentage": 94,
+              "order": 6,
+              "duration": 180
+            }
           },
           {
             "tag": "#22QG9PLYR",
             "name": "Neo",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#22QG9PLYR",
+                "defenderTag": "#YCQ98GC88",
+                "stars": 2,
+                "destructionPercentage": 88,
+                "order": 5,
+                "duration": 156
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3178,7 +3196,15 @@
             "name": "GALATASARAY",
             "townhallLevel": 14,
             "mapPosition": 22,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8LYGCV8LY",
+              "defenderTag": "#YPGPYL2GG",
+              "stars": 2,
+              "destructionPercentage": 87,
+              "order": 7,
+              "duration": 174
+            }
           }
         ]
       },
@@ -3191,9 +3217,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 1,
-        "stars": 1,
-        "destructionPercentage": 3.7333333333333334,
+        "attacks": 3,
+        "stars": 5,
+        "destructionPercentage": 15.8,
         "members": [
           {
             "tag": "#LJU2P9CL2",
@@ -3236,6 +3262,16 @@
             "name": "Florimannn",
             "townhallLevel": 14,
             "mapPosition": 35,
+            "attacks": [
+              {
+                "attackerTag": "#8LYGCV8LY",
+                "defenderTag": "#YPGPYL2GG",
+                "stars": 2,
+                "destructionPercentage": 87,
+                "order": 7,
+                "duration": 174
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3280,6 +3316,16 @@
             "name": "123lucas123",
             "townhallLevel": 16,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#9JQP9VUPY",
+                "defenderTag": "#RPY9YGQY",
+                "stars": 2,
+                "destructionPercentage": 94,
+                "order": 6,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3287,7 +3333,15 @@
             "name": "Peter Pannekoek",
             "townhallLevel": 17,
             "mapPosition": 1,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#22QG9PLYR",
+              "defenderTag": "#YCQ98GC88",
+              "stars": 2,
+              "destructionPercentage": 88,
+              "order": 5,
+              "duration": 156
+            }
           },
           {
             "tag": "#LJ2J8QRPJ",
@@ -4039,9 +4093,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/xHulI0FD-dlSfamUXIhNPejP7ddYJA7XAnj9-WTREtI.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/xHulI0FD-dlSfamUXIhNPejP7ddYJA7XAnj9-WTREtI.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         },
         "clan2": {
           "tag": "#2QGRP9U2V",
@@ -4051,9 +4105,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 13,
+          "attacks": 6,
+          "destructionPercentage": 32.666666666666664
         }
       },
       {
@@ -4105,9 +4159,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Tc2TsQ1QihlGUSHgTR0HUQhXgANo0lanqf5rMJx0nqA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Tc2TsQ1QihlGUSHgTR0HUQhXgANo0lanqf5rMJx0nqA.png"
           },
-          "stars": 7,
-          "attacks": 3,
-          "destructionPercentage": 17.466666666666665
+          "stars": 13,
+          "attacks": 5,
+          "destructionPercentage": 30.8
         }
       },
       {
@@ -4120,9 +4174,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png"
           },
-          "stars": 8,
-          "attacks": 3,
-          "destructionPercentage": 18.866666666666667
+          "stars": 10,
+          "attacks": 4,
+          "destructionPercentage": 24.733333333333334
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -4132,9 +4186,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 1,
-          "attacks": 1,
-          "destructionPercentage": 3.7333333333333334
+          "stars": 5,
+          "attacks": 3,
+          "destructionPercentage": 15.8
         }
       }
     ],
