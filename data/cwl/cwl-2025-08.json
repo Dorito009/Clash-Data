@@ -3206,7 +3206,15 @@
                 "duration": 142
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LRRCYRP8Q",
+              "defenderTag": "#9YQQR9V2G",
+              "stars": 1,
+              "destructionPercentage": 74,
+              "order": 21,
+              "duration": 104
+            }
           },
           {
             "tag": "#P088988VJ",
@@ -3331,9 +3339,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 11,
-        "stars": 20,
-        "destructionPercentage": 57.266666666666666,
+        "attacks": 12,
+        "stars": 21,
+        "destructionPercentage": 62.2,
         "members": [
           {
             "tag": "#LJU2P9CL2",
@@ -3612,6 +3620,16 @@
             "name": "Mauro",
             "townhallLevel": 14,
             "mapPosition": 17,
+            "attacks": [
+              {
+                "attackerTag": "#LRRCYRP8Q",
+                "defenderTag": "#9YQQR9V2G",
+                "stars": 1,
+                "destructionPercentage": 74,
+                "order": 21,
+                "duration": 104
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#9YQQR9V2G",
@@ -4420,9 +4438,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 20,
-          "attacks": 11,
-          "destructionPercentage": 57.266666666666666
+          "stars": 21,
+          "attacks": 12,
+          "destructionPercentage": 62.2
         }
       }
     ],
