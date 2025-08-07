@@ -3750,9 +3750,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png"
         },
         "clanLevel": 16,
-        "attacks": 13,
-        "stars": 30,
-        "destructionPercentage": 73.06666666666666,
+        "attacks": 14,
+        "stars": 31,
+        "destructionPercentage": 76.33333333333333,
         "members": [
           {
             "tag": "#G00G0U2U0",
@@ -3801,6 +3801,16 @@
             "name": "ALVARNE 30",
             "townhallLevel": 11,
             "mapPosition": 30,
+            "attacks": [
+              {
+                "attackerTag": "#L8V2U22VC",
+                "defenderTag": "#JCGVYY8U",
+                "stars": 1,
+                "destructionPercentage": 49,
+                "order": 24,
+                "duration": 81
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#JCGVYY8U",
@@ -4149,7 +4159,15 @@
                 "duration": 108
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#L8V2U22VC",
+              "defenderTag": "#JCGVYY8U",
+              "stars": 1,
+              "destructionPercentage": 49,
+              "order": 24,
+              "duration": 81
+            }
           },
           {
             "tag": "#2QPGRGG9J",
@@ -5208,9 +5226,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png"
           },
-          "stars": 30,
-          "attacks": 13,
-          "destructionPercentage": 73.06666666666666
+          "stars": 31,
+          "attacks": 14,
+          "destructionPercentage": 76.33333333333333
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -5262,9 +5280,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png"
           },
-          "stars": 16,
-          "attacks": 6,
-          "destructionPercentage": 36.86666666666667
+          "stars": 17,
+          "attacks": 7,
+          "destructionPercentage": 42.53333333333333
         },
         "clan2": {
           "tag": "#2RVLV8JYP",
