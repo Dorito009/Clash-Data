@@ -3750,9 +3750,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png"
         },
         "clanLevel": 16,
-        "attacks": 14,
-        "stars": 31,
-        "destructionPercentage": 76.33333333333333,
+        "attacks": 15,
+        "stars": 33,
+        "destructionPercentage": 82.8,
         "members": [
           {
             "tag": "#G00G0U2U0",
@@ -3893,6 +3893,16 @@
             "name": "Jou_26",
             "townhallLevel": 15,
             "mapPosition": 13,
+            "attacks": [
+              {
+                "attackerTag": "#YPLJJYVC",
+                "defenderTag": "#99RCQLLCR",
+                "stars": 2,
+                "destructionPercentage": 97,
+                "order": 25,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4384,7 +4394,15 @@
             "name": "Tobo",
             "townhallLevel": 14,
             "mapPosition": 19,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YPLJJYVC",
+              "defenderTag": "#99RCQLLCR",
+              "stars": 2,
+              "destructionPercentage": 97,
+              "order": 25,
+              "duration": 180
+            }
           },
           {
             "tag": "#LRRCYRP8Q",
@@ -5226,9 +5244,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png"
           },
-          "stars": 31,
-          "attacks": 14,
-          "destructionPercentage": 76.33333333333333
+          "stars": 33,
+          "attacks": 15,
+          "destructionPercentage": 82.8
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
