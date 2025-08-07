@@ -3217,7 +3217,15 @@
                 "duration": 84
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PRUGPLRPG",
+              "defenderTag": "#L89YYVJUG",
+              "stars": 1,
+              "destructionPercentage": 52,
+              "order": 26,
+              "duration": 106
+            }
           },
           {
             "tag": "#9YQQR9V2G",
@@ -3375,9 +3383,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 14,
-        "stars": 23,
-        "destructionPercentage": 69.86666666666666,
+        "attacks": 15,
+        "stars": 24,
+        "destructionPercentage": 73.33333333333333,
         "members": [
           {
             "tag": "#LJU2P9CL2",
@@ -3543,6 +3551,16 @@
             "name": "Dorito_009",
             "townhallLevel": 15,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#PRUGPLRPG",
+                "defenderTag": "#L89YYVJUG",
+                "stars": 1,
+                "destructionPercentage": 52,
+                "order": 26,
+                "duration": 106
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#G2RUV0JYC",
@@ -4429,9 +4447,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png"
           },
-          "stars": 29,
-          "attacks": 14,
-          "destructionPercentage": 73.33333333333333
+          "stars": 31,
+          "attacks": 15,
+          "destructionPercentage": 75.8
         }
       },
       {
@@ -4444,9 +4462,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png"
           },
-          "stars": 30,
-          "attacks": 13,
-          "destructionPercentage": 82.53333333333333
+          "stars": 32,
+          "attacks": 14,
+          "destructionPercentage": 87.26666666666667
         },
         "clan2": {
           "tag": "#2G98J000G",
@@ -4510,9 +4528,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 23,
-          "attacks": 14,
-          "destructionPercentage": 69.86666666666666
+          "stars": 24,
+          "attacks": 15,
+          "destructionPercentage": 73.33333333333333
         }
       }
     ],
