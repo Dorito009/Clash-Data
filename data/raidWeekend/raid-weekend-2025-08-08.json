@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 59013,
-  "raidsCompleted": 1,
-  "totalAttacks": 12,
-  "enemyDistrictsDestroyed": 5,
+  "capitalTotalLoot": 86986,
+  "raidsCompleted": 2,
+  "totalAttacks": 19,
+  "enemyDistrictsDestroyed": 9,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -18,6 +18,22 @@
       "capitalResourcesLooted": 29198
     },
     {
+      "tag": "#QPGCL8CYC",
+      "name": "KoerpoerXD",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 4832
+    },
+    {
+      "tag": "#LG0L98JVV",
+      "name": "je_vader_045",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23141
+    },
+    {
       "tag": "#UVPQ9Y8U",
       "name": "JOC DE FAKKEL",
       "attacks": 6,
@@ -26,6 +42,275 @@
       "capitalResourcesLooted": 29815
     }
   ],
-  "attackLog": [],
+  "attackLog": [
+    {
+      "defender": {
+        "tag": "#292CRCJJY",
+        "name": "\u767d\u864e\u968a\u306e\u529b",
+        "level": 18,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ISyB5wAm2v7B_rm-LJS360ga-83IFL8MABcjxft1RkA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ISyB5wAm2v7B_rm-LJS360ga-83IFL8MABcjxft1RkA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ISyB5wAm2v7B_rm-LJS360ga-83IFL8MABcjxft1RkA.png"
+        }
+      },
+      "attackCount": 19,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12202,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPGCL8CYC",
+                "name": "KoerpoerXD"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LG0L98JVV",
+                "name": "je_vader_045"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LG0L98JVV",
+                "name": "je_vader_045"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11215,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LG0L98JVV",
+                "name": "je_vader_045"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LG0L98JVV",
+                "name": "je_vader_045"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LJU2P9CL2",
+                "name": "FONDIE LIE"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8926,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LG0L98JVV",
+                "name": "je_vader_045"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9551,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJU2P9CL2",
+                "name": "FONDIE LIE"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LJU2P9CL2",
+                "name": "FONDIE LIE"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10042,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJU2P9CL2",
+                "name": "FONDIE LIE"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LJU2P9CL2",
+                "name": "FONDIE LIE"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9265,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 62,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10130,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LG0L98JVV",
+                "name": "je_vader_045"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LJU2P9CL2",
+                "name": "FONDIE LIE"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9949,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 1,
+          "totalLooted": 5706,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "defenseLog": []
 }
