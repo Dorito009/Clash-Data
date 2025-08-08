@@ -3769,7 +3769,15 @@
                 "duration": 113
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#UVPQ9Y8U",
+              "defenderTag": "#G00G0U2U0",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 27,
+              "duration": 136
+            }
           },
           {
             "tag": "#GQJUPVY8U",
@@ -3861,7 +3869,15 @@
                 "duration": 97
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8LYGCV8LY",
+              "defenderTag": "#G0R8L9L00",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 29,
+              "duration": 168
+            }
           },
           {
             "tag": "#GGJ9RQQ22",
@@ -3903,7 +3919,15 @@
                 "duration": 180
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#99RCQLLCR",
+              "defenderTag": "#YPLJJYVC",
+              "stars": 2,
+              "destructionPercentage": 76,
+              "order": 28,
+              "duration": 85
+            }
           },
           {
             "tag": "#G28U8JG9C",
@@ -4108,9 +4132,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 11,
-        "stars": 27,
-        "destructionPercentage": 63.733333333333334,
+        "attacks": 14,
+        "stars": 34,
+        "destructionPercentage": 80.46666666666667,
         "members": [
           {
             "tag": "#LJU2P9CL2",
@@ -4217,6 +4241,16 @@
             "name": "Florimannn",
             "townhallLevel": 14,
             "mapPosition": 35,
+            "attacks": [
+              {
+                "attackerTag": "#8LYGCV8LY",
+                "defenderTag": "#G0R8L9L00",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 29,
+                "duration": 168
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#G0R8L9L00",
@@ -4397,6 +4431,16 @@
             "name": "JOC DE FAKKEL",
             "townhallLevel": 14,
             "mapPosition": 25,
+            "attacks": [
+              {
+                "attackerTag": "#UVPQ9Y8U",
+                "defenderTag": "#G00G0U2U0",
+                "stars": 2,
+                "destructionPercentage": 75,
+                "order": 27,
+                "duration": 136
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#G00G0U2U0",
@@ -4412,6 +4456,16 @@
             "name": "Tobo",
             "townhallLevel": 14,
             "mapPosition": 19,
+            "attacks": [
+              {
+                "attackerTag": "#99RCQLLCR",
+                "defenderTag": "#YPLJJYVC",
+                "stars": 2,
+                "destructionPercentage": 76,
+                "order": 28,
+                "duration": 85
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#YPLJJYVC",
@@ -5274,9 +5328,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 27,
-          "attacks": 11,
-          "destructionPercentage": 63.733333333333334
+          "stars": 34,
+          "attacks": 14,
+          "destructionPercentage": 80.46666666666667
         }
       },
       {
@@ -5289,9 +5343,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png"
           },
-          "stars": 38,
-          "attacks": 14,
-          "destructionPercentage": 88.66666666666667
+          "stars": 41,
+          "attacks": 15,
+          "destructionPercentage": 95.33333333333333
         },
         "clan2": {
           "tag": "#2G98J000G",
