@@ -3969,7 +3969,15 @@
                 "duration": 180
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PRUGPLRPG",
+              "defenderTag": "#G88V9UGQ2",
+              "stars": 2,
+              "destructionPercentage": 65,
+              "order": 30,
+              "duration": 64
+            }
           },
           {
             "tag": "#PUCVCQ2CU",
@@ -4132,9 +4140,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 14,
-        "stars": 34,
-        "destructionPercentage": 80.46666666666667,
+        "attacks": 15,
+        "stars": 36,
+        "destructionPercentage": 84.8,
         "members": [
           {
             "tag": "#LJU2P9CL2",
@@ -4316,6 +4324,16 @@
             "name": "Dorito_009",
             "townhallLevel": 15,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#PRUGPLRPG",
+                "defenderTag": "#G88V9UGQ2",
+                "stars": 2,
+                "destructionPercentage": 65,
+                "order": 30,
+                "duration": 64
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#G88V9UGQ2",
@@ -5328,9 +5346,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 34,
-          "attacks": 14,
-          "destructionPercentage": 80.46666666666667
+          "stars": 36,
+          "attacks": 15,
+          "destructionPercentage": 84.8
         }
       },
       {
