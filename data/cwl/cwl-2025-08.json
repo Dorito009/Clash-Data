@@ -4829,7 +4829,15 @@
                 "duration": 121
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#99RCQLLCR",
+              "defenderTag": "#Q09CJ98JQ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "duration": 86
+            }
           },
           {
             "tag": "#9LLGCL0U",
@@ -4874,9 +4882,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 12,
-        "stars": 30,
-        "destructionPercentage": 71.4,
+        "attacks": 13,
+        "stars": 33,
+        "destructionPercentage": 78.06666666666666,
         "members": [
           {
             "tag": "#LJU2P9CL2",
@@ -5164,6 +5172,16 @@
             "name": "Tobo",
             "townhallLevel": 14,
             "mapPosition": 20,
+            "attacks": [
+              {
+                "attackerTag": "#99RCQLLCR",
+                "defenderTag": "#Q09CJ98JQ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 25,
+                "duration": 86
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#Q09CJ98JQ",
@@ -5934,9 +5952,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 30,
-          "attacks": 12,
-          "destructionPercentage": 71.4
+          "stars": 33,
+          "attacks": 13,
+          "destructionPercentage": 78.06666666666666
         }
       },
       {
