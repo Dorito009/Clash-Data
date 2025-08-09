@@ -1064,6 +1064,290 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#9Q9GPUCJ",
+        "name": "Adulti.ITA",
+        "level": 33,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fhWf6pefLAM0sqfL4US3OJWzhISVuU-ZJXofNEc3i8A.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fhWf6pefLAM0sqfL4US3OJWzhISVuU-ZJXofNEc3i8A.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fhWf6pefLAM0sqfL4US3OJWzhISVuU-ZJXofNEc3i8A.png"
+        }
+      },
+      "attackCount": 21,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13472,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2LC0ULJUJ",
+                "name": "ffpalu"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2LC0ULJUJ",
+                "name": "ffpalu"
+              },
+              "destructionPercent": 90,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8020YCGJG",
+                "name": "Paolo23"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8020YCGJG",
+                "name": "Paolo23"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10800,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JGC08V2Q",
+                "name": "Cratos"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JGC08V2Q",
+                "name": "Cratos"
+              },
+              "destructionPercent": 84,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#JGC08V2Q",
+                "name": "Cratos"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9421,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8020YCGJG",
+                "name": "Paolo23"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8020YCGJG",
+                "name": "Paolo23"
+              },
+              "destructionPercent": 73,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8020YCGJG",
+                "name": "Paolo23"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9077,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#VURRYGQR",
+                "name": "LUANA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#VURRYGQR",
+                "name": "LUANA"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9524,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L0CUL9PQ",
+                "name": "Il vero Re"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L0CUL9PQ",
+                "name": "Il vero Re"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8668,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PUQ999YJ",
+                "name": "Rocca Silente"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9LQLY80LP",
+                "name": "\u2b50AGARES\u2b50"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9153,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#VURRYGQR",
+                "name": "LUANA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#VURRYGQR",
+                "name": "LUANA"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9330,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#VURRYGQR",
+                "name": "LUANA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#VURRYGQR",
+                "name": "LUANA"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 1,
+          "totalLooted": 6155,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8020YCGJG",
+                "name": "Paolo23"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            }
+          ]
+        }
+      ]
     }
   ]
 }
