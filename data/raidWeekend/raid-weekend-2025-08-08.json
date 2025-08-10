@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 467534,
+  "capitalTotalLoot": 483053,
   "raidsCompleted": 6,
-  "totalAttacks": 121,
-  "enemyDistrictsDestroyed": 41,
+  "totalAttacks": 127,
+  "enemyDistrictsDestroyed": 44,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -88,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 28384
+    },
+    {
+      "tag": "#Q0RUPY9YP",
+      "name": "jermo",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15519
     },
     {
       "tag": "#PP9R8LJGG",
@@ -2040,7 +2048,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Bp18iTD6AJx7NUtm5Np54LSDfMuPqHDgxDYJaERM-j0.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 19,
       "districtCount": 9,
       "districtsDestroyed": 6,
       "districts": [
@@ -2135,10 +2143,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 63,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5845,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQ8RJQPVP",
+                "name": "RARExCOMMANDO"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LQ8RJQPVP",
+                "name": "RARExCOMMANDO"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
