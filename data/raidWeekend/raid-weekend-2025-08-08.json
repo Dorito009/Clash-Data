@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 402499,
+  "capitalTotalLoot": 416695,
   "raidsCompleted": 6,
-  "totalAttacks": 104,
-  "enemyDistrictsDestroyed": 37,
+  "totalAttacks": 108,
+  "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -56,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 11115
+    },
+    {
+      "tag": "#JCGVYY8U",
+      "name": "de skelet boys",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 10751
     },
     {
       "tag": "#YRP99RVQR",
@@ -140,10 +148,10 @@
     {
       "tag": "#9VLL0CLJP",
       "name": "Jipperish",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 18839
+      "capitalResourcesLooted": 22284
     },
     {
       "tag": "#UVPQ9Y8U",
@@ -2024,9 +2032,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Bp18iTD6AJx7NUtm5Np54LSDfMuPqHDgxDYJaERM-j0.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2041,11 +2049,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 85,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 8225,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10791,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQ8RJQPVP",
+                "name": "RARExCOMMANDO"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#YYPUJQPC9",
@@ -2070,9 +2086,17 @@
           "districtHallLevel": 5,
           "destructionPercent": 44,
           "stars": 0,
-          "attackCount": 1,
+          "attackCount": 2,
           "totalLooted": 2610,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQ8RJQPVP",
+                "name": "RARExCOMMANDO"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            },
             {
               "attacker": {
                 "tag": "#YYPUJQPC9",
