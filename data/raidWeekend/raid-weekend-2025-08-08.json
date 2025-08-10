@@ -2040,9 +2040,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Bp18iTD6AJx7NUtm5Np54LSDfMuPqHDgxDYJaERM-j0.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2092,11 +2092,27 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 44,
-          "stars": 0,
-          "attackCount": 2,
-          "totalLooted": 2610,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 9268,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQ8RJQPVP",
+                "name": "RARExCOMMANDO"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQ8RJQPVP",
+                "name": "RARExCOMMANDO"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#LQ8RJQPVP",
