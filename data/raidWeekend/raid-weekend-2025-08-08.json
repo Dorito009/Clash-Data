@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 483053,
-  "raidsCompleted": 6,
-  "totalAttacks": 127,
-  "enemyDistrictsDestroyed": 44,
+  "capitalTotalLoot": 507897,
+  "raidsCompleted": 7,
+  "totalAttacks": 132,
+  "enemyDistrictsDestroyed": 46,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -180,10 +180,10 @@
     {
       "tag": "#QU9LC8LCY",
       "name": "wasbakmonteu",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 1650
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 26494
     },
     {
       "tag": "#99RCQLLCR",
@@ -1458,6 +1458,362 @@
           ]
         }
       ]
+    },
+    {
+      "defender": {
+        "tag": "#2Q80220LU",
+        "name": "+65 Titans",
+        "level": 25,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zPZdN9qwobuxN5O0mrCHclInYscOTy7idCAo-q11GWM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zPZdN9qwobuxN5O0mrCHclInYscOTy7idCAo-q11GWM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zPZdN9qwobuxN5O0mrCHclInYscOTy7idCAo-q11GWM.png"
+        }
+      },
+      "attackCount": 30,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13895,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QU9LC8LCY",
+                "name": "wasbakmonteu"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QU9LC8LCY",
+                "name": "wasbakmonteu"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q0RUPY9YP",
+                "name": "jermo"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q0RUPY9YP",
+                "name": "jermo"
+              },
+              "destructionPercent": 39,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q0RUPY9YP",
+                "name": "jermo"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11700,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JCGVYY8U",
+                "name": "de skelet boys"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JCGVYY8U",
+                "name": "de skelet boys"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8LYGCV8LY",
+                "name": "Florimannn"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10751,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JCGVYY8U",
+                "name": "de skelet boys"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JCGVYY8U",
+                "name": "de skelet boys"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#JCGVYY8U",
+                "name": "de skelet boys"
+              },
+              "destructionPercent": 23,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11262,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12152,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0RUPY9YP",
+                "name": "jermo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11645,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0RUPY9YP",
+                "name": "jermo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JCGVYY8U",
+                "name": "de skelet boys"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11652,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8LYGCV8LY",
+                "name": "Florimannn"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8LYGCV8LY",
+                "name": "Florimannn"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9VLL0CLJP",
+                "name": "Jipperish"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11867,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8LYGCV8LY",
+                "name": "Florimannn"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P8Y8VC9PV",
+                "name": "sofie"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12192,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0RUPY9YP",
+                "name": "jermo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8PV2Y0JPV",
+                "name": "ropje"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8LYGCV8LY",
+                "name": "Florimannn"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
+        }
+      ]
     }
   ],
   "defenseLog": [
@@ -2048,9 +2404,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Bp18iTD6AJx7NUtm5Np54LSDfMuPqHDgxDYJaERM-j0.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -2143,11 +2499,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 63,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5845,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9479,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP0QJYL",
+                "name": "jack"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LQ8RJQPVP",
