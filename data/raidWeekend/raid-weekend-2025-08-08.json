@@ -3,7 +3,7 @@
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
   "capitalTotalLoot": 507897,
-  "raidsCompleted": 7,
+  "raidsCompleted": 8,
   "totalAttacks": 132,
   "enemyDistrictsDestroyed": 46,
   "offensiveReward": 0,
@@ -2404,18 +2404,60 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Bp18iTD6AJx7NUtm5Np54LSDfMuPqHDgxDYJaERM-j0.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13163,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9QQL828Q",
+                "name": "Jack"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9QQL828Q",
+                "name": "Jack"
+              },
+              "destructionPercent": 97,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#80L2Q8P9",
+                "name": "King James"
+              },
+              "destructionPercent": 78,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QRP0QJYL",
+                "name": "jack"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QRP0QJYL",
+                "name": "jack"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -2569,10 +2611,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8578,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#80L2Q8P9",
+                "name": "King James"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9QQL828Q",
+                "name": "Jack"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
