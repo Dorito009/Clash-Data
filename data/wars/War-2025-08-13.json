@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 3,
-    "stars": 8,
-    "destructionPercentage": 27.0,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 36.3,
     "members": [
       {
         "tag": "#LJU2P9CL2",
@@ -48,7 +48,15 @@
         "name": "jermo",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGLV0UQGV",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 155
+        }
       },
       {
         "tag": "#9JQP9VUPY",
@@ -72,14 +80,30 @@
         "name": "Louise",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0GV2URL8",
+          "defenderTag": "#QY2PCRLPJ",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 4,
+          "duration": 125
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0GV2URL8",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 1,
+          "destructionPercentage": 78,
+          "order": 7,
+          "duration": 103
+        }
       },
       {
         "tag": "#9VLL0CLJP",
@@ -110,6 +134,16 @@
         "name": "Bassie",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9CCVPU9RU",
+            "defenderTag": "#Q0GV2URL8",
+            "stars": 1,
+            "destructionPercentage": 93,
+            "order": 6,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -130,9 +164,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/mY1MdptSpa6czjl41TpHmtLalJhKPfc7FOIc5zyqYco.png"
     },
     "clanLevel": 13,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 3,
+    "stars": 6,
+    "destructionPercentage": 26.3,
     "members": [
       {
         "tag": "#LULCCGGYU",
@@ -205,7 +239,33 @@
         "name": "the great pro",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#Q0GV2URL8",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 4,
+            "duration": 125
+          },
+          {
+            "attackerTag": "#Q0GV2URL8",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 1,
+            "destructionPercentage": 78,
+            "order": 7,
+            "duration": 103
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9CCVPU9RU",
+          "defenderTag": "#Q0GV2URL8",
+          "stars": 1,
+          "destructionPercentage": 93,
+          "order": 6,
+          "duration": 135
+        }
       },
       {
         "tag": "#PY98YPCJ",
@@ -226,6 +286,16 @@
         "name": "Harmeet@23",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#LGLV0UQGV",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 155
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
