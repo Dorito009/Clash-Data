@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 8,
-    "stars": 18,
-    "destructionPercentage": 66.4,
+    "attacks": 9,
+    "stars": 19,
+    "destructionPercentage": 66.5,
     "members": [
       {
         "tag": "#LJU2P9CL2",
@@ -97,6 +97,14 @@
             "destructionPercentage": 100,
             "order": 3,
             "duration": 164
+          },
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#YUYJVV8RV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 20,
+            "duration": 112
           }
         ],
         "opponentAttacks": 1,
@@ -355,14 +363,14 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LRRCYRP8Q",
+          "attackerTag": "#9JQP9VUPY",
           "defenderTag": "#YUYJVV8RV",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 10,
-          "duration": 117
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "duration": 112
         }
       },
       {
