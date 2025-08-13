@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 5,
-    "stars": 12,
-    "destructionPercentage": 46.3,
+    "attacks": 6,
+    "stars": 14,
+    "destructionPercentage": 56.2,
     "members": [
       {
         "tag": "#LJU2P9CL2",
@@ -169,6 +169,16 @@
         "name": "Mauro",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LRRCYRP8Q",
+            "defenderTag": "#YUYJVV8RV",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 10,
+            "duration": 117
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -243,7 +253,15 @@
         "name": "master. mind",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LRRCYRP8Q",
+          "defenderTag": "#YUYJVV8RV",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 10,
+          "duration": 117
+        }
       },
       {
         "tag": "#GCYQQLUG8",
