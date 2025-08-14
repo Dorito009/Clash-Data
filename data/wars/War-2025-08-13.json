@@ -138,14 +138,14 @@
         "name": "Louise",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q0GV2URL8",
+          "attackerTag": "#LCJQP8PGL",
           "defenderTag": "#QY2PCRLPJ",
-          "stars": 2,
-          "destructionPercentage": 85,
-          "order": 4,
-          "duration": 125
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 71
         }
       },
       {
@@ -298,9 +298,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/mY1MdptSpa6czjl41TpHmtLalJhKPfc7FOIc5zyqYco.png"
     },
     "clanLevel": 13,
-    "attacks": 13,
-    "stars": 26,
-    "destructionPercentage": 93.0,
+    "attacks": 14,
+    "stars": 27,
+    "destructionPercentage": 94.5,
     "members": [
       {
         "tag": "#LULCCGGYU",
@@ -525,6 +525,14 @@
             "destructionPercentage": 67,
             "order": 14,
             "duration": 97
+          },
+          {
+            "attackerTag": "#LCJQP8PGL",
+            "defenderTag": "#QY2PCRLPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 71
           }
         ],
         "opponentAttacks": 0
