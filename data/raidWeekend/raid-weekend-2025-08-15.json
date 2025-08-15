@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 89278,
+  "capitalTotalLoot": 113749,
   "raidsCompleted": 1,
-  "totalAttacks": 24,
-  "enemyDistrictsDestroyed": 9,
+  "totalAttacks": 30,
+  "enemyDistrictsDestroyed": 11,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 31536
+    },
+    {
+      "tag": "#LVQYUVRVQ",
+      "name": "maarten",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24471
     }
   ],
   "attackLog": [
