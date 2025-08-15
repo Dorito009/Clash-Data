@@ -352,5 +352,306 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#2L82GY8YV",
+        "name": "GUERREROS",
+        "level": 17,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ZEdaEQ_F5O_8puXQM2BzRF-hTE3PM_ywnoV-YmkHuSo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ZEdaEQ_F5O_8puXQM2BzRF-hTE3PM_ywnoV-YmkHuSo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ZEdaEQ_F5O_8puXQM2BzRF-hTE3PM_ywnoV-YmkHuSo.png"
+        }
+      },
+      "attackCount": 23,
+      "districtCount": 9,
+      "districtsDestroyed": 8,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 15,
+          "stars": 0,
+          "attackCount": 1,
+          "totalLooted": 1120,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LC9QPJG2V",
+                "name": "karol"
+              },
+              "destructionPercent": 15,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10742,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VQ998GUG",
+                "name": "tito17"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2VQ998GUG",
+                "name": "tito17"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9478,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8UPULPUP",
+                "name": "jesusjessie"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G8UPULPUP",
+                "name": "jesusjessie"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G8UPULPUP",
+                "name": "jesusjessie"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9276,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VQ998GUG",
+                "name": "tito17"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2VQ998GUG",
+                "name": "tito17"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9627,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8UPULPUP",
+                "name": "jesusjessie"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G8UPULPUP",
+                "name": "jesusjessie"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G8UPULPUP",
+                "name": "jesusjessie"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 9175,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LC9QPJG2V",
+                "name": "karol"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LC9QPJG2V",
+                "name": "karol"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LC9QPJG2V",
+                "name": "karol"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LC9QPJG2V",
+                "name": "karol"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LC9QPJG2V",
+                "name": "karol"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9262,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VQ998GUG",
+                "name": "tito17"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2VQ998GUG",
+                "name": "tito17"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9831,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0QYLP9QQ",
+                "name": "valentin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q0QYLP9QQ",
+                "name": "valentin"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q0QYLP9QQ",
+                "name": "valentin"
+              },
+              "destructionPercent": 42,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6737,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0QYLP9QQ",
+                "name": "valentin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q0QYLP9QQ",
+                "name": "valentin"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
