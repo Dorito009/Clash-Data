@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 113749,
-  "raidsCompleted": 2,
-  "totalAttacks": 30,
+  "capitalTotalLoot": 115144,
+  "raidsCompleted": 3,
+  "totalAttacks": 31,
   "enemyDistrictsDestroyed": 11,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 31536
+    },
+    {
+      "tag": "#9CCVPU9RU",
+      "name": "Bassie",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 1395
     },
     {
       "tag": "#LVQYUVRVQ",
@@ -364,19 +372,51 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ZEdaEQ_F5O_8puXQM2BzRF-hTE3PM_ywnoV-YmkHuSo.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 15,
+          "destructionPercent": 100,
           "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 1120,
+          "attackCount": 5,
+          "totalLooted": 13415,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LYPLC9YUP",
+                "name": "LEV\u00cd"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LYPLC9YUP",
+                "name": "LEV\u00cd"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LYPLC9YUP",
+                "name": "LEV\u00cd"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LYPLC9YUP",
+                "name": "LEV\u00cd"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            },
             {
               "attacker": {
                 "tag": "#LC9QPJG2V",
