@@ -24,7 +24,15 @@
         "name": "Jeroonie_xD",
         "townhallLevel": 16,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#L2JUGQQU8",
+          "defenderTag": "#88JUGLUL",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 15,
+          "duration": 180
+        }
       },
       {
         "tag": "#LJU2P9CL2",
@@ -126,7 +134,15 @@
         "name": "123lucas123",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L2JUGQQU8",
+          "defenderTag": "#9JQP9VUPY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 160
+        }
       },
       {
         "tag": "#9VLL0CLJP",
@@ -143,7 +159,15 @@
             "duration": 136
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G0Y22YJC9",
+          "defenderTag": "#9VLL0CLJP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 154
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -196,9 +220,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HJ7RkGIXIA66rur7UnwtDVDOJ0SWLow_iBl3B02piPQ.png"
     },
     "clanLevel": 12,
-    "attacks": 7,
-    "stars": 15,
-    "destructionPercentage": 50.0,
+    "attacks": 11,
+    "stars": 23,
+    "destructionPercentage": 79.4,
     "members": [
       {
         "tag": "#90YG228G0",
@@ -212,6 +236,16 @@
         "name": "MadFonzoIII",
         "townhallLevel": 15,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#G0Y22YJC9",
+            "defenderTag": "#9VLL0CLJP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 154
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9VLL0CLJP",
@@ -227,6 +261,24 @@
         "name": "MadFonzo II",
         "townhallLevel": 16,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L2JUGQQU8",
+            "defenderTag": "#88JUGLUL",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 15,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#L2JUGQQU8",
+            "defenderTag": "#9JQP9VUPY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -372,6 +424,16 @@
         "name": "MadFonzo",
         "townhallLevel": 16,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#28RQQYJPU",
+            "defenderTag": "#88JUGLUL",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 14,
+            "duration": 163
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
