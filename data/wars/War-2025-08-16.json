@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 8,
-    "stars": 20,
-    "destructionPercentage": 68.7,
+    "attacks": 9,
+    "stars": 22,
+    "destructionPercentage": 77.3,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -154,6 +154,16 @@
         "name": "123lucas123",
         "townhallLevel": 16,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#L2JUGQQU8",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 20,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L2JUGQQU8",
@@ -299,7 +309,15 @@
             "duration": 160
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JQP9VUPY",
+          "defenderTag": "#L2JUGQQU8",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 20,
+          "duration": 180
+        }
       },
       {
         "tag": "#20U2L2QVY",
