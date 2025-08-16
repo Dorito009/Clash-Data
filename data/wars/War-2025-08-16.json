@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 6,
-    "stars": 14,
-    "destructionPercentage": 48.7,
+    "attacks": 8,
+    "stars": 20,
+    "destructionPercentage": 68.7,
     "members": [
       {
         "tag": "#88JUGLUL",
         "name": "Jeroonie_xD",
         "townhallLevel": 16,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#88JUGLUL",
+            "defenderTag": "#28RQQYJPU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#L2JUGQQU8",
@@ -97,6 +107,16 @@
         "name": "JoeyvGils",
         "townhallLevel": 14,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#2QPGRGG9J",
+            "defenderTag": "#LU0LJGUGL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 124
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LU0LJGUGL",
@@ -384,7 +404,15 @@
             "duration": 108
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2QPGRGG9J",
+          "defenderTag": "#LU0LJGUGL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 124
+        }
       },
       {
         "tag": "#QQY8LQGPV",
@@ -434,7 +462,15 @@
             "duration": 163
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88JUGLUL",
+          "defenderTag": "#28RQQYJPU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 160
+        }
       }
     ]
   }
