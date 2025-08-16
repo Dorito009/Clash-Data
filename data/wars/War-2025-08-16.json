@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 8.7,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -31,6 +31,16 @@
         "name": "FONDIE LIE",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#LJU2P9CL2",
+            "defenderTag": "#LQVU0ULCP",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 6,
+            "duration": 165
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LQVU0ULCP",
@@ -68,14 +78,14 @@
         "name": "jermo",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#20U2L2QVY",
+          "attackerTag": "#QQY8LQGPV",
           "defenderTag": "#Q0RUPY9YP",
-          "stars": 2,
-          "destructionPercentage": 75,
-          "order": 1,
-          "duration": 115
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 78
         }
       },
       {
@@ -111,7 +121,15 @@
         "name": "maarten",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQY8LQGPV",
+          "defenderTag": "#LVQYUVRVQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 92
+        }
       }
     ]
   },
@@ -124,9 +142,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HJ7RkGIXIA66rur7UnwtDVDOJ0SWLow_iBl3B02piPQ.png"
     },
     "clanLevel": 12,
-    "attacks": 3,
-    "stars": 7,
-    "destructionPercentage": 27.4,
+    "attacks": 5,
+    "stars": 11,
+    "destructionPercentage": 39.9,
     "members": [
       {
         "tag": "#90YG228G0",
@@ -196,7 +214,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJU2P9CL2",
+          "defenderTag": "#LQVU0ULCP",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 6,
+          "duration": 165
+        }
       },
       {
         "tag": "#L982L2U09",
@@ -217,6 +243,24 @@
         "name": "Vaccor",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QQY8LQGPV",
+            "defenderTag": "#LVQYUVRVQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 92
+          },
+          {
+            "attackerTag": "#QQY8LQGPV",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 78
+          }
+        ],
         "opponentAttacks": 0
       },
       {
