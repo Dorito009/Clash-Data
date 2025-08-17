@@ -1,5 +1,5 @@
 {
-  "state": "inWar",
+  "state": "warEnded",
   "teamSize": 10,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -42,7 +42,7 @@
             "duration": 164
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#L2JUGQQU8",
           "defenderTag": "#88JUGLUL",
@@ -100,7 +100,7 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#20U2L2QVY",
           "defenderTag": "#PGCQGC8PP",
@@ -290,7 +290,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HJ7RkGIXIA66rur7UnwtDVDOJ0SWLow_iBl3B02piPQ.png"
     },
     "clanLevel": 12,
-    "attacks": 17,
+    "attacks": 19,
     "stars": 29,
     "destructionPercentage": 99.4,
     "members": [
@@ -431,6 +431,24 @@
         "name": "Bownyz",
         "townhallLevel": 14,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#2L8LU9VG9",
+            "defenderTag": "#88JUGLUL",
+            "stars": 2,
+            "destructionPercentage": 50,
+            "order": 30,
+            "duration": 99
+          },
+          {
+            "attackerTag": "#2L8LU9VG9",
+            "defenderTag": "#PGCQGC8PP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 81
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PGCQGC8PP",
