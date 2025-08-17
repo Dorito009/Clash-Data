@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 226302,
+  "capitalTotalLoot": 246631,
   "raidsCompleted": 5,
-  "totalAttacks": 61,
-  "enemyDistrictsDestroyed": 20,
+  "totalAttacks": 65,
+  "enemyDistrictsDestroyed": 21,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -52,10 +52,10 @@
     {
       "tag": "#QPGCL8CYC",
       "name": "KoerpoerXD",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 8810
+      "capitalResourcesLooted": 29139
     },
     {
       "tag": "#YCQ98GC88",
@@ -1400,6 +1400,282 @@
               },
               "destructionPercent": 61,
               "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#2PVC20P0J",
+        "name": "\u0645\u0628\u0627\u0631\u0632",
+        "level": 22,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/OkYOYayHoNJR8SEjpo73It23C9O50Pr1sGOvwS_8qMA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/OkYOYayHoNJR8SEjpo73It23C9O50Pr1sGOvwS_8qMA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/OkYOYayHoNJR8SEjpo73It23C9O50Pr1sGOvwS_8qMA.png"
+        }
+      },
+      "attackCount": 20,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12935,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8PQ99U8GR",
+                "name": "sobiiiiiii"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8PQ99U8GR",
+                "name": "sobiiiiiii"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8PQ99U8GR",
+                "name": "sobiiiiiii"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8PQ99U8GR",
+                "name": "sobiiiiiii"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10460,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P9LJ88RC",
+                "name": "tanha va vahshi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P9LJ88RC",
+                "name": "tanha va vahshi"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9469,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P9LJ88RC",
+                "name": "tanha va vahshi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P9LJ88RC",
+                "name": "tanha va vahshi"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9528,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P9LJ88RC",
+                "name": "tanha va vahshi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YCPRVYRU8",
+                "name": "\u1d0d\u1d0f\u029c\u1d00\u1d0d\u1d00\u1d05"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9570,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YCPRVYRU8",
+                "name": "\u1d0d\u1d0f\u029c\u1d00\u1d0d\u1d00\u1d05"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YCPRVYRU8",
+                "name": "\u1d0d\u1d0f\u029c\u1d00\u1d0d\u1d00\u1d05"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9518,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2LGQJL2P0",
+                "name": "\u2606DE BRUYNE\u2606"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2LGQJL2P0",
+                "name": "\u2606DE BRUYNE\u2606"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9493,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P9LJ88RC",
+                "name": "tanha va vahshi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YCPRVYRU8",
+                "name": "\u1d0d\u1d0f\u029c\u1d00\u1d0d\u1d00\u1d05"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9333,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2LGYPPVC9",
+                "name": "HPHS"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2LGYPPVC9",
+                "name": "HPHS"
+              },
+              "destructionPercent": 37,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6845,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8PQ99U8GR",
+                "name": "sobiiiiiii"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YCPRVYRU8",
+                "name": "\u1d0d\u1d0f\u029c\u1d00\u1d0d\u1d00\u1d05"
+              },
+              "destructionPercent": 99,
+              "stars": 1
             }
           ]
         }
