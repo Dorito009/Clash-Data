@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 5.6666665,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -80,6 +80,16 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#LQVVGPRU0",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 1,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -151,7 +161,15 @@
         "name": "Tanak_kalon",
         "townhallLevel": 16,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCQ98GC88",
+          "defenderTag": "#LQVVGPRU0",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 1,
+          "duration": 151
+        }
       },
       {
         "tag": "#GPUJ0QG8G",
