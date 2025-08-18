@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 1,
-    "stars": 2,
-    "destructionPercentage": 5.6666665,
+    "attacks": 2,
+    "stars": 4,
+    "destructionPercentage": 10.066667,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -45,6 +45,16 @@
         "name": "JoeyvGils",
         "townhallLevel": 14,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2QPGRGG9J",
+            "defenderTag": "#QPLJ002PP",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 2,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -66,7 +76,15 @@
         "name": "123lucas123",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LQVVGPRU0",
+          "defenderTag": "#9JQP9VUPY",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 4,
+          "duration": 99
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -90,7 +108,15 @@
             "duration": 151
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LQVVGPRU0",
+          "defenderTag": "#YCQ98GC88",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 3,
+          "duration": 91
+        }
       },
       {
         "tag": "#9VLL0CLJP",
@@ -145,9 +171,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eQSzM8cnGT_etMxBuxLw2V_gwcihakGw4M1Pen48Sts.png"
     },
     "clanLevel": 15,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 4,
+    "destructionPercentage": 11.666667,
     "members": [
       {
         "tag": "#QJRRVJJP8",
@@ -161,6 +187,24 @@
         "name": "Tanak_kalon",
         "townhallLevel": 16,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#LQVVGPRU0",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 3,
+            "duration": 91
+          },
+          {
+            "attackerTag": "#LQVVGPRU0",
+            "defenderTag": "#9JQP9VUPY",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 4,
+            "duration": 99
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YCQ98GC88",
@@ -246,7 +290,15 @@
         "name": "Phantom",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2QPGRGG9J",
+          "defenderTag": "#QPLJ002PP",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 2,
+          "duration": 95
+        }
       },
       {
         "tag": "#GLP2GY2RC",
