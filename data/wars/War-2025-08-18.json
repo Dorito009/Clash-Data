@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 9,
-    "stars": 18,
-    "destructionPercentage": 42.466667,
+    "attacks": 10,
+    "stars": 19,
+    "destructionPercentage": 45.6,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -201,6 +201,16 @@
         "name": "Jipperish",
         "townhallLevel": 15,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9VLL0CLJP",
+            "defenderTag": "#GPUJ0QG8G",
+            "stars": 1,
+            "destructionPercentage": 47,
+            "order": 25,
+            "duration": 111
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLP2GY2RC",
@@ -392,7 +402,15 @@
         "name": "Pankaj",
         "townhallLevel": 15,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VLL0CLJP",
+          "defenderTag": "#GPUJ0QG8G",
+          "stars": 1,
+          "destructionPercentage": 47,
+          "order": 25,
+          "duration": 111
+        }
       },
       {
         "tag": "#QRL2P0CRR",
