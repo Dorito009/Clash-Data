@@ -169,7 +169,15 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q8YVLV22Y",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 145
+        }
       },
       {
         "tag": "#YCQ98GC88",
@@ -343,9 +351,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eQSzM8cnGT_etMxBuxLw2V_gwcihakGw4M1Pen48Sts.png"
     },
     "clanLevel": 15,
-    "attacks": 15,
-    "stars": 36,
-    "destructionPercentage": 84.066666,
+    "attacks": 16,
+    "stars": 39,
+    "destructionPercentage": 90.73333,
     "members": [
       {
         "tag": "#QJRRVJJP8",
@@ -567,6 +575,16 @@
         "name": "bubu gamer",
         "townhallLevel": 13,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Q8YVLV22Y",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y8LVCLUP2",
