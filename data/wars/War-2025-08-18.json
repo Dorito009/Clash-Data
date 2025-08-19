@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 11,
-    "stars": 21,
-    "destructionPercentage": 49.066666,
+    "attacks": 13,
+    "stars": 22,
+    "destructionPercentage": 52.866665,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -144,6 +144,24 @@
         "name": "123lucas123",
         "townhallLevel": 16,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#GY9P9V20Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 141
+          },
+          {
+            "attackerTag": "#9JQP9VUPY",
+            "defenderTag": "#LQVVGPRU0",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 32,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LQVVGPRU0",
@@ -411,14 +429,14 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YCQ98GC88",
+          "attackerTag": "#9JQP9VUPY",
           "defenderTag": "#LQVVGPRU0",
           "stars": 2,
-          "destructionPercentage": 85,
-          "order": 1,
-          "duration": 151
+          "destructionPercentage": 94,
+          "order": 32,
+          "duration": 134
         }
       },
       {
@@ -484,14 +502,14 @@
             "duration": 79
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YCQ98GC88",
+          "attackerTag": "#9JQP9VUPY",
           "defenderTag": "#GY9P9V20Q",
-          "stars": 2,
-          "destructionPercentage": 52,
-          "order": 26,
-          "duration": 109
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 141
         }
       },
       {
