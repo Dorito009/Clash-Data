@@ -39,14 +39,14 @@
         "name": "davidanemoon",
         "townhallLevel": 16,
         "mapPosition": 4,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#G8CYQJPR2",
+          "attackerTag": "#29Y0LCJGC",
           "defenderTag": "#P9RGRYC9",
           "stars": 2,
-          "destructionPercentage": 78,
-          "order": 8,
-          "duration": 93
+          "destructionPercentage": 80,
+          "order": 29,
+          "duration": 180
         }
       },
       {
@@ -144,7 +144,7 @@
         "name": "123lucas123",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LQVVGPRU0",
           "defenderTag": "#9JQP9VUPY",
@@ -359,9 +359,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eQSzM8cnGT_etMxBuxLw2V_gwcihakGw4M1Pen48Sts.png"
     },
     "clanLevel": 15,
-    "attacks": 17,
+    "attacks": 19,
     "stars": 42,
-    "destructionPercentage": 97.4,
+    "destructionPercentage": 97.53333,
     "members": [
       {
         "tag": "#QJRRVJJP8",
@@ -586,6 +586,24 @@
         "name": "Gokul nagri",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#29Y0LCJGC",
+            "defenderTag": "#P9RGRYC9",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 29,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#29Y0LCJGC",
+            "defenderTag": "#9JQP9VUPY",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 30,
+            "duration": 179
+          }
+        ],
         "opponentAttacks": 0
       },
       {
