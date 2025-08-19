@@ -39,14 +39,14 @@
         "name": "davidanemoon",
         "townhallLevel": 16,
         "mapPosition": 4,
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#29Y0LCJGC",
+          "attackerTag": "#GPUJ0QG8G",
           "defenderTag": "#P9RGRYC9",
-          "stars": 2,
-          "destructionPercentage": 80,
-          "order": 29,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 91
         }
       },
       {
@@ -341,7 +341,7 @@
         "name": "Mauro",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QJRRVJJP8",
           "defenderTag": "#LRRCYRP8Q",
@@ -377,9 +377,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eQSzM8cnGT_etMxBuxLw2V_gwcihakGw4M1Pen48Sts.png"
     },
     "clanLevel": 15,
-    "attacks": 19,
-    "stars": 42,
-    "destructionPercentage": 97.53333,
+    "attacks": 21,
+    "stars": 43,
+    "destructionPercentage": 98.86667,
     "members": [
       {
         "tag": "#QJRRVJJP8",
@@ -444,6 +444,16 @@
         "name": "Pankaj",
         "townhallLevel": 15,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#GPUJ0QG8G",
+            "defenderTag": "#P9RGRYC9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 34,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9VLL0CLJP",
@@ -547,6 +557,14 @@
             "destructionPercentage": 100,
             "order": 28,
             "duration": 116
+          },
+          {
+            "attackerTag": "#GQGJ22LR8",
+            "defenderTag": "#LRRCYRP8Q",
+            "stars": 2,
+            "destructionPercentage": 63,
+            "order": 33,
+            "duration": 75
           }
         ],
         "opponentAttacks": 1,
