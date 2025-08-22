@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 4,
-    "stars": 8,
-    "destructionPercentage": 29.0,
+    "attacks": 5,
+    "stars": 11,
+    "destructionPercentage": 39.0,
     "members": [
       {
         "tag": "#QGY08PCG",
@@ -87,6 +87,16 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#Y8LVCLUP2",
+            "defenderTag": "#G8LUYPJ98",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 101
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YRRPVJJL0",
@@ -155,7 +165,15 @@
         "name": "blank0.1",
         "townhallLevel": 11,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y8LVCLUP2",
+          "defenderTag": "#G8LUYPJ98",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 101
+        }
       },
       {
         "tag": "#LLQCRUUL2",
