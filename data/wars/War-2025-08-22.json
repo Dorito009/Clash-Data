@@ -59,7 +59,15 @@
         "name": "pro",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRRPVJJL0",
+          "defenderTag": "#Y8LVCLUP2",
+          "stars": 1,
+          "destructionPercentage": 49,
+          "order": 1,
+          "duration": 73
+        }
       },
       {
         "tag": "#9VLL0CLJP",
@@ -100,9 +108,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png"
     },
     "clanLevel": 11,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 1,
+    "destructionPercentage": 4.9,
     "members": [
       {
         "tag": "#G8LUYPJ98",
@@ -151,6 +159,16 @@
         "name": "HEMANTH_KRISHNA",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#YRRPVJJL0",
+            "defenderTag": "#Y8LVCLUP2",
+            "stars": 1,
+            "destructionPercentage": 49,
+            "order": 1,
+            "duration": 73
+          }
+        ],
         "opponentAttacks": 0
       },
       {
