@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 1,
-    "stars": 2,
-    "destructionPercentage": 5.9,
+    "attacks": 3,
+    "stars": 5,
+    "destructionPercentage": 19.0,
     "members": [
       {
         "tag": "#QGY08PCG",
@@ -31,6 +31,24 @@
         "name": "Donjenso",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#890VLJCL2",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 3,
+            "duration": 126
+          },
+          {
+            "attackerTag": "#GQYQ92VLL",
+            "defenderTag": "#YJ228GQVJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 90
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -148,21 +166,29 @@
         "name": "kamalswag",
         "townhallLevel": 16,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQYQ92VLL",
+          "defenderTag": "#YJ228GQVJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 90
+        }
       },
       {
         "tag": "#890VLJCL2",
         "name": "balaji",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9VLL0CLJP",
+          "attackerTag": "#GQYQ92VLL",
           "defenderTag": "#890VLJCL2",
           "stars": 2,
-          "destructionPercentage": 59,
-          "order": 2,
-          "duration": 131
+          "destructionPercentage": 90,
+          "order": 3,
+          "duration": 126
         }
       },
       {
