@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 7,
-    "stars": 16,
-    "destructionPercentage": 58.5,
+    "attacks": 8,
+    "stars": 19,
+    "destructionPercentage": 68.5,
     "members": [
       {
         "tag": "#QGY08PCG",
@@ -81,6 +81,16 @@
         "name": "JoeyvGils",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2QPGRGG9J",
+            "defenderTag": "#G92GV0CY2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -295,7 +305,15 @@
         "name": "srini",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2QPGRGG9J",
+          "defenderTag": "#G92GV0CY2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 127
+        }
       },
       {
         "tag": "#QUP0LC8GG",
