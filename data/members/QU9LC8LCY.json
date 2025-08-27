@@ -3440,7 +3440,7 @@
       "townHallLevel": 12,
       "townHallWeaponLevel": 1,
       "expLevel": 90,
-      "trophies": 2113,
+      "trophies": 2106,
       "bestTrophies": 2210,
       "warStars": 5,
       "attackWins": 0,
@@ -3453,7 +3453,15 @@
       "donations": 0,
       "donationsReceived": 0,
       "clanCapitalContributions": 425178,
-      "league": 0
+      "league": {
+        "id": 29000010,
+        "name": "Crystal League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
+        }
+      }
     }
   }
 }
