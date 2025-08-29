@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 10,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -52,7 +52,15 @@
         "name": "jermo",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8YRGCYCVC",
+          "defenderTag": "#Q0RUPY9YP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 133
+        }
       },
       {
         "tag": "#Y8LVCLUP2",
@@ -100,9 +108,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png"
     },
     "clanLevel": 12,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 10.0,
     "members": [
       {
         "tag": "#VJ2CCGRC",
@@ -137,6 +145,16 @@
         "name": "Clasher",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8YRGCYCVC",
+            "defenderTag": "#Q0RUPY9YP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 0
       },
       {
