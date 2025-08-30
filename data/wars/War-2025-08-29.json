@@ -31,7 +31,15 @@
         "name": "Donjenso",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CQJ8YJR",
+          "defenderTag": "#GQYQ92VLL",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 6,
+          "duration": 178
+        }
       },
       {
         "tag": "#JCGVYY8U",
@@ -104,7 +112,15 @@
         "name": "Bassie",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYLJPP90R",
+          "defenderTag": "#9CCVPU9RU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 82
+        }
       },
       {
         "tag": "#Y2RULG2P2",
@@ -132,9 +148,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png"
     },
     "clanLevel": 12,
-    "attacks": 4,
-    "stars": 9,
-    "destructionPercentage": 36.7,
+    "attacks": 6,
+    "stars": 14,
+    "destructionPercentage": 54.3,
     "members": [
       {
         "tag": "#VJ2CCGRC",
@@ -196,6 +212,16 @@
         "name": "Bastiaozin",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#GYLJPP90R",
+            "defenderTag": "#9CCVPU9RU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 82
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -242,6 +268,16 @@
         "name": "MINATO\u2122",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#CQJ8YJR",
+            "defenderTag": "#GQYQ92VLL",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 6,
+            "duration": 178
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
