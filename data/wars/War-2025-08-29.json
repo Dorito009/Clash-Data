@@ -15,23 +15,23 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 7,
-    "stars": 19,
-    "destructionPercentage": 65.2,
+    "attacks": 8,
+    "stars": 21,
+    "destructionPercentage": 71.7,
     "members": [
       {
         "tag": "#88JUGLUL",
         "name": "Jeroonie_xD",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YG22ULCJ0",
+          "attackerTag": "#G9000JVCJ",
           "defenderTag": "#88JUGLUL",
-          "stars": 2,
-          "destructionPercentage": 60,
-          "order": 21,
-          "duration": 120
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "duration": 140
         }
       },
       {
@@ -160,16 +160,24 @@
             "destructionPercentage": 100,
             "order": 9,
             "duration": 171
+          },
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#G9000JVCJ",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 26,
+            "duration": 116
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#CQJ8YJR",
+          "attackerTag": "#G9000JVCJ",
           "defenderTag": "#YCQ98GC88",
           "stars": 2,
-          "destructionPercentage": 76,
-          "order": 15,
-          "duration": 121
+          "destructionPercentage": 96,
+          "order": 24,
+          "duration": 152
         }
       },
       {
@@ -246,9 +254,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png"
     },
     "clanLevel": 12,
-    "attacks": 16,
-    "stars": 28,
-    "destructionPercentage": 93.6,
+    "attacks": 18,
+    "stars": 29,
+    "destructionPercentage": 99.6,
     "members": [
       {
         "tag": "#VJ2CCGRC",
@@ -454,7 +462,33 @@
         "name": "neto",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#G9000JVCJ",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 24,
+            "duration": 152
+          },
+          {
+            "attackerTag": "#G9000JVCJ",
+            "defenderTag": "#88JUGLUL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 25,
+            "duration": 140
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCQ98GC88",
+          "defenderTag": "#G9000JVCJ",
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 26,
+          "duration": 116
+        }
       },
       {
         "tag": "#LC92CCQPU",
