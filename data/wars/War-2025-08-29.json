@@ -38,14 +38,30 @@
         "name": "de skelet boys",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LC92CCQPU",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 1,
+          "destructionPercentage": 92,
+          "order": 3,
+          "duration": 145
+        }
       },
       {
         "tag": "#2QPGRGG9J",
         "name": "JoeyvGils",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LC92CCQPU",
+          "defenderTag": "#2QPGRGG9J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 166
+        }
       },
       {
         "tag": "#Q0RUPY9YP",
@@ -108,9 +124,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png"
     },
     "clanLevel": 12,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 10.0,
+    "attacks": 3,
+    "stars": 7,
+    "destructionPercentage": 29.2,
     "members": [
       {
         "tag": "#VJ2CCGRC",
@@ -183,6 +199,24 @@
         "name": "spartacos",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#LC92CCQPU",
+            "defenderTag": "#2QPGRGG9J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 166
+          },
+          {
+            "attackerTag": "#LC92CCQPU",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 1,
+            "destructionPercentage": 92,
+            "order": 3,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 0
       },
       {
