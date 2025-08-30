@@ -31,7 +31,7 @@
         "name": "Donjenso",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#CQJ8YJR",
           "defenderTag": "#GQYQ92VLL",
@@ -126,7 +126,15 @@
             "duration": 171
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CQJ8YJR",
+          "defenderTag": "#YCQ98GC88",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 15,
+          "duration": 121
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -163,14 +171,14 @@
         "name": "T_grvn4",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#G88GUULUU",
+          "attackerTag": "#92Y8GV9J",
           "defenderTag": "#Y2RULG2P2",
-          "stars": 2,
-          "destructionPercentage": 75,
-          "order": 4,
-          "duration": 116
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 85
         }
       }
     ]
@@ -184,9 +192,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png"
     },
     "clanLevel": 12,
-    "attacks": 9,
-    "stars": 22,
-    "destructionPercentage": 75.1,
+    "attacks": 13,
+    "stars": 25,
+    "destructionPercentage": 85.2,
     "members": [
       {
         "tag": "#VJ2CCGRC",
@@ -226,6 +234,24 @@
         "name": "-Esparta City-",
         "townhallLevel": 15,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#92Y8GV9J",
+            "defenderTag": "#GQYQ92VLL",
+            "stars": 2,
+            "destructionPercentage": 63,
+            "order": 13,
+            "duration": 110
+          },
+          {
+            "attackerTag": "#92Y8GV9J",
+            "defenderTag": "#Y2RULG2P2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 85
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -307,6 +333,16 @@
         "name": "bruhhh",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#Y9JJ0C9YJ",
+            "defenderTag": "#Y2RULG2P2",
+            "stars": 1,
+            "destructionPercentage": 79,
+            "order": 12,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -354,6 +390,14 @@
             "destructionPercentage": 76,
             "order": 6,
             "duration": 178
+          },
+          {
+            "attackerTag": "#CQJ8YJR",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 15,
+            "duration": 121
           }
         ],
         "opponentAttacks": 0
