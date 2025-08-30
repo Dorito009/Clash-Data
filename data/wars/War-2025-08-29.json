@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 10.0,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -98,6 +98,16 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#YG22ULCJ0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 171
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -105,7 +115,15 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#VJ2CCGRC",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 97
+        }
       },
       {
         "tag": "#9CCVPU9RU",
@@ -148,15 +166,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png"
     },
     "clanLevel": 12,
-    "attacks": 7,
-    "stars": 16,
-    "destructionPercentage": 55.1,
+    "attacks": 8,
+    "stars": 19,
+    "destructionPercentage": 65.1,
     "members": [
       {
         "tag": "#VJ2CCGRC",
         "name": "JvNogueirA",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#VJ2CCGRC",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 97
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -171,7 +199,15 @@
         "name": "John Ren",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCQ98GC88",
+          "defenderTag": "#YG22ULCJ0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 171
+        }
       },
       {
         "tag": "#G88GUULUU",
