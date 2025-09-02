@@ -3671,10 +3671,10 @@
       }
     },
     "2025-09-02": {
-      "townHallLevel": 14,
-      "townHallWeaponLevel": 5,
+      "townHallLevel": 15,
+      "townHallWeaponLevel": 1,
       "expLevel": 182,
-      "trophies": 4637,
+      "trophies": 4659,
       "bestTrophies": 5121,
       "warStars": 880,
       "attackWins": 0,
@@ -3685,9 +3685,17 @@
       "role": "admin",
       "warPreference": "in",
       "donations": 540,
-      "donationsReceived": 441,
+      "donationsReceived": 510,
       "clanCapitalContributions": 491894,
-      "league": 0
+      "league": {
+        "id": 29000020,
+        "name": "Titan League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
+        }
+      }
     }
   }
 }
