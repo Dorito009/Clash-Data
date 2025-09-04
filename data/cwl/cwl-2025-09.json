@@ -21,9 +21,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/rgIG03KqKPOjTMTo5pbz_QxyIXwOhL_ZlBQDvgknxLU.png"
         },
         "clanLevel": 26,
-        "attacks": 1,
-        "stars": 0,
-        "destructionPercentage": 0.3333333333333333,
+        "attacks": 2,
+        "stars": 1,
+        "destructionPercentage": 3.4,
         "members": [
           {
             "tag": "#2JV2LQRJG",
@@ -98,6 +98,16 @@
             "name": "ivanjosh",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#2YR02R9RP",
+                "defenderTag": "#88JUGLUL",
+                "stars": 1,
+                "destructionPercentage": 46,
+                "order": 6,
+                "duration": 91
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -199,7 +209,15 @@
             "name": "Jeroonie_xD",
             "townhallLevel": 17,
             "mapPosition": 1,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2YR02R9RP",
+              "defenderTag": "#88JUGLUL",
+              "stars": 1,
+              "destructionPercentage": 46,
+              "order": 6,
+              "duration": 91
+            }
           },
           {
             "tag": "#GQYQ92VLL",
@@ -659,9 +677,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/rgIG03KqKPOjTMTo5pbz_QxyIXwOhL_ZlBQDvgknxLU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/rgIG03KqKPOjTMTo5pbz_QxyIXwOhL_ZlBQDvgknxLU.png"
           },
-          "stars": 0,
-          "attacks": 1,
-          "destructionPercentage": 0.3333333333333333
+          "stars": 1,
+          "attacks": 2,
+          "destructionPercentage": 3.4
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
