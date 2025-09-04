@@ -138,7 +138,15 @@
             "name": "bucks II",
             "townhallLevel": 15,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GQYQ92VLL",
+              "defenderTag": "#2C292QJ0U",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 10,
+              "duration": 96
+            }
           },
           {
             "tag": "#Q8QJVVGQ9",
@@ -221,9 +229,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 5,
-        "stars": 14,
-        "destructionPercentage": 31.066666666666666,
+        "attacks": 6,
+        "stars": 17,
+        "destructionPercentage": 37.733333333333334,
         "members": [
           {
             "tag": "#QGY08PCG",
@@ -252,6 +260,16 @@
             "name": "Donjenso",
             "townhallLevel": 15,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#GQYQ92VLL",
+                "defenderTag": "#2C292QJ0U",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 10,
+                "duration": 96
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -689,9 +707,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png"
           },
-          "stars": 10,
-          "attacks": 4,
-          "destructionPercentage": 25.2
+          "stars": 12,
+          "attacks": 5,
+          "destructionPercentage": 31.133333333333333
         }
       },
       {
@@ -704,9 +722,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/LUDbusOEMVLDJSVzcG9LBA3BpVY7YpQBs2Jn4hncQZw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/LUDbusOEMVLDJSVzcG9LBA3BpVY7YpQBs2Jn4hncQZw.png"
           },
-          "stars": 27,
-          "attacks": 10,
-          "destructionPercentage": 60.0
+          "stars": 33,
+          "attacks": 12,
+          "destructionPercentage": 73.33333333333333
         },
         "clan2": {
           "tag": "#29UCCLV0P",
@@ -716,9 +734,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/XCQaP_lyQv4IXgcSwjA7uebBFmqOzlpglefjy3hymyE.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/XCQaP_lyQv4IXgcSwjA7uebBFmqOzlpglefjy3hymyE.png"
           },
-          "stars": 7,
-          "attacks": 5,
-          "destructionPercentage": 18.866666666666667
+          "stars": 9,
+          "attacks": 6,
+          "destructionPercentage": 22.733333333333334
         }
       },
       {
@@ -743,9 +761,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 14,
-          "attacks": 5,
-          "destructionPercentage": 31.066666666666666
+          "stars": 17,
+          "attacks": 6,
+          "destructionPercentage": 37.733333333333334
         }
       },
       {
@@ -758,9 +776,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png"
           },
-          "stars": 12,
-          "attacks": 6,
-          "destructionPercentage": 34.13333333333333
+          "stars": 22,
+          "attacks": 10,
+          "destructionPercentage": 58.46666666666667
         },
         "clan2": {
           "tag": "#YYLQVRJJ",
