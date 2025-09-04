@@ -702,9 +702,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/LUDbusOEMVLDJSVzcG9LBA3BpVY7YpQBs2Jn4hncQZw.png"
         },
         "clanLevel": 19,
-        "attacks": 4,
-        "stars": 12,
-        "destructionPercentage": 26.666666666666668,
+        "attacks": 6,
+        "stars": 17,
+        "destructionPercentage": 37.8,
         "members": [
           {
             "tag": "#LY9GYQV2",
@@ -718,6 +718,16 @@
             "name": "f4bz",
             "townhallLevel": 14,
             "mapPosition": 31,
+            "attacks": [
+              {
+                "attackerTag": "#QLPY2JRRU",
+                "defenderTag": "#Y8LVCLUP2",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 6,
+                "duration": 159
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -795,6 +805,16 @@
             "name": "Mr Urpils",
             "townhallLevel": 17,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#P8QQPRL0Q",
+                "defenderTag": "#PP9R8LJGG",
+                "stars": 2,
+                "destructionPercentage": 67,
+                "order": 7,
+                "duration": 90
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -937,7 +957,15 @@
             "name": "NielsTheKiller",
             "townhallLevel": 15,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#P8QQPRL0Q",
+              "defenderTag": "#PP9R8LJGG",
+              "stars": 2,
+              "destructionPercentage": 67,
+              "order": 7,
+              "duration": 90
+            }
           },
           {
             "tag": "#9JQP9VUPY",
@@ -951,7 +979,15 @@
             "name": "pro",
             "townhallLevel": 13,
             "mapPosition": 34,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QLPY2JRRU",
+              "defenderTag": "#Y8LVCLUP2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 6,
+              "duration": 159
+            }
           },
           {
             "tag": "#YCQ98GC88",
@@ -1423,9 +1459,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/LUDbusOEMVLDJSVzcG9LBA3BpVY7YpQBs2Jn4hncQZw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/LUDbusOEMVLDJSVzcG9LBA3BpVY7YpQBs2Jn4hncQZw.png"
           },
-          "stars": 12,
-          "attacks": 4,
-          "destructionPercentage": 26.666666666666668
+          "stars": 17,
+          "attacks": 6,
+          "destructionPercentage": 37.8
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
