@@ -1311,9 +1311,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 2,
-        "stars": 3,
-        "destructionPercentage": 10.666666666666666,
+        "attacks": 3,
+        "stars": 5,
+        "destructionPercentage": 16.0,
         "members": [
           {
             "tag": "#QGY08PCG",
@@ -1403,6 +1403,16 @@
             "name": "Jipperish",
             "townhallLevel": 15,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#9VLL0CLJP",
+                "defenderTag": "#PRCYQ029",
+                "stars": 2,
+                "destructionPercentage": 80,
+                "order": 3,
+                "duration": 132
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1553,7 +1563,15 @@
             "name": "chimtonhatxomvt",
             "townhallLevel": 14,
             "mapPosition": 13,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9VLL0CLJP",
+              "defenderTag": "#PRCYQ029",
+              "stars": 2,
+              "destructionPercentage": 80,
+              "order": 3,
+              "duration": 132
+            }
           },
           {
             "tag": "#9VPUQJ9LJ",
@@ -2142,9 +2160,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 3,
-          "attacks": 2,
-          "destructionPercentage": 10.666666666666666
+          "stars": 5,
+          "attacks": 3,
+          "destructionPercentage": 16.0
         },
         "clan2": {
           "tag": "#YYLQVRJJ",
