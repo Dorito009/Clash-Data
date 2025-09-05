@@ -688,7 +688,7 @@
       "warStartTime": "20250903T182537.000Z"
     },
     {
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "preparationStartTime": "20250903T183301.000Z",
       "startTime": "20250904T183257.000Z",
@@ -1296,7 +1296,7 @@
       "warStartTime": "20250904T183257.000Z"
     },
     {
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "preparationStartTime": "20250904T185829.000Z",
       "startTime": "20250905T185827.000Z",
@@ -1310,9 +1310,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 1,
+        "destructionPercentage": 4.2,
         "members": [
           {
             "tag": "#QGY08PCG",
@@ -1375,6 +1375,16 @@
             "name": "Peter Pannekoek",
             "townhallLevel": 17,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#YCQ98GC88",
+                "defenderTag": "#UYPR9ULC",
+                "stars": 1,
+                "destructionPercentage": 63,
+                "order": 1,
+                "duration": 116
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1439,7 +1449,15 @@
             "name": "Ben",
             "townhallLevel": 17,
             "mapPosition": 2,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YCQ98GC88",
+              "defenderTag": "#UYPR9ULC",
+              "stars": 1,
+              "destructionPercentage": 63,
+              "order": 1,
+              "duration": 116
+            }
           },
           {
             "tag": "#2GYPYU8P",
@@ -1720,9 +1738,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/XCQaP_lyQv4IXgcSwjA7uebBFmqOzlpglefjy3hymyE.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/XCQaP_lyQv4IXgcSwjA7uebBFmqOzlpglefjy3hymyE.png"
           },
-          "stars": 18,
-          "attacks": 13,
-          "destructionPercentage": 49.666666666666664
+          "stars": 19,
+          "attacks": 14,
+          "destructionPercentage": 53.93333333333333
         },
         "clan2": {
           "tag": "#2LGYGQJUP",
@@ -1803,9 +1821,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 6,
+          "attacks": 2,
+          "destructionPercentage": 13.333333333333334
         },
         "clan2": {
           "tag": "#29UCCLV0P",
@@ -1842,9 +1860,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         }
       },
       {
@@ -1857,9 +1875,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 1,
+          "attacks": 1,
+          "destructionPercentage": 4.2
         },
         "clan2": {
           "tag": "#YYLQVRJJ",
