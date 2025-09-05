@@ -711,7 +711,15 @@
             "name": "Melandia",
             "townhallLevel": 16,
             "mapPosition": 12,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#UVPQ9Y8U",
+              "defenderTag": "#LY9GYQV2",
+              "stars": 2,
+              "destructionPercentage": 66,
+              "order": 15,
+              "duration": 108
+            }
           },
           {
             "tag": "#QLPY2JRRU",
@@ -843,7 +851,15 @@
                 "duration": 90
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PP9R8LJGG",
+              "defenderTag": "#P8QQPRL0Q",
+              "stars": 2,
+              "destructionPercentage": 83,
+              "order": 16,
+              "duration": 111
+            }
           },
           {
             "tag": "#22CGJJ8CG",
@@ -956,9 +972,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 3,
-        "stars": 3,
-        "destructionPercentage": 14.8,
+        "attacks": 5,
+        "stars": 7,
+        "destructionPercentage": 24.733333333333334,
         "members": [
           {
             "tag": "#QGY08PCG",
@@ -1057,6 +1073,16 @@
             "name": "NielsTheKiller",
             "townhallLevel": 15,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#PP9R8LJGG",
+                "defenderTag": "#P8QQPRL0Q",
+                "stars": 2,
+                "destructionPercentage": 83,
+                "order": 16,
+                "duration": 111
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#P8QQPRL0Q",
@@ -1144,6 +1170,16 @@
             "name": "JOC DE FAKKEL",
             "townhallLevel": 15,
             "mapPosition": 11,
+            "attacks": [
+              {
+                "attackerTag": "#UVPQ9Y8U",
+                "defenderTag": "#LY9GYQV2",
+                "stars": 2,
+                "destructionPercentage": 66,
+                "order": 15,
+                "duration": 108
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1597,9 +1633,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 3,
-          "attacks": 3,
-          "destructionPercentage": 14.8
+          "stars": 7,
+          "attacks": 5,
+          "destructionPercentage": 24.733333333333334
         }
       },
       {
