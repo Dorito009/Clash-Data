@@ -2,20 +2,20 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 21685,
+  "capitalTotalLoot": 66096,
   "raidsCompleted": 0,
-  "totalAttacks": 8,
-  "enemyDistrictsDestroyed": 2,
+  "totalAttacks": 18,
+  "enemyDistrictsDestroyed": 6,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#CV0GGCCU",
       "name": "Falcon_Fury",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 6316
+      "capitalResourcesLooted": 19658
     },
     {
       "tag": "#Q9P2J02U",
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15369
+    },
+    {
+      "tag": "#YRP99RVQR",
+      "name": "ThomasOnCarry",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 31069
     }
   ],
   "attackLog": [],
