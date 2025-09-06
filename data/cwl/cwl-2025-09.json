@@ -1866,9 +1866,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 2,
-        "stars": 3,
-        "destructionPercentage": 7.8,
+        "attacks": 4,
+        "stars": 8,
+        "destructionPercentage": 20.8,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -1927,6 +1927,16 @@
             "name": "NielsTheKiller",
             "townhallLevel": 15,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#PP9R8LJGG",
+                "defenderTag": "#QPVL8YCUV",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 3,
+                "duration": 133
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1934,6 +1944,16 @@
             "name": "123lucas123",
             "townhallLevel": 16,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#9JQP9VUPY",
+                "defenderTag": "#YJQ80RG2Q",
+                "stars": 2,
+                "destructionPercentage": 95,
+                "order": 4,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2073,7 +2093,15 @@
             "name": "Ronaldo \u00a9\u00ae7 \u2b50\u2714",
             "townhallLevel": 16,
             "mapPosition": 6,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9JQP9VUPY",
+              "defenderTag": "#YJQ80RG2Q",
+              "stars": 2,
+              "destructionPercentage": 95,
+              "order": 4,
+              "duration": 180
+            }
           },
           {
             "tag": "#PLL9QYLQU",
@@ -2122,7 +2150,15 @@
             "name": "Roshan soni",
             "townhallLevel": 16,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PP9R8LJGG",
+              "defenderTag": "#QPVL8YCUV",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 3,
+              "duration": 133
+            }
           },
           {
             "tag": "#8YU9VJP98",
@@ -2807,9 +2843,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 3,
-          "attacks": 2,
-          "destructionPercentage": 7.8
+          "stars": 8,
+          "attacks": 4,
+          "destructionPercentage": 20.8
         },
         "clan2": {
           "tag": "#2LGYGQJUP",
