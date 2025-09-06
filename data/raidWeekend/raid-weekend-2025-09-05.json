@@ -376,5 +376,338 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#2LRGU88PP",
+        "name": "The Few 2",
+        "level": 19,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/dtf0IZVH3vXqUymB2P3-DFfvpr4UcD7FVP_Bt7886Ag.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/dtf0IZVH3vXqUymB2P3-DFfvpr4UcD7FVP_Bt7886Ag.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/dtf0IZVH3vXqUymB2P3-DFfvpr4UcD7FVP_Bt7886Ag.png"
+        }
+      },
+      "attackCount": 27,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13336,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QY8QV8L9L",
+                "name": "Paco"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#220QUVYRJ",
+                "name": "fraronat"
+              },
+              "destructionPercent": 92,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#220QUVYRJ",
+                "name": "fraronat"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#220QUVYRJ",
+                "name": "fraronat"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#220QUVYRJ",
+                "name": "fraronat"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10730,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RPPPGG8Q",
+                "name": "Jhon Stark"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQRPY9UG9",
+                "name": "rahul"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QQRPY9UG9",
+                "name": "rahul"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9319,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RPPPGG8Q",
+                "name": "Jhon Stark"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8RPPPGG8Q",
+                "name": "Jhon Stark"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8RPPPGG8Q",
+                "name": "Jhon Stark"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9525,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QP9LYJQL9",
+                "name": "Fujiisan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QP9LYJQL9",
+                "name": "Fujiisan"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QP9LYJQL9",
+                "name": "Fujiisan"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9363,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RPPPGG8Q",
+                "name": "Jhon Stark"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8RPPPGG8Q",
+                "name": "Jhon Stark"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9055,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#220QUVYRJ",
+                "name": "fraronat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQRPY9UG9",
+                "name": "rahul"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QQRPY9UG9",
+                "name": "rahul"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9357,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#220QUVYRJ",
+                "name": "fraronat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQRPY9UG9",
+                "name": "rahul"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2Q0RJJ9U0",
+                "name": "Jasiiee"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9184,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2Q0RJJ9U0",
+                "name": "Jasiiee"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2Q0RJJ9U0",
+                "name": "Jasiiee"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2Q0RJJ9U0",
+                "name": "Jasiiee"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8800,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2Q0RJJ9U0",
+                "name": "Jasiiee"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2Q0RJJ9U0",
+                "name": "Jasiiee"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
