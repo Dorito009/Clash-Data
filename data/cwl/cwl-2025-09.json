@@ -1866,9 +1866,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 4,
-        "stars": 8,
-        "destructionPercentage": 20.8,
+        "attacks": 5,
+        "stars": 10,
+        "destructionPercentage": 25.933333333333334,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -1978,6 +1978,16 @@
             "name": "Jipperish",
             "townhallLevel": 15,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#9VLL0CLJP",
+                "defenderTag": "#YPRC9QYL0",
+                "stars": 2,
+                "destructionPercentage": 77,
+                "order": 5,
+                "duration": 148
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2122,7 +2132,15 @@
             "name": "partik boss",
             "townhallLevel": 15,
             "mapPosition": 14,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9VLL0CLJP",
+              "defenderTag": "#YPRC9QYL0",
+              "stars": 2,
+              "destructionPercentage": 77,
+              "order": 5,
+              "duration": 148
+            }
           },
           {
             "tag": "#YRPU89V29",
@@ -2843,9 +2861,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 8,
-          "attacks": 4,
-          "destructionPercentage": 20.8
+          "stars": 10,
+          "attacks": 5,
+          "destructionPercentage": 25.933333333333334
         },
         "clan2": {
           "tag": "#2LGYGQJUP",
