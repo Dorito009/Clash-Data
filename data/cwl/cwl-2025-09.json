@@ -1311,9 +1311,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 4,
-        "stars": 8,
-        "destructionPercentage": 22.666666666666668,
+        "attacks": 6,
+        "stars": 12,
+        "destructionPercentage": 35.93333333333333,
         "members": [
           {
             "tag": "#QGY08PCG",
@@ -1372,7 +1372,15 @@
             "name": "NielsTheKiller",
             "townhallLevel": 15,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#P0RLGL9VL",
+              "defenderTag": "#PP9R8LJGG",
+              "stars": 0,
+              "destructionPercentage": 45,
+              "order": 7,
+              "duration": 107
+            }
           },
           {
             "tag": "#9JQP9VUPY",
@@ -1445,6 +1453,16 @@
             "name": "kut IuI",
             "townhallLevel": 15,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#QQUGCV8Y0",
+                "defenderTag": "#U2CJ0PJQ",
+                "stars": 1,
+                "destructionPercentage": 99,
+                "order": 6,
+                "duration": 120
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1452,6 +1470,16 @@
             "name": "Mauro",
             "townhallLevel": 15,
             "mapPosition": 8,
+            "attacks": [
+              {
+                "attackerTag": "#LRRCYRP8Q",
+                "defenderTag": "#2GYPYU8P",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 8,
+                "duration": 103
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1479,9 +1507,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/TTQHkimTh4SgpKkEu1R3VSHoDoquUSqCH5xS5q_aqqo.png"
         },
         "clanLevel": 20,
-        "attacks": 1,
+        "attacks": 2,
         "stars": 3,
-        "destructionPercentage": 6.666666666666667,
+        "destructionPercentage": 9.666666666666666,
         "members": [
           {
             "tag": "#UYPR9ULC",
@@ -1513,7 +1541,15 @@
             "name": "kientiu",
             "townhallLevel": 15,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LRRCYRP8Q",
+              "defenderTag": "#2GYPYU8P",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
+              "duration": 103
+            }
           },
           {
             "tag": "#P8JJ8LJUR",
@@ -1563,7 +1599,15 @@
             "name": "Mr.\u2122C\u1edbp\u2122",
             "townhallLevel": 15,
             "mapPosition": 10,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QQUGCV8Y0",
+              "defenderTag": "#U2CJ0PJQ",
+              "stars": 1,
+              "destructionPercentage": 99,
+              "order": 6,
+              "duration": 120
+            }
           },
           {
             "tag": "#92P829CPJ",
@@ -1628,6 +1672,16 @@
             "name": "tabin",
             "townhallLevel": 15,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#P0RLGL9VL",
+                "defenderTag": "#PP9R8LJGG",
+                "stars": 0,
+                "destructionPercentage": 45,
+                "order": 7,
+                "duration": 107
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -2127,9 +2181,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/LUDbusOEMVLDJSVzcG9LBA3BpVY7YpQBs2Jn4hncQZw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/LUDbusOEMVLDJSVzcG9LBA3BpVY7YpQBs2Jn4hncQZw.png"
           },
-          "stars": 12,
-          "attacks": 5,
-          "destructionPercentage": 30.133333333333333
+          "stars": 18,
+          "attacks": 7,
+          "destructionPercentage": 43.46666666666667
         }
       },
       {
@@ -2169,9 +2223,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png"
           },
-          "stars": 19,
-          "attacks": 9,
-          "destructionPercentage": 52.333333333333336
+          "stars": 20,
+          "attacks": 10,
+          "destructionPercentage": 57.93333333333333
         },
         "clan2": {
           "tag": "#2LGYGQJUP",
@@ -2196,9 +2250,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 8,
-          "attacks": 4,
-          "destructionPercentage": 22.666666666666668
+          "stars": 12,
+          "attacks": 6,
+          "destructionPercentage": 35.93333333333333
         },
         "clan2": {
           "tag": "#YYLQVRJJ",
@@ -2209,8 +2263,8 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/TTQHkimTh4SgpKkEu1R3VSHoDoquUSqCH5xS5q_aqqo.png"
           },
           "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "attacks": 2,
+          "destructionPercentage": 9.666666666666666
         }
       }
     ],
