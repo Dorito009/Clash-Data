@@ -1866,9 +1866,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 5,
-        "stars": 10,
-        "destructionPercentage": 25.933333333333334,
+        "attacks": 6,
+        "stars": 12,
+        "destructionPercentage": 31.4,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -1995,6 +1995,16 @@
             "name": "JOC DE FAKKEL",
             "townhallLevel": 15,
             "mapPosition": 11,
+            "attacks": [
+              {
+                "attackerTag": "#UVPQ9Y8U",
+                "defenderTag": "#8YU9VJP98",
+                "stars": 2,
+                "destructionPercentage": 82,
+                "order": 6,
+                "duration": 136
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2009,7 +2019,15 @@
             "name": "Mauro",
             "townhallLevel": 15,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q0P9YYQQG",
+              "defenderTag": "#LRRCYRP8Q",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "duration": 155
+            }
           },
           {
             "tag": "#8QLPGU0VL",
@@ -2036,9 +2054,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png"
         },
         "clanLevel": 22,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 3,
+        "destructionPercentage": 6.666666666666667,
         "members": [
           {
             "tag": "#YQQGV9J9V",
@@ -2154,6 +2172,16 @@
             "name": "Ignite",
             "townhallLevel": 15,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#Q0P9YYQQG",
+                "defenderTag": "#LRRCYRP8Q",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 7,
+                "duration": 155
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2183,7 +2211,15 @@
             "name": "Chekuthan",
             "townhallLevel": 15,
             "mapPosition": 13,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#UVPQ9Y8U",
+              "defenderTag": "#8YU9VJP98",
+              "stars": 2,
+              "destructionPercentage": 82,
+              "order": 6,
+              "duration": 136
+            }
           }
         ]
       },
@@ -2792,9 +2828,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png"
           },
-          "stars": 18,
-          "attacks": 6,
-          "destructionPercentage": 40.0
+          "stars": 21,
+          "attacks": 7,
+          "destructionPercentage": 46.666666666666664
         }
       },
       {
@@ -2834,9 +2870,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/rgIG03KqKPOjTMTo5pbz_QxyIXwOhL_ZlBQDvgknxLU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/rgIG03KqKPOjTMTo5pbz_QxyIXwOhL_ZlBQDvgknxLU.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 6,
+          "attacks": 2,
+          "destructionPercentage": 13.333333333333334
         },
         "clan2": {
           "tag": "#29UCCLV0P",
@@ -2861,9 +2897,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 10,
-          "attacks": 5,
-          "destructionPercentage": 25.933333333333334
+          "stars": 12,
+          "attacks": 6,
+          "destructionPercentage": 31.4
         },
         "clan2": {
           "tag": "#2LGYGQJUP",
@@ -2873,9 +2909,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         }
       }
     ],
