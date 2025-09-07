@@ -1404,6 +1404,330 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#2LLPU9RJ9",
+        "name": "Termokimie",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/E9gyvxdQWstObU1cwlEAA1wnVhQ7P2hs9VxYdMaFEKI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/E9gyvxdQWstObU1cwlEAA1wnVhQ7P2hs9VxYdMaFEKI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/E9gyvxdQWstObU1cwlEAA1wnVhQ7P2hs9VxYdMaFEKI.png"
+        }
+      },
+      "attackCount": 26,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13159,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPGYP0Q92",
+                "name": "BBC-AW"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GPGYP0Q92",
+                "name": "BBC-AW"
+              },
+              "destructionPercent": 85,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GPGYP0Q92",
+                "name": "BBC-AW"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GPGYP0Q92",
+                "name": "BBC-AW"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10553,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGQGCCQLU",
+                "name": "yuda jr"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGQGCCQLU",
+                "name": "yuda jr"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9361,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPGYP0Q92",
+                "name": "BBC-AW"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGQGCCQLU",
+                "name": "yuda jr"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9540,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPGYP0Q92",
+                "name": "BBC-AW"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGQGCCQLU",
+                "name": "yuda jr"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10065,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9CRULGV0",
+                "name": "BEBY RARA(:"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9CRULGV0",
+                "name": "BEBY RARA(:"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GPL2L8QJG",
+                "name": "Xyrzaa"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 9634,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G88QL8URP",
+                "name": "n_st1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G88QL8URP",
+                "name": "n_st1"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G88QL8URP",
+                "name": "n_st1"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G88QL8URP",
+                "name": "n_st1"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GPL2L8QJG",
+                "name": "Xyrzaa"
+              },
+              "destructionPercent": 71,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QQJ9YU20P",
+                "name": "Arthur"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9147,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGQGCCQLU",
+                "name": "yuda jr"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G88QL8URP",
+                "name": "n_st1"
+              },
+              "destructionPercent": 66,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G88QL8URP",
+                "name": "n_st1"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9769,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9CRULGV0",
+                "name": "BEBY RARA(:"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GPL2L8QJG",
+                "name": "Xyrzaa"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9792,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9CRULGV0",
+                "name": "BEBY RARA(:"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9CRULGV0",
+                "name": "BEBY RARA(:"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            }
+          ]
+        }
+      ]
     }
   ]
 }
