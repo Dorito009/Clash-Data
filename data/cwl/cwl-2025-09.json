@@ -1947,7 +1947,15 @@
                 "duration": 109
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#JPRJVPPV",
+              "defenderTag": "#2QPGRGG9J",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 20,
+              "duration": 98
+            }
           },
           {
             "tag": "#Q0RUPY9YP",
@@ -2154,9 +2162,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png"
         },
         "clanLevel": 22,
-        "attacks": 11,
-        "stars": 31,
-        "destructionPercentage": 72.46666666666667,
+        "attacks": 12,
+        "stars": 34,
+        "destructionPercentage": 79.13333333333334,
         "members": [
           {
             "tag": "#YQQGV9J9V",
@@ -2246,6 +2254,16 @@
             "name": "Pradip",
             "townhallLevel": 15,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#JPRJVPPV",
+                "defenderTag": "#2QPGRGG9J",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 20,
+                "duration": 98
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#2QPGRGG9J",
@@ -3032,9 +3050,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png"
           },
-          "stars": 25,
-          "attacks": 9,
-          "destructionPercentage": 56.46666666666667
+          "stars": 28,
+          "attacks": 10,
+          "destructionPercentage": 63.13333333333333
         },
         "clan2": {
           "tag": "#R28YPYJ0",
@@ -3059,9 +3077,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/LUDbusOEMVLDJSVzcG9LBA3BpVY7YpQBs2Jn4hncQZw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/LUDbusOEMVLDJSVzcG9LBA3BpVY7YpQBs2Jn4hncQZw.png"
           },
-          "stars": 31,
-          "attacks": 11,
-          "destructionPercentage": 69.4
+          "stars": 36,
+          "attacks": 13,
+          "destructionPercentage": 81.2
         },
         "clan2": {
           "tag": "#YYLQVRJJ",
@@ -3071,9 +3089,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/TTQHkimTh4SgpKkEu1R3VSHoDoquUSqCH5xS5q_aqqo.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/TTQHkimTh4SgpKkEu1R3VSHoDoquUSqCH5xS5q_aqqo.png"
           },
-          "stars": 3,
-          "attacks": 2,
-          "destructionPercentage": 10.266666666666667
+          "stars": 5,
+          "attacks": 3,
+          "destructionPercentage": 15.2
         }
       },
       {
@@ -3086,9 +3104,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/rgIG03KqKPOjTMTo5pbz_QxyIXwOhL_ZlBQDvgknxLU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/rgIG03KqKPOjTMTo5pbz_QxyIXwOhL_ZlBQDvgknxLU.png"
           },
-          "stars": 15,
-          "attacks": 5,
-          "destructionPercentage": 33.333333333333336
+          "stars": 39,
+          "attacks": 13,
+          "destructionPercentage": 86.66666666666667
         },
         "clan2": {
           "tag": "#29UCCLV0P",
@@ -3125,9 +3143,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png"
           },
-          "stars": 31,
-          "attacks": 11,
-          "destructionPercentage": 72.46666666666667
+          "stars": 34,
+          "attacks": 12,
+          "destructionPercentage": 79.13333333333334
         }
       }
     ],
