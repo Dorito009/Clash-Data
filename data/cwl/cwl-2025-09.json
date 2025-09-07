@@ -2622,7 +2622,15 @@
             "name": "oj",
             "townhallLevel": 15,
             "mapPosition": 21,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Y2RULG2P2",
+              "defenderTag": "#G0UYG8JPU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 4,
+              "duration": 112
+            }
           },
           {
             "tag": "#YQG9C8R2V",
@@ -2677,9 +2685,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 1,
-        "stars": 3,
-        "destructionPercentage": 6.666666666666667,
+        "attacks": 2,
+        "stars": 6,
+        "destructionPercentage": 13.333333333333334,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2810,6 +2818,16 @@
             "name": "T_grvn4",
             "townhallLevel": 13,
             "mapPosition": 33,
+            "attacks": [
+              {
+                "attackerTag": "#Y2RULG2P2",
+                "defenderTag": "#G0UYG8JPU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 4,
+                "duration": 112
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -3610,9 +3628,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 6,
+          "attacks": 2,
+          "destructionPercentage": 13.333333333333334
         }
       }
     ],
