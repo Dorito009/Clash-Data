@@ -2586,7 +2586,15 @@
                 "duration": 117
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9VLL0CLJP",
+              "defenderTag": "#PQJLJJCUP",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 5,
+              "duration": 128
+            }
           },
           {
             "tag": "#Q2VYG0ULU",
@@ -2685,9 +2693,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 2,
-        "stars": 6,
-        "destructionPercentage": 13.333333333333334,
+        "attacks": 3,
+        "stars": 9,
+        "destructionPercentage": 20.0,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2767,6 +2775,16 @@
             "name": "Jipperish",
             "townhallLevel": 15,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#9VLL0CLJP",
+                "defenderTag": "#PQJLJJCUP",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 5,
+                "duration": 128
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#9G8QPJCRL",
@@ -3628,9 +3646,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 6,
-          "attacks": 2,
-          "destructionPercentage": 13.333333333333334
+          "stars": 9,
+          "attacks": 3,
+          "destructionPercentage": 20.0
         }
       }
     ],
