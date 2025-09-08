@@ -3246,9 +3246,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png"
         },
         "clanLevel": 10,
-        "attacks": 2,
-        "stars": 5,
-        "destructionPercentage": 12.4,
+        "attacks": 3,
+        "stars": 8,
+        "destructionPercentage": 19.066666666666666,
         "members": [
           {
             "tag": "#8RUUQ222U",
@@ -3279,6 +3279,16 @@
             "name": "YASH2651",
             "townhallLevel": 14,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#PU92LJ8LQ",
+                "defenderTag": "#2QPGRGG9J",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 4,
+                "duration": 102
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3447,7 +3457,15 @@
             "name": "JoeyvGils",
             "townhallLevel": 14,
             "mapPosition": 24,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PU92LJ8LQ",
+              "defenderTag": "#2QPGRGG9J",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 4,
+              "duration": 102
+            }
           },
           {
             "tag": "#Q0RUPY9YP",
@@ -4344,9 +4362,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png"
           },
-          "stars": 5,
-          "attacks": 2,
-          "destructionPercentage": 12.4
+          "stars": 8,
+          "attacks": 3,
+          "destructionPercentage": 19.066666666666666
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
