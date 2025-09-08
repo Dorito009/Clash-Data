@@ -2529,9 +2529,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png"
         },
         "clanLevel": 19,
-        "attacks": 9,
-        "stars": 22,
-        "destructionPercentage": 58.4,
+        "attacks": 11,
+        "stars": 28,
+        "destructionPercentage": 71.73333333333333,
         "members": [
           {
             "tag": "#9G8QPJCRL",
@@ -2562,6 +2562,16 @@
             "name": "B\u0141\u00c2\u010c\u0136\u015a\u0164\u00c3\u0154",
             "townhallLevel": 15,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#Q00CRLC2V",
+                "defenderTag": "#PP9R8LJGG",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 18,
+                "duration": 123
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2782,6 +2792,16 @@
             "name": "TUBAI",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#8L0LRGUJC",
+                "defenderTag": "#88JUGLUL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 19,
+                "duration": 114
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#88JUGLUL",
@@ -2822,7 +2842,15 @@
                 "duration": 180
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8L0LRGUJC",
+              "defenderTag": "#88JUGLUL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "duration": 114
+            }
           },
           {
             "tag": "#P9RGRYC9",
@@ -2908,7 +2936,15 @@
             "name": "NielsTheKiller",
             "townhallLevel": 15,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q00CRLC2V",
+              "defenderTag": "#PP9R8LJGG",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 18,
+              "duration": 123
+            }
           },
           {
             "tag": "#9JQP9VUPY",
@@ -3769,9 +3805,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/rgIG03KqKPOjTMTo5pbz_QxyIXwOhL_ZlBQDvgknxLU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/rgIG03KqKPOjTMTo5pbz_QxyIXwOhL_ZlBQDvgknxLU.png"
           },
-          "stars": 27,
-          "attacks": 14,
-          "destructionPercentage": 66.46666666666667
+          "stars": 28,
+          "attacks": 15,
+          "destructionPercentage": 72.0
         },
         "clan2": {
           "tag": "#2LGYGQJUP",
@@ -3796,9 +3832,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png"
           },
-          "stars": 18,
-          "attacks": 9,
-          "destructionPercentage": 46.53333333333333
+          "stars": 19,
+          "attacks": 11,
+          "destructionPercentage": 53.06666666666667
         },
         "clan2": {
           "tag": "#2P2YL0JQU",
@@ -3850,9 +3886,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png"
           },
-          "stars": 22,
-          "attacks": 9,
-          "destructionPercentage": 58.4
+          "stars": 28,
+          "attacks": 11,
+          "destructionPercentage": 71.73333333333333
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
