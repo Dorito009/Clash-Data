@@ -2565,7 +2565,15 @@
                 "duration": 150
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LRRCYRP8Q",
+              "defenderTag": "#LGLGJQQGV",
+              "stars": 2,
+              "destructionPercentage": 87,
+              "order": 26,
+              "duration": 83
+            }
           },
           {
             "tag": "#Q00CRLC2V",
@@ -2877,9 +2885,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 11,
-        "stars": 25,
-        "destructionPercentage": 69.2,
+        "attacks": 12,
+        "stars": 27,
+        "destructionPercentage": 75.0,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3148,6 +3156,16 @@
             "name": "Mauro",
             "townhallLevel": 15,
             "mapPosition": 8,
+            "attacks": [
+              {
+                "attackerTag": "#LRRCYRP8Q",
+                "defenderTag": "#LGLGJQQGV",
+                "stars": 2,
+                "destructionPercentage": 87,
+                "order": 26,
+                "duration": 83
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#LGLGJQQGV",
@@ -3941,8 +3959,8 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png"
           },
           "stars": 23,
-          "attacks": 13,
-          "destructionPercentage": 59.53333333333333
+          "attacks": 14,
+          "destructionPercentage": 62.6
         },
         "clan2": {
           "tag": "#2P2YL0JQU",
@@ -3952,9 +3970,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/LUDbusOEMVLDJSVzcG9LBA3BpVY7YpQBs2Jn4hncQZw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/LUDbusOEMVLDJSVzcG9LBA3BpVY7YpQBs2Jn4hncQZw.png"
           },
-          "stars": 35,
-          "attacks": 12,
-          "destructionPercentage": 78.33333333333333
+          "stars": 38,
+          "attacks": 13,
+          "destructionPercentage": 85.0
         }
       },
       {
@@ -3967,9 +3985,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/XCQaP_lyQv4IXgcSwjA7uebBFmqOzlpglefjy3hymyE.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/XCQaP_lyQv4IXgcSwjA7uebBFmqOzlpglefjy3hymyE.png"
           },
-          "stars": 15,
-          "attacks": 8,
-          "destructionPercentage": 38.86666666666667
+          "stars": 20,
+          "attacks": 10,
+          "destructionPercentage": 52.06666666666667
         },
         "clan2": {
           "tag": "#YYLQVRJJ",
@@ -4006,9 +4024,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 25,
-          "attacks": 11,
-          "destructionPercentage": 69.2
+          "stars": 27,
+          "attacks": 12,
+          "destructionPercentage": 75.0
         }
       }
     ],
