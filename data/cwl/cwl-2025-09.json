@@ -3393,7 +3393,15 @@
             "name": "MOHiT 2",
             "townhallLevel": 16,
             "mapPosition": 11,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9VLL0CLJP",
+              "defenderTag": "#QJY99PJVP",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "duration": 146
+            }
           },
           {
             "tag": "#8GYYCJ229",
@@ -3407,7 +3415,15 @@
             "name": "Nightmare..",
             "townhallLevel": 13,
             "mapPosition": 15,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Y2RULG2P2",
+              "defenderTag": "#LQRRYVJQY",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
+              "duration": 137
+            }
           }
         ]
       },
@@ -3420,9 +3436,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 3,
-        "stars": 8,
-        "destructionPercentage": 19.466666666666665,
+        "attacks": 5,
+        "stars": 14,
+        "destructionPercentage": 32.8,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3546,6 +3562,16 @@
             "name": "Jipperish",
             "townhallLevel": 15,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#9VLL0CLJP",
+                "defenderTag": "#QJY99PJVP",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 7,
+                "duration": 146
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3581,6 +3607,16 @@
             "name": "T_grvn4",
             "townhallLevel": 13,
             "mapPosition": 33,
+            "attacks": [
+              {
+                "attackerTag": "#Y2RULG2P2",
+                "defenderTag": "#LQRRYVJQY",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 8,
+                "duration": 137
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -4410,9 +4446,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 8,
-          "attacks": 3,
-          "destructionPercentage": 19.466666666666665
+          "stars": 14,
+          "attacks": 5,
+          "destructionPercentage": 32.8
         }
       },
       {
