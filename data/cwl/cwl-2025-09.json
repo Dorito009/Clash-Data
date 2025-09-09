@@ -3374,7 +3374,15 @@
             "name": "Rao Empire",
             "townhallLevel": 15,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LRRCYRP8Q",
+              "defenderTag": "#YQVUC29Y",
+              "stars": 2,
+              "destructionPercentage": 85,
+              "order": 12,
+              "duration": 103
+            }
           },
           {
             "tag": "#9GLGGJQVP",
@@ -3464,9 +3472,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
         },
         "clanLevel": 14,
-        "attacks": 6,
-        "stars": 17,
-        "destructionPercentage": 39.46666666666667,
+        "attacks": 7,
+        "stars": 19,
+        "destructionPercentage": 45.13333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3639,6 +3647,16 @@
             "name": "Mauro",
             "townhallLevel": 15,
             "mapPosition": 8,
+            "attacks": [
+              {
+                "attackerTag": "#LRRCYRP8Q",
+                "defenderTag": "#YQVUC29Y",
+                "stars": 2,
+                "destructionPercentage": 85,
+                "order": 12,
+                "duration": 103
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4500,9 +4518,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
           },
-          "stars": 17,
-          "attacks": 6,
-          "destructionPercentage": 39.46666666666667
+          "stars": 19,
+          "attacks": 7,
+          "destructionPercentage": 45.13333333333333
         }
       },
       {
@@ -4569,9 +4587,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/rgIG03KqKPOjTMTo5pbz_QxyIXwOhL_ZlBQDvgknxLU.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/rgIG03KqKPOjTMTo5pbz_QxyIXwOhL_ZlBQDvgknxLU.png"
           },
-          "stars": 19,
-          "attacks": 7,
-          "destructionPercentage": 43.2
+          "stars": 29,
+          "attacks": 12,
+          "destructionPercentage": 71.93333333333334
         },
         "clan2": {
           "tag": "#YYLQVRJJ",
