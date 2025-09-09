@@ -3246,9 +3246,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png"
         },
         "clanLevel": 10,
-        "attacks": 3,
-        "stars": 8,
-        "destructionPercentage": 19.066666666666666,
+        "attacks": 4,
+        "stars": 11,
+        "destructionPercentage": 25.733333333333334,
         "members": [
           {
             "tag": "#8RUUQ222U",
@@ -3423,6 +3423,16 @@
             "name": "Nightmare..",
             "townhallLevel": 13,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#LQRRYVJQY",
+                "defenderTag": "#Y2RULG2P2",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 10,
+                "duration": 142
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#Y2RULG2P2",
@@ -3635,7 +3645,15 @@
                 "duration": 137
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LQRRYVJQY",
+              "defenderTag": "#Y2RULG2P2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 10,
+              "duration": 142
+            }
           }
         ]
       },
@@ -4452,9 +4470,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/cqg-iPM4Ftz-kc6jk1Bv1HcxqvCHjHMPC--0_YzExj4.png"
           },
-          "stars": 8,
-          "attacks": 3,
-          "destructionPercentage": 19.066666666666666
+          "stars": 11,
+          "attacks": 4,
+          "destructionPercentage": 25.733333333333334
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -4491,9 +4509,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DjVXTLxnTi0N_TeXTG4J-S0N1IKTm9Qjm97BKCLnmCo.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         }
       },
       {
