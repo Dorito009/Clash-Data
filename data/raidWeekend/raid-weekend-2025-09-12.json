@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 13885,
+  "capitalTotalLoot": 47671,
   "raidsCompleted": 0,
-  "totalAttacks": 6,
-  "enemyDistrictsDestroyed": 1,
+  "totalAttacks": 14,
+  "enemyDistrictsDestroyed": 4,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,22 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 13885
+    },
+    {
+      "tag": "#UVPQ9Y8U",
+      "name": "JOC DE FAKKEL",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 11718
+    },
+    {
+      "tag": "#LLCPV9JGC",
+      "name": "Thijn",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22068
     }
   ],
   "attackLog": [],
