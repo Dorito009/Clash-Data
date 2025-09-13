@@ -432,5 +432,330 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#CVYGV2L9",
+        "name": "The mighty spud",
+        "level": 20,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4Ip9gANW4cKXexablJhBF5px9OIpqykyJGsBCkDHqJQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4Ip9gANW4cKXexablJhBF5px9OIpqykyJGsBCkDHqJQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4Ip9gANW4cKXexablJhBF5px9OIpqykyJGsBCkDHqJQ.png"
+        }
+      },
+      "attackCount": 26,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13341,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9QC980RYR",
+                "name": "Leaskid"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9QC980RYR",
+                "name": "Leaskid"
+              },
+              "destructionPercent": 88,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9QC980RYR",
+                "name": "Leaskid"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9QC980RYR",
+                "name": "Leaskid"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10748,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#C82PQJ9L",
+                "name": "Paul"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#C82PQJ9L",
+                "name": "Paul"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#C82PQJ9L",
+                "name": "Paul"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9625,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JVG0CUUV",
+                "name": "sheen the queen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JVG0CUUV",
+                "name": "sheen the queen"
+              },
+              "destructionPercent": 88,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#JVG0CUUV",
+                "name": "sheen the queen"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10451,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G02JJQ992",
+                "name": "stone"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G02JJQ992",
+                "name": "stone"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#CRGUPQG8",
+                "name": "Bob the brave"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 9888,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JVG0CUUV",
+                "name": "sheen the queen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JVG0CUUV",
+                "name": "sheen the queen"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#CRGUPQG8",
+                "name": "Bob the brave"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#C82PQJ9L",
+                "name": "Paul"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9364,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JQPQGQPU",
+                "name": "brenton"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JQPQGQPU",
+                "name": "brenton"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8865,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CRGUPQG8",
+                "name": "Bob the brave"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CRGUPQG8",
+                "name": "Bob the brave"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9370,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CRGUPQG8",
+                "name": "Bob the brave"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CRGUPQG8",
+                "name": "Bob the brave"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10232,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JVG0CUUV",
+                "name": "sheen the queen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#C82PQJ9L",
+                "name": "Paul"
+              },
+              "destructionPercent": 97,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#C82PQJ9L",
+                "name": "Paul"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
