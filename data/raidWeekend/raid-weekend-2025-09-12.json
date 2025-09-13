@@ -3,7 +3,7 @@
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
   "capitalTotalLoot": 289352,
-  "raidsCompleted": 3,
+  "raidsCompleted": 4,
   "totalAttacks": 74,
   "enemyDistrictsDestroyed": 20,
   "offensiveReward": 0,
@@ -1124,6 +1124,222 @@
               },
               "destructionPercent": 30,
               "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#RL2QP8JU",
+        "name": "\u2764_C.O.C-FaMiLY",
+        "level": 24,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KCRfagEOkCkv4yu10iuDj3DR-AyhKPzMq5ZTNf5Xdh0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KCRfagEOkCkv4yu10iuDj3DR-AyhKPzMq5ZTNf5Xdh0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KCRfagEOkCkv4yu10iuDj3DR-AyhKPzMq5ZTNf5Xdh0.png"
+        }
+      },
+      "attackCount": 13,
+      "districtCount": 9,
+      "districtsDestroyed": 6,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9382,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JC2PLV08",
+                "name": "COC-H\u01b0ng\u2744\ufe0f\u2603\ufe0f\u2744\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JC2PLV08",
+                "name": "COC-H\u01b0ng\u2744\ufe0f\u2603\ufe0f\u2744\ufe0f"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9953,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JC2PLV08",
+                "name": "COC-H\u01b0ng\u2744\ufe0f\u2603\ufe0f\u2744\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JC2PLV08",
+                "name": "COC-H\u01b0ng\u2744\ufe0f\u2603\ufe0f\u2744\ufe0f"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9917,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JLYUV2L",
+                "name": "kelly boy"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2JLYUV2L",
+                "name": "kelly boy"
+              },
+              "destructionPercent": 53,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8962,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JC2PLV08",
+                "name": "COC-H\u01b0ng\u2744\ufe0f\u2603\ufe0f\u2744\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JC2PLV08",
+                "name": "COC-H\u01b0ng\u2744\ufe0f\u2603\ufe0f\u2744\ufe0f"
+              },
+              "destructionPercent": 53,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 58,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 5170,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JLYUV2L",
+                "name": "kelly boy"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9499,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JLYUV2L",
+                "name": "kelly boy"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2JLYUV2L",
+                "name": "kelly boy"
+              },
+              "destructionPercent": 61,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10485,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JLYUV2L",
+                "name": "kelly boy"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L0PPYQ0GL",
+                "name": "d\u0169ng pro"
+              },
+              "destructionPercent": 60,
+              "stars": 1
             }
           ]
         }
