@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 289352,
-  "raidsCompleted": 4,
-  "totalAttacks": 74,
-  "enemyDistrictsDestroyed": 20,
+  "capitalTotalLoot": 306179,
+  "raidsCompleted": 5,
+  "totalAttacks": 80,
+  "enemyDistrictsDestroyed": 26,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -104,6 +104,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 33913
+    },
+    {
+      "tag": "#LVQYUVRVQ",
+      "name": "maarten",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16827
     },
     {
       "tag": "#LLCPV9JGC",
@@ -1140,19 +1148,43 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/KCRfagEOkCkv4yu10iuDj3DR-AyhKPzMq5ZTNf5Xdh0.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 56,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5290,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13539,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9YCRQYCCR",
+                "name": "\u2764\ufe0fhi\u1ec7u\u2022Babi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9YCRQYCCR",
+                "name": "\u2764\ufe0fhi\u1ec7u\u2022Babi"
+              },
+              "destructionPercent": 97,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9YCRQYCCR",
+                "name": "\u2764\ufe0fhi\u1ec7u\u2022Babi"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#9PU8V8YPR",
