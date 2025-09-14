@@ -1140,27 +1140,71 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/KCRfagEOkCkv4yu10iuDj3DR-AyhKPzMq5ZTNf5Xdh0.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 56,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5290,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9PU8V8YPR",
+                "name": "b\u00e1nh bao"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9PU8V8YPR",
+                "name": "b\u00e1nh bao"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10868,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9PU8V8YPR",
+                "name": "b\u00e1nh bao"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9PU8V8YPR",
+                "name": "b\u00e1nh bao"
+              },
+              "destructionPercent": 80,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9PU8V8YPR",
+                "name": "b\u00e1nh bao"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -1274,11 +1318,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 58,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5170,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9270,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9PU8V8YPR",
+                "name": "b\u00e1nh bao"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2JLYUV2L",
