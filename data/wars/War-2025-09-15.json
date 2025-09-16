@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 19.4,
+    "attacks": 3,
+    "stars": 7,
+    "destructionPercentage": 25.5,
     "members": [
       {
         "tag": "#QGY08PCG",
@@ -79,6 +79,16 @@
         "name": "JoeyvGils",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2QPGRGG9J",
+            "defenderTag": "#QJQUUVCPL",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 11,
+            "duration": 105
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -193,7 +203,15 @@
         "name": "yatish",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2QPGRGG9J",
+          "defenderTag": "#QJQUUVCPL",
+          "stars": 2,
+          "destructionPercentage": 61,
+          "order": 11,
+          "duration": 105
+        }
       },
       {
         "tag": "#G00YJVL8P",
