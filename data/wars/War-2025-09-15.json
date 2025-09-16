@@ -199,14 +199,14 @@
         "name": "Mauro",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#G9LR88L2R",
+          "attackerTag": "#QJQUUVCPL",
           "defenderTag": "#LRRCYRP8Q",
-          "stars": 1,
-          "destructionPercentage": 98,
-          "order": 1,
-          "duration": 154
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 17,
+          "duration": 75
         }
       }
     ]
@@ -220,9 +220,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/tU08CtEfkdtsdwNwW9vRVq9pw92su-f5rdK8aP5UjtQ.png"
     },
     "clanLevel": 14,
-    "attacks": 12,
-    "stars": 26,
-    "destructionPercentage": 97.5,
+    "attacks": 13,
+    "stars": 27,
+    "destructionPercentage": 95.8,
     "members": [
       {
         "tag": "#QJQUUVCPL",
@@ -237,6 +237,14 @@
             "destructionPercentage": 100,
             "order": 16,
             "duration": 120
+          },
+          {
+            "attackerTag": "#QJQUUVCPL",
+            "defenderTag": "#LRRCYRP8Q",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 17,
+            "duration": 75
           }
         ],
         "opponentAttacks": 1,
