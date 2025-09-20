@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 3,
-    "stars": 5,
-    "destructionPercentage": 25.6,
+    "attacks": 4,
+    "stars": 7,
+    "destructionPercentage": 34.7,
     "members": [
       {
         "tag": "#JCGVYY8U",
@@ -64,6 +64,16 @@
         "name": "jermo",
         "townhallLevel": 14,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Q0RUPY9YP",
+            "defenderTag": "#QV9VGCU2U",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 14,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QJY9PLQPV",
@@ -361,7 +371,15 @@
         "name": "king",
         "townhallLevel": 14,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0RUPY9YP",
+          "defenderTag": "#QV9VGCU2U",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 14,
+          "duration": 127
+        }
       },
       {
         "tag": "#QJRCJJGRJ",
