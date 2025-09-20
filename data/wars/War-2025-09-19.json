@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ecig3SuqZJwyhRsZeuPul5owBSFpkbvS5hbXdi4d8s4.png"
     },
     "clanLevel": 14,
-    "attacks": 2,
-    "stars": 4,
-    "destructionPercentage": 17.0,
+    "attacks": 3,
+    "stars": 5,
+    "destructionPercentage": 25.6,
     "members": [
       {
         "tag": "#JCGVYY8U",
@@ -79,7 +79,15 @@
         "name": "123lucas123",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJURC990C",
+          "defenderTag": "#9JQP9VUPY",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 12,
+          "duration": 160
+        }
       },
       {
         "tag": "#QRL2QPLGV",
@@ -108,7 +116,15 @@
         "name": "Jipperish",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJURC990C",
+          "defenderTag": "#9VLL0CLJP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 102
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -123,6 +139,14 @@
             "destructionPercentage": 70,
             "order": 10,
             "duration": 79
+          },
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#QJY9PLQPV",
+            "stars": 1,
+            "destructionPercentage": 86,
+            "order": 11,
+            "duration": 108
           }
         ],
         "opponentAttacks": 1,
@@ -176,15 +200,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/zddGbkEYa5uFHdmvV7U6ldx9fAJvCBCuwlsrqrcTyaY.png"
     },
     "clanLevel": 20,
-    "attacks": 8,
-    "stars": 16,
-    "destructionPercentage": 55.7,
+    "attacks": 10,
+    "stars": 21,
+    "destructionPercentage": 74.9,
     "members": [
       {
         "tag": "#QJURC990C",
         "name": "\u0645\u0647\u0628\u062f",
         "townhallLevel": 16,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QJURC990C",
+            "defenderTag": "#9JQP9VUPY",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 12,
+            "duration": 160
+          },
+          {
+            "attackerTag": "#QJURC990C",
+            "defenderTag": "#9VLL0CLJP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 102
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -210,7 +252,15 @@
             "duration": 76
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#QJY9PLQPV",
+          "stars": 1,
+          "destructionPercentage": 86,
+          "order": 11,
+          "duration": 108
+        }
       },
       {
         "tag": "#QQJP09UPL",
