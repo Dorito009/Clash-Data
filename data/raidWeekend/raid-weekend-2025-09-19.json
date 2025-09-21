@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250919T070000.000Z",
   "endTime": "20250922T070000.000Z",
-  "capitalTotalLoot": 158331,
-  "raidsCompleted": 2,
-  "totalAttacks": 42,
-  "enemyDistrictsDestroyed": 14,
+  "capitalTotalLoot": 181758,
+  "raidsCompleted": 3,
+  "totalAttacks": 47,
+  "enemyDistrictsDestroyed": 16,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -56,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 31109
+    },
+    {
+      "tag": "#9VLL0CLJP",
+      "name": "Jipperish",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23427
     },
     {
       "tag": "#UVPQ9Y8U",
@@ -728,18 +736,44 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/_8xMPBovSpDOtwztyNML5A3TSYoQGYFWqs6Zz0v76Ik.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12989,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9UCLCCR8",
+                "name": "juanito gamer37"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9UCLCCR8",
+                "name": "juanito gamer37"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9UCLCCR8",
+                "name": "juanito gamer37"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -815,11 +849,27 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 50,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 3975,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10490,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9UCLCCR8",
+                "name": "juanito gamer37"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQULYLGRU",
+                "name": "MIA"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#G9PPYCRPL",
@@ -939,11 +989,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 64,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 5930,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9649,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQULYLGRU",
+                "name": "MIA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q9Q20GU2J",
