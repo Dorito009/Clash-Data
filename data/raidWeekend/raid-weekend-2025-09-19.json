@@ -716,6 +716,280 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#2LLG29UP0",
+        "name": "adictos de clas",
+        "level": 22,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/_8xMPBovSpDOtwztyNML5A3TSYoQGYFWqs6Zz0v76Ik.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/_8xMPBovSpDOtwztyNML5A3TSYoQGYFWqs6Zz0v76Ik.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/_8xMPBovSpDOtwztyNML5A3TSYoQGYFWqs6Zz0v76Ik.png"
+        }
+      },
+      "attackCount": 20,
+      "districtCount": 9,
+      "districtsDestroyed": 6,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11081,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9PPYCRPL",
+                "name": "La Pelona"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G9PPYCRPL",
+                "name": "La Pelona"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G9PPYCRPL",
+                "name": "La Pelona"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9366,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYLRG00VY",
+                "name": "pokoloko"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G9PPYCRPL",
+                "name": "La Pelona"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G9PPYCRPL",
+                "name": "La Pelona"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 50,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 3975,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9PPYCRPL",
+                "name": "La Pelona"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10106,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9Q20GU2J",
+                "name": "Abel"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9Q20GU2J",
+                "name": "Abel"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GYLRG00VY",
+                "name": "pokoloko"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9361,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQULYLGRU",
+                "name": "MIA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYLRG00VY",
+                "name": "pokoloko"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GYLRG00VY",
+                "name": "pokoloko"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9615,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQULYLGRU",
+                "name": "MIA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYLRG00VY",
+                "name": "pokoloko"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GYLRG00VY",
+                "name": "pokoloko"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 64,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 5930,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9Q20GU2J",
+                "name": "Abel"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q9Q20GU2J",
+                "name": "Abel"
+              },
+              "destructionPercent": 34,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10050,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9Q20GU2J",
+                "name": "Abel"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9Q20GU2J",
+                "name": "Abel"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        }
+      ]
     }
   ]
 }
