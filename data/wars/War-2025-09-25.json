@@ -71,14 +71,30 @@
             "duration": 82
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LV2GR8VLP",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 2,
+          "destructionPercentage": 84,
+          "order": 4,
+          "duration": 106
+        }
       },
       {
         "tag": "#LRRCYRP8Q",
         "name": "Mauro",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LV2GR8VLP",
+          "defenderTag": "#LRRCYRP8Q",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 5,
+          "duration": 102
+        }
       }
     ]
   },
@@ -91,15 +107,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HBhek0mcTQ5vRUaqZZS4HFZ3to-D7uYib0ywNtqCWjk.png"
     },
     "clanLevel": 7,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 20.0,
+    "attacks": 3,
+    "stars": 7,
+    "destructionPercentage": 54.6,
     "members": [
       {
         "tag": "#LV2GR8VLP",
         "name": "MRJOR JOR",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LV2GR8VLP",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 4,
+            "duration": 106
+          },
+          {
+            "attackerTag": "#LV2GR8VLP",
+            "defenderTag": "#LRRCYRP8Q",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 5,
+            "duration": 102
+          }
+        ],
         "opponentAttacks": 0
       },
       {
