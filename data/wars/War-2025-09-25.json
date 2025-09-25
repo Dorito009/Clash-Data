@@ -24,7 +24,15 @@
         "name": "davidanemoon",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0GPYURVV",
+          "defenderTag": "#P9RGRYC9",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 7,
+          "duration": 97
+        }
       },
       {
         "tag": "#JCGVYY8U",
@@ -56,7 +64,15 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0GPYURVV",
+          "defenderTag": "#YCQ98GC88",
+          "stars": 0,
+          "destructionPercentage": 45,
+          "order": 8,
+          "duration": 59
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -117,9 +133,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HBhek0mcTQ5vRUaqZZS4HFZ3to-D7uYib0ywNtqCWjk.png"
     },
     "clanLevel": 7,
-    "attacks": 3,
-    "stars": 7,
-    "destructionPercentage": 54.6,
+    "attacks": 5,
+    "stars": 9,
+    "destructionPercentage": 82.2,
     "members": [
       {
         "tag": "#LV2GR8VLP",
@@ -151,6 +167,24 @@
         "name": "Naingwintun",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#Q0GPYURVV",
+            "defenderTag": "#P9RGRYC9",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 7,
+            "duration": 97
+          },
+          {
+            "attackerTag": "#Q0GPYURVV",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 0,
+            "destructionPercentage": 45,
+            "order": 8,
+            "duration": 59
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YCQ98GC88",
