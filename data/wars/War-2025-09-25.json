@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 35.8,
+    "attacks": 3,
+    "stars": 8,
+    "destructionPercentage": 55.8,
     "members": [
       {
         "tag": "#P9RGRYC9",
@@ -46,6 +46,16 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#Q0GPYURVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -141,7 +151,15 @@
         "name": "Naingwintun",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCQ98GC88",
+          "defenderTag": "#Q0GPYURVV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 143
+        }
       },
       {
         "tag": "#2YCCUJ98L",
