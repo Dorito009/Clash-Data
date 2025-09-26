@@ -24,7 +24,7 @@
         "name": "davidanemoon",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q0GPYURVV",
           "defenderTag": "#P9RGRYC9",
@@ -74,14 +74,14 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#Q0GPYURVV",
+          "attackerTag": "#2YCCUJ98L",
           "defenderTag": "#YCQ98GC88",
-          "stars": 0,
-          "destructionPercentage": 45,
-          "order": 8,
-          "duration": 59
+          "stars": 1,
+          "destructionPercentage": 70,
+          "order": 11,
+          "duration": 109
         }
       },
       {
@@ -143,9 +143,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HBhek0mcTQ5vRUaqZZS4HFZ3to-D7uYib0ywNtqCWjk.png"
     },
     "clanLevel": 7,
-    "attacks": 5,
-    "stars": 9,
-    "destructionPercentage": 82.2,
+    "attacks": 8,
+    "stars": 10,
+    "destructionPercentage": 87.2,
     "members": [
       {
         "tag": "#LV2GR8VLP",
@@ -210,6 +210,24 @@
         "name": "King 3",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2YCCUJ98L",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 1,
+            "destructionPercentage": 70,
+            "order": 11,
+            "duration": 109
+          },
+          {
+            "attackerTag": "#2YCCUJ98L",
+            "defenderTag": "#P9RGRYC9",
+            "stars": 1,
+            "destructionPercentage": 95,
+            "order": 12,
+            "duration": 115
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -240,6 +258,14 @@
             "destructionPercentage": 100,
             "order": 3,
             "duration": 120
+          },
+          {
+            "attackerTag": "#Q09G29YR8",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 0,
+            "destructionPercentage": 38,
+            "order": 10,
+            "duration": 84
           }
         ],
         "opponentAttacks": 2,
