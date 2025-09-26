@@ -2,13 +2,22 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 0,
+  "capitalTotalLoot": 4990,
   "raidsCompleted": 0,
-  "totalAttacks": 0,
+  "totalAttacks": 2,
   "enemyDistrictsDestroyed": 0,
   "offensiveReward": 0,
   "defensiveReward": 0,
-  "members": [],
+  "members": [
+    {
+      "tag": "#QGY08PCG",
+      "name": "jesperoni",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 4990
+    }
+  ],
   "attackLog": [],
   "defenseLog": []
 }
