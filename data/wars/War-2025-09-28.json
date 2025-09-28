@@ -41,14 +41,14 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LGVJJGR0V",
+          "attackerTag": "#2PG0RV2LY",
           "defenderTag": "#YCQ98GC88",
-          "stars": 1,
-          "destructionPercentage": 60,
-          "order": 3,
-          "duration": 79
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 169
         }
       },
       {
@@ -74,7 +74,15 @@
             "duration": 112
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2PG0RV2LY",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 128
+        }
       },
       {
         "tag": "#LVQYUVRVQ",
@@ -109,15 +117,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lDekyln7XcrTX9iGVuCN5__gFbicR9fM5o3i0KNHRB0.png"
     },
     "clanLevel": 8,
-    "attacks": 2,
-    "stars": 3,
-    "destructionPercentage": 27.2,
+    "attacks": 4,
+    "stars": 8,
+    "destructionPercentage": 55.2,
     "members": [
       {
         "tag": "#2PG0RV2LY",
         "name": "Darth Revan",
         "townhallLevel": 16,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2PG0RV2LY",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 169
+          },
+          {
+            "attackerTag": "#2PG0RV2LY",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 0
       },
       {
