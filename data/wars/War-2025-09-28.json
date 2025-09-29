@@ -42,7 +42,15 @@
             "duration": 164
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8JVR9RYUY",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 11,
+          "duration": 130
+        }
       },
       {
         "tag": "#YCQ98GC88",
@@ -143,9 +151,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/lDekyln7XcrTX9iGVuCN5__gFbicR9fM5o3i0KNHRB0.png"
     },
     "clanLevel": 8,
-    "attacks": 4,
-    "stars": 8,
-    "destructionPercentage": 55.2,
+    "attacks": 5,
+    "stars": 10,
+    "destructionPercentage": 68.4,
     "members": [
       {
         "tag": "#2PG0RV2LY",
@@ -215,6 +223,16 @@
         "name": "Nightbeat339",
         "townhallLevel": 13,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8JVR9RYUY",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 11,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#JCGVYY8U",
