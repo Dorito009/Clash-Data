@@ -24,14 +24,30 @@
         "name": "de skelet boys",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QV90PQL9P",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 4,
+          "duration": 180
+        }
       },
       {
         "tag": "#YC2PUJY98",
         "name": "jens",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QV90PQL9P",
+          "defenderTag": "#YC2PUJY98",
+          "stars": 2,
+          "destructionPercentage": 84,
+          "order": 3,
+          "duration": 149
+        }
       },
       {
         "tag": "#YCQ98GC88",
@@ -83,9 +99,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3slk6MSKV8yWZ9HOtREcivQ_0lmuyH65vB8btFK1D4o.png"
     },
     "clanLevel": 9,
-    "attacks": 1,
-    "stars": 2,
-    "destructionPercentage": 18.0,
+    "attacks": 3,
+    "stars": 6,
+    "destructionPercentage": 54.6,
     "members": [
       {
         "tag": "#G9P8PP882",
@@ -138,6 +154,24 @@
         "name": "lisandro",
         "townhallLevel": 14,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#QV90PQL9P",
+            "defenderTag": "#YC2PUJY98",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 3,
+            "duration": 149
+          },
+          {
+            "attackerTag": "#QV90PQL9P",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 4,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
