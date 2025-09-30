@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 5,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 16.4,
     "members": [
       {
         "tag": "#JCGVYY8U",
@@ -45,7 +45,25 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#G9P8PP882",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 1,
+            "duration": 124
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9P8PP882",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 2,
+          "duration": 155
+        }
       },
       {
         "tag": "#LRRCYRP8Q",
@@ -65,16 +83,34 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3slk6MSKV8yWZ9HOtREcivQ_0lmuyH65vB8btFK1D4o.png"
     },
     "clanLevel": 9,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 18.0,
     "members": [
       {
         "tag": "#G9P8PP882",
         "name": "MISTERPRINCE",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#G9P8PP882",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 2,
+            "duration": 155
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#G9P8PP882",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 1,
+          "duration": 124
+        }
       },
       {
         "tag": "#GLYJVYGJ",
