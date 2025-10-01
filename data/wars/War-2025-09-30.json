@@ -24,14 +24,14 @@
         "name": "de skelet boys",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QV90PQL9P",
+          "attackerTag": "#GLYJVYGJ",
           "defenderTag": "#JCGVYY8U",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 4,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 115
         }
       },
       {
@@ -39,14 +39,14 @@
         "name": "jens",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QV90PQL9P",
+          "attackerTag": "#GLYJVYGJ",
           "defenderTag": "#YC2PUJY98",
           "stars": 2,
-          "destructionPercentage": 84,
-          "order": 3,
-          "duration": 149
+          "destructionPercentage": 85,
+          "order": 8,
+          "duration": 114
         }
       },
       {
@@ -54,7 +54,15 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JQQGPCJL",
+          "defenderTag": "#YCQ98GC88",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 5,
+          "duration": 83
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -86,7 +94,15 @@
         "name": "Mauro",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JQQGPCJL",
+          "defenderTag": "#LRRCYRP8Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 106
+        }
       }
     ]
   },
@@ -99,9 +115,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3slk6MSKV8yWZ9HOtREcivQ_0lmuyH65vB8btFK1D4o.png"
     },
     "clanLevel": 9,
-    "attacks": 3,
-    "stars": 6,
-    "destructionPercentage": 54.6,
+    "attacks": 7,
+    "stars": 12,
+    "destructionPercentage": 87.4,
     "members": [
       {
         "tag": "#G9P8PP882",
@@ -133,6 +149,24 @@
         "name": "joshe",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#GLYJVYGJ",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 115
+          },
+          {
+            "attackerTag": "#GLYJVYGJ",
+            "defenderTag": "#YC2PUJY98",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 8,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -147,6 +181,24 @@
         "name": "cinty",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#JQQGPCJL",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 62,
+            "order": 5,
+            "duration": 83
+          },
+          {
+            "attackerTag": "#JQQGPCJL",
+            "defenderTag": "#LRRCYRP8Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 0
       },
       {
