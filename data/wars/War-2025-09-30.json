@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 3,
-    "stars": 6,
-    "destructionPercentage": 51.6,
+    "attacks": 5,
+    "stars": 11,
+    "destructionPercentage": 89.6,
     "members": [
       {
         "tag": "#JCGVYY8U",
@@ -32,6 +32,14 @@
             "destructionPercentage": 94,
             "order": 10,
             "duration": 180
+          },
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#QV90PQL9P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 133
           }
         ],
         "opponentAttacks": 2,
@@ -72,6 +80,14 @@
             "destructionPercentage": 82,
             "order": 9,
             "duration": 143
+          },
+          {
+            "attackerTag": "#YCQ98GC88",
+            "defenderTag": "#UQQ9PJJ9",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 12,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -202,7 +218,15 @@
         "name": "xMufasax",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCQ98GC88",
+          "defenderTag": "#UQQ9PJJ9",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 12,
+          "duration": 180
+        }
       },
       {
         "tag": "#JQQGPCJL",
@@ -260,7 +284,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#QV90PQL9P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 133
+        }
       }
     ]
   }
