@@ -71,7 +71,7 @@
           "name": "Capital Peak",
           "districtHallLevel": 10,
           "destructionPercent": 100,
-          "stars": 3,
+          "stars": 0,
           "attackCount": 3,
           "totalLooted": 12521,
           "attacks": [
@@ -106,7 +106,7 @@
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
           "destructionPercent": 100,
-          "stars": 3,
+          "stars": 0,
           "attackCount": 3,
           "totalLooted": 10788,
           "attacks": [
@@ -141,7 +141,7 @@
           "name": "Wizard Valley",
           "districtHallLevel": 5,
           "destructionPercent": 100,
-          "stars": 3,
+          "stars": 0,
           "attackCount": 2,
           "totalLooted": 8850,
           "attacks": [
@@ -168,7 +168,7 @@
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
           "destructionPercent": 100,
-          "stars": 3,
+          "stars": 0,
           "attackCount": 2,
           "totalLooted": 9433,
           "attacks": [
@@ -195,7 +195,7 @@
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
           "destructionPercent": 100,
-          "stars": 3,
+          "stars": 0,
           "attackCount": 2,
           "totalLooted": 10258,
           "attacks": [
@@ -222,7 +222,7 @@
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
           "destructionPercent": 100,
-          "stars": 3,
+          "stars": 0,
           "attackCount": 2,
           "totalLooted": 9139,
           "attacks": [
@@ -249,7 +249,7 @@
           "name": "Golem Quarry",
           "districtHallLevel": 4,
           "destructionPercent": 100,
-          "stars": 3,
+          "stars": 0,
           "attackCount": 2,
           "totalLooted": 9347,
           "attacks": [
@@ -276,7 +276,7 @@
           "name": "Skeleton Park",
           "districtHallLevel": 4,
           "destructionPercent": 100,
-          "stars": 3,
+          "stars": 0,
           "attackCount": 2,
           "totalLooted": 10816,
           "attacks": [
@@ -303,7 +303,7 @@
           "name": "Goblin Mines",
           "districtHallLevel": 4,
           "destructionPercent": 100,
-          "stars": 3,
+          "stars": 0,
           "attackCount": 3,
           "totalLooted": 10814,
           "attacks": [
@@ -336,5 +336,330 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#LQUVR82R",
+        "name": "Black Metallica",
+        "level": 29,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/-QVLkwovPJYdp1Yc7i1Ha4iwgc7le23iahXHTouVGnQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/-QVLkwovPJYdp1Yc7i1Ha4iwgc7le23iahXHTouVGnQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/-QVLkwovPJYdp1Yc7i1Ha4iwgc7le23iahXHTouVGnQ.png"
+        }
+      },
+      "attackCount": 26,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 7,
+          "totalLooted": 12938,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2P982QUPY",
+                "name": "ssmr"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2P982QUPY",
+                "name": "ssmr"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QPV9UPCL8",
+                "name": "lubin"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QPV9UPCL8",
+                "name": "lubin"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QPV9UPCL8",
+                "name": "lubin"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#QPV9UPCL8",
+                "name": "lubin"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#QPV9UPCL8",
+                "name": "lubin"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 10601,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YGLJ8JVP",
+                "name": "RiPplay"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8UGGPC09C",
+                "name": "Zeykoh"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 9360,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YGLJ8JVP",
+                "name": "RiPplay"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YGLJ8JVP",
+                "name": "RiPplay"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 10124,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8UGGPC09C",
+                "name": "Zeykoh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8UGGPC09C",
+                "name": "Zeykoh"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 3,
+          "totalLooted": 10208,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8UGGPC09C",
+                "name": "Zeykoh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LRJLJUGJL",
+                "name": "Phaara"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LRJLJUGJL",
+                "name": "Phaara"
+              },
+              "destructionPercent": 36,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 9028,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8UGGPC09C",
+                "name": "Zeykoh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8UGGPC09C",
+                "name": "Zeykoh"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 2,
+          "totalLooted": 9510,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVPQLRPCU",
+                "name": "TITAN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9V928JJ0Y",
+                "name": "stilgarmat"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 3,
+          "totalLooted": 11012,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9V928JJ0Y",
+                "name": "stilgarmat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9V928JJ0Y",
+                "name": "stilgarmat"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9V928JJ0Y",
+                "name": "stilgarmat"
+              },
+              "destructionPercent": 32,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 0,
+          "attackCount": 3,
+          "totalLooted": 10658,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVPQLRPCU",
+                "name": "TITAN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L9UU2Q0G",
+                "name": "nagatoa"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#L9UU2Q0G",
+                "name": "nagatoa"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
