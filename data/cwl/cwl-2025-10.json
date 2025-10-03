@@ -21,9 +21,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 2,
-        "stars": 4,
-        "destructionPercentage": 11.733333333333333,
+        "attacks": 5,
+        "stars": 13,
+        "destructionPercentage": 31.733333333333334,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -77,6 +77,16 @@
             "name": "de skelet boys",
             "townhallLevel": 14,
             "mapPosition": 26,
+            "attacks": [
+              {
+                "attackerTag": "#JCGVYY8U",
+                "defenderTag": "#G8PUU2RP8",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 8,
+                "duration": 132
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -112,6 +122,16 @@
             "name": "123lucas123",
             "townhallLevel": 16,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#9JQP9VUPY",
+                "defenderTag": "#G0J2LPL2C",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 6,
+                "duration": 150
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -172,6 +192,16 @@
             "name": "obey",
             "townhallLevel": 16,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#8QLPGU0VL",
+                "defenderTag": "#G2V20G9G2",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 7,
+                "duration": 156
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -233,7 +263,15 @@
             "name": "Bio'oTonkRioT",
             "townhallLevel": 14,
             "mapPosition": 14,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#JCGVYY8U",
+              "defenderTag": "#G8PUU2RP8",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
+              "duration": 132
+            }
           },
           {
             "tag": "#LGV8QG9C2",
@@ -254,7 +292,15 @@
             "name": "BIO Batokk",
             "townhallLevel": 16,
             "mapPosition": 4,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8QLPGU0VL",
+              "defenderTag": "#G2V20G9G2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "duration": 156
+            }
           },
           {
             "tag": "#G2RRVRRL0",
@@ -338,7 +384,15 @@
             "name": "BIO Dinii",
             "townhallLevel": 16,
             "mapPosition": 5,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9JQP9VUPY",
+              "defenderTag": "#G0J2LPL2C",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 6,
+              "duration": 150
+            }
           }
         ]
       },
@@ -605,9 +659,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 4,
-          "attacks": 2,
-          "destructionPercentage": 11.733333333333333
+          "stars": 13,
+          "attacks": 5,
+          "destructionPercentage": 31.733333333333334
         },
         "clan2": {
           "tag": "#2LYQQP888",
@@ -659,9 +713,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
           },
-          "stars": 6,
-          "attacks": 2,
-          "destructionPercentage": 13.333333333333334
+          "stars": 16,
+          "attacks": 6,
+          "destructionPercentage": 38.333333333333336
         },
         "clan2": {
           "tag": "#LCU8CCCU",
@@ -686,9 +740,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/uZbEAM09jQjDGAe_PL6SVrxK6jOcD5oA1ZrGqPr25Eg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/uZbEAM09jQjDGAe_PL6SVrxK6jOcD5oA1ZrGqPr25Eg.png"
           },
-          "stars": 8,
-          "attacks": 3,
-          "destructionPercentage": 19.333333333333332
+          "stars": 10,
+          "attacks": 4,
+          "destructionPercentage": 25.2
         },
         "clan2": {
           "tag": "#2LCGUPY8C",
