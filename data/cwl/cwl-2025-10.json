@@ -55,7 +55,15 @@
             "name": "Donjenso",
             "townhallLevel": 15,
             "mapPosition": 9,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LGV8QG9C2",
+              "defenderTag": "#GQYQ92VLL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 11,
+              "duration": 163
+            }
           },
           {
             "tag": "#2RG2JRVUP",
@@ -101,7 +109,15 @@
             "name": "Noahzwolle",
             "townhallLevel": 16,
             "mapPosition": 5,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#8CLYVRJV",
+              "defenderTag": "#Y90L0809",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 10,
+              "duration": 129
+            }
           },
           {
             "tag": "#PP9R8LJGG",
@@ -140,7 +156,15 @@
                 "duration": 150
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G0J2LPL2C",
+              "defenderTag": "#9JQP9VUPY",
+              "stars": 2,
+              "destructionPercentage": 95,
+              "order": 13,
+              "duration": 158
+            }
           },
           {
             "tag": "#YCQ98GC88",
@@ -193,7 +217,15 @@
             "name": "Mauro",
             "townhallLevel": 15,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G2QC9L8P9",
+              "defenderTag": "#LRRCYRP8Q",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 12,
+              "duration": 94
+            }
           },
           {
             "tag": "#8QLPGU0VL",
@@ -210,7 +242,15 @@
                 "duration": 156
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G2V20G9G2",
+              "defenderTag": "#8QLPGU0VL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 14,
+              "duration": 146
+            }
           }
         ]
       },
@@ -223,9 +263,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png"
         },
         "clanLevel": 20,
-        "attacks": 4,
-        "stars": 8,
-        "destructionPercentage": 24.133333333333333,
+        "attacks": 9,
+        "stars": 22,
+        "destructionPercentage": 57.13333333333333,
         "members": [
           {
             "tag": "#G9QGV0LLJ",
@@ -286,6 +326,16 @@
             "name": "Anang_Bio",
             "townhallLevel": 15,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#LGV8QG9C2",
+                "defenderTag": "#GQYQ92VLL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 11,
+                "duration": 163
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -300,6 +350,16 @@
             "name": "BIO Batokk",
             "townhallLevel": 16,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#G2V20G9G2",
+                "defenderTag": "#8QLPGU0VL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 14,
+                "duration": 146
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#8QLPGU0VL",
@@ -349,6 +409,16 @@
             "name": "BIO hafizh",
             "townhallLevel": 15,
             "mapPosition": 8,
+            "attacks": [
+              {
+                "attackerTag": "#G2QC9L8P9",
+                "defenderTag": "#LRRCYRP8Q",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 12,
+                "duration": 94
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -356,6 +426,16 @@
             "name": "ANANG UDIN",
             "townhallLevel": 16,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#8CLYVRJV",
+                "defenderTag": "#Y90L0809",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 10,
+                "duration": 129
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -402,6 +482,16 @@
             "name": "BIO Dinii",
             "townhallLevel": 16,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#G0J2LPL2C",
+                "defenderTag": "#9JQP9VUPY",
+                "stars": 2,
+                "destructionPercentage": 95,
+                "order": 13,
+                "duration": 158
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#9JQP9VUPY",
@@ -689,9 +779,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png"
           },
-          "stars": 8,
-          "attacks": 4,
-          "destructionPercentage": 24.133333333333333
+          "stars": 22,
+          "attacks": 9,
+          "destructionPercentage": 57.13333333333333
         }
       },
       {
@@ -731,9 +821,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
           },
-          "stars": 19,
-          "attacks": 7,
-          "destructionPercentage": 45.0
+          "stars": 21,
+          "attacks": 8,
+          "destructionPercentage": 50.86666666666667
         },
         "clan2": {
           "tag": "#LCU8CCCU",
