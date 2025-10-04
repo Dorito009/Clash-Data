@@ -21,9 +21,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 5,
-        "stars": 13,
-        "destructionPercentage": 31.733333333333334,
+        "attacks": 6,
+        "stars": 16,
+        "destructionPercentage": 38.4,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -102,6 +102,16 @@
             "name": "ThomasOnCarry",
             "townhallLevel": 13,
             "mapPosition": 41,
+            "attacks": [
+              {
+                "attackerTag": "#YRP99RVQR",
+                "defenderTag": "#G9QGV0LLJ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 16,
+                "duration": 80
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -203,7 +213,15 @@
                 "duration": 132
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GPR999Y0Q",
+              "defenderTag": "#UVPQ9Y8U",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 15,
+              "duration": 83
+            }
           },
           {
             "tag": "#9CCVPU9RU",
@@ -263,16 +281,24 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png"
         },
         "clanLevel": 20,
-        "attacks": 9,
-        "stars": 22,
-        "destructionPercentage": 57.13333333333333,
+        "attacks": 10,
+        "stars": 25,
+        "destructionPercentage": 63.8,
         "members": [
           {
             "tag": "#G9QGV0LLJ",
             "name": "naylatniaa_",
             "townhallLevel": 15,
             "mapPosition": 17,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YRP99RVQR",
+              "defenderTag": "#G9QGV0LLJ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "duration": 80
+            }
           },
           {
             "tag": "#98Q2PVGV0",
@@ -296,6 +322,16 @@
             "name": "Magma",
             "townhallLevel": 15,
             "mapPosition": 11,
+            "attacks": [
+              {
+                "attackerTag": "#GPR999Y0Q",
+                "defenderTag": "#UVPQ9Y8U",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 15,
+                "duration": 83
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#UVPQ9Y8U",
@@ -767,9 +803,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 13,
-          "attacks": 5,
-          "destructionPercentage": 31.733333333333334
+          "stars": 16,
+          "attacks": 6,
+          "destructionPercentage": 38.4
         },
         "clan2": {
           "tag": "#2LYQQP888",
@@ -779,9 +815,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png"
           },
-          "stars": 22,
-          "attacks": 9,
-          "destructionPercentage": 57.13333333333333
+          "stars": 25,
+          "attacks": 10,
+          "destructionPercentage": 63.8
         }
       },
       {
@@ -821,9 +857,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
           },
-          "stars": 21,
-          "attacks": 8,
-          "destructionPercentage": 50.86666666666667
+          "stars": 24,
+          "attacks": 9,
+          "destructionPercentage": 57.53333333333333
         },
         "clan2": {
           "tag": "#LCU8CCCU",
