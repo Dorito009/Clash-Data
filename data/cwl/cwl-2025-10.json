@@ -702,9 +702,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 2,
+        "destructionPercentage": 5.0,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -767,6 +767,16 @@
             "name": "123lucas123",
             "townhallLevel": 16,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#9JQP9VUPY",
+                "defenderTag": "#LQGPRRU89",
+                "stars": 2,
+                "destructionPercentage": 75,
+                "order": 2,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -947,7 +957,15 @@
             "name": "s2",
             "townhallLevel": 16,
             "mapPosition": 4,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9JQP9VUPY",
+              "defenderTag": "#LQGPRRU89",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 2,
+              "duration": 180
+            }
           }
         ]
       },
@@ -1324,9 +1342,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 2,
+          "attacks": 1,
+          "destructionPercentage": 5.0
         },
         "clan2": {
           "tag": "#2PQ2UP9UL",
