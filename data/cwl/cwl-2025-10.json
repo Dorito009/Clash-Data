@@ -702,9 +702,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 5,
-        "stars": 13,
-        "destructionPercentage": 30.466666666666665,
+        "attacks": 6,
+        "stars": 16,
+        "destructionPercentage": 37.13333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -773,6 +773,16 @@
             "name": "NielsTheKiller",
             "townhallLevel": 15,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#PP9R8LJGG",
+                "defenderTag": "#YVCUYRPQG",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 7,
+                "duration": 92
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -889,7 +899,15 @@
             "name": "s1",
             "townhallLevel": 15,
             "mapPosition": 6,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#PP9R8LJGG",
+              "defenderTag": "#YVCUYRPQG",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "duration": 92
+            }
           },
           {
             "tag": "#LUU88GU9G",
@@ -1414,9 +1432,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 13,
-          "attacks": 5,
-          "destructionPercentage": 30.466666666666665
+          "stars": 16,
+          "attacks": 6,
+          "destructionPercentage": 37.13333333333333
         },
         "clan2": {
           "tag": "#2PQ2UP9UL",
@@ -1441,9 +1459,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
           },
-          "stars": 21,
-          "attacks": 8,
-          "destructionPercentage": 47.86666666666667
+          "stars": 24,
+          "attacks": 9,
+          "destructionPercentage": 54.53333333333333
         },
         "clan2": {
           "tag": "#2LCGUPY8C",
