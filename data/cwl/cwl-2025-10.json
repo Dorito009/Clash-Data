@@ -1431,7 +1431,15 @@
             "name": "Donjenso",
             "townhallLevel": 15,
             "mapPosition": 9,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#82QJV88C",
+              "defenderTag": "#GQYQ92VLL",
+              "stars": 2,
+              "destructionPercentage": 69,
+              "order": 12,
+              "duration": 84
+            }
           },
           {
             "tag": "#2RG2JRVUP",
@@ -1603,9 +1611,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png"
         },
         "clanLevel": 17,
-        "attacks": 5,
-        "stars": 10,
-        "destructionPercentage": 29.6,
+        "attacks": 6,
+        "stars": 12,
+        "destructionPercentage": 34.2,
         "members": [
           {
             "tag": "#L8Q2YPU0",
@@ -1634,6 +1642,16 @@
             "name": "El Paisa 310",
             "townhallLevel": 14,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#82QJV88C",
+                "defenderTag": "#GQYQ92VLL",
+                "stars": 2,
+                "destructionPercentage": 69,
+                "order": 12,
+                "duration": 84
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2334,9 +2352,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png"
           },
-          "stars": 10,
-          "attacks": 5,
-          "destructionPercentage": 29.6
+          "stars": 12,
+          "attacks": 6,
+          "destructionPercentage": 34.2
         }
       },
       {
@@ -2349,9 +2367,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
           },
-          "stars": 11,
-          "attacks": 4,
-          "destructionPercentage": 26.266666666666666
+          "stars": 21,
+          "attacks": 8,
+          "destructionPercentage": 52.0
         },
         "clan2": {
           "tag": "#2RUV22L09",
