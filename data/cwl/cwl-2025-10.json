@@ -702,9 +702,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 3,
-        "stars": 8,
-        "destructionPercentage": 18.333333333333332,
+        "attacks": 5,
+        "stars": 13,
+        "destructionPercentage": 30.466666666666665,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -804,6 +804,16 @@
             "name": "Peter Pannekoek",
             "townhallLevel": 17,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#YCQ98GC88",
+                "defenderTag": "#PCQYVLYJL",
+                "stars": 2,
+                "destructionPercentage": 82,
+                "order": 5,
+                "duration": 136
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -818,6 +828,16 @@
             "name": "JOC DE FAKKEL",
             "townhallLevel": 15,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#UVPQ9Y8U",
+                "defenderTag": "#PQ888Q2LC",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 6,
+                "duration": 85
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -890,14 +910,30 @@
             "name": "Hulk",
             "townhallLevel": 13,
             "mapPosition": 9,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#UVPQ9Y8U",
+              "defenderTag": "#PQ888Q2LC",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 6,
+              "duration": 85
+            }
           },
           {
             "tag": "#PCQYVLYJL",
             "name": "surajit pathak",
             "townhallLevel": 16,
             "mapPosition": 2,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YCQ98GC88",
+              "defenderTag": "#PCQYVLYJL",
+              "stars": 2,
+              "destructionPercentage": 82,
+              "order": 5,
+              "duration": 136
+            }
           },
           {
             "tag": "#LC929U2GY",
@@ -1378,9 +1414,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 8,
-          "attacks": 3,
-          "destructionPercentage": 18.333333333333332
+          "stars": 13,
+          "attacks": 5,
+          "destructionPercentage": 30.466666666666665
         },
         "clan2": {
           "tag": "#2PQ2UP9UL",
@@ -1405,9 +1441,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
           },
-          "stars": 18,
-          "attacks": 7,
-          "destructionPercentage": 41.2
+          "stars": 21,
+          "attacks": 8,
+          "destructionPercentage": 47.86666666666667
         },
         "clan2": {
           "tag": "#2LCGUPY8C",
@@ -1459,9 +1495,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/x55oY2cxIUkSQbdOYpIM0outcVxEoubPZH_loucd7M8.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/x55oY2cxIUkSQbdOYpIM0outcVxEoubPZH_loucd7M8.png"
           },
-          "stars": 12,
-          "attacks": 4,
-          "destructionPercentage": 26.666666666666668
+          "stars": 15,
+          "attacks": 5,
+          "destructionPercentage": 33.333333333333336
         },
         "clan2": {
           "tag": "#LCU8CCCU",
