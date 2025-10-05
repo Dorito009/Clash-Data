@@ -1406,7 +1406,15 @@
             "name": "davidanemoon",
             "townhallLevel": 16,
             "mapPosition": 6,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GYJ9YLLLL",
+              "defenderTag": "#P9RGRYC9",
+              "stars": 2,
+              "destructionPercentage": 74,
+              "order": 6,
+              "duration": 106
+            }
           },
           {
             "tag": "#GQYQ92VLL",
@@ -1441,7 +1449,15 @@
             "name": "Noahzwolle",
             "townhallLevel": 16,
             "mapPosition": 5,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QY0GCCG8G",
+              "defenderTag": "#Y90L0809",
+              "stars": 2,
+              "destructionPercentage": 91,
+              "order": 4,
+              "duration": 180
+            }
           },
           {
             "tag": "#PP9R8LJGG",
@@ -1473,7 +1489,15 @@
                 "duration": 148
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QL2U0UR0Q",
+              "defenderTag": "#9JQP9VUPY",
+              "stars": 2,
+              "destructionPercentage": 92,
+              "order": 5,
+              "duration": 147
+            }
           },
           {
             "tag": "#YCQ98GC88",
@@ -1529,9 +1553,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png"
         },
         "clanLevel": 17,
-        "attacks": 2,
-        "stars": 4,
-        "destructionPercentage": 12.466666666666667,
+        "attacks": 5,
+        "stars": 10,
+        "destructionPercentage": 29.6,
         "members": [
           {
             "tag": "#L8Q2YPU0",
@@ -1590,6 +1614,16 @@
             "name": "Paul's Uncle",
             "townhallLevel": 16,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#GYJ9YLLLL",
+                "defenderTag": "#P9RGRYC9",
+                "stars": 2,
+                "destructionPercentage": 74,
+                "order": 6,
+                "duration": 106
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1628,6 +1662,16 @@
             "name": "Paul Zant",
             "townhallLevel": 17,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#QL2U0UR0Q",
+                "defenderTag": "#9JQP9VUPY",
+                "stars": 2,
+                "destructionPercentage": 92,
+                "order": 5,
+                "duration": 147
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#9JQP9VUPY",
@@ -1664,6 +1708,16 @@
             "name": "Paul's Aunt",
             "townhallLevel": 17,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#QY0GCCG8G",
+                "defenderTag": "#Y90L0809",
+                "stars": 2,
+                "destructionPercentage": 91,
+                "order": 4,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -2163,9 +2217,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png"
           },
-          "stars": 15,
-          "attacks": 5,
-          "destructionPercentage": 33.333333333333336
+          "stars": 24,
+          "attacks": 9,
+          "destructionPercentage": 53.333333333333336
         }
       },
       {
@@ -2190,9 +2244,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png"
           },
-          "stars": 4,
-          "attacks": 2,
-          "destructionPercentage": 12.466666666666667
+          "stars": 10,
+          "attacks": 5,
+          "destructionPercentage": 29.6
         }
       },
       {
@@ -2217,9 +2271,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 2,
+          "attacks": 1,
+          "destructionPercentage": 5.933333333333334
         }
       },
       {
