@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 331173,
+  "capitalTotalLoot": 385940,
   "raidsCompleted": 5,
-  "totalAttacks": 96,
-  "enemyDistrictsDestroyed": 29,
+  "totalAttacks": 114,
+  "enemyDistrictsDestroyed": 34,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -58,12 +58,28 @@
       "capitalResourcesLooted": 18220
     },
     {
+      "tag": "#2RG2JRVUP",
+      "name": "Rinaldo",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18685
+    },
+    {
       "tag": "#Q9P2J02U",
       "name": "Langpootmug2304",
       "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 6955
+    },
+    {
+      "tag": "#2QQL89LVP",
+      "name": "julius damen",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20238
     },
     {
       "tag": "#JCGVYY8U",
@@ -152,6 +168,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 27422
+    },
+    {
+      "tag": "#9CCVPU9RU",
+      "name": "Bassie",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15844
     }
   ],
   "attackLog": [
