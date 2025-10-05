@@ -1448,7 +1448,15 @@
             "name": "NielsTheKiller",
             "townhallLevel": 15,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GQ2RC8RJQ",
+              "defenderTag": "#PP9R8LJGG",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 2,
+              "duration": 180
+            }
           },
           {
             "tag": "#9JQP9VUPY",
@@ -1472,7 +1480,15 @@
             "name": "Peter Pannekoek",
             "townhallLevel": 17,
             "mapPosition": 2,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2J8U8ULVR",
+              "defenderTag": "#YCQ98GC88",
+              "stars": 2,
+              "destructionPercentage": 91,
+              "order": 3,
+              "duration": 116
+            }
           },
           {
             "tag": "#UVPQ9Y8U",
@@ -1513,9 +1529,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png"
         },
         "clanLevel": 17,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 2,
+        "stars": 4,
+        "destructionPercentage": 12.466666666666667,
         "members": [
           {
             "tag": "#L8Q2YPU0",
@@ -1543,6 +1559,16 @@
             "name": "poo",
             "townhallLevel": 17,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#2J8U8ULVR",
+                "defenderTag": "#YCQ98GC88",
+                "stars": 2,
+                "destructionPercentage": 91,
+                "order": 3,
+                "duration": 116
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1571,6 +1597,16 @@
             "name": "Stain",
             "townhallLevel": 15,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#GQ2RC8RJQ",
+                "defenderTag": "#PP9R8LJGG",
+                "stars": 2,
+                "destructionPercentage": 96,
+                "order": 2,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2154,9 +2190,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 4,
+          "attacks": 2,
+          "destructionPercentage": 12.466666666666667
         }
       },
       {
