@@ -1972,7 +1972,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/eR3359bPO25aRKRAJO9wiKGR5nH1TFPVk12-pc2ZZFE.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 15,
       "districtCount": 9,
       "districtsDestroyed": 3,
       "districts": [
@@ -2149,10 +2149,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 91,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9280,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8YVQ0YYL",
+                "name": "mek"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G8YVQ0YYL",
+                "name": "mek"
+              },
+              "destructionPercent": 37,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
