@@ -1409,7 +1409,15 @@
             "name": "J-rone",
             "townhallLevel": 17,
             "mapPosition": 1,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#P0RR89LYY",
+              "defenderTag": "#88JUGLUL",
+              "stars": 2,
+              "destructionPercentage": 86,
+              "order": 17,
+              "duration": 102
+            }
           },
           {
             "tag": "#P9RGRYC9",
@@ -1643,9 +1651,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png"
         },
         "clanLevel": 17,
-        "attacks": 10,
-        "stars": 18,
-        "destructionPercentage": 52.6,
+        "attacks": 11,
+        "stars": 20,
+        "destructionPercentage": 58.333333333333336,
         "members": [
           {
             "tag": "#L8Q2YPU0",
@@ -1799,6 +1807,16 @@
             "name": "itsproy",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#P0RR89LYY",
+                "defenderTag": "#88JUGLUL",
+                "stars": 2,
+                "destructionPercentage": 86,
+                "order": 17,
+                "duration": 102
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2424,9 +2442,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png"
           },
-          "stars": 18,
-          "attacks": 10,
-          "destructionPercentage": 52.6
+          "stars": 20,
+          "attacks": 11,
+          "destructionPercentage": 58.333333333333336
         }
       },
       {
@@ -2451,9 +2469,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png"
           },
-          "stars": 5,
-          "attacks": 2,
-          "destructionPercentage": 12.6
+          "stars": 7,
+          "attacks": 3,
+          "destructionPercentage": 16.466666666666665
         }
       },
       {
