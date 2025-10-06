@@ -1373,7 +1373,7 @@
       "teamSize": 15,
       "preparationStartTime": "20251004T154926.000Z",
       "startTime": "20251005T154922.000Z",
-      "endTime": "20251006T165009.000Z",
+      "endTime": "20251006T183436.000Z",
       "clan": {
         "tag": "#2QGYR0GU2",
         "name": "EetMeBal",
@@ -1383,9 +1383,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 8,
-        "stars": 19,
-        "destructionPercentage": 49.8,
+        "attacks": 10,
+        "stars": 25,
+        "destructionPercentage": 63.13333333333333,
         "members": [
           {
             "tag": "#QGY08PCG",
@@ -1464,6 +1464,16 @@
             "name": "Rinaldo",
             "townhallLevel": 14,
             "mapPosition": 32,
+            "attacks": [
+              {
+                "attackerTag": "#2RG2JRVUP",
+                "defenderTag": "#G98RR9GJU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 20,
+                "duration": 77
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#G98RR9GJU",
@@ -1651,7 +1661,25 @@
             "name": "Mauro",
             "townhallLevel": 15,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "attacks": [
+              {
+                "attackerTag": "#LRRCYRP8Q",
+                "defenderTag": "#L8Q2YPU0",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 21,
+                "duration": 136
+              }
+            ],
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#L8Q2YPU0",
+              "defenderTag": "#LRRCYRP8Q",
+              "stars": 2,
+              "destructionPercentage": 98,
+              "order": 22,
+              "duration": 180
+            }
           },
           {
             "tag": "#8QLPGU0VL",
@@ -1671,16 +1699,34 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png"
         },
         "clanLevel": 17,
-        "attacks": 11,
-        "stars": 20,
-        "destructionPercentage": 58.333333333333336,
+        "attacks": 12,
+        "stars": 22,
+        "destructionPercentage": 64.86666666666666,
         "members": [
           {
             "tag": "#L8Q2YPU0",
             "name": "JiHaO88",
             "townhallLevel": 15,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "attacks": [
+              {
+                "attackerTag": "#L8Q2YPU0",
+                "defenderTag": "#LRRCYRP8Q",
+                "stars": 2,
+                "destructionPercentage": 98,
+                "order": 22,
+                "duration": 180
+              }
+            ],
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LRRCYRP8Q",
+              "defenderTag": "#L8Q2YPU0",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 21,
+              "duration": 136
+            }
           },
           {
             "tag": "#L00YQ8GCR",
@@ -1895,7 +1941,15 @@
                 "duration": 80
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2RG2JRVUP",
+              "defenderTag": "#G98RR9GJU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 20,
+              "duration": 77
+            }
           },
           {
             "tag": "#GPLUYRQ9J",
@@ -1962,8 +2016,8 @@
       "state": "preparation",
       "teamSize": 15,
       "preparationStartTime": "20251005T160219.000Z",
-      "startTime": "20251006T170232.000Z",
-      "endTime": "20251007T170232.000Z",
+      "startTime": "20251006T184700.000Z",
+      "endTime": "20251007T184700.000Z",
       "clan": {
         "tag": "#2QGYR0GU2",
         "name": "EetMeBal",
@@ -2204,7 +2258,7 @@
           }
         ]
       },
-      "warStartTime": "20251006T170232.000Z"
+      "warStartTime": "20251006T184700.000Z"
     }
   ],
   "rounds": [
@@ -2439,9 +2493,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Z8-mUr_re2zszjyTFXO5DRvhazrHLXw48451w-IIm1A.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Z8-mUr_re2zszjyTFXO5DRvhazrHLXw48451w-IIm1A.png"
           },
-          "stars": 5,
-          "attacks": 2,
-          "destructionPercentage": 12.466666666666667
+          "stars": 16,
+          "attacks": 7,
+          "destructionPercentage": 39.333333333333336
         },
         "clan2": {
           "tag": "#2LYQQP888",
@@ -2466,9 +2520,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 19,
-          "attacks": 8,
-          "destructionPercentage": 49.8
+          "stars": 25,
+          "attacks": 10,
+          "destructionPercentage": 63.13333333333333
         },
         "clan2": {
           "tag": "#2LCGUPY8C",
@@ -2478,9 +2532,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png"
           },
-          "stars": 20,
-          "attacks": 11,
-          "destructionPercentage": 58.333333333333336
+          "stars": 22,
+          "attacks": 12,
+          "destructionPercentage": 64.86666666666666
         }
       },
       {
@@ -2505,9 +2559,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png"
           },
-          "stars": 9,
-          "attacks": 4,
-          "destructionPercentage": 21.8
+          "stars": 11,
+          "attacks": 5,
+          "destructionPercentage": 25.466666666666665
         }
       },
       {
@@ -2520,9 +2574,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/rY1SKcjSC8vT53gHG_5MvA_UfjRKby78_28WUvQPi9A.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/rY1SKcjSC8vT53gHG_5MvA_UfjRKby78_28WUvQPi9A.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 6,
+          "attacks": 2,
+          "destructionPercentage": 13.333333333333334
         },
         "clan2": {
           "tag": "#LCU8CCCU",
@@ -2532,9 +2586,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/pGo_iikqqhMPGjy1iHCVvYdGrkXarrEntcFj6grYrYA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/pGo_iikqqhMPGjy1iHCVvYdGrkXarrEntcFj6grYrYA.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 15,
+          "attacks": 5,
+          "destructionPercentage": 33.333333333333336
         }
       }
     ],
