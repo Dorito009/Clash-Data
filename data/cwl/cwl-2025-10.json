@@ -2117,7 +2117,15 @@
                 "duration": 98
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YJJYGGQ2",
+              "defenderTag": "#2RG2JRVUP",
+              "stars": 2,
+              "destructionPercentage": 77,
+              "order": 14,
+              "duration": 103
+            }
           },
           {
             "tag": "#JCGVYY8U",
@@ -2282,9 +2290,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
         },
         "clanLevel": 12,
-        "attacks": 7,
-        "stars": 18,
-        "destructionPercentage": 41.333333333333336,
+        "attacks": 8,
+        "stars": 20,
+        "destructionPercentage": 46.46666666666667,
         "members": [
           {
             "tag": "#QU2GPP9LR",
@@ -2485,6 +2493,16 @@
             "name": "H...B",
             "townhallLevel": 13,
             "mapPosition": 28,
+            "attacks": [
+              {
+                "attackerTag": "#YJJYGGQ2",
+                "defenderTag": "#2RG2JRVUP",
+                "stars": 2,
+                "destructionPercentage": 77,
+                "order": 14,
+                "duration": 103
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#2RG2JRVUP",
@@ -3143,9 +3161,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
           },
-          "stars": 18,
-          "attacks": 7,
-          "destructionPercentage": 41.333333333333336
+          "stars": 20,
+          "attacks": 8,
+          "destructionPercentage": 46.46666666666667
         }
       },
       {
@@ -3185,9 +3203,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Z8-mUr_re2zszjyTFXO5DRvhazrHLXw48451w-IIm1A.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Z8-mUr_re2zszjyTFXO5DRvhazrHLXw48451w-IIm1A.png"
           },
-          "stars": 17,
-          "attacks": 6,
-          "destructionPercentage": 38.2
+          "stars": 23,
+          "attacks": 9,
+          "destructionPercentage": 52.06666666666667
         },
         "clan2": {
           "tag": "#2LCGUPY8C",
