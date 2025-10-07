@@ -2085,7 +2085,15 @@
             "name": "davidanemoon",
             "townhallLevel": 16,
             "mapPosition": 6,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QRLLRPVQJ",
+              "defenderTag": "#P9RGRYC9",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "duration": 127
+            }
           },
           {
             "tag": "#GQYQ92VLL",
@@ -2181,7 +2189,15 @@
                 "duration": 91
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GPGUCJ222",
+              "defenderTag": "#PP9R8LJGG",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "duration": 130
+            }
           },
           {
             "tag": "#9JQP9VUPY",
@@ -2198,7 +2214,15 @@
                 "duration": 177
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LV00GR209",
+              "defenderTag": "#9JQP9VUPY",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "duration": 167
+            }
           },
           {
             "tag": "#YCQ98GC88",
@@ -2287,7 +2311,15 @@
             "name": "obey",
             "townhallLevel": 16,
             "mapPosition": 3,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QYVY2UQ22",
+              "defenderTag": "#8QLPGU0VL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 18,
+              "duration": 137
+            }
           }
         ]
       },
@@ -2300,9 +2332,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
         },
         "clanLevel": 12,
-        "attacks": 8,
-        "stars": 20,
-        "destructionPercentage": 46.46666666666667,
+        "attacks": 12,
+        "stars": 32,
+        "destructionPercentage": 73.13333333333334,
         "members": [
           {
             "tag": "#QU2GPP9LR",
@@ -2334,6 +2366,16 @@
             "name": "ali",
             "townhallLevel": 16,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#QRLLRPVQJ",
+                "defenderTag": "#P9RGRYC9",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 16,
+                "duration": 127
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2432,6 +2474,16 @@
             "name": "\u0641\u0651\u0650\u0631\u0622\u0634\u064d\u0629\u0651",
             "townhallLevel": 16,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#GPGUCJ222",
+                "defenderTag": "#PP9R8LJGG",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 19,
+                "duration": 130
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#PP9R8LJGG",
@@ -2447,6 +2499,16 @@
             "name": "R.M",
             "townhallLevel": 17,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#QYVY2UQ22",
+                "defenderTag": "#8QLPGU0VL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 18,
+                "duration": 137
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2479,6 +2541,16 @@
             "name": "\u2764\ufe0f\u0623\u0651\u0644\u064e\u0634\u064d\u064a\u0651\u0650\u062e\u064e\u0629\u0651",
             "townhallLevel": 16,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#LV00GR209",
+                "defenderTag": "#9JQP9VUPY",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 17,
+                "duration": 167
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#9JQP9VUPY",
@@ -3179,9 +3251,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
           },
-          "stars": 20,
-          "attacks": 8,
-          "destructionPercentage": 46.46666666666667
+          "stars": 32,
+          "attacks": 12,
+          "destructionPercentage": 73.13333333333334
         }
       },
       {
