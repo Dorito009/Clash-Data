@@ -2709,9 +2709,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 2,
-        "stars": 6,
-        "destructionPercentage": 13.333333333333334,
+        "attacks": 3,
+        "stars": 9,
+        "destructionPercentage": 20.0,
         "members": [
           {
             "tag": "#QGY08PCG",
@@ -2770,6 +2770,16 @@
             "name": "ThomasOnCarry",
             "townhallLevel": 13,
             "mapPosition": 40,
+            "attacks": [
+              {
+                "attackerTag": "#YRP99RVQR",
+                "defenderTag": "#Q9UJCRLYJ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 3,
+                "duration": 75
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2972,7 +2982,15 @@
             "name": "jhunfox 012",
             "townhallLevel": 13,
             "mapPosition": 17,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YRP99RVQR",
+              "defenderTag": "#Q9UJCRLYJ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 3,
+              "duration": 75
+            }
           }
         ]
       },
@@ -3691,9 +3709,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 6,
+          "attacks": 3,
+          "destructionPercentage": 19.333333333333332
         }
       },
       {
@@ -3733,9 +3751,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 6,
-          "attacks": 2,
-          "destructionPercentage": 13.333333333333334
+          "stars": 9,
+          "attacks": 3,
+          "destructionPercentage": 20.0
         },
         "clan2": {
           "tag": "#LCU8CCCU",
