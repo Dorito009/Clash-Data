@@ -3663,7 +3663,15 @@
             "name": "obey",
             "townhallLevel": 16,
             "mapPosition": 3,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#82VV8V9PP",
+              "defenderTag": "#8QLPGU0VL",
+              "stars": 2,
+              "destructionPercentage": 78,
+              "order": 22,
+              "duration": 123
+            }
           }
         ]
       },
@@ -3676,9 +3684,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png"
         },
         "clanLevel": 6,
-        "attacks": 13,
-        "stars": 29,
-        "destructionPercentage": 75.4,
+        "attacks": 14,
+        "stars": 31,
+        "destructionPercentage": 80.6,
         "members": [
           {
             "tag": "#GPJY09CJG",
@@ -3752,6 +3760,16 @@
             "name": "pravin",
             "townhallLevel": 15,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#82VV8V9PP",
+                "defenderTag": "#8QLPGU0VL",
+                "stars": 2,
+                "destructionPercentage": 78,
+                "order": 22,
+                "duration": 123
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4806,9 +4824,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png"
           },
-          "stars": 29,
-          "attacks": 13,
-          "destructionPercentage": 75.4
+          "stars": 31,
+          "attacks": 14,
+          "destructionPercentage": 80.6
         }
       },
       {
