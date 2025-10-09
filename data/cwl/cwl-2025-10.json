@@ -3372,9 +3372,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 4,
-        "stars": 11,
-        "destructionPercentage": 25.933333333333334,
+        "attacks": 5,
+        "stars": 13,
+        "destructionPercentage": 32.333333333333336,
         "members": [
           {
             "tag": "#QGY08PCG",
@@ -3495,6 +3495,16 @@
             "name": "Peter Pannekoek",
             "townhallLevel": 17,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#YCQ98GC88",
+                "defenderTag": "#PUVYRJ8L9",
+                "stars": 2,
+                "destructionPercentage": 96,
+                "order": 8,
+                "duration": 149
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3655,7 +3665,15 @@
             "name": "\u26a1\u26a1PRE FC FC\u26a1\u26a1",
             "townhallLevel": 17,
             "mapPosition": 2,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YCQ98GC88",
+              "defenderTag": "#PUVYRJ8L9",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 8,
+              "duration": 149
+            }
           },
           {
             "tag": "#8VJY92QCL",
@@ -4542,9 +4560,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 11,
-          "attacks": 4,
-          "destructionPercentage": 25.933333333333334
+          "stars": 13,
+          "attacks": 5,
+          "destructionPercentage": 32.333333333333336
         },
         "clan2": {
           "tag": "#2RUV22L09",
@@ -4623,9 +4641,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png"
           },
-          "stars": 20,
-          "attacks": 7,
-          "destructionPercentage": 45.13333333333333
+          "stars": 22,
+          "attacks": 8,
+          "destructionPercentage": 50.06666666666667
         },
         "clan2": {
           "tag": "#LCU8CCCU",
