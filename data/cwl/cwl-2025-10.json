@@ -3372,9 +3372,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 3,
+        "destructionPercentage": 6.666666666666667,
         "members": [
           {
             "tag": "#QGY08PCG",
@@ -3416,6 +3416,16 @@
             "name": "de skelet boys",
             "townhallLevel": 14,
             "mapPosition": 25,
+            "attacks": [
+              {
+                "attackerTag": "#JCGVYY8U",
+                "defenderTag": "#8VU9YRYRU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 1,
+                "duration": 137
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3578,7 +3588,15 @@
             "name": "Ashikul Islam",
             "townhallLevel": 14,
             "mapPosition": 16,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#JCGVYY8U",
+              "defenderTag": "#8VU9YRYRU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 1,
+              "duration": 137
+            }
           },
           {
             "tag": "#L2V92LQPY",
@@ -4416,9 +4434,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         },
         "clan2": {
           "tag": "#2RUV22L09",
@@ -4455,9 +4473,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/uisHPe_c_b6Dhp8nddrd2gf5emZq_zlAFpbP6vhjhXY.png"
           },
-          "stars": 15,
-          "attacks": 6,
-          "destructionPercentage": 38.4
+          "stars": 17,
+          "attacks": 7,
+          "destructionPercentage": 44.2
         }
       },
       {
