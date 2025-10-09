@@ -3362,7 +3362,7 @@
       "teamSize": 15,
       "preparationStartTime": "20251007T221014.000Z",
       "startTime": "20251008T221012.000Z",
-      "endTime": "20251009T221012.000Z",
+      "endTime": "20251009T223916.000Z",
       "clan": {
         "tag": "#2QGYR0GU2",
         "name": "EetMeBal",
@@ -3531,7 +3531,15 @@
                 "duration": 149
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9RLCVJVUR",
+              "defenderTag": "#YCQ98GC88",
+              "stars": 2,
+              "destructionPercentage": 83,
+              "order": 15,
+              "duration": 152
+            }
           },
           {
             "tag": "#UVPQ9Y8U",
@@ -3618,9 +3626,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png"
         },
         "clanLevel": 6,
-        "attacks": 7,
-        "stars": 15,
-        "destructionPercentage": 41.06666666666667,
+        "attacks": 8,
+        "stars": 17,
+        "destructionPercentage": 46.6,
         "members": [
           {
             "tag": "#GPJY09CJG",
@@ -3797,6 +3805,16 @@
             "name": "Manoj",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#9RLCVJVUR",
+                "defenderTag": "#YCQ98GC88",
+                "stars": 2,
+                "destructionPercentage": 83,
+                "order": 15,
+                "duration": 152
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3861,8 +3879,8 @@
       "state": "preparation",
       "teamSize": 15,
       "preparationStartTime": "20251008T230526.000Z",
-      "startTime": "20251009T230523.000Z",
-      "endTime": "20251010T230523.000Z",
+      "startTime": "20251009T233426.000Z",
+      "endTime": "20251010T233426.000Z",
       "clan": {
         "tag": "#J90GYG2R",
         "name": "clasherzzz",
@@ -4103,7 +4121,7 @@
           }
         ]
       },
-      "warStartTime": "20251009T230523.000Z"
+      "warStartTime": "20251009T233426.000Z"
     }
   ],
   "rounds": [
@@ -4680,9 +4698,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png"
           },
-          "stars": 15,
-          "attacks": 7,
-          "destructionPercentage": 41.06666666666667
+          "stars": 17,
+          "attacks": 8,
+          "destructionPercentage": 46.6
         }
       },
       {
@@ -4695,9 +4713,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/rY1SKcjSC8vT53gHG_5MvA_UfjRKby78_28WUvQPi9A.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/rY1SKcjSC8vT53gHG_5MvA_UfjRKby78_28WUvQPi9A.png"
           },
-          "stars": 25,
-          "attacks": 9,
-          "destructionPercentage": 56.06666666666667
+          "stars": 27,
+          "attacks": 10,
+          "destructionPercentage": 59.733333333333334
         },
         "clan2": {
           "tag": "#2LCGUPY8C",
