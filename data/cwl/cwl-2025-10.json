@@ -3372,9 +3372,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 5,
-        "stars": 13,
-        "destructionPercentage": 32.333333333333336,
+        "attacks": 6,
+        "stars": 16,
+        "destructionPercentage": 39.0,
         "members": [
           {
             "tag": "#QGY08PCG",
@@ -3443,6 +3443,16 @@
             "name": "ThomasOnCarry",
             "townhallLevel": 13,
             "mapPosition": 40,
+            "attacks": [
+              {
+                "attackerTag": "#YRP99RVQR",
+                "defenderTag": "#YVQ89R0UU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 11,
+                "duration": 73
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3539,7 +3549,15 @@
                 "duration": 150
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#98QJJQR0P",
+              "defenderTag": "#9CCVPU9RU",
+              "stars": 2,
+              "destructionPercentage": 76,
+              "order": 10,
+              "duration": 168
+            }
           },
           {
             "tag": "#LRRCYRP8Q",
@@ -3574,9 +3592,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png"
         },
         "clanLevel": 6,
-        "attacks": 4,
-        "stars": 9,
-        "destructionPercentage": 23.466666666666665,
+        "attacks": 5,
+        "stars": 11,
+        "destructionPercentage": 28.533333333333335,
         "members": [
           {
             "tag": "#GPJY09CJG",
@@ -3598,6 +3616,16 @@
             "name": "# GOURAB #",
             "townhallLevel": 14,
             "mapPosition": 18,
+            "attacks": [
+              {
+                "attackerTag": "#98QJJQR0P",
+                "defenderTag": "#9CCVPU9RU",
+                "stars": 2,
+                "destructionPercentage": 76,
+                "order": 10,
+                "duration": 168
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#9CCVPU9RU",
@@ -3744,7 +3772,15 @@
             "name": "devilarpit",
             "townhallLevel": 13,
             "mapPosition": 28,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YRP99RVQR",
+              "defenderTag": "#YVQ89R0UU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 11,
+              "duration": 73
+            }
           },
           {
             "tag": "#LUCYJR2LV",
@@ -4578,9 +4614,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 13,
-          "attacks": 5,
-          "destructionPercentage": 32.333333333333336
+          "stars": 16,
+          "attacks": 6,
+          "destructionPercentage": 39.0
         },
         "clan2": {
           "tag": "#2RUV22L09",
@@ -4590,9 +4626,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png"
           },
-          "stars": 9,
-          "attacks": 4,
-          "destructionPercentage": 23.466666666666665
+          "stars": 11,
+          "attacks": 5,
+          "destructionPercentage": 28.533333333333335
         }
       },
       {
@@ -4659,9 +4695,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png"
           },
-          "stars": 25,
-          "attacks": 9,
-          "destructionPercentage": 56.733333333333334
+          "stars": 31,
+          "attacks": 11,
+          "destructionPercentage": 70.06666666666666
         },
         "clan2": {
           "tag": "#LCU8CCCU",
