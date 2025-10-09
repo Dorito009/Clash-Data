@@ -3546,7 +3546,15 @@
             "name": "Mauro",
             "townhallLevel": 15,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9CLY08JUG",
+              "defenderTag": "#LRRCYRP8Q",
+              "stars": 2,
+              "destructionPercentage": 86,
+              "order": 9,
+              "duration": 172
+            }
           },
           {
             "tag": "#8QLPGU0VL",
@@ -3566,9 +3574,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png"
         },
         "clanLevel": 6,
-        "attacks": 3,
-        "stars": 7,
-        "destructionPercentage": 17.733333333333334,
+        "attacks": 4,
+        "stars": 9,
+        "destructionPercentage": 23.466666666666665,
         "members": [
           {
             "tag": "#GPJY09CJG",
@@ -3629,6 +3637,16 @@
             "name": "DRISHTI GUPTA",
             "townhallLevel": 14,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#9CLY08JUG",
+                "defenderTag": "#LRRCYRP8Q",
+                "stars": 2,
+                "destructionPercentage": 86,
+                "order": 9,
+                "duration": 172
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4572,9 +4590,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/PitCTIQOTzxMT6c14HxILAo-2cOXZGGwUWIqWzoNJxs.png"
           },
-          "stars": 7,
-          "attacks": 3,
-          "destructionPercentage": 17.733333333333334
+          "stars": 9,
+          "attacks": 4,
+          "destructionPercentage": 23.466666666666665
         }
       },
       {
@@ -4626,9 +4644,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/NVwKVgJpNPNfeRvB7imM_nD5kD3RVzy1kkoXwT_wrx0.png"
           },
-          "stars": 32,
-          "attacks": 11,
-          "destructionPercentage": 71.26666666666667
+          "stars": 38,
+          "attacks": 13,
+          "destructionPercentage": 84.6
         }
       },
       {
