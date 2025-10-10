@@ -4116,7 +4116,15 @@
             "name": "\u0632\u0631\u062a\u0634\u062a",
             "townhallLevel": 14,
             "mapPosition": 10,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#UVPQ9Y8U",
+              "defenderTag": "#P0J8GL2R0",
+              "stars": 2,
+              "destructionPercentage": 87,
+              "order": 1,
+              "duration": 107
+            }
           },
           {
             "tag": "#LRCQ22RY0",
@@ -4136,9 +4144,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 2,
+        "destructionPercentage": 5.8,
         "members": [
           {
             "tag": "#QGY08PCG",
@@ -4222,6 +4230,16 @@
             "name": "JOC DE FAKKEL",
             "townhallLevel": 15,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#UVPQ9Y8U",
+                "defenderTag": "#P0J8GL2R0",
+                "stars": 2,
+                "destructionPercentage": 87,
+                "order": 1,
+                "duration": 107
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4934,9 +4952,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 2,
+          "attacks": 1,
+          "destructionPercentage": 5.8
         }
       },
       {
@@ -4988,9 +5006,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png"
           },
-          "stars": 19,
-          "attacks": 9,
-          "destructionPercentage": 50.733333333333334
+          "stars": 22,
+          "attacks": 10,
+          "destructionPercentage": 57.4
         }
       },
       {
