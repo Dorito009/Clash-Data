@@ -4016,9 +4016,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Z8-mUr_re2zszjyTFXO5DRvhazrHLXw48451w-IIm1A.png"
         },
         "clanLevel": 17,
-        "attacks": 5,
-        "stars": 12,
-        "destructionPercentage": 31.8,
+        "attacks": 6,
+        "stars": 14,
+        "destructionPercentage": 36.53333333333333,
         "members": [
           {
             "tag": "#QR209CP2J",
@@ -4127,6 +4127,16 @@
             "name": "rsaberi",
             "townhallLevel": 14,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#LCYL9R2VU",
+                "defenderTag": "#UVPQ9Y8U",
+                "stars": 2,
+                "destructionPercentage": 71,
+                "order": 14,
+                "duration": 132
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4438,7 +4448,15 @@
                 "duration": 107
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LCYL9R2VU",
+              "defenderTag": "#UVPQ9Y8U",
+              "stars": 2,
+              "destructionPercentage": 71,
+              "order": 14,
+              "duration": 132
+            }
           },
           {
             "tag": "#9CCVPU9RU",
@@ -5156,9 +5174,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Z8-mUr_re2zszjyTFXO5DRvhazrHLXw48451w-IIm1A.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Z8-mUr_re2zszjyTFXO5DRvhazrHLXw48451w-IIm1A.png"
           },
-          "stars": 12,
-          "attacks": 5,
-          "destructionPercentage": 31.8
+          "stars": 14,
+          "attacks": 6,
+          "destructionPercentage": 36.53333333333333
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
