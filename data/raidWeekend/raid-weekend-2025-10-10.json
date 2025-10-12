@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 293524,
-  "raidsCompleted": 4,
-  "totalAttacks": 83,
-  "enemyDistrictsDestroyed": 26,
+  "capitalTotalLoot": 307940,
+  "raidsCompleted": 5,
+  "totalAttacks": 86,
+  "enemyDistrictsDestroyed": 27,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 4630
+    },
+    {
+      "tag": "#G2PYG0UCY",
+      "name": "patty brard",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14416
     },
     {
       "tag": "#9JQP9VUPY",
@@ -830,6 +838,338 @@
               },
               "destructionPercent": 28,
               "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2GYQ0CLYU",
+        "name": "Brothers JF Cl\u00e3",
+        "level": 16,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/VqI4_RTuQlM5Lb7OBbJR7Ilj5h-3N74p4_hfyFm0o-I.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/VqI4_RTuQlM5Lb7OBbJR7Ilj5h-3N74p4_hfyFm0o-I.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/VqI4_RTuQlM5Lb7OBbJR7Ilj5h-3N74p4_hfyFm0o-I.png"
+        }
+      },
+      "attackCount": 27,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12896,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2PYG0UCY",
+                "name": "patty brard"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G2PYG0UCY",
+                "name": "patty brard"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LVQYUVRVQ",
+                "name": "maarten"
+              },
+              "destructionPercent": 26,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#LVQYUVRVQ",
+                "name": "maarten"
+              },
+              "destructionPercent": 13,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10918,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "J-rone"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "J-rone"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#CV0GGCCU",
+                "name": "Falcon_Fury"
+              },
+              "destructionPercent": 33,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8985,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CV0GGCCU",
+                "name": "Falcon_Fury"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CV0GGCCU",
+                "name": "Falcon_Fury"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2QQL89LVP",
+                "name": "julius damen"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10162,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JCGVYY8U",
+                "name": "de skelet boys"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JCGVYY8U",
+                "name": "de skelet boys"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10795,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LVQYUVRVQ",
+                "name": "maarten"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#20RG8YP82",
+                "name": "svennoss"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QPGCL8CYC",
+                "name": "KoerpoerXD"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10364,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "J-rone"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#88JUGLUL",
+                "name": "J-rone"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10482,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#U9G8Q2GG",
+                "name": "mark"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#U9G8Q2GG",
+                "name": "mark"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#U9G8Q2GG",
+                "name": "mark"
+              },
+              "destructionPercent": 42,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11017,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CV0GGCCU",
+                "name": "Falcon_Fury"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#U9G8Q2GG",
+                "name": "mark"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#U9G8Q2GG",
+                "name": "mark"
+              },
+              "destructionPercent": 66,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#U9G8Q2GG",
+                "name": "mark"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11115,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LVQYUVRVQ",
+                "name": "maarten"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LVQYUVRVQ",
+                "name": "maarten"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LVQYUVRVQ",
+                "name": "maarten"
+              },
+              "destructionPercent": 56,
+              "stars": 1
             }
           ]
         }
