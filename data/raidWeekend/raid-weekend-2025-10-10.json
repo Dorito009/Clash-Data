@@ -3,7 +3,7 @@
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
   "capitalTotalLoot": 239160,
-  "raidsCompleted": 3,
+  "raidsCompleted": 4,
   "totalAttacks": 69,
   "enemyDistrictsDestroyed": 21,
   "offensiveReward": 0,
@@ -824,28 +824,70 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/75v1HLGKU1Bx2TKBurUBaOTr3ZRomP49Pzf0ZQ6w3do.png"
         }
       },
-      "attackCount": 22,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13052,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLVP0PYJ0",
+                "name": "\ub625\uba39\uae30\ucc54\ud53c\uc5b8"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QLVP0PYJ0",
+                "name": "\ub625\uba39\uae30\ucc54\ud53c\uc5b8"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QLVP0PYJ0",
+                "name": "\ub625\uba39\uae30\ucc54\ud53c\uc5b8"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QLVP0PYJ0",
+                "name": "\ub625\uba39\uae30\ucc54\ud53c\uc5b8"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 82,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8535,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11087,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLVP0PYJ0",
+                "name": "\ub625\uba39\uae30\ucc54\ud53c\uc5b8"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QLUL9CUCG",
