@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 10,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 7.4,
     "members": [
       {
         "tag": "#2QQL89LVP",
@@ -52,7 +52,15 @@
         "name": "Peter Pannekoek",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CPG8G289",
+          "defenderTag": "#YCQ98GC88",
+          "stars": 2,
+          "destructionPercentage": 59,
+          "order": 2,
+          "duration": 73
+        }
       },
       {
         "tag": "#9VLL0CLJP",
@@ -66,6 +74,16 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#YPLGUYP98",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 1,
+            "duration": 77
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -87,7 +105,15 @@
         "name": "Mauro",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CPG8G289",
+          "defenderTag": "#LRRCYRP8Q",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 3,
+          "duration": 107
+        }
       }
     ]
   },
@@ -100,9 +126,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/5tUR8TiOAhnEVDX7YVy-LGLMqVgyeG1Xa5hU8QUOCnQ.png"
     },
     "clanLevel": 7,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 4,
+    "destructionPercentage": 15.0,
     "members": [
       {
         "tag": "#L02CCJ2GU",
@@ -137,12 +163,20 @@
         "name": "tatuk",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#YPLGUYP98",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 1,
+          "duration": 77
+        }
       },
       {
         "tag": "#GQCL9GJ0Y",
         "name": "jeco121",
-        "townhallLevel": 15,
+        "townhallLevel": 16,
         "mapPosition": 6,
         "opponentAttacks": 0
       },
@@ -158,6 +192,24 @@
         "name": "Aventador69",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#CPG8G289",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 59,
+            "order": 2,
+            "duration": 73
+          },
+          {
+            "attackerTag": "#CPG8G289",
+            "defenderTag": "#LRRCYRP8Q",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 3,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 0
       },
       {
