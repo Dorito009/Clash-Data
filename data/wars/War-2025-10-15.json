@@ -15,16 +15,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 4,
-    "stars": 10,
-    "destructionPercentage": 34.7,
+    "attacks": 6,
+    "stars": 11,
+    "destructionPercentage": 45.4,
     "members": [
       {
         "tag": "#2QQL89LVP",
         "name": "julius damen",
         "townhallLevel": 14,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPVJLPV8G",
+          "defenderTag": "#2QQL89LVP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 110
+        }
       },
       {
         "tag": "#JCGVYY8U",
@@ -41,7 +49,15 @@
             "duration": 160
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PGGQLGGUY",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 9,
+          "duration": 142
+        }
       },
       {
         "tag": "#U9G8Q2GG",
@@ -121,6 +137,24 @@
         "name": "Bassie",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9CCVPU9RU",
+            "defenderTag": "#Q29L2V92U",
+            "stars": 1,
+            "destructionPercentage": 90,
+            "order": 7,
+            "duration": 138
+          },
+          {
+            "attackerTag": "#9CCVPU9RU",
+            "defenderTag": "#QL2YCJQ9J",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 8,
+            "duration": 146
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -156,9 +190,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/5tUR8TiOAhnEVDX7YVy-LGLMqVgyeG1Xa5hU8QUOCnQ.png"
     },
     "clanLevel": 7,
-    "attacks": 2,
-    "stars": 4,
-    "destructionPercentage": 15.0,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 33.9,
     "members": [
       {
         "tag": "#L02CCJ2GU",
@@ -172,6 +206,16 @@
         "name": "AlCiput",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#PGGQLGGUY",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 9,
+            "duration": 142
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#JCGVYY8U",
@@ -194,14 +238,14 @@
         "name": "MUNCRAT (CROT)",
         "townhallLevel": 14,
         "mapPosition": 10,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YRP99RVQR",
+          "attackerTag": "#9CCVPU9RU",
           "defenderTag": "#QL2YCJQ9J",
           "stars": 2,
-          "destructionPercentage": 73,
-          "order": 5,
-          "duration": 90
+          "destructionPercentage": 90,
+          "order": 8,
+          "duration": 146
         }
       },
       {
@@ -271,13 +315,31 @@
         "name": "rikitaky",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9CCVPU9RU",
+          "defenderTag": "#Q29L2V92U",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 7,
+          "duration": 138
+        }
       },
       {
         "tag": "#GPVJLPV8G",
         "name": "gaekk",
         "townhallLevel": 14,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#GPVJLPV8G",
+            "defenderTag": "#2QQL89LVP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 10,
+            "duration": 110
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
