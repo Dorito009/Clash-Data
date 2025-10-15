@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 6,
-    "stars": 11,
-    "destructionPercentage": 45.4,
+    "attacks": 7,
+    "stars": 12,
+    "destructionPercentage": 45.7,
     "members": [
       {
         "tag": "#2QQL89LVP",
@@ -128,6 +128,14 @@
             "destructionPercentage": 74,
             "order": 1,
             "duration": 77
+          },
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#Q29L2V92U",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 11,
+            "duration": 113
           }
         ],
         "opponentAttacks": 0
@@ -315,14 +323,14 @@
         "name": "rikitaky",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9CCVPU9RU",
+          "attackerTag": "#UVPQ9Y8U",
           "defenderTag": "#Q29L2V92U",
-          "stars": 1,
-          "destructionPercentage": 90,
-          "order": 7,
-          "duration": 138
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 11,
+          "duration": 113
         }
       },
       {
