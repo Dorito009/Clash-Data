@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 9,
-    "stars": 17,
-    "destructionPercentage": 65.0,
+    "attacks": 11,
+    "stars": 21,
+    "destructionPercentage": 84.2,
     "members": [
       {
         "tag": "#2QQL89LVP",
@@ -147,6 +147,24 @@
         "name": "Jipperish",
         "townhallLevel": 15,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#9VLL0CLJP",
+            "defenderTag": "#PURRR9JUC",
+            "stars": 1,
+            "destructionPercentage": 92,
+            "order": 20,
+            "duration": 173
+          },
+          {
+            "attackerTag": "#9VLL0CLJP",
+            "defenderTag": "#G8VURCLPY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 83
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GPVJLPV8G",
@@ -297,7 +315,15 @@
         "name": "PUTR",
         "townhallLevel": 15,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VLL0CLJP",
+          "defenderTag": "#G8VURCLPY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 83
+        }
       },
       {
         "tag": "#QL2YCJQ9J",
@@ -377,7 +403,15 @@
         "name": "Afazi",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VLL0CLJP",
+          "defenderTag": "#PURRR9JUC",
+          "stars": 1,
+          "destructionPercentage": 92,
+          "order": 20,
+          "duration": 173
+        }
       },
       {
         "tag": "#CPG8G289",
