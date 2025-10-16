@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 12,
-    "stars": 24,
-    "destructionPercentage": 94.2,
+    "attacks": 13,
+    "stars": 25,
+    "destructionPercentage": 93.2,
     "members": [
       {
         "tag": "#2QQL89LVP",
@@ -65,6 +65,14 @@
             "destructionPercentage": 100,
             "order": 6,
             "duration": 160
+          },
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#PURRR9JUC",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 26,
+            "duration": 114
           }
         ],
         "opponentAttacks": 2,
@@ -453,14 +461,14 @@
         "name": "Afazi",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9VLL0CLJP",
+          "attackerTag": "#JCGVYY8U",
           "defenderTag": "#PURRR9JUC",
-          "stars": 1,
-          "destructionPercentage": 92,
-          "order": 20,
-          "duration": 173
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 26,
+          "duration": 114
         }
       },
       {
