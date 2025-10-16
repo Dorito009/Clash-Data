@@ -198,7 +198,15 @@
             "duration": 113
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L02CCJ2GU",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 23,
+          "duration": 102
+        }
       },
       {
         "tag": "#9CCVPU9RU",
@@ -223,7 +231,7 @@
             "duration": 146
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#Q29L2V92U",
           "defenderTag": "#9CCVPU9RU",
@@ -274,15 +282,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/5tUR8TiOAhnEVDX7YVy-LGLMqVgyeG1Xa5hU8QUOCnQ.png"
     },
     "clanLevel": 7,
-    "attacks": 11,
-    "stars": 22,
-    "destructionPercentage": 79.5,
+    "attacks": 13,
+    "stars": 24,
+    "destructionPercentage": 87.4,
     "members": [
       {
         "tag": "#L02CCJ2GU",
         "name": "RedDevill",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L02CCJ2GU",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 23,
+            "duration": 102
+          },
+          {
+            "attackerTag": "#L02CCJ2GU",
+            "defenderTag": "#9CCVPU9RU",
+            "stars": 2,
+            "destructionPercentage": 56,
+            "order": 24,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 0
       },
       {
