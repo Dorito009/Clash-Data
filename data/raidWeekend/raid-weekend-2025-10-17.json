@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 158667,
+  "capitalTotalLoot": 174077,
   "raidsCompleted": 2,
-  "totalAttacks": 40,
-  "enemyDistrictsDestroyed": 14,
+  "totalAttacks": 46,
+  "enemyDistrictsDestroyed": 15,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 22338
+    },
+    {
+      "tag": "#CV0GGCCU",
+      "name": "Falcon_Fury",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15410
     },
     {
       "tag": "#Q9P2J02U",
@@ -95,7 +103,7 @@
           "name": "Capital Peak",
           "districtHallLevel": 10,
           "destructionPercent": 100,
-          "stars": 0,
+          "stars": 3,
           "attackCount": 6,
           "totalLooted": 13591,
           "attacks": [
@@ -154,7 +162,7 @@
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
           "destructionPercent": 100,
-          "stars": 0,
+          "stars": 3,
           "attackCount": 3,
           "totalLooted": 11285,
           "attacks": [
@@ -189,7 +197,7 @@
           "name": "Wizard Valley",
           "districtHallLevel": 5,
           "destructionPercent": 100,
-          "stars": 0,
+          "stars": 3,
           "attackCount": 2,
           "totalLooted": 10011,
           "attacks": [
@@ -216,7 +224,7 @@
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
           "destructionPercent": 100,
-          "stars": 0,
+          "stars": 3,
           "attackCount": 2,
           "totalLooted": 10741,
           "attacks": [
@@ -243,7 +251,7 @@
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
           "destructionPercent": 100,
-          "stars": 0,
+          "stars": 3,
           "attackCount": 2,
           "totalLooted": 10688,
           "attacks": [
@@ -270,7 +278,7 @@
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
           "destructionPercent": 100,
-          "stars": 0,
+          "stars": 3,
           "attackCount": 2,
           "totalLooted": 9702,
           "attacks": [
@@ -297,7 +305,7 @@
           "name": "Golem Quarry",
           "districtHallLevel": 5,
           "destructionPercent": 100,
-          "stars": 0,
+          "stars": 3,
           "attackCount": 3,
           "totalLooted": 10594,
           "attacks": [
@@ -332,7 +340,7 @@
           "name": "Skeleton Park",
           "districtHallLevel": 4,
           "destructionPercent": 100,
-          "stars": 0,
+          "stars": 3,
           "attackCount": 2,
           "totalLooted": 11224,
           "attacks": [
@@ -359,7 +367,7 @@
           "name": "Goblin Mines",
           "districtHallLevel": 4,
           "destructionPercent": 100,
-          "stars": 0,
+          "stars": 3,
           "attackCount": 3,
           "totalLooted": 11744,
           "attacks": [
@@ -392,5 +400,290 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#8LG9V09V",
+        "name": "FieryResistance",
+        "level": 22,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/9gu7ZfUljm0fX4EftXljEz2w3cvSqH68XTvkKSjjtqk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/9gu7ZfUljm0fX4EftXljEz2w3cvSqH68XTvkKSjjtqk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/9gu7ZfUljm0fX4EftXljEz2w3cvSqH68XTvkKSjjtqk.png"
+        }
+      },
+      "attackCount": 21,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12962,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV9VLJLL",
+                "name": "DMB"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV9VLJLL",
+                "name": "DMB"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GV9VLJLL",
+                "name": "DMB"
+              },
+              "destructionPercent": 61,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GV9VLJLL",
+                "name": "DMB"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10491,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0YUP2PGV",
+                "name": "J-Dog"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G0YUP2PGV",
+                "name": "J-Dog"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9581,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#98UG9U99J",
+                "name": "brittany23"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#98UG9U99J",
+                "name": "brittany23"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10091,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGCLLQ288",
+                "name": "gone"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGCLLQ288",
+                "name": "gone"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9754,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0YUP2PGV",
+                "name": "J-Dog"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G0YUP2PGV",
+                "name": "J-Dog"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9307,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JLVPYY0",
+                "name": "Mix"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2JLVPYY0",
+                "name": "Mix"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9477,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2YLV0LP",
+                "name": "\u00a1\u25cbR\u00a1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y2YLV0LP",
+                "name": "\u00a1\u25cbR\u00a1"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11026,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L2YCYP0G",
+                "name": "Alooy_84"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y2YLV0LP",
+                "name": "\u00a1\u25cbR\u00a1"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y2YLV0LP",
+                "name": "\u00a1\u25cbR\u00a1"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10220,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0YUP2PGV",
+                "name": "J-Dog"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G0YUP2PGV",
+                "name": "J-Dog"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
