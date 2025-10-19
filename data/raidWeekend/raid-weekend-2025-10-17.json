@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 227306,
+  "capitalTotalLoot": 244411,
   "raidsCompleted": 4,
-  "totalAttacks": 64,
-  "enemyDistrictsDestroyed": 20,
+  "totalAttacks": 67,
+  "enemyDistrictsDestroyed": 21,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -52,10 +52,10 @@
     {
       "tag": "#JCGVYY8U",
       "name": "de skelet boys",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11607
+      "capitalResourcesLooted": 28712
     },
     {
       "tag": "#U9G8Q2GG",
@@ -1075,6 +1075,306 @@
                 "name": "J-Dog"
               },
               "destructionPercent": 68,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#9R2PRQQJ",
+        "name": "Forever War",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/gUb3atSqVP0FnuglAX4fLQxQf432LHrsPa89EU7Ixeo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/gUb3atSqVP0FnuglAX4fLQxQf432LHrsPa89EU7Ixeo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/gUb3atSqVP0FnuglAX4fLQxQf432LHrsPa89EU7Ixeo.png"
+        }
+      },
+      "attackCount": 23,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12998,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8QP8CLJPQ",
+                "name": "Hurricane Jr."
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8QP8CLJPQ",
+                "name": "Hurricane Jr."
+              },
+              "destructionPercent": 84,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8QP8CLJPQ",
+                "name": "Hurricane Jr."
+              },
+              "destructionPercent": 66,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8CL8Y0J0",
+                "name": "FLASH"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10704,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8CL8Y0J0",
+                "name": "FLASH"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8CL8Y0J0",
+                "name": "FLASH"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#28RQJ0LRL",
+                "name": "FALCO"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9194,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#28RQJ0LRL",
+                "name": "FALCO"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#28RQJ0LRL",
+                "name": "FALCO"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9899,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#89V9RRRV8",
+                "name": "Ciccillo2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#89V9RRRV8",
+                "name": "Ciccillo2"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9583,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#28RQJ0LRL",
+                "name": "FALCO"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#28RQJ0LRL",
+                "name": "FALCO"
+              },
+              "destructionPercent": 65,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#28RQJ0LRL",
+                "name": "FALCO"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9592,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8CL8Y0J0",
+                "name": "FLASH"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8CL8Y0J0",
+                "name": "FLASH"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8CL8Y0J0",
+                "name": "FLASH"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9822,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#89V9RRRV8",
+                "name": "Ciccillo2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#89V9RRRV8",
+                "name": "Ciccillo2"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10573,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#89V9RRRV8",
+                "name": "Ciccillo2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#89V9RRRV8",
+                "name": "Ciccillo2"
+              },
+              "destructionPercent": 62,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10445,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2RYC9J9PC",
+                "name": "Ciccio"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2RYC9J9PC",
+                "name": "Ciccio"
+              },
+              "destructionPercent": 73,
               "stars": 2
             }
           ]
