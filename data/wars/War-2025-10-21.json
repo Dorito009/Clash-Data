@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 3,
-    "stars": 9,
-    "destructionPercentage": 30.0,
+    "attacks": 4,
+    "stars": 10,
+    "destructionPercentage": 37.7,
     "members": [
       {
         "tag": "#88JUGLUL",
         "name": "J-rone",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#88JUGLUL",
+            "defenderTag": "#QJRUUCGVC",
+            "stars": 1,
+            "destructionPercentage": 77,
+            "order": 9,
+            "duration": 154
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -246,7 +256,15 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#88JUGLUL",
+          "defenderTag": "#QJRUUCGVC",
+          "stars": 1,
+          "destructionPercentage": 77,
+          "order": 9,
+          "duration": 154
+        }
       },
       {
         "tag": "#QL2LR9R9C",
