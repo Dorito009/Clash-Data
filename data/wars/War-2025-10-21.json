@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 2,
-    "stars": 6,
-    "destructionPercentage": 20.0,
+    "attacks": 3,
+    "stars": 9,
+    "destructionPercentage": 30.0,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -53,7 +53,15 @@
         "name": "de skelet boys",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QV8Y8LYV2",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 8,
+          "duration": 96
+        }
       },
       {
         "tag": "#U9G8Q2GG",
@@ -93,6 +101,16 @@
         "name": "ThomasOnCarry",
         "townhallLevel": 13,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#YRP99RVQR",
+            "defenderTag": "#QRVJ0UQJQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 65
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -107,7 +125,15 @@
         "name": "Jipperish",
         "townhallLevel": 15,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJRUUCGVC",
+          "defenderTag": "#9VLL0CLJP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 99
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -142,16 +168,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/7NRNifdj1Ehu5YQBaifhGxcCHVnKs2ISyKIUgOBKlXo.png"
     },
     "clanLevel": 12,
-    "attacks": 3,
-    "stars": 8,
-    "destructionPercentage": 28.2,
+    "attacks": 5,
+    "stars": 13,
+    "destructionPercentage": 47.2,
     "members": [
       {
         "tag": "#QRVJ0UQJQ",
         "name": "M\u2764\ufe0fM",
         "townhallLevel": 14,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP99RVQR",
+          "defenderTag": "#QRVJ0UQJQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 65
+        }
       },
       {
         "tag": "#QLY8G0RVR",
@@ -202,6 +236,14 @@
             "destructionPercentage": 100,
             "order": 3,
             "duration": 101
+          },
+          {
+            "attackerTag": "#QJRUUCGVC",
+            "defenderTag": "#9VLL0CLJP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 99
           }
         ],
         "opponentAttacks": 0
@@ -258,6 +300,16 @@
         "name": "ABOU A7MAD",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#QV8Y8LYV2",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 8,
+            "duration": 96
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
