@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 5,
-    "stars": 13,
-    "destructionPercentage": 47.7,
+    "attacks": 6,
+    "stars": 15,
+    "destructionPercentage": 54.9,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -169,6 +169,16 @@
         "name": "Jipperish",
         "townhallLevel": 15,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#9VLL0CLJP",
+            "defenderTag": "#G2CRLG8J0",
+            "stars": 2,
+            "destructionPercentage": 72,
+            "order": 18,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QJRUUCGVC",
@@ -376,7 +386,15 @@
             "duration": 132
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VLL0CLJP",
+          "defenderTag": "#G2CRLG8J0",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 18,
+          "duration": 135
+        }
       },
       {
         "tag": "#Q90CUPGGQ",
