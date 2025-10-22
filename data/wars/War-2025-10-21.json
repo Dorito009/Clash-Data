@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 4,
-    "stars": 10,
-    "destructionPercentage": 37.7,
+    "attacks": 5,
+    "stars": 13,
+    "destructionPercentage": 47.7,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -56,21 +56,39 @@
         "name": "julius damen",
         "townhallLevel": 14,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQ0Q8QJVR",
+          "defenderTag": "#2QQL89LVP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 132
+        }
       },
       {
         "tag": "#JCGVYY8U",
         "name": "de skelet boys",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 1,
+        "attacks": [
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#QV8Y8LYV2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 93
+          }
+        ],
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#QV8Y8LYV2",
+          "attackerTag": "#Q90CUPGGQ",
           "defenderTag": "#JCGVYY8U",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 8,
-          "duration": 96
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 132
         }
       },
       {
@@ -121,7 +139,15 @@
             "duration": 65
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q90CUPGGQ",
+          "defenderTag": "#YRP99RVQR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 136
+        }
       },
       {
         "tag": "#YCQ98GC88",
@@ -194,9 +220,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/7NRNifdj1Ehu5YQBaifhGxcCHVnKs2ISyKIUgOBKlXo.png"
     },
     "clanLevel": 12,
-    "attacks": 8,
-    "stars": 20,
-    "destructionPercentage": 69.0,
+    "attacks": 12,
+    "stars": 27,
+    "destructionPercentage": 90.0,
     "members": [
       {
         "tag": "#QRVJ0UQJQ",
@@ -242,6 +268,24 @@
         "name": "TAHA XX",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QQ0Q8QJVR",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 13,
+            "duration": 169
+          },
+          {
+            "attackerTag": "#QQ0Q8QJVR",
+            "defenderTag": "#2QQL89LVP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 132
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#U9G8Q2GG",
@@ -339,6 +383,24 @@
         "name": "charbel Xx",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#Q90CUPGGQ",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 132
+          },
+          {
+            "attackerTag": "#Q90CUPGGQ",
+            "defenderTag": "#YRP99RVQR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 136
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#U9G8Q2GG",
@@ -372,7 +434,15 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#QV8Y8LYV2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 93
+        }
       }
     ]
   }
