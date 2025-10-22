@@ -1,5 +1,5 @@
 {
-  "state": "inWar",
+  "state": "warEnded",
   "teamSize": 10,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 6,
-    "stars": 15,
-    "destructionPercentage": 54.9,
+    "attacks": 7,
+    "stars": 17,
+    "destructionPercentage": 62.4,
     "members": [
       {
         "tag": "#88JUGLUL",
@@ -79,6 +79,14 @@
             "destructionPercentage": 100,
             "order": 17,
             "duration": 93
+          },
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#88J9VGPQJ",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 19,
+            "duration": 168
           }
         ],
         "opponentAttacks": 3,
@@ -271,7 +279,15 @@
         "name": "T O M",
         "townhallLevel": 15,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#88J9VGPQJ",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 19,
+          "duration": 168
+        }
       },
       {
         "tag": "#QQ0Q8QJVR",
