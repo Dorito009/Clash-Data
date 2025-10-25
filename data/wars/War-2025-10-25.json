@@ -24,7 +24,15 @@
         "name": "jore",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2C8Y09CR",
+          "defenderTag": "#2V28PRRY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 98
+        }
       },
       {
         "tag": "#JCGVYY8U",
@@ -72,7 +80,15 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#2C8Y09CR",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 104
+        }
       }
     ]
   },
@@ -85,9 +101,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EyIlokt0L2gn51Xtvp9aGSkEpzldUZC0ZVk7VnPCrus.png"
     },
     "clanLevel": 11,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 3,
+    "stars": 6,
+    "destructionPercentage": 40.0,
     "members": [
       {
         "tag": "#2P29PRPQP",
@@ -109,6 +125,16 @@
         "name": "John_Rehan",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#22CJV2RVR",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 3,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -123,6 +149,24 @@
         "name": "Reaper",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2C8Y09CR",
+            "defenderTag": "#2V28PRRY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 98
+          },
+          {
+            "attackerTag": "#2C8Y09CR",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 104
+          }
+        ],
         "opponentAttacks": 0
       },
       {
