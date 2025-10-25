@@ -73,7 +73,15 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#VPQ28098",
+          "defenderTag": "#YCQ98GC88",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 75
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
@@ -101,9 +109,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EyIlokt0L2gn51Xtvp9aGSkEpzldUZC0ZVk7VnPCrus.png"
     },
     "clanLevel": 11,
-    "attacks": 3,
-    "stars": 6,
-    "destructionPercentage": 40.0,
+    "attacks": 5,
+    "stars": 9,
+    "destructionPercentage": 60.0,
     "members": [
       {
         "tag": "#2P29PRPQP",
@@ -142,6 +150,16 @@
         "name": "AbRaham_JisaN",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2PGRR8Q02",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 6,
+            "duration": 101
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -174,6 +192,16 @@
         "name": "Mr420",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#VPQ28098",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 75
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YCQ98GC88",
