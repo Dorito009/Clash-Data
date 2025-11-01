@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 245545,
+  "capitalTotalLoot": 267721,
   "raidsCompleted": 2,
-  "totalAttacks": 60,
-  "enemyDistrictsDestroyed": 22,
+  "totalAttacks": 66,
+  "enemyDistrictsDestroyed": 24,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 27111
+    },
+    {
+      "tag": "#CV0GGCCU",
+      "name": "Falcon_Fury",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22176
     },
     {
       "tag": "#Q9P2J02U",
@@ -744,7 +752,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/RqHBFzJU7HN5hkib9azERJL0lBmvaMqpLr4yojJQ3ic.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 6,
       "districtCount": 9,
       "districtsDestroyed": 2,
       "districts": [
@@ -868,10 +876,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 64,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5500,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YUJP9LJ22",
+                "name": "vale"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
