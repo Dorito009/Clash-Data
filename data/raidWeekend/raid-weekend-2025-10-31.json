@@ -752,9 +752,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/RqHBFzJU7HN5hkib9azERJL0lBmvaMqpLr4yojJQ3ic.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -787,10 +787,36 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10456,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#98RCQG00C",
+                "name": "juanitovale"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#98RCQG00C",
+                "name": "juanitovale"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#98RCQG00C",
+                "name": "juanitovale"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -876,11 +902,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 64,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5500,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10316,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YUJP9LJ22",
+                "name": "vale"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#YUJP9LJ22",
