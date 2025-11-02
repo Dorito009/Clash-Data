@@ -752,9 +752,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/RqHBFzJU7HN5hkib9azERJL0lBmvaMqpLr4yojJQ3ic.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -822,10 +822,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9905,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YUJP9LJ22",
+                "name": "vale"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YUJP9LJ22",
+                "name": "vale"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
