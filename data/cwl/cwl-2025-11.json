@@ -55,7 +55,15 @@
             "name": "\u00a5 [SOMU] \u00a5",
             "townhallLevel": 13,
             "mapPosition": 16,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#JCGVYY8U",
+              "defenderTag": "#P29VP2C0V",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "duration": 123
+            }
           },
           {
             "tag": "#92UQ2J8UL",
@@ -113,7 +121,15 @@
             "name": "**DEVIL**",
             "townhallLevel": 14,
             "mapPosition": 13,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#UVPQ9Y8U",
+              "defenderTag": "#8RYGYJLYU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
+              "duration": 97
+            }
           },
           {
             "tag": "#9J9UCGPQG",
@@ -191,9 +207,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 5,
-        "stars": 15,
-        "destructionPercentage": 33.333333333333336,
+        "attacks": 7,
+        "stars": 21,
+        "destructionPercentage": 46.666666666666664,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -241,6 +257,16 @@
             "name": "de skelet boys",
             "townhallLevel": 14,
             "mapPosition": 14,
+            "attacks": [
+              {
+                "attackerTag": "#JCGVYY8U",
+                "defenderTag": "#P29VP2C0V",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 7,
+                "duration": 123
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -315,6 +341,16 @@
             "name": "JOC DE FAKKEL",
             "townhallLevel": 15,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#UVPQ9Y8U",
+                "defenderTag": "#8RYGYJLYU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 8,
+                "duration": 97
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -396,6 +432,20 @@
             "opponentAttacks": 0
           },
           {
+            "tag": "#QPQLGGGCQ",
+            "name": "REZ`M \u2661",
+            "townhallLevel": 14,
+            "mapPosition": 15,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#9PP0LPJ8P",
+            "name": "REZA",
+            "townhallLevel": 15,
+            "mapPosition": 6,
+            "opponentAttacks": 0
+          },
+          {
             "tag": "#28VLPVCRV",
             "name": "king farhad",
             "townhallLevel": 15,
@@ -410,10 +460,10 @@
             "opponentAttacks": 0
           },
           {
-            "tag": "#UG0CYY02",
-            "name": "\u0634\u06cc\u0648\u0627",
-            "townhallLevel": 15,
-            "mapPosition": 8,
+            "tag": "#9G2RRVLR0",
+            "name": "REZA",
+            "townhallLevel": 13,
+            "mapPosition": 39,
             "opponentAttacks": 0
           },
           {
@@ -438,13 +488,6 @@
             "opponentAttacks": 0
           },
           {
-            "tag": "#QG9JR80U2",
-            "name": "saeed",
-            "townhallLevel": 14,
-            "mapPosition": 29,
-            "opponentAttacks": 0
-          },
-          {
             "tag": "#228CU80QC",
             "name": "bigleader",
             "townhallLevel": 14,
@@ -456,13 +499,6 @@
             "name": "tosbagha",
             "townhallLevel": 15,
             "mapPosition": 10,
-            "opponentAttacks": 0
-          },
-          {
-            "tag": "#Q22CJ98JQ",
-            "name": "hosein",
-            "townhallLevel": 14,
-            "mapPosition": 20,
             "opponentAttacks": 0
           },
           {
@@ -635,9 +671,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 15,
-          "attacks": 5,
-          "destructionPercentage": 33.333333333333336
+          "stars": 21,
+          "attacks": 7,
+          "destructionPercentage": 46.666666666666664
         }
       },
       {
@@ -650,9 +686,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png"
           },
-          "stars": 28,
-          "attacks": 11,
-          "destructionPercentage": 64.6
+          "stars": 34,
+          "attacks": 13,
+          "destructionPercentage": 77.93333333333334
         },
         "clan2": {
           "tag": "#YJ2C0QP2",
@@ -689,9 +725,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png"
           },
-          "stars": 36,
-          "attacks": 12,
-          "destructionPercentage": 80.0
+          "stars": 42,
+          "attacks": 14,
+          "destructionPercentage": 93.33333333333333
         }
       },
       {
