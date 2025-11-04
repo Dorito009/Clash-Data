@@ -414,9 +414,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/SIBuAa1-5dfMyu1OG5bMidmDeP3il4Cdaw9lqYVrLEs.png"
         },
         "clanLevel": 19,
-        "attacks": 8,
-        "stars": 16,
-        "destructionPercentage": 44.666666666666664,
+        "attacks": 9,
+        "stars": 18,
+        "destructionPercentage": 48.8,
         "members": [
           {
             "tag": "#QU8VYYJJP",
@@ -537,6 +537,16 @@
             "name": "mohammad",
             "townhallLevel": 13,
             "mapPosition": 36,
+            "attacks": [
+              {
+                "attackerTag": "#LUG8CRYQG",
+                "defenderTag": "#9CCVPU9RU",
+                "stars": 2,
+                "destructionPercentage": 62,
+                "order": 11,
+                "duration": 97
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#9CCVPU9RU",
@@ -807,7 +817,15 @@
                 "duration": 143
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LUG8CRYQG",
+              "defenderTag": "#9CCVPU9RU",
+              "stars": 2,
+              "destructionPercentage": 62,
+              "order": 11,
+              "duration": 97
+            }
           },
           {
             "tag": "#LVQYUVRVQ",
@@ -1225,9 +1243,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/SIBuAa1-5dfMyu1OG5bMidmDeP3il4Cdaw9lqYVrLEs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/SIBuAa1-5dfMyu1OG5bMidmDeP3il4Cdaw9lqYVrLEs.png"
           },
-          "stars": 16,
-          "attacks": 8,
-          "destructionPercentage": 44.666666666666664
+          "stars": 18,
+          "attacks": 9,
+          "destructionPercentage": 48.8
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -1264,9 +1282,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png"
           },
-          "stars": 11,
-          "attacks": 4,
-          "destructionPercentage": 25.6
+          "stars": 14,
+          "attacks": 5,
+          "destructionPercentage": 32.266666666666666
         }
       },
       {
