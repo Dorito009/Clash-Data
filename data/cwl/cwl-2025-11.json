@@ -960,7 +960,15 @@
             "name": "J-rone",
             "townhallLevel": 17,
             "mapPosition": 1,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#90L0LUUQC",
+              "defenderTag": "#88JUGLUL",
+              "stars": 2,
+              "destructionPercentage": 71,
+              "order": 3,
+              "duration": 99
+            }
           },
           {
             "tag": "#8LUUUVVL",
@@ -1089,9 +1097,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png"
         },
         "clanLevel": 16,
-        "attacks": 1,
-        "stars": 2,
-        "destructionPercentage": 4.8,
+        "attacks": 2,
+        "stars": 4,
+        "destructionPercentage": 9.533333333333333,
         "members": [
           {
             "tag": "#22YQ80V20",
@@ -1136,6 +1144,16 @@
             "name": "\u2661\u0623\u0628\u0648 \u0623\u0646\u0645\u0627\u0631\u2661",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#90L0LUUQC",
+                "defenderTag": "#88JUGLUL",
+                "stars": 2,
+                "destructionPercentage": 71,
+                "order": 3,
+                "duration": 99
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1701,9 +1719,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/yBhEl0YJcT6hhyavGADV4xqu8uXgBlBCEgQ4BaS_Frc.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/yBhEl0YJcT6hhyavGADV4xqu8uXgBlBCEgQ4BaS_Frc.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 2,
+          "attacks": 1,
+          "destructionPercentage": 6.533333333333333
         },
         "clan2": {
           "tag": "#2RCVJJL0J",
@@ -1728,9 +1746,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/SIBuAa1-5dfMyu1OG5bMidmDeP3il4Cdaw9lqYVrLEs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/SIBuAa1-5dfMyu1OG5bMidmDeP3il4Cdaw9lqYVrLEs.png"
           },
-          "stars": 3,
-          "attacks": 2,
-          "destructionPercentage": 9.533333333333333
+          "stars": 5,
+          "attacks": 3,
+          "destructionPercentage": 15.666666666666666
         },
         "clan2": {
           "tag": "#2L9G2GGGR",
@@ -1767,9 +1785,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png"
           },
-          "stars": 2,
-          "attacks": 1,
-          "destructionPercentage": 4.8
+          "stars": 4,
+          "attacks": 2,
+          "destructionPercentage": 9.533333333333333
         }
       },
       {
@@ -1782,9 +1800,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Lo_KUaF8RSG49i9q0zrF-P6VEi-IFAFsPyKOuetZA08.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Lo_KUaF8RSG49i9q0zrF-P6VEi-IFAFsPyKOuetZA08.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 5,
+          "attacks": 2,
+          "destructionPercentage": 10.733333333333333
         },
         "clan2": {
           "tag": "#L8CRUJYV",
