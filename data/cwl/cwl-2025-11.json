@@ -1157,7 +1157,15 @@
             "name": "maarten",
             "townhallLevel": 15,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LQLVYPGG0",
+              "defenderTag": "#LVQYUVRVQ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 14,
+              "duration": 122
+            }
           },
           {
             "tag": "#LLCPV9JGC",
@@ -1185,9 +1193,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png"
         },
         "clanLevel": 16,
-        "attacks": 8,
-        "stars": 20,
-        "destructionPercentage": 44.266666666666666,
+        "attacks": 9,
+        "stars": 23,
+        "destructionPercentage": 50.93333333333333,
         "members": [
           {
             "tag": "#22YQ80V20",
@@ -1285,6 +1293,16 @@
             "name": "\u0627\u0628\u0648 \u0639\u0628\u062f \u0627\u0644\u0644\u0647",
             "townhallLevel": 17,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#LQLVYPGG0",
+                "defenderTag": "#LVQYUVRVQ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 14,
+                "duration": 122
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1572,10 +1590,10 @@
             "opponentAttacks": 0
           },
           {
-            "tag": "#LUJLRG9V0",
-            "name": "Dipta Bhowmick",
-            "townhallLevel": 13,
-            "mapPosition": 21,
+            "tag": "#9UQY0GP82",
+            "name": "\u2605\u2605SR\u2605\u2605",
+            "townhallLevel": 15,
+            "mapPosition": 9,
             "opponentAttacks": 0
           },
           {
@@ -1590,13 +1608,6 @@
             "name": "Captain x",
             "townhallLevel": 16,
             "mapPosition": 3,
-            "opponentAttacks": 0
-          },
-          {
-            "tag": "#8C2YGJGPQ",
-            "name": "\u963f\u7c73\u7279-AMIT",
-            "townhallLevel": 15,
-            "mapPosition": 7,
             "opponentAttacks": 0
           },
           {
@@ -1618,6 +1629,13 @@
             "name": "Mr.X",
             "townhallLevel": 13,
             "mapPosition": 20,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#9CU0RR0VY",
+            "name": "SR",
+            "townhallLevel": 15,
+            "mapPosition": 5,
             "opponentAttacks": 0
           },
           {
@@ -1900,7 +1918,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/yBhEl0YJcT6hhyavGADV4xqu8uXgBlBCEgQ4BaS_Frc.png"
           },
           "stars": 5,
-          "attacks": 2,
+          "attacks": 3,
           "destructionPercentage": 13.2
         },
         "clan2": {
@@ -1965,9 +1983,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png"
           },
-          "stars": 20,
-          "attacks": 8,
-          "destructionPercentage": 44.266666666666666
+          "stars": 23,
+          "attacks": 9,
+          "destructionPercentage": 50.93333333333333
         }
       },
       {
