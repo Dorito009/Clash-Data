@@ -1600,7 +1600,15 @@
             "name": "Peter Pannekoek",
             "townhallLevel": 17,
             "mapPosition": 2,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QLPPURYCG",
+              "defenderTag": "#YCQ98GC88",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "duration": 101
+            }
           },
           {
             "tag": "#9VLL0CLJP",
@@ -1614,7 +1622,15 @@
             "name": "JOC DE FAKKEL",
             "townhallLevel": 15,
             "mapPosition": 6,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#9UQY0GP82",
+              "defenderTag": "#UVPQ9Y8U",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
+              "duration": 78
+            }
           },
           {
             "tag": "#9CCVPU9RU",
@@ -1658,9 +1674,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
         },
         "clanLevel": 14,
-        "attacks": 5,
-        "stars": 12,
-        "destructionPercentage": 30.466666666666665,
+        "attacks": 7,
+        "stars": 18,
+        "destructionPercentage": 43.8,
         "members": [
           {
             "tag": "#8Q99Q0URR",
@@ -1691,6 +1707,16 @@
             "name": "\u2605\u2605SR\u2605\u2605",
             "townhallLevel": 15,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#9UQY0GP82",
+                "defenderTag": "#UVPQ9Y8U",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 8,
+                "duration": 78
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1729,6 +1755,16 @@
             "name": "Captain x",
             "townhallLevel": 16,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#QLPPURYCG",
+                "defenderTag": "#YCQ98GC88",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 7,
+                "duration": 101
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2513,9 +2549,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
           },
-          "stars": 12,
-          "attacks": 5,
-          "destructionPercentage": 30.466666666666665
+          "stars": 18,
+          "attacks": 7,
+          "destructionPercentage": 43.8
         }
       }
     ],
