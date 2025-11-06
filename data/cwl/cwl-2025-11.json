@@ -1537,7 +1537,15 @@
                 "duration": 78
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LUJLRG9V0",
+              "defenderTag": "#2RG2JRVUP",
+              "stars": 2,
+              "destructionPercentage": 59,
+              "order": 14,
+              "duration": 100
+            }
           },
           {
             "tag": "#JCGVYY8U",
@@ -1718,9 +1726,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
         },
         "clanLevel": 14,
-        "attacks": 10,
-        "stars": 24,
-        "destructionPercentage": 63.06666666666667,
+        "attacks": 11,
+        "stars": 26,
+        "destructionPercentage": 67.0,
         "members": [
           {
             "tag": "#8Q99Q0URR",
@@ -1776,6 +1784,16 @@
             "name": "Dipta Bhowmick",
             "townhallLevel": 13,
             "mapPosition": 21,
+            "attacks": [
+              {
+                "attackerTag": "#LUJLRG9V0",
+                "defenderTag": "#2RG2JRVUP",
+                "stars": 2,
+                "destructionPercentage": 59,
+                "order": 14,
+                "duration": 100
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#2RG2JRVUP",
@@ -2585,9 +2603,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/SIBuAa1-5dfMyu1OG5bMidmDeP3il4Cdaw9lqYVrLEs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/SIBuAa1-5dfMyu1OG5bMidmDeP3il4Cdaw9lqYVrLEs.png"
           },
-          "stars": 28,
-          "attacks": 11,
-          "destructionPercentage": 65.86666666666666
+          "stars": 31,
+          "attacks": 12,
+          "destructionPercentage": 72.53333333333333
         }
       },
       {
@@ -2600,9 +2618,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png"
           },
-          "stars": 14,
-          "attacks": 7,
-          "destructionPercentage": 30.466666666666665
+          "stars": 15,
+          "attacks": 8,
+          "destructionPercentage": 34.46666666666667
         },
         "clan2": {
           "tag": "#P2RJJ908",
@@ -2612,9 +2630,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png"
           },
-          "stars": 15,
-          "attacks": 6,
-          "destructionPercentage": 36.86666666666667
+          "stars": 18,
+          "attacks": 7,
+          "destructionPercentage": 43.53333333333333
         }
       },
       {
@@ -2639,9 +2657,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
           },
-          "stars": 24,
-          "attacks": 10,
-          "destructionPercentage": 63.06666666666667
+          "stars": 26,
+          "attacks": 11,
+          "destructionPercentage": 67.0
         }
       }
     ],
