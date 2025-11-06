@@ -1697,7 +1697,15 @@
             "name": "Thijn",
             "townhallLevel": 15,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GQJP0PGU8",
+              "defenderTag": "#LLCPV9JGC",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 13,
+              "duration": 62
+            }
           }
         ]
       },
@@ -1710,9 +1718,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
         },
         "clanLevel": 14,
-        "attacks": 9,
-        "stars": 21,
-        "destructionPercentage": 56.4,
+        "attacks": 10,
+        "stars": 24,
+        "destructionPercentage": 63.06666666666667,
         "members": [
           {
             "tag": "#8Q99Q0URR",
@@ -1800,6 +1808,16 @@
             "name": "sajal mahmud",
             "townhallLevel": 17,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#GQJP0PGU8",
+                "defenderTag": "#LLCPV9JGC",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 13,
+                "duration": 62
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2582,9 +2600,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png"
           },
-          "stars": 12,
-          "attacks": 6,
-          "destructionPercentage": 26.4
+          "stars": 14,
+          "attacks": 7,
+          "destructionPercentage": 30.466666666666665
         },
         "clan2": {
           "tag": "#P2RJJ908",
@@ -2621,9 +2639,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
           },
-          "stars": 21,
-          "attacks": 9,
-          "destructionPercentage": 56.4
+          "stars": 24,
+          "attacks": 10,
+          "destructionPercentage": 63.06666666666667
         }
       }
     ],
