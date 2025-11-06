@@ -1551,7 +1551,15 @@
             "name": "mark",
             "townhallLevel": 14,
             "mapPosition": 13,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#P28VQ829Y",
+              "defenderTag": "#U9G8Q2GG",
+              "stars": 1,
+              "destructionPercentage": 98,
+              "order": 12,
+              "duration": 180
+            }
           },
           {
             "tag": "#Y90L0809",
@@ -1702,9 +1710,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
         },
         "clanLevel": 14,
-        "attacks": 8,
-        "stars": 20,
-        "destructionPercentage": 49.86666666666667,
+        "attacks": 9,
+        "stars": 21,
+        "destructionPercentage": 56.4,
         "members": [
           {
             "tag": "#8Q99Q0URR",
@@ -1816,6 +1824,16 @@
             "name": "\u2605S\u00ae\u2605",
             "townhallLevel": 15,
             "mapPosition": 17,
+            "attacks": [
+              {
+                "attackerTag": "#P28VQ829Y",
+                "defenderTag": "#U9G8Q2GG",
+                "stars": 1,
+                "destructionPercentage": 98,
+                "order": 12,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2537,9 +2555,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Lo_KUaF8RSG49i9q0zrF-P6VEi-IFAFsPyKOuetZA08.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Lo_KUaF8RSG49i9q0zrF-P6VEi-IFAFsPyKOuetZA08.png"
           },
-          "stars": 31,
-          "attacks": 14,
-          "destructionPercentage": 80.33333333333333
+          "stars": 34,
+          "attacks": 15,
+          "destructionPercentage": 87.0
         },
         "clan2": {
           "tag": "#YJ2C0QP2",
@@ -2603,9 +2621,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
           },
-          "stars": 20,
-          "attacks": 8,
-          "destructionPercentage": 49.86666666666667
+          "stars": 21,
+          "attacks": 9,
+          "destructionPercentage": 56.4
         }
       }
     ],
