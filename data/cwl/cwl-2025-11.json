@@ -2097,15 +2097,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png"
         },
         "clanLevel": 21,
-        "attacks": 8,
-        "stars": 23,
-        "destructionPercentage": 52.53333333333333,
+        "attacks": 9,
+        "stars": 26,
+        "destructionPercentage": 59.2,
         "members": [
           {
             "tag": "#C9QLY88R",
             "name": "Jobstik69",
             "townhallLevel": 15,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#C9QLY88R",
+                "defenderTag": "#LVQYUVRVQ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 10,
+                "duration": 86
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2479,7 +2489,15 @@
             "name": "maarten",
             "townhallLevel": 15,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#C9QLY88R",
+              "defenderTag": "#LVQYUVRVQ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 10,
+              "duration": 86
+            }
           },
           {
             "tag": "#LLCPV9JGC",
@@ -3220,9 +3238,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png"
           },
-          "stars": 23,
-          "attacks": 8,
-          "destructionPercentage": 52.53333333333333
+          "stars": 26,
+          "attacks": 9,
+          "destructionPercentage": 59.2
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -3259,9 +3277,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png"
           },
-          "stars": 2,
-          "attacks": 1,
-          "destructionPercentage": 6.066666666666666
+          "stars": 6,
+          "attacks": 3,
+          "destructionPercentage": 18.8
         }
       },
       {
