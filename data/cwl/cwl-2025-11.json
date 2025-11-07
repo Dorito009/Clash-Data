@@ -2164,7 +2164,15 @@
             "name": "M&M",
             "townhallLevel": 13,
             "mapPosition": 30,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2RG2JRVUP",
+              "defenderTag": "#QL8RYVLQJ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 12,
+              "duration": 100
+            }
           },
           {
             "tag": "#8QGQQ8YG",
@@ -2325,9 +2333,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 1,
-        "stars": 3,
-        "destructionPercentage": 6.666666666666667,
+        "attacks": 2,
+        "stars": 6,
+        "destructionPercentage": 13.333333333333334,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2364,6 +2372,16 @@
             "name": "Rinaldo",
             "townhallLevel": 14,
             "mapPosition": 19,
+            "attacks": [
+              {
+                "attackerTag": "#2RG2JRVUP",
+                "defenderTag": "#QL8RYVLQJ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 12,
+                "duration": 100
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3268,9 +3286,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 6,
+          "attacks": 2,
+          "destructionPercentage": 13.333333333333334
         }
       },
       {
