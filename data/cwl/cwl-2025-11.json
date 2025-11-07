@@ -2097,9 +2097,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png"
         },
         "clanLevel": 21,
-        "attacks": 12,
-        "stars": 34,
-        "destructionPercentage": 77.53333333333333,
+        "attacks": 15,
+        "stars": 41,
+        "destructionPercentage": 95.86666666666666,
         "members": [
           {
             "tag": "#C9QLY88R",
@@ -2216,6 +2216,16 @@
             "name": "WIHE",
             "townhallLevel": 15,
             "mapPosition": 19,
+            "attacks": [
+              {
+                "attackerTag": "#29L2RP8P0",
+                "defenderTag": "#U9G8Q2GG",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 17,
+                "duration": 143
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2299,6 +2309,16 @@
             "name": "WIHE2",
             "townhallLevel": 12,
             "mapPosition": 39,
+            "attacks": [
+              {
+                "attackerTag": "#QVVRVYJRU",
+                "defenderTag": "#QQVYG0VC9",
+                "stars": 1,
+                "destructionPercentage": 75,
+                "order": 19,
+                "duration": 140
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#8LUUUVVL",
@@ -2348,6 +2368,16 @@
             "name": "oskari",
             "townhallLevel": 15,
             "mapPosition": 18,
+            "attacks": [
+              {
+                "attackerTag": "#G0PQ0GY8",
+                "defenderTag": "#JCGVYY8U",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 18,
+                "duration": 124
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#JCGVYY8U",
@@ -2453,14 +2483,30 @@
                 "duration": 130
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G0PQ0GY8",
+              "defenderTag": "#JCGVYY8U",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 18,
+              "duration": 124
+            }
           },
           {
             "tag": "#U9G8Q2GG",
             "name": "mark",
             "townhallLevel": 14,
             "mapPosition": 13,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#29L2RP8P0",
+              "defenderTag": "#U9G8Q2GG",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "duration": 143
+            }
           },
           {
             "tag": "#Y90L0809",
@@ -2497,7 +2543,15 @@
             "name": "kau",
             "townhallLevel": 14,
             "mapPosition": 23,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QVVRVYJRU",
+              "defenderTag": "#QQVYG0VC9",
+              "stars": 1,
+              "destructionPercentage": 75,
+              "order": 19,
+              "duration": 140
+            }
           },
           {
             "tag": "#9JQP9VUPY",
@@ -3346,9 +3400,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png"
           },
-          "stars": 34,
-          "attacks": 12,
-          "destructionPercentage": 77.53333333333333
+          "stars": 41,
+          "attacks": 15,
+          "destructionPercentage": 95.86666666666666
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
