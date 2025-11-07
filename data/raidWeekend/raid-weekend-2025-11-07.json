@@ -2,13 +2,30 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 0,
+  "capitalTotalLoot": 33986,
   "raidsCompleted": 1,
-  "totalAttacks": 0,
-  "enemyDistrictsDestroyed": 0,
+  "totalAttacks": 11,
+  "enemyDistrictsDestroyed": 1,
   "offensiveReward": 0,
   "defensiveReward": 0,
-  "members": [],
+  "members": [
+    {
+      "tag": "#8LUUUVVL",
+      "name": "Badslipper 2",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23441
+    },
+    {
+      "tag": "#Q9P2J02U",
+      "name": "Langpootmug2304",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 10545
+    }
+  ],
   "attackLog": [],
   "defenseLog": []
 }
