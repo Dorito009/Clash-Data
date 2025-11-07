@@ -2097,9 +2097,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png"
         },
         "clanLevel": 21,
-        "attacks": 11,
-        "stars": 32,
-        "destructionPercentage": 72.53333333333333,
+        "attacks": 12,
+        "stars": 34,
+        "destructionPercentage": 77.53333333333333,
         "members": [
           {
             "tag": "#C9QLY88R",
@@ -2174,6 +2174,16 @@
             "name": "M&M",
             "townhallLevel": 13,
             "mapPosition": 30,
+            "attacks": [
+              {
+                "attackerTag": "#QL8RYVLQJ",
+                "defenderTag": "#2RG2JRVUP",
+                "stars": 2,
+                "destructionPercentage": 75,
+                "order": 16,
+                "duration": 84
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#2RG2JRVUP",
@@ -2418,7 +2428,15 @@
                 "duration": 100
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QL8RYVLQJ",
+              "defenderTag": "#2RG2JRVUP",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 16,
+              "duration": 84
+            }
           },
           {
             "tag": "#JCGVYY8U",
@@ -3328,9 +3346,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png"
           },
-          "stars": 32,
-          "attacks": 11,
-          "destructionPercentage": 72.53333333333333
+          "stars": 34,
+          "attacks": 12,
+          "destructionPercentage": 77.53333333333333
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -3367,9 +3385,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/DWCsHv85LQpRJFIsUo7zmip_DO_T8gUC2oKFLi2U4rs.png"
           },
-          "stars": 16,
-          "attacks": 7,
-          "destructionPercentage": 39.8
+          "stars": 19,
+          "attacks": 8,
+          "destructionPercentage": 46.46666666666667
         }
       },
       {
