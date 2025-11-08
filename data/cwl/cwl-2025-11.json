@@ -2706,9 +2706,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png"
         },
         "clanLevel": 9,
-        "attacks": 4,
-        "stars": 9,
-        "destructionPercentage": 18.133333333333333,
+        "attacks": 6,
+        "stars": 13,
+        "destructionPercentage": 30.8,
         "members": [
           {
             "tag": "#LRUL9CRY0",
@@ -2830,6 +2830,16 @@
             "name": "\u269c\ufe0fPERSIAN WOLF\u269c",
             "townhallLevel": 15,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#G2LJQRRVL",
+                "defenderTag": "#Y90L0809",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 7,
+                "duration": 66
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2861,6 +2871,16 @@
             "name": "King irani",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#2PRCCQ9GL",
+                "defenderTag": "#88JUGLUL",
+                "stars": 1,
+                "destructionPercentage": 90,
+                "order": 6,
+                "duration": 113
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -2883,7 +2903,15 @@
             "name": "J-rone",
             "townhallLevel": 17,
             "mapPosition": 1,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2PRCCQ9GL",
+              "defenderTag": "#88JUGLUL",
+              "stars": 1,
+              "destructionPercentage": 90,
+              "order": 6,
+              "duration": 113
+            }
           },
           {
             "tag": "#8LUUUVVL",
@@ -2926,7 +2954,15 @@
             "name": "Noahzwolle",
             "townhallLevel": 16,
             "mapPosition": 4,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G2LJQRRVL",
+              "defenderTag": "#Y90L0809",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "duration": 66
+            }
           },
           {
             "tag": "#PP9R8LJGG",
@@ -3840,9 +3876,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png"
           },
-          "stars": 9,
-          "attacks": 4,
-          "destructionPercentage": 18.133333333333333
+          "stars": 13,
+          "attacks": 6,
+          "destructionPercentage": 30.8
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -3894,9 +3930,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/shW7YlGGqqWZ7vQ0ouVPap9f6O07iBSYSXFalbJ8Yfc.png"
           },
-          "stars": 20,
-          "attacks": 9,
-          "destructionPercentage": 50.06666666666667
+          "stars": 24,
+          "attacks": 11,
+          "destructionPercentage": 59.666666666666664
         },
         "clan2": {
           "tag": "#P2RJJ908",
