@@ -2706,15 +2706,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png"
         },
         "clanLevel": 9,
-        "attacks": 7,
-        "stars": 16,
-        "destructionPercentage": 37.46666666666667,
+        "attacks": 9,
+        "stars": 20,
+        "destructionPercentage": 48.2,
         "members": [
           {
             "tag": "#LRUL9CRY0",
             "name": "\u0639\u0644\u06cc",
             "townhallLevel": 15,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#LRUL9CRY0",
+                "defenderTag": "#LLCPV9JGC",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 11,
+                "duration": 177
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2746,6 +2756,16 @@
             "name": "hamid",
             "townhallLevel": 15,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#G0QYR92R2",
+                "defenderTag": "#LVQYUVRVQ",
+                "stars": 1,
+                "destructionPercentage": 61,
+                "order": 12,
+                "duration": 101
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3106,14 +3126,30 @@
             "name": "maarten",
             "townhallLevel": 15,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G0QYR92R2",
+              "defenderTag": "#LVQYUVRVQ",
+              "stars": 1,
+              "destructionPercentage": 61,
+              "order": 12,
+              "duration": 101
+            }
           },
           {
             "tag": "#LLCPV9JGC",
             "name": "Thijn",
             "townhallLevel": 15,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LRUL9CRY0",
+              "defenderTag": "#LLCPV9JGC",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 11,
+              "duration": 177
+            }
           }
         ]
       },
@@ -3930,9 +3966,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/fegPyKrU9D4cxipwIjm9SI4EMKPPSygwWiXMONtlniI.png"
           },
-          "stars": 16,
-          "attacks": 7,
-          "destructionPercentage": 37.46666666666667
+          "stars": 20,
+          "attacks": 9,
+          "destructionPercentage": 48.2
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -4023,9 +4059,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
           },
-          "stars": 32,
-          "attacks": 11,
-          "destructionPercentage": 72.13333333333334
+          "stars": 38,
+          "attacks": 13,
+          "destructionPercentage": 85.46666666666667
         }
       }
     ],
