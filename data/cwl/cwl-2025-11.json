@@ -2840,7 +2840,15 @@
             "name": "mohsen",
             "townhallLevel": 14,
             "mapPosition": 12,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#JCGVYY8U",
+              "defenderTag": "#2VQU28QC8",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "duration": 156
+            }
           },
           {
             "tag": "#QJJ092LP9",
@@ -2970,9 +2978,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 3,
-        "stars": 9,
-        "destructionPercentage": 20.0,
+        "attacks": 4,
+        "stars": 12,
+        "destructionPercentage": 26.666666666666668,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3044,6 +3052,16 @@
             "name": "de skelet boys",
             "townhallLevel": 14,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#JCGVYY8U",
+                "defenderTag": "#2VQU28QC8",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 16,
+                "duration": 156
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4032,9 +4050,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 9,
-          "attacks": 3,
-          "destructionPercentage": 20.0
+          "stars": 12,
+          "attacks": 4,
+          "destructionPercentage": 26.666666666666668
         }
       },
       {
@@ -4101,9 +4119,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/SIBuAa1-5dfMyu1OG5bMidmDeP3il4Cdaw9lqYVrLEs.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/SIBuAa1-5dfMyu1OG5bMidmDeP3il4Cdaw9lqYVrLEs.png"
           },
-          "stars": 24,
-          "attacks": 11,
-          "destructionPercentage": 60.666666666666664
+          "stars": 29,
+          "attacks": 14,
+          "destructionPercentage": 73.0
         },
         "clan2": {
           "tag": "#L8CRUJYV",
