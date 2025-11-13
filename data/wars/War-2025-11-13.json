@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 5,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -29,9 +29,17 @@
       {
         "tag": "#JCGVYY8U",
         "name": "de skelet boys",
-        "townhallLevel": 14,
+        "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGJ98L2UC",
+          "defenderTag": "#JCGVYY8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 141
+        }
       },
       {
         "tag": "#20RG8YP82",
@@ -52,7 +60,15 @@
         "name": "Jipperish",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#2U8000L8Q",
+          "defenderTag": "#9VLL0CLJP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 134
+        }
       }
     ]
   },
@@ -65,15 +81,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/fMXf_4zK6dEMyfti7VKXkROkd9sKxQWbwcn8hlhEWGA.png"
     },
     "clanLevel": 17,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 3,
+    "stars": 6,
+    "destructionPercentage": 40.0,
     "members": [
       {
         "tag": "#LGJ98L2UC",
         "name": "\u023a\u027e\u04bd\u0282",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LGJ98L2UC",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -88,6 +114,16 @@
         "name": "\u2668\ufe0f05mon\u2668\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#8JG00L8YL",
+            "defenderTag": "#9VLL0CLJP",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 2,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -102,6 +138,16 @@
         "name": "\u2660\ufe0fRAJ\u2663\ufe0f",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2U8000L8Q",
+            "defenderTag": "#9VLL0CLJP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
