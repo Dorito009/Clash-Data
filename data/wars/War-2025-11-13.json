@@ -64,7 +64,7 @@
         "name": "svennoss",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#2LYLG8QQ9",
           "defenderTag": "#20RG8YP82",
@@ -115,7 +115,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/fMXf_4zK6dEMyfti7VKXkROkd9sKxQWbwcn8hlhEWGA.png"
     },
     "clanLevel": 17,
-    "attacks": 7,
+    "attacks": 8,
     "stars": 14,
     "destructionPercentage": 93.4,
     "members": [
@@ -157,6 +157,14 @@
             "destructionPercentage": 100,
             "order": 7,
             "duration": 66
+          },
+          {
+            "attackerTag": "#G0VYPQYQY",
+            "defenderTag": "#20RG8YP82",
+            "stars": 1,
+            "destructionPercentage": 74,
+            "order": 9,
+            "duration": 115
           }
         ],
         "opponentAttacks": 1,
