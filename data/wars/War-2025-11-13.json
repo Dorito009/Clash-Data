@@ -46,7 +46,15 @@
         "name": "svennoss",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#2LYLG8QQ9",
+          "defenderTag": "#20RG8YP82",
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 4,
+          "duration": 180
+        }
       },
       {
         "tag": "#YCQ98GC88",
@@ -81,9 +89,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/fMXf_4zK6dEMyfti7VKXkROkd9sKxQWbwcn8hlhEWGA.png"
     },
     "clanLevel": 17,
-    "attacks": 3,
-    "stars": 6,
-    "destructionPercentage": 40.0,
+    "attacks": 5,
+    "stars": 8,
+    "destructionPercentage": 53.4,
     "members": [
       {
         "tag": "#LGJ98L2UC",
@@ -98,6 +106,14 @@
             "destructionPercentage": 100,
             "order": 1,
             "duration": 141
+          },
+          {
+            "attackerTag": "#LGJ98L2UC",
+            "defenderTag": "#20RG8YP82",
+            "stars": 1,
+            "destructionPercentage": 96,
+            "order": 5,
+            "duration": 130
           }
         ],
         "opponentAttacks": 0
@@ -131,6 +147,16 @@
         "name": "hunter,",
         "townhallLevel": 14,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2LYLG8QQ9",
+            "defenderTag": "#20RG8YP82",
+            "stars": 2,
+            "destructionPercentage": 67,
+            "order": 4,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
