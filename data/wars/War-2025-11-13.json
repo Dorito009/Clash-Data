@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 1,
-    "stars": 2,
-    "destructionPercentage": 12.0,
+    "attacks": 3,
+    "stars": 8,
+    "destructionPercentage": 52.0,
     "members": [
       {
         "tag": "#Q9P2J02U",
@@ -49,6 +49,24 @@
         "name": "de skelet boys",
         "townhallLevel": 15,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#8JG00L8YL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 10,
+            "duration": 96
+          },
+          {
+            "attackerTag": "#JCGVYY8U",
+            "defenderTag": "#LGJ98L2UC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 122
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LGJ98L2UC",
@@ -142,7 +160,15 @@
             "duration": 130
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#LGJ98L2UC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 122
+        }
       },
       {
         "tag": "#G0VYPQYQY",
@@ -192,7 +218,15 @@
             "duration": 107
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCGVYY8U",
+          "defenderTag": "#8JG00L8YL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 96
+        }
       },
       {
         "tag": "#2LYLG8QQ9",
