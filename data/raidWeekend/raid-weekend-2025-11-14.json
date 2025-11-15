@@ -368,5 +368,314 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#CVCVGYRY",
+        "name": "los tucanes",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/-LdhMPZ1Uf1s27uE1uI-WbwLdgHU7ZeJPXXqrL59u_c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/-LdhMPZ1Uf1s27uE1uI-WbwLdgHU7ZeJPXXqrL59u_c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/-LdhMPZ1Uf1s27uE1uI-WbwLdgHU7ZeJPXXqrL59u_c.png"
+        }
+      },
+      "attackCount": 24,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 13328,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8U8J2LU2",
+                "name": "PIP\u00a3"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2L8RVGGPJ",
+                "name": "DEATH FIRST"
+              },
+              "destructionPercent": 99,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2L8RVGGPJ",
+                "name": "DEATH FIRST"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2L8RVGGPJ",
+                "name": "DEATH FIRST"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2L8RVGGPJ",
+                "name": "DEATH FIRST"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#2L8RVGGPJ",
+                "name": "DEATH FIRST"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10656,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PGCG2UVC8",
+                "name": "omarhola110"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PGCG2UVC8",
+                "name": "omarhola110"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9119,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8U8J2LU2",
+                "name": "PIP\u00a3"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9Y2R2QJU9",
+                "name": "BYRON GONZALEZ"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10374,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9Y2R2QJU9",
+                "name": "BYRON GONZALEZ"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9Y2R2QJU9",
+                "name": "BYRON GONZALEZ"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10301,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9Y2R2QJU9",
+                "name": "BYRON GONZALEZ"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9Y2R2QJU9",
+                "name": "BYRON GONZALEZ"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9Y2R2QJU9",
+                "name": "BYRON GONZALEZ"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9674,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2L8RVGGPJ",
+                "name": "DEATH FIRST"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LCU2P9LCL",
+                "name": "lustro"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LCU2P9LCL",
+                "name": "lustro"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9721,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QY0JL98VJ",
+                "name": "Riujin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QY0JL98VJ",
+                "name": "Riujin"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10474,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QY0JL98VJ",
+                "name": "Riujin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QY0JL98VJ",
+                "name": "Riujin"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10442,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QY0JL98VJ",
+                "name": "Riujin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QY0JL98VJ",
+                "name": "Riujin"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
