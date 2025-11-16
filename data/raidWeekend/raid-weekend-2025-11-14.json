@@ -1124,9 +1124,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/aDY7uvJbGNjoMcb91me9wLyqXIx3C7jisDNlGDB6324.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1141,28 +1141,82 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10551,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2VV98Q8",
+                "name": "Gandalf"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y2VV98Q8",
+                "name": "Gandalf"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9143,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2VV98Q8",
+                "name": "Gandalf"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y2VV98Q8",
+                "name": "Gandalf"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9990,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2VV98Q8",
+                "name": "Gandalf"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y2VV98Q8",
+                "name": "Gandalf"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
