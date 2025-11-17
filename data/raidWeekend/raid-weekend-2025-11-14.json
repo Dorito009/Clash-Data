@@ -3,7 +3,7 @@
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
   "capitalTotalLoot": 272635,
-  "raidsCompleted": 3,
+  "raidsCompleted": 4,
   "totalAttacks": 78,
   "enemyDistrictsDestroyed": 25,
   "offensiveReward": 0,
@@ -1124,18 +1124,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/aDY7uvJbGNjoMcb91me9wLyqXIx3C7jisDNlGDB6324.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13352,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PVRYGLPU",
+                "name": "LordTouchMe"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PVRYGLPU",
+                "name": "LordTouchMe"
+              },
+              "destructionPercent": 97,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PVRYGLPU",
+                "name": "LordTouchMe"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PVRYGLPU",
+                "name": "LordTouchMe"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
