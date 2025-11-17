@@ -1416,9 +1416,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/0KR46I4NfTUhcSR5hE_aX34psblmp6NlwuusfHw18n4.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -1511,11 +1511,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 59,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5995,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10251,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#29QPUPQQP",
+                "name": "estarossa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QV2LLG8QC",
@@ -1565,11 +1573,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 68,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 6270,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9407,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#29QPUPQQP",
+                "name": "estarossa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9VGLU9YJV",
