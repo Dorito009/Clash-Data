@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 5,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 17.8,
     "members": [
       {
         "tag": "#Q9P2J02U",
@@ -52,6 +52,16 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 15,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#YL8UJJJCV",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 1,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -102,7 +112,15 @@
         "name": "M3TSMEZ",
         "townhallLevel": 15,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#YL8UJJJCV",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 1,
+          "duration": 107
+        }
       }
     ]
   }
