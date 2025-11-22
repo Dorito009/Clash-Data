@@ -42,7 +42,7 @@
             "duration": 150
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GC09PCQJC",
           "defenderTag": "#Q9P2J02U",
@@ -72,7 +72,7 @@
         "name": "patty brard",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2LUJVPCYC",
           "defenderTag": "#G2PYG0UCY",
@@ -143,7 +143,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
     },
     "clanLevel": 7,
-    "attacks": 6,
+    "attacks": 8,
     "stars": 13,
     "destructionPercentage": 93.4,
     "members": [
@@ -167,6 +167,24 @@
         "name": "kimjong",
         "townhallLevel": 14,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#GLGRU2GCV",
+            "defenderTag": "#Q9P2J02U",
+            "stars": 2,
+            "destructionPercentage": 69,
+            "order": 11,
+            "duration": 85
+          },
+          {
+            "attackerTag": "#GLGRU2GCV",
+            "defenderTag": "#G2PYG0UCY",
+            "stars": 1,
+            "destructionPercentage": 48,
+            "order": 12,
+            "duration": 84
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#UVPQ9Y8U",
