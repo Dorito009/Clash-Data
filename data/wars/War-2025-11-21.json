@@ -15,15 +15,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
     },
     "clanLevel": 15,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 20.0,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 60.0,
     "members": [
       {
         "tag": "#Q9P2J02U",
         "name": "Langpootmug2304",
         "townhallLevel": 14,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#Q9P2J02U",
+            "defenderTag": "#GLGRU2GCV",
+            "stars": 1,
+            "destructionPercentage": 55,
+            "order": 8,
+            "duration": 105
+          },
+          {
+            "attackerTag": "#Q9P2J02U",
+            "defenderTag": "#L82GYQVGY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 150
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GC09PCQJC",
@@ -39,14 +57,14 @@
         "name": "de skelet boys",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GC09PCQJC",
+          "attackerTag": "#28PURQCCL",
           "defenderTag": "#JCGVYY8U",
-          "stars": 2,
-          "destructionPercentage": 69,
-          "order": 2,
-          "duration": 73
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 106
         }
       },
       {
@@ -54,7 +72,15 @@
         "name": "patty brard",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2LUJVPCYC",
+          "defenderTag": "#G2PYG0UCY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 92
+        }
       },
       {
         "tag": "#YCQ98GC88",
@@ -71,13 +97,31 @@
             "duration": 130
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#28PURQCCL",
+          "defenderTag": "#YCQ98GC88",
+          "stars": 1,
+          "destructionPercentage": 67,
+          "order": 5,
+          "duration": 86
+        }
       },
       {
         "tag": "#UVPQ9Y8U",
         "name": "JOC DE FAKKEL",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#UVPQ9Y8U",
+            "defenderTag": "#GLGRU2GCV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 10,
+            "duration": 76
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2LUJVPCYC",
@@ -99,29 +143,63 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
     },
     "clanLevel": 7,
-    "attacks": 3,
-    "stars": 8,
-    "destructionPercentage": 53.8,
+    "attacks": 6,
+    "stars": 13,
+    "destructionPercentage": 93.4,
     "members": [
       {
         "tag": "#L82GYQVGY",
         "name": "TheMilkJJ",
         "townhallLevel": 12,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9P2J02U",
+          "defenderTag": "#L82GYQVGY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 150
+        }
       },
       {
         "tag": "#GLGRU2GCV",
         "name": "kimjong",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#UVPQ9Y8U",
+          "defenderTag": "#GLGRU2GCV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 76
+        }
       },
       {
         "tag": "#28PURQCCL",
         "name": "Tay",
         "townhallLevel": 16,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#28PURQCCL",
+            "defenderTag": "#YCQ98GC88",
+            "stars": 1,
+            "destructionPercentage": 67,
+            "order": 5,
+            "duration": 86
+          },
+          {
+            "attackerTag": "#28PURQCCL",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YCQ98GC88",
@@ -145,6 +223,14 @@
             "destructionPercentage": 100,
             "order": 1,
             "duration": 115
+          },
+          {
+            "attackerTag": "#2LUJVPCYC",
+            "defenderTag": "#G2PYG0UCY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 92
           }
         ],
         "opponentAttacks": 0
