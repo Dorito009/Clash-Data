@@ -708,6 +708,290 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#LYR222LC",
+        "name": "bizbizeyeteriz",
+        "level": 24,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KBQetmOcklNjegTNOMad4oHJZnkTR7s90GvTW0KoQTI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KBQetmOcklNjegTNOMad4oHJZnkTR7s90GvTW0KoQTI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KBQetmOcklNjegTNOMad4oHJZnkTR7s90GvTW0KoQTI.png"
+        }
+      },
+      "attackCount": 21,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13068,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PJCJLR2C",
+                "name": "MR*"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PJCJLR2C",
+                "name": "MR*"
+              },
+              "destructionPercent": 74,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PJCJLR2C",
+                "name": "MR*"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11025,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2C0PPJ08",
+                "name": "isilsu"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G2GG9CQ2J",
+                "name": "Kagi"
+              },
+              "destructionPercent": 93,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GJL2U000P",
+                "name": "Kagii2"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9020,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2GG9CQ2J",
+                "name": "Kagi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJL2U000P",
+                "name": "Kagii2"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10179,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2C0PPJ08",
+                "name": "isilsu"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV2QCUCUP",
+                "name": "GALATASARAY"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9920,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV2QCUCUP",
+                "name": "GALATASARAY"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CVVVUGQQ",
+                "name": "KRAL44"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9557,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJL2U000P",
+                "name": "Kagii2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G2GG9CQ2J",
+                "name": "Kagi"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G2C0PPJ08",
+                "name": "isilsu"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9979,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2C0PPJ08",
+                "name": "isilsu"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV2QCUCUP",
+                "name": "GALATASARAY"
+              },
+              "destructionPercent": 66,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10366,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CVVVUGQQ",
+                "name": "KRAL44"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CVVVUGQQ",
+                "name": "KRAL44"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10475,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2C0PPJ08",
+                "name": "isilsu"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV2QCUCUP",
+                "name": "GALATASARAY"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            }
+          ]
+        }
+      ]
     }
   ]
 }
