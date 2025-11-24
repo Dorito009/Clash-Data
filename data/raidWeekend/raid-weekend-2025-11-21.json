@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251121T070000.000Z",
   "endTime": "20251124T070000.000Z",
-  "capitalTotalLoot": 963064,
-  "raidsCompleted": 11,
-  "totalAttacks": 240,
-  "enemyDistrictsDestroyed": 88,
+  "capitalTotalLoot": 1102419,
+  "raidsCompleted": 14,
+  "totalAttacks": 276,
+  "enemyDistrictsDestroyed": 101,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -226,12 +226,28 @@
       "capitalResourcesLooted": 24747
     },
     {
+      "tag": "#GJJUQ8G9R",
+      "name": "Akun Raid 38998",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22056
+    },
+    {
       "tag": "#GU8Y0QU80",
       "name": "Akun Raid 38992",
       "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25555
+    },
+    {
+      "tag": "#GU88CGUL2",
+      "name": "Akun Raid 39000",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20551
     },
     {
       "tag": "#GV0VUUQCY",
@@ -242,12 +258,28 @@
       "capitalResourcesLooted": 22262
     },
     {
+      "tag": "#GV0VUVLU9",
+      "name": "Akun Raid 38996",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25983
+    },
+    {
       "tag": "#GCQR0GGPY",
       "name": "\u4fee\u8fdc",
       "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 19732
+    },
+    {
+      "tag": "#GV0V8G2V9",
+      "name": "Akun Raid 38995",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16748
     },
     {
       "tag": "#GC90LUR80",
@@ -312,6 +344,22 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 30751
+    },
+    {
+      "tag": "#GR089QUUP",
+      "name": "Akun Raid 38997",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 31232
+    },
+    {
+      "tag": "#GGVJ8P90R",
+      "name": "Akun Raid 38999",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22785
     },
     {
       "tag": "#GYYL0GRUU",
@@ -3150,6 +3198,638 @@
           ]
         }
       ]
+    },
+    {
+      "defender": {
+        "tag": "#2YGCVCJU0",
+        "name": "OVERlord",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
+        }
+      },
+      "attackCount": 26,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 14006,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV0V8G2V9",
+                "name": "Akun Raid 38995"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV0V8G2V9",
+                "name": "Akun Raid 38995"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GV0V8G2V9",
+                "name": "Akun Raid 38995"
+              },
+              "destructionPercent": 85,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GV0V8G2V9",
+                "name": "Akun Raid 38995"
+              },
+              "destructionPercent": 74,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GV0V8G2V9",
+                "name": "Akun Raid 38995"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11850,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU8Y0QU80",
+                "name": "Akun Raid 38992"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GU8Y0QU80",
+                "name": "Akun Raid 38992"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GG2YQQLQP",
+                "name": "\u4fee\u8fdc"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GG2YQQLQP",
+                "name": "\u4fee\u8fdc"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9678,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU8Y0QU80",
+                "name": "Akun Raid 38992"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GU8Y0QU80",
+                "name": "Akun Raid 38992"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10107,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU8Y0QU80",
+                "name": "Akun Raid 38992"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GU8Y0QU80",
+                "name": "Akun Raid 38992"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9872,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJQ8PYPCV",
+                "name": "Akun Raid 38993"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJQ8PYPCV",
+                "name": "Akun Raid 38993"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9906,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJQ8PYPCV",
+                "name": "Akun Raid 38993"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJQ8PYPCV",
+                "name": "Akun Raid 38993"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10945,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV0VUUQCY",
+                "name": "Akun Raid 38994"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJQ8PYPCV",
+                "name": "Akun Raid 38993"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GJQ8PYPCV",
+                "name": "Akun Raid 38993"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11677,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV0VUUQCY",
+                "name": "Akun Raid 38994"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV0VUUQCY",
+                "name": "Akun Raid 38994"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GV0VUUQCY",
+                "name": "Akun Raid 38994"
+              },
+              "destructionPercent": 39,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11407,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV0V8G2V9",
+                "name": "Akun Raid 38995"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV0VUUQCY",
+                "name": "Akun Raid 38994"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GV0VUUQCY",
+                "name": "Akun Raid 38994"
+              },
+              "destructionPercent": 17,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2QL0CQJVG",
+        "name": "DangerClaN",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/I26ORcb5-cZPCGLZceNdw2YUcEvApLblbc2T-kq6nnA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/I26ORcb5-cZPCGLZceNdw2YUcEvApLblbc2T-kq6nnA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/I26ORcb5-cZPCGLZceNdw2YUcEvApLblbc2T-kq6nnA.png"
+        }
+      },
+      "attackCount": 24,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13808,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGVJ8P90R",
+                "name": "Akun Raid 38999"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGVJ8P90R",
+                "name": "Akun Raid 38999"
+              },
+              "destructionPercent": 93,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGVJ8P90R",
+                "name": "Akun Raid 38999"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGVJ8P90R",
+                "name": "Akun Raid 38999"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11346,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV0VUVLU9",
+                "name": "Akun Raid 38996"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV0VUVLU9",
+                "name": "Akun Raid 38996"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GV0VUVLU9",
+                "name": "Akun Raid 38996"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10157,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV0VUVLU9",
+                "name": "Akun Raid 38996"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV0VUVLU9",
+                "name": "Akun Raid 38996"
+              },
+              "destructionPercent": 38,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10174,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GR089QUUP",
+                "name": "Akun Raid 38997"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV0VUVLU9",
+                "name": "Akun Raid 38996"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10613,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GR089QUUP",
+                "name": "Akun Raid 38997"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GR089QUUP",
+                "name": "Akun Raid 38997"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10790,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GR089QUUP",
+                "name": "Akun Raid 38997"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GR089QUUP",
+                "name": "Akun Raid 38997"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11148,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJJUQ8G9R",
+                "name": "Akun Raid 38998"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJJUQ8G9R",
+                "name": "Akun Raid 38998"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GR089QUUP",
+                "name": "Akun Raid 38997"
+              },
+              "destructionPercent": 36,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12083,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJJUQ8G9R",
+                "name": "Akun Raid 38998"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJJUQ8G9R",
+                "name": "Akun Raid 38998"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GJJUQ8G9R",
+                "name": "Akun Raid 38998"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11937,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGVJ8P90R",
+                "name": "Akun Raid 38999"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGVJ8P90R",
+                "name": "Akun Raid 38999"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GJJUQ8G9R",
+                "name": "Akun Raid 38998"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
+        }
+      ]
     }
   ],
   "defenseLog": [
@@ -3708,6 +4388,304 @@
               },
               "destructionPercent": 74,
               "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#8Q8Y8JLV",
+        "name": "BSS CLUB",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/BELiVNqg44qwdQ2PmNV0LsZesgW7fNhxa6T5tuyBPGk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/BELiVNqg44qwdQ2PmNV0LsZesgW7fNhxa6T5tuyBPGk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/BELiVNqg44qwdQ2PmNV0LsZesgW7fNhxa6T5tuyBPGk.png"
+        }
+      },
+      "attackCount": 23,
+      "districtCount": 9,
+      "districtsDestroyed": 7,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10716,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9QY8RR99Q",
+                "name": "Aritro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9QY8RR99Q",
+                "name": "Aritro"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G99V2GRV2",
+                "name": "RAZA DON"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9278,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9QY8RR99Q",
+                "name": "Aritro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9QY8RR99Q",
+                "name": "Aritro"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#89PVQ8PPC",
+                "name": "Heartless \u00df\u00f8y"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10352,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QP900LU82",
+                "name": "Babu"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QP900LU82",
+                "name": "Babu"
+              },
+              "destructionPercent": 76,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QP900LU82",
+                "name": "Babu"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10058,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8C8C8CQL2",
+                "name": "11NAHID"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8C8C8CQL2",
+                "name": "11NAHID"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8C8C8CQL2",
+                "name": "11NAHID"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 77,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 6900,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8QLCVR8VV",
+                "name": "sazzad"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8QLCVR8VV",
+                "name": "sazzad"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8QLCVR8VV",
+                "name": "sazzad"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9745,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#89PVQ8PPC",
+                "name": "Heartless \u00df\u00f8y"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QP900LU82",
+                "name": "Babu"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10528,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8C8C8CQL2",
+                "name": "11NAHID"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8C8C8CQL2",
+                "name": "11NAHID"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8C8C8CQL2",
+                "name": "11NAHID"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10616,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9QY8RR99Q",
+                "name": "Aritro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QP900LU82",
+                "name": "Babu"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QP900LU82",
+                "name": "Babu"
+              },
+              "destructionPercent": 33,
+              "stars": 0
             }
           ]
         }
