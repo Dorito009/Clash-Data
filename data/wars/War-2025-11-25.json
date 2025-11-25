@@ -64,7 +64,15 @@
         "name": "patty brard",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9GJYQGQCG",
+          "defenderTag": "#G2PYG0UCY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 161
+        }
       },
       {
         "tag": "#YCQ98GC88",
@@ -78,7 +86,15 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YQLVJGPQL",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 2,
+          "destructionPercentage": 50,
+          "order": 5,
+          "duration": 123
+        }
       }
     ]
   },
@@ -91,9 +107,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2PP9uyYE8L0xPr-W1ak_Ly5n0UD_eO6awHo37gUrYeY.png"
     },
     "clanLevel": 21,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 35.0,
+    "attacks": 4,
+    "stars": 10,
+    "destructionPercentage": 65.0,
     "members": [
       {
         "tag": "#GY9P8RQYQ",
@@ -122,6 +138,14 @@
             "destructionPercentage": 75,
             "order": 2,
             "duration": 122
+          },
+          {
+            "attackerTag": "#9GJYQGQCG",
+            "defenderTag": "#G2PYG0UCY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 161
           }
         ],
         "opponentAttacks": 0
@@ -146,6 +170,14 @@
             "destructionPercentage": 100,
             "order": 3,
             "duration": 68
+          },
+          {
+            "attackerTag": "#YQLVJGPQL",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 2,
+            "destructionPercentage": 50,
+            "order": 5,
+            "duration": 123
           }
         ],
         "opponentAttacks": 1,
