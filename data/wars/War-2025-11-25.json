@@ -49,14 +49,14 @@
         "name": "de skelet boys",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9GJYQGQCG",
+          "attackerTag": "#9QULP08CV",
           "defenderTag": "#JCGVYY8U",
           "stars": 2,
-          "destructionPercentage": 75,
-          "order": 2,
-          "duration": 122
+          "destructionPercentage": 82,
+          "order": 7,
+          "duration": 115
         }
       },
       {
@@ -86,14 +86,14 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YQLVJGPQL",
+          "attackerTag": "#9QULP08CV",
           "defenderTag": "#UVPQ9Y8U",
           "stars": 2,
-          "destructionPercentage": 50,
-          "order": 5,
-          "duration": 123
+          "destructionPercentage": 84,
+          "order": 6,
+          "duration": 119
         }
       }
     ]
@@ -107,9 +107,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2PP9uyYE8L0xPr-W1ak_Ly5n0UD_eO6awHo37gUrYeY.png"
     },
     "clanLevel": 21,
-    "attacks": 4,
+    "attacks": 6,
     "stars": 10,
-    "destructionPercentage": 65.0,
+    "destructionPercentage": 73.2,
     "members": [
       {
         "tag": "#GY9P8RQYQ",
@@ -155,6 +155,24 @@
         "name": "Gopi",
         "townhallLevel": 15,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#9QULP08CV",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 6,
+            "duration": 119
+          },
+          {
+            "attackerTag": "#9QULP08CV",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 7,
+            "duration": 115
+          }
+        ],
         "opponentAttacks": 0
       },
       {
