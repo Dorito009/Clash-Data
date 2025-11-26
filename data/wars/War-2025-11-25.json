@@ -75,7 +75,7 @@
             "duration": 141
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#9QULP08CV",
           "defenderTag": "#JCGVYY8U",
@@ -100,7 +100,7 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9GJYQGQCG",
           "defenderTag": "#G2PYG0UCY",
@@ -179,7 +179,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2PP9uyYE8L0xPr-W1ak_Ly5n0UD_eO6awHo37gUrYeY.png"
     },
     "clanLevel": 21,
-    "attacks": 6,
+    "attacks": 8,
     "stars": 10,
     "destructionPercentage": 73.2,
     "members": [
@@ -188,6 +188,24 @@
         "name": "SAPERA",
         "townhallLevel": 14,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#GY9P8RQYQ",
+            "defenderTag": "#G2PYG0UCY",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 16,
+            "duration": 113
+          },
+          {
+            "attackerTag": "#GY9P8RQYQ",
+            "defenderTag": "#JCGVYY8U",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 17,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#YCQ98GC88",
