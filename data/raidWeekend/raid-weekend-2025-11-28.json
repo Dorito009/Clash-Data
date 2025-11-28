@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251128T070000.000Z",
   "endTime": "20251201T070000.000Z",
-  "capitalTotalLoot": 27159,
+  "capitalTotalLoot": 53033,
   "raidsCompleted": 0,
-  "totalAttacks": 12,
-  "enemyDistrictsDestroyed": 2,
+  "totalAttacks": 18,
+  "enemyDistrictsDestroyed": 5,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 14544
+    },
+    {
+      "tag": "#YRP99RVQR",
+      "name": "ThomasOnCarry",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25874
     }
   ],
   "attackLog": [],
