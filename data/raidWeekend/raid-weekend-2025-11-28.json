@@ -2,13 +2,29 @@
   "state": "ongoing",
   "startTime": "20251128T070000.000Z",
   "endTime": "20251201T070000.000Z",
-  "capitalTotalLoot": 731943,
-  "raidsCompleted": 8,
-  "totalAttacks": 192,
-  "enemyDistrictsDestroyed": 67,
+  "capitalTotalLoot": 982449,
+  "raidsCompleted": 11,
+  "totalAttacks": 253,
+  "enemyDistrictsDestroyed": 90,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#G980Q90QL",
+      "name": "Halland",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23989
+    },
+    {
+      "tag": "#G8CRVY9UY",
+      "name": "Halland",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21908
+    },
     {
       "tag": "#G90QC80PJ",
       "name": "Halland",
@@ -56,6 +72,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 12615
+    },
+    {
+      "tag": "#GRJPLVJP0",
+      "name": "Halland",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 3279
     },
     {
       "tag": "#Q9P2J02U",
@@ -106,6 +130,14 @@
       "capitalResourcesLooted": 25874
     },
     {
+      "tag": "#GRVJ2PGJC",
+      "name": "Halland",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24041
+    },
+    {
       "tag": "#GJ09CQJ90",
       "name": "Halland",
       "attacks": 6,
@@ -146,12 +178,28 @@
       "capitalResourcesLooted": 20565
     },
     {
+      "tag": "#GJ9QCR8CG",
+      "name": "Halland",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23626
+    },
+    {
       "tag": "#GJ9Q9LLP9",
       "name": "Halland",
       "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23045
+    },
+    {
+      "tag": "#GCGCJLCV9",
+      "name": "Halland",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 30157
     },
     {
       "tag": "#GCR2GGU8J",
@@ -210,6 +258,14 @@
       "capitalResourcesLooted": 20949
     },
     {
+      "tag": "#GULVULVQP",
+      "name": "Halland",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 29130
+    },
+    {
       "tag": "#GQR9V22CL",
       "name": "Halland",
       "attacks": 6,
@@ -232,6 +288,30 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21113
+    },
+    {
+      "tag": "#GGLGJGUPR",
+      "name": "Halland",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24502
+    },
+    {
+      "tag": "#GGLYRYPP8",
+      "name": "Halland",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23900
+    },
+    {
+      "tag": "#GGLC9VUGU",
+      "name": "Halland",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23491
     },
     {
       "tag": "#GLYG0C09P",
@@ -264,6 +344,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21099
+    },
+    {
+      "tag": "#G8PCQ8QR9",
+      "name": "Halland",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22483
     }
   ],
   "attackLog": [
@@ -2522,6 +2610,598 @@
               },
               "destructionPercent": 64,
               "stars": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2PL2LJCVP",
+        "name": "GOD'S GRACE",
+        "level": 22,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/IXYbdCbhwZ-zBcZuEI55k1uspI9gt7L0fnHOXMeUJDE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/IXYbdCbhwZ-zBcZuEI55k1uspI9gt7L0fnHOXMeUJDE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/IXYbdCbhwZ-zBcZuEI55k1uspI9gt7L0fnHOXMeUJDE.png"
+        }
+      },
+      "attackCount": 24,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13907,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8PCQ8QR9",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJ9QCR8CG",
+                "name": "Halland"
+              },
+              "destructionPercent": 96,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GJ9QCR8CG",
+                "name": "Halland"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#GJ9QCR8CG",
+                "name": "Halland"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11883,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GR9CQYLCL",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GR9CQYLCL",
+                "name": "Halland"
+              },
+              "destructionPercent": 79,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GR9CQYLCL",
+                "name": "Halland"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10847,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GRVC9VCVY",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GR9CQYLCL",
+                "name": "Halland"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GR9CQYLCL",
+                "name": "Halland"
+              },
+              "destructionPercent": 30,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10940,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GRVC9VCVY",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GRVC9VCVY",
+                "name": "Halland"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10441,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GRVC9VCVY",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GRVC9VCVY",
+                "name": "Halland"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10831,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GCGCJLCV9",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GRVC9VCVY",
+                "name": "Halland"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10728,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GCGCJLCV9",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GCGCJLCV9",
+                "name": "Halland"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12023,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GCGCJLCV9",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GCGCJLCV9",
+                "name": "Halland"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GCGCJLCV9",
+                "name": "Halland"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11856,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJ9QCR8CG",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJ9QCR8CG",
+                "name": "Halland"
+              },
+              "destructionPercent": 61,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GJ9QCR8CG",
+                "name": "Halland"
+              },
+              "destructionPercent": 13,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2PUYGJLQ2",
+        "name": "\u0642\u0631\u064a\u0629 \u0627\u0644\u0627\u0634\u0628\u0627\u062d",
+        "level": 19,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c2nLbqeFNyDEAEUVyvbIZ0ZT2IBR2Moannk1GMNTUgs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c2nLbqeFNyDEAEUVyvbIZ0ZT2IBR2Moannk1GMNTUgs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c2nLbqeFNyDEAEUVyvbIZ0ZT2IBR2Moannk1GMNTUgs.png"
+        }
+      },
+      "attackCount": 21,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12798,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G980Q90QL",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G980Q90QL",
+                "name": "Halland"
+              },
+              "destructionPercent": 78,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G980Q90QL",
+                "name": "Halland"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11507,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8PCQ8QR9",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G8PCQ8QR9",
+                "name": "Halland"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G8PCQ8QR9",
+                "name": "Halland"
+              },
+              "destructionPercent": 15,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8839,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8PCQ8QR9",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G8PCQ8QR9",
+                "name": "Halland"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8973,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GRVJ2PGJC",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GRVJ2PGJC",
+                "name": "Halland"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10198,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GRVJ2PGJC",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GRVJ2PGJC",
+                "name": "Halland"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GRVJ2PGJC",
+                "name": "Halland"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9126,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GULVULVQP",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GRVJ2PGJC",
+                "name": "Halland"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9314,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GULVULVQP",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GULVULVQP",
+                "name": "Halland"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9515,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GULVULVQP",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GULVULVQP",
+                "name": "Halland"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 7596,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G980Q90QL",
+                "name": "Halland"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GULVULVQP",
+                "name": "Halland"
+              },
+              "destructionPercent": 85,
+              "stars": 2
             }
           ]
         }
