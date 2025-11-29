@@ -102,7 +102,15 @@
         "name": "JOC DE FAKKEL",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YUYVPJRPQ",
+          "defenderTag": "#UVPQ9Y8U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 116
+        }
       }
     ]
   },
@@ -115,9 +123,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oxklU-kGbSf1ZzPbpPoM3I1x7NlHewKN1NF4ms7X_0I.png"
     },
     "clanLevel": 9,
-    "attacks": 4,
-    "stars": 9,
-    "destructionPercentage": 76.0,
+    "attacks": 5,
+    "stars": 12,
+    "destructionPercentage": 96.0,
     "members": [
       {
         "tag": "#GGQPQRY80",
@@ -182,6 +190,14 @@
             "destructionPercentage": 82,
             "order": 4,
             "duration": 147
+          },
+          {
+            "attackerTag": "#YUYVPJRPQ",
+            "defenderTag": "#UVPQ9Y8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 116
           }
         ],
         "opponentAttacks": 0
