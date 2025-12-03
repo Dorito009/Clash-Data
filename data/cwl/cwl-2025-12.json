@@ -525,7 +525,7 @@
       "warStartTime": "20251202T211707.000Z"
     },
     {
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "preparationStartTime": "20251202T211718.000Z",
       "startTime": "20251203T221726.000Z",
@@ -539,9 +539,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png"
         },
         "clanLevel": 9,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 3,
+        "destructionPercentage": 6.666666666666667,
         "members": [
           {
             "tag": "#QPR0UUPYV",
@@ -632,6 +632,16 @@
             "name": "ferrercool",
             "townhallLevel": 14,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#GG8LQYPLQ",
+                "defenderTag": "#GRCPPYRJU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 1,
+                "duration": 79
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -696,7 +706,15 @@
             "name": "geertje",
             "townhallLevel": 12,
             "mapPosition": 15,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GG8LQYPLQ",
+              "defenderTag": "#GRCPPYRJU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 1,
+              "duration": 79
+            }
           },
           {
             "tag": "#2RG2JRVUP",
@@ -934,9 +952,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         }
       },
       {
@@ -949,9 +967,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
