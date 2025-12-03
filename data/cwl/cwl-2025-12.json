@@ -65,7 +65,15 @@
             "name": "mex",
             "townhallLevel": 17,
             "mapPosition": 1,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#88JUGLUL",
+              "defenderTag": "#2VJJL0U8",
+              "stars": 1,
+              "destructionPercentage": 96,
+              "order": 2,
+              "duration": 156
+            }
           },
           {
             "tag": "#YR02RGUPY",
@@ -93,7 +101,15 @@
             "name": "Dealer",
             "townhallLevel": 15,
             "mapPosition": 5,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#JCGVYY8U",
+              "defenderTag": "#2P2Q9UCJG",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 3,
+              "duration": 155
+            }
           },
           {
             "tag": "#VRRPRUUP",
@@ -149,15 +165,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 1,
-        "stars": 2,
-        "destructionPercentage": 5.933333333333334,
+        "attacks": 3,
+        "stars": 6,
+        "destructionPercentage": 19.0,
         "members": [
           {
             "tag": "#88JUGLUL",
             "name": "J-rone",
             "townhallLevel": 17,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#88JUGLUL",
+                "defenderTag": "#2VJJL0U8",
+                "stars": 1,
+                "destructionPercentage": 96,
+                "order": 2,
+                "duration": 156
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -214,6 +240,16 @@
             "name": "de skelet boys",
             "townhallLevel": 15,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#JCGVYY8U",
+                "defenderTag": "#2P2Q9UCJG",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 3,
+                "duration": 155
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -545,9 +581,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 2,
-          "attacks": 1,
-          "destructionPercentage": 5.933333333333334
+          "stars": 6,
+          "attacks": 3,
+          "destructionPercentage": 19.0
         }
       },
       {
@@ -587,9 +623,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
           },
-          "stars": 9,
-          "attacks": 3,
-          "destructionPercentage": 20.0
+          "stars": 12,
+          "attacks": 4,
+          "destructionPercentage": 26.666666666666668
         },
         "clan2": {
           "tag": "#PVPGVPRP",
@@ -626,9 +662,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 4,
+          "attacks": 3,
+          "destructionPercentage": 13.066666666666666
         }
       }
     ],
