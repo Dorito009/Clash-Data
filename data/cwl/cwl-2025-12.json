@@ -11,7 +11,7 @@
       "teamSize": 15,
       "preparationStartTime": "20251201T211708.000Z",
       "startTime": "20251202T211707.000Z",
-      "endTime": "20251203T211707.000Z",
+      "endTime": "20251203T221612.000Z",
       "clan": {
         "tag": "#2C898GYV",
         "name": "MUSTANG 99",
@@ -121,7 +121,15 @@
             "name": "cool boy",
             "townhallLevel": 9,
             "mapPosition": 28,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GRCPPYRJU",
+              "defenderTag": "#GCC90GPG9",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
+              "duration": 75
+            }
           },
           {
             "tag": "#PJG2V8V2C",
@@ -199,9 +207,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 6,
-        "stars": 13,
-        "destructionPercentage": 34.266666666666666,
+        "attacks": 7,
+        "stars": 16,
+        "destructionPercentage": 40.93333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -246,6 +254,16 @@
             "name": "geertje",
             "townhallLevel": 12,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#GRCPPYRJU",
+                "defenderTag": "#GCC90GPG9",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 8,
+                "duration": 75
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#YR02RGUPY",
@@ -384,8 +402,8 @@
       "state": "preparation",
       "teamSize": 15,
       "preparationStartTime": "20251202T211718.000Z",
-      "startTime": "20251203T211715.000Z",
-      "endTime": "20251204T211715.000Z",
+      "startTime": "20251203T221726.000Z",
+      "endTime": "20251204T221726.000Z",
       "clan": {
         "tag": "#PVPGVPRP",
         "name": "HUD Clan",
@@ -626,7 +644,7 @@
           }
         ]
       },
-      "warStartTime": "20251203T211715.000Z"
+      "warStartTime": "20251203T221726.000Z"
     }
   ],
   "rounds": [
@@ -653,9 +671,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 13,
-          "attacks": 6,
-          "destructionPercentage": 34.266666666666666
+          "stars": 16,
+          "attacks": 7,
+          "destructionPercentage": 40.93333333333333
         }
       },
       {
@@ -668,9 +686,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 10,
+          "attacks": 4,
+          "destructionPercentage": 24.066666666666666
         },
         "clan2": {
           "tag": "#GVLV9GR8",
@@ -734,9 +752,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
           },
-          "stars": 11,
-          "attacks": 8,
-          "destructionPercentage": 31.333333333333332
+          "stars": 14,
+          "attacks": 9,
+          "destructionPercentage": 38.0
         }
       }
     ],
