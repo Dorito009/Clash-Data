@@ -21,9 +21,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wdSf_MXl4tr9cMO_2gGky-eKwcM_s8Z7ovcWtMY1X4o.png"
         },
         "clanLevel": 22,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 3,
+        "destructionPercentage": 6.666666666666667,
         "members": [
           {
             "tag": "#G2G0VUP8",
@@ -80,6 +80,16 @@
             "name": "Galaxy Park",
             "townhallLevel": 12,
             "mapPosition": 22,
+            "attacks": [
+              {
+                "attackerTag": "#YR02RGUPY",
+                "defenderTag": "#GRCPPYRJU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 4,
+                "duration": 103
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -212,7 +222,15 @@
             "name": "geertje",
             "townhallLevel": 12,
             "mapPosition": 15,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YR02RGUPY",
+              "defenderTag": "#GRCPPYRJU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 4,
+              "duration": 103
+            }
           },
           {
             "tag": "#2RG2JRVUP",
@@ -569,9 +587,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/wdSf_MXl4tr9cMO_2gGky-eKwcM_s8Z7ovcWtMY1X4o.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/wdSf_MXl4tr9cMO_2gGky-eKwcM_s8Z7ovcWtMY1X4o.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
