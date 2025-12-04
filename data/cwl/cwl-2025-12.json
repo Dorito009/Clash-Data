@@ -607,7 +607,15 @@
                 "duration": 158
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2RG2JRVUP",
+              "defenderTag": "#YYR9UVCR",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
+              "duration": 92
+            }
           },
           {
             "tag": "#GQCRGYCQQ",
@@ -707,7 +715,15 @@
             "name": "viper",
             "townhallLevel": 13,
             "mapPosition": 14,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YRP99RVQR",
+              "defenderTag": "#QYP9UJRL2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "duration": 75
+            }
           }
         ]
       },
@@ -720,9 +736,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 2,
+        "stars": 6,
+        "destructionPercentage": 13.333333333333334,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -780,6 +796,16 @@
             "name": "Rinaldo",
             "townhallLevel": 14,
             "mapPosition": 8,
+            "attacks": [
+              {
+                "attackerTag": "#2RG2JRVUP",
+                "defenderTag": "#YYR9UVCR",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 8,
+                "duration": 92
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#R00RVL0P",
@@ -824,6 +850,16 @@
             "name": "ThomasOnCarry",
             "townhallLevel": 14,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#YRP99RVQR",
+                "defenderTag": "#QYP9UJRL2",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 7,
+                "duration": 75
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1291,9 +1327,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
           },
-          "stars": 6,
-          "attacks": 2,
-          "destructionPercentage": 13.333333333333334
+          "stars": 9,
+          "attacks": 3,
+          "destructionPercentage": 20.0
         }
       },
       {
@@ -1318,9 +1354,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 6,
+          "attacks": 2,
+          "destructionPercentage": 13.333333333333334
         }
       },
       {
@@ -1345,9 +1381,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
           },
-          "stars": 17,
-          "attacks": 8,
-          "destructionPercentage": 43.93333333333333
+          "stars": 19,
+          "attacks": 9,
+          "destructionPercentage": 50.0
         }
       }
     ],
