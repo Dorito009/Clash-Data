@@ -3,7 +3,8 @@
   "season": "2025-12",
   "tags": [
     "#8QL2PRUQY",
-    "#8QL9YLLL9"
+    "#8QL9YLLL9",
+    "#8QLL2GQVV"
   ],
   "clanWars": [
     {
@@ -539,15 +540,25 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png"
         },
         "clanLevel": 9,
-        "attacks": 1,
-        "stars": 3,
-        "destructionPercentage": 6.666666666666667,
+        "attacks": 3,
+        "stars": 5,
+        "destructionPercentage": 17.933333333333334,
         "members": [
           {
             "tag": "#QPR0UUPYV",
             "name": "Ghoul",
             "townhallLevel": 13,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#QPR0UUPYV",
+                "defenderTag": "#QQVYG0VC9",
+                "stars": 1,
+                "destructionPercentage": 93,
+                "order": 3,
+                "duration": 144
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -625,6 +636,16 @@
             "name": "gamerboy",
             "townhallLevel": 13,
             "mapPosition": 16,
+            "attacks": [
+              {
+                "attackerTag": "#G2GQ0L2GR",
+                "defenderTag": "#P8Y8VC9PV",
+                "stars": 1,
+                "destructionPercentage": 76,
+                "order": 2,
+                "duration": 130
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -763,14 +784,30 @@
             "name": "kau",
             "townhallLevel": 14,
             "mapPosition": 10,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QPR0UUPYV",
+              "defenderTag": "#QQVYG0VC9",
+              "stars": 1,
+              "destructionPercentage": 93,
+              "order": 3,
+              "duration": 144
+            }
           },
           {
             "tag": "#P8Y8VC9PV",
             "name": "sofie",
             "townhallLevel": 13,
             "mapPosition": 14,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G2GQ0L2GR",
+              "defenderTag": "#P8Y8VC9PV",
+              "stars": 1,
+              "destructionPercentage": 76,
+              "order": 2,
+              "duration": 130
+            }
           },
           {
             "tag": "#YCQ98GC88",
@@ -789,6 +826,254 @@
         ]
       },
       "warStartTime": "20251203T221726.000Z"
+    },
+    {
+      "state": "preparation",
+      "teamSize": 15,
+      "preparationStartTime": "20251203T233447.000Z",
+      "startTime": "20251204T233446.000Z",
+      "endTime": "20251205T233446.000Z",
+      "clan": {
+        "tag": "#2Q0LUVVY9",
+        "name": "kampung ayam",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
+        },
+        "clanLevel": 11,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+          {
+            "tag": "#8PLYCJRQL",
+            "name": "\u00c3hmad~Nrzk\u00ee",
+            "townhallLevel": 13,
+            "mapPosition": 23,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#GGLR2GUUY",
+            "name": "Boruto",
+            "townhallLevel": 14,
+            "mapPosition": 15,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#P90CV9R2Y",
+            "name": "\u2606\u2661FOUR PUTRA\u2661\u2606",
+            "townhallLevel": 13,
+            "mapPosition": 18,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#G22GYGG8Y",
+            "name": "RRQ\u00b0ALDI",
+            "townhallLevel": 13,
+            "mapPosition": 25,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#QRVUCY80V",
+            "name": "PAPA MUDA",
+            "townhallLevel": 14,
+            "mapPosition": 13,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#Y0P808R0U",
+            "name": "WAHYU chiud",
+            "townhallLevel": 18,
+            "mapPosition": 1,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#GJ2YLYPRU",
+            "name": "STAR WARS'",
+            "townhallLevel": 14,
+            "mapPosition": 16,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#GJ89R0UQ8",
+            "name": "Naruto",
+            "townhallLevel": 14,
+            "mapPosition": 11,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#J2YQ820P",
+            "name": "Ivan Chandra",
+            "townhallLevel": 14,
+            "mapPosition": 7,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#GC0UU88JP",
+            "name": "itachi",
+            "townhallLevel": 14,
+            "mapPosition": 14,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#GR8JU9PJG",
+            "name": "100%",
+            "townhallLevel": 13,
+            "mapPosition": 32,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#PVVC98VLY",
+            "name": "Anak Durhaka",
+            "townhallLevel": 17,
+            "mapPosition": 2,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#G99UC9UJ8",
+            "name": "muhadam",
+            "townhallLevel": 15,
+            "mapPosition": 8,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#GYUURULJY",
+            "name": "sasuke",
+            "townhallLevel": 14,
+            "mapPosition": 12,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#QP29CR90Q",
+            "name": "syahrull",
+            "townhallLevel": 15,
+            "mapPosition": 4,
+            "opponentAttacks": 0
+          }
+        ]
+      },
+      "opponent": {
+        "tag": "#2QGYR0GU2",
+        "name": "EetMeBal",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
+        },
+        "clanLevel": 15,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+          {
+            "tag": "#88JUGLUL",
+            "name": "J-rone",
+            "townhallLevel": 17,
+            "mapPosition": 2,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#LYUPQU8G2",
+            "name": "thewarrior",
+            "townhallLevel": 14,
+            "mapPosition": 7,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#CV0GGCCU",
+            "name": "Falcon_Fury",
+            "townhallLevel": 15,
+            "mapPosition": 6,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#892JR20YY",
+            "name": "de man",
+            "townhallLevel": 14,
+            "mapPosition": 11,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#GRCPPYRJU",
+            "name": "geertje",
+            "townhallLevel": 12,
+            "mapPosition": 15,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#2RG2JRVUP",
+            "name": "Rinaldo",
+            "townhallLevel": 14,
+            "mapPosition": 8,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#Q9P2J02U",
+            "name": "Langpootmug2304",
+            "townhallLevel": 14,
+            "mapPosition": 9,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#2QQL89LVP",
+            "name": "julius damen",
+            "townhallLevel": 14,
+            "mapPosition": 13,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#JCGVYY8U",
+            "name": "de skelet boys",
+            "townhallLevel": 15,
+            "mapPosition": 5,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#YRP99RVQR",
+            "name": "ThomasOnCarry",
+            "townhallLevel": 14,
+            "mapPosition": 12,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#Y90L0809",
+            "name": "Noahzwolle",
+            "townhallLevel": 16,
+            "mapPosition": 3,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#QQVYG0VC9",
+            "name": "kau",
+            "townhallLevel": 14,
+            "mapPosition": 10,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#P8Y8VC9PV",
+            "name": "sofie",
+            "townhallLevel": 13,
+            "mapPosition": 14,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#YCQ98GC88",
+            "name": "Peter Pannekoek",
+            "townhallLevel": 18,
+            "mapPosition": 1,
+            "opponentAttacks": 0
+          },
+          {
+            "tag": "#UVPQ9Y8U",
+            "name": "JOC DE FAKKEL",
+            "townhallLevel": 15,
+            "mapPosition": 4,
+            "opponentAttacks": 0
+          }
+        ]
+      },
+      "warStartTime": "20251204T233446.000Z"
     }
   ],
   "rounds": [
@@ -913,9 +1198,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         },
         "clan2": {
           "tag": "#GVLV9GR8",
@@ -967,9 +1252,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 5,
+          "attacks": 3,
+          "destructionPercentage": 17.933333333333334
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -994,6 +1279,116 @@
             "large": "https://api-assets.clashofclans.com/badges/512/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png"
           },
+          "stars": 1,
+          "attacks": 1,
+          "destructionPercentage": 4.333333333333333
+        },
+        "clan2": {
+          "tag": "#2RLGQY2J8",
+          "name": "\u6625\u9edb",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
+          },
+          "stars": 2,
+          "attacks": 1,
+          "destructionPercentage": 3.8
+        }
+      }
+    ],
+    [
+      {
+        "warTag": "#8QLL2GLRR",
+        "clan1": {
+          "tag": "#GVLV9GR8",
+          "name": "GUWAHATI",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        },
+        "clan2": {
+          "tag": "#PRYJJPU8",
+          "name": "king center",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        }
+      },
+      {
+        "warTag": "#8QLL2GRP9",
+        "clan1": {
+          "tag": "#2C898GYV",
+          "name": "MUSTANG 99",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        },
+        "clan2": {
+          "tag": "#PVPGVPRP",
+          "name": "HUD Clan",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        }
+      },
+      {
+        "warTag": "#8QLL2GQVV",
+        "clan1": {
+          "tag": "#2Q0LUVVY9",
+          "name": "kampung ayam",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        },
+        "clan2": {
+          "tag": "#2QGYR0GU2",
+          "name": "EetMeBal",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
+          },
+          "stars": 0,
+          "attacks": 0,
+          "destructionPercentage": 0.0
+        }
+      },
+      {
+        "warTag": "#8QLL2GJGQ",
+        "clan1": {
+          "tag": "#20JUPVQ8L",
+          "name": "\u0639\u0634\u0627\u0642 \u0627\u0644\u062d\u0631\u0648\u0628",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
+          },
           "stars": 0,
           "attacks": 0,
           "destructionPercentage": 0.0
@@ -1012,7 +1407,6 @@
         }
       }
     ],
-    [],
     [],
     [],
     [],
