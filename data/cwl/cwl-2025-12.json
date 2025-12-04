@@ -615,7 +615,7 @@
                 "duration": 158
               }
             ],
-            "opponentAttacks": 1,
+            "opponentAttacks": 2,
             "bestOpponentAttack": {
               "attackerTag": "#2RG2JRVUP",
               "defenderTag": "#YYR9UVCR",
@@ -630,7 +630,15 @@
             "name": "Gappo",
             "townhallLevel": 15,
             "mapPosition": 4,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YCQ98GC88",
+              "defenderTag": "#GQCRGYCQQ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 14,
+              "duration": 127
+            }
           },
           {
             "tag": "#88UVPC2VU",
@@ -780,9 +788,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 5,
-        "stars": 12,
-        "destructionPercentage": 30.866666666666667,
+        "attacks": 7,
+        "stars": 15,
+        "destructionPercentage": 37.53333333333333,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -803,6 +811,16 @@
             "name": "Falcon_Fury",
             "townhallLevel": 15,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#CV0GGCCU",
+                "defenderTag": "#YYR9UVCR",
+                "stars": 1,
+                "destructionPercentage": 96,
+                "order": 15,
+                "duration": 97
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -986,6 +1004,16 @@
             "name": "Peter Pannekoek",
             "townhallLevel": 18,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#YCQ98GC88",
+                "defenderTag": "#GQCRGYCQQ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 14,
+                "duration": 127
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1397,9 +1425,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
           },
-          "stars": 6,
-          "attacks": 2,
-          "destructionPercentage": 13.333333333333334
+          "stars": 8,
+          "attacks": 3,
+          "destructionPercentage": 17.733333333333334
         },
         "clan2": {
           "tag": "#PRYJJPU8",
@@ -1436,9 +1464,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 12,
-          "attacks": 5,
-          "destructionPercentage": 30.866666666666667
+          "stars": 15,
+          "attacks": 7,
+          "destructionPercentage": 37.53333333333333
         }
       },
       {
