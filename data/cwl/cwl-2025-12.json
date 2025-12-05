@@ -1097,9 +1097,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
         },
         "clanLevel": 11,
-        "attacks": 6,
-        "stars": 13,
-        "destructionPercentage": 34.666666666666664,
+        "attacks": 7,
+        "stars": 15,
+        "destructionPercentage": 39.93333333333333,
         "members": [
           {
             "tag": "#8PLYCJRQL",
@@ -1148,6 +1148,16 @@
             "name": "\u2606\u2661FOUR PUTRA\u2661\u2606",
             "townhallLevel": 13,
             "mapPosition": 18,
+            "attacks": [
+              {
+                "attackerTag": "#P90CV9R2Y",
+                "defenderTag": "#YRP99RVQR",
+                "stars": 2,
+                "destructionPercentage": 79,
+                "order": 14,
+                "duration": 134
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#UVPQ9Y8U",
@@ -1495,7 +1505,15 @@
                 "duration": 104
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#P90CV9R2Y",
+              "defenderTag": "#YRP99RVQR",
+              "stars": 2,
+              "destructionPercentage": 79,
+              "order": 14,
+              "duration": 134
+            }
           },
           {
             "tag": "#Y90L0809",
@@ -2045,9 +2063,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png"
           },
-          "stars": 4,
-          "attacks": 3,
-          "destructionPercentage": 12.733333333333333
+          "stars": 7,
+          "attacks": 5,
+          "destructionPercentage": 21.066666666666666
         },
         "clan2": {
           "tag": "#PRYJJPU8",
@@ -2084,9 +2102,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png"
           },
-          "stars": 10,
-          "attacks": 4,
-          "destructionPercentage": 24.066666666666666
+          "stars": 11,
+          "attacks": 5,
+          "destructionPercentage": 28.0
         }
       },
       {
@@ -2099,9 +2117,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
           },
-          "stars": 13,
-          "attacks": 6,
-          "destructionPercentage": 34.666666666666664
+          "stars": 15,
+          "attacks": 7,
+          "destructionPercentage": 39.93333333333333
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -2138,9 +2156,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
           },
-          "stars": 15,
-          "attacks": 9,
-          "destructionPercentage": 45.46666666666667
+          "stars": 18,
+          "attacks": 13,
+          "destructionPercentage": 59.86666666666667
         }
       }
     ],
