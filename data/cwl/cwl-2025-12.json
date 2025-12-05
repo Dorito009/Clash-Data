@@ -1097,9 +1097,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
         },
         "clanLevel": 11,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 2,
+        "stars": 5,
+        "destructionPercentage": 11.866666666666667,
         "members": [
           {
             "tag": "#8PLYCJRQL",
@@ -1156,6 +1156,16 @@
             "name": "STAR WARS'",
             "townhallLevel": 14,
             "mapPosition": 16,
+            "attacks": [
+              {
+                "attackerTag": "#GJ2YLYPRU",
+                "defenderTag": "#892JR20YY",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 3,
+                "duration": 117
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1163,6 +1173,16 @@
             "name": "Naruto",
             "townhallLevel": 14,
             "mapPosition": 11,
+            "attacks": [
+              {
+                "attackerTag": "#GJ89R0UQ8",
+                "defenderTag": "#CV0GGCCU",
+                "stars": 2,
+                "destructionPercentage": 78,
+                "order": 2,
+                "duration": 98
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1248,14 +1268,30 @@
             "name": "Falcon_Fury",
             "townhallLevel": 15,
             "mapPosition": 6,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GJ89R0UQ8",
+              "defenderTag": "#CV0GGCCU",
+              "stars": 2,
+              "destructionPercentage": 78,
+              "order": 2,
+              "duration": 98
+            }
           },
           {
             "tag": "#892JR20YY",
             "name": "de man",
             "townhallLevel": 14,
             "mapPosition": 11,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GJ2YLYPRU",
+              "defenderTag": "#892JR20YY",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 3,
+              "duration": 117
+            }
           },
           {
             "tag": "#GRCPPYRJU",
@@ -1857,8 +1893,8 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png"
           },
           "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "attacks": 1,
+          "destructionPercentage": 2.466666666666667
         },
         "clan2": {
           "tag": "#PVPGVPRP",
@@ -1883,9 +1919,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 5,
+          "attacks": 2,
+          "destructionPercentage": 11.866666666666667
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -1922,9 +1958,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 1,
+          "attacks": 1,
+          "destructionPercentage": 5.466666666666667
         }
       }
     ],
