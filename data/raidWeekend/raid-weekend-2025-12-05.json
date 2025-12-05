@@ -2,13 +2,22 @@
   "state": "ongoing",
   "startTime": "20251205T070000.000Z",
   "endTime": "20251208T070000.000Z",
-  "capitalTotalLoot": 0,
+  "capitalTotalLoot": 23133,
   "raidsCompleted": 0,
-  "totalAttacks": 0,
-  "enemyDistrictsDestroyed": 0,
+  "totalAttacks": 6,
+  "enemyDistrictsDestroyed": 2,
   "offensiveReward": 0,
   "defensiveReward": 0,
-  "members": [],
+  "members": [
+    {
+      "tag": "#CV0GGCCU",
+      "name": "Falcon_Fury",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23133
+    }
+  ],
   "attackLog": [],
   "defenseLog": []
 }
