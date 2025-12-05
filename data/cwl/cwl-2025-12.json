@@ -1097,9 +1097,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
         },
         "clanLevel": 11,
-        "attacks": 7,
-        "stars": 15,
-        "destructionPercentage": 39.93333333333333,
+        "attacks": 8,
+        "stars": 17,
+        "destructionPercentage": 45.333333333333336,
         "members": [
           {
             "tag": "#8PLYCJRQL",
@@ -1173,6 +1173,16 @@
             "name": "RRQ\u00b0ALDI",
             "townhallLevel": 13,
             "mapPosition": 25,
+            "attacks": [
+              {
+                "attackerTag": "#G22GYGG8Y",
+                "defenderTag": "#P8Y8VC9PV",
+                "stars": 2,
+                "destructionPercentage": 81,
+                "order": 15,
+                "duration": 120
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -1552,7 +1562,15 @@
             "name": "sofie",
             "townhallLevel": 13,
             "mapPosition": 14,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G22GYGG8Y",
+              "defenderTag": "#P8Y8VC9PV",
+              "stars": 2,
+              "destructionPercentage": 81,
+              "order": 15,
+              "duration": 120
+            }
           },
           {
             "tag": "#YCQ98GC88",
@@ -2090,9 +2108,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png"
           },
-          "stars": 6,
-          "attacks": 3,
-          "destructionPercentage": 15.8
+          "stars": 15,
+          "attacks": 6,
+          "destructionPercentage": 35.8
         },
         "clan2": {
           "tag": "#PVPGVPRP",
@@ -2117,9 +2135,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
           },
-          "stars": 15,
-          "attacks": 7,
-          "destructionPercentage": 39.93333333333333
+          "stars": 17,
+          "attacks": 8,
+          "destructionPercentage": 45.333333333333336
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
