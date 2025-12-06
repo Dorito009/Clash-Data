@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251205T070000.000Z",
   "endTime": "20251208T070000.000Z",
-  "capitalTotalLoot": 94748,
-  "raidsCompleted": 0,
-  "totalAttacks": 26,
-  "enemyDistrictsDestroyed": 8,
+  "capitalTotalLoot": 132940,
+  "raidsCompleted": 1,
+  "totalAttacks": 34,
+  "enemyDistrictsDestroyed": 12,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -36,10 +36,18 @@
     {
       "tag": "#2QQL89LVP",
       "name": "julius damen",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9481
+      "capitalResourcesLooted": 16783
+    },
+    {
+      "tag": "#JCGVYY8U",
+      "name": "de skelet boys",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 30890
     },
     {
       "tag": "#UVPQ9Y8U",
@@ -50,7 +58,348 @@
       "capitalResourcesLooted": 34013
     }
   ],
-  "attackLog": [],
+  "attackLog": [
+    {
+      "defender": {
+        "tag": "#2G2U888QG",
+        "name": "Pinoy Fighter\u2694\ufe0f",
+        "level": 23,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/xJqHsFhtIakWBl2OV9hvBf3dwCu3FokuXNbGc9hohuU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/xJqHsFhtIakWBl2OV9hvBf3dwCu3FokuXNbGc9hohuU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/xJqHsFhtIakWBl2OV9hvBf3dwCu3FokuXNbGc9hohuU.png"
+        }
+      },
+      "attackCount": 28,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13442,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2QQL89LVP",
+                "name": "julius damen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2QQL89LVP",
+                "name": "julius damen"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2QQL89LVP",
+                "name": "julius damen"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2QQL89LVP",
+                "name": "julius damen"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12000,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2QQL89LVP",
+                "name": "julius damen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q9P2J02U",
+                "name": "Langpootmug2304"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#Q9P2J02U",
+                "name": "Langpootmug2304"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10781,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9P2J02U",
+                "name": "Langpootmug2304"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9P2J02U",
+                "name": "Langpootmug2304"
+              },
+              "destructionPercent": 96,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9P2J02U",
+                "name": "Langpootmug2304"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9P2J02U",
+                "name": "Langpootmug2304"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11250,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10953,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10301,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2QQL89LVP",
+                "name": "julius damen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UVPQ9Y8U",
+                "name": "JOC DE FAKKEL"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GRCPPYRJU",
+                "name": "geertje"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10190,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GRCPPYRJU",
+                "name": "geertje"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GRCPPYRJU",
+                "name": "geertje"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#GRCPPYRJU",
+                "name": "geertje"
+              },
+              "destructionPercent": 26,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11649,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CV0GGCCU",
+                "name": "Falcon_Fury"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CV0GGCCU",
+                "name": "Falcon_Fury"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#CV0GGCCU",
+                "name": "Falcon_Fury"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11484,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CV0GGCCU",
+                "name": "Falcon_Fury"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CV0GGCCU",
+                "name": "Falcon_Fury"
+              },
+              "destructionPercent": 69,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#CV0GGCCU",
+                "name": "Falcon_Fury"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "defenseLog": [
     {
       "attacker": {
