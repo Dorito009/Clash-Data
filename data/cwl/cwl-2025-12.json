@@ -1083,7 +1083,7 @@
       "warStartTime": "20251203T221726.000Z"
     },
     {
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "preparationStartTime": "20251203T233447.000Z",
       "startTime": "20251204T233446.000Z",
@@ -1097,9 +1097,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
         },
         "clanLevel": 11,
-        "attacks": 8,
-        "stars": 17,
-        "destructionPercentage": 45.333333333333336,
+        "attacks": 9,
+        "stars": 20,
+        "destructionPercentage": 52.0,
         "members": [
           {
             "tag": "#8PLYCJRQL",
@@ -1198,6 +1198,16 @@
             "name": "PAPA MUDA",
             "townhallLevel": 14,
             "mapPosition": 13,
+            "attacks": [
+              {
+                "attackerTag": "#QRVUCY80V",
+                "defenderTag": "#GRCPPYRJU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 17,
+                "duration": 95
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#2RG2JRVUP",
@@ -1442,7 +1452,15 @@
                 "duration": 180
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QRVUCY80V",
+              "defenderTag": "#GRCPPYRJU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "duration": 95
+            }
           },
           {
             "tag": "#2RG2JRVUP",
@@ -2153,9 +2171,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
           },
-          "stars": 17,
-          "attacks": 8,
-          "destructionPercentage": 45.333333333333336
+          "stars": 20,
+          "attacks": 9,
+          "destructionPercentage": 52.0
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -2209,9 +2227,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 1,
+          "attacks": 1,
+          "destructionPercentage": 3.7333333333333334
         },
         "clan2": {
           "tag": "#2Q0LUVVY9",
@@ -2271,9 +2289,9 @@
           "tag": "#2RLGQY2J8",
           "name": "\u6625\u9edb",
           "badgeUrls": {
-            "small": "https://api-assets.clashofclans.com/badges/70/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
-            "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
-            "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
+            "small": "https://api-assets.clashofclans.com/badges/70/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
           },
           "stars": 0,
           "attacks": 0,
