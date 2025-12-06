@@ -3,7 +3,7 @@
   "startTime": "20251205T070000.000Z",
   "endTime": "20251208T070000.000Z",
   "capitalTotalLoot": 184504,
-  "raidsCompleted": 2,
+  "raidsCompleted": 3,
   "totalAttacks": 48,
   "enemyDistrictsDestroyed": 17,
   "offensiveReward": 0,
@@ -428,27 +428,95 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/6JIznwaYIiA_G-en7y3PtlQPz5rnwM0WwtwFQ-yP_5k.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 34,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13692,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VL2029J",
+                "name": "skull687"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9VL2029J",
+                "name": "skull687"
+              },
+              "destructionPercent": 98,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9VL2029J",
+                "name": "skull687"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9VL2029J",
+                "name": "skull687"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9VL2029J",
+                "name": "skull687"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10413,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9RU2QVG",
+                "name": "corysmash"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G9RU2QVG",
+                "name": "corysmash"
+              },
+              "destructionPercent": 73,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G9RU2QVG",
+                "name": "corysmash"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -497,11 +565,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 86,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 8265,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10337,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9RU2QVG",
+                "name": "corysmash"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LUGP0J9PR",
@@ -575,11 +651,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 62,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 5120,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 8999,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9RU2QVG",
+                "name": "corysmash"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LUGP0J9PR",
@@ -645,11 +729,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 99,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 10285,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11011,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9RU2QVG",
+                "name": "corysmash"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GV8PQ2YUP",
