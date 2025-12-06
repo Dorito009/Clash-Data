@@ -428,9 +428,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/6JIznwaYIiA_G-en7y3PtlQPz5rnwM0WwtwFQ-yP_5k.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -454,11 +454,27 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 52,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 4905,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 9575,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LUGP0J9PR",
+                "name": "hardtime"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LUGP0J9PR",
+                "name": "hardtime"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#CJUG2902",
@@ -481,11 +497,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 52,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 4235,
+          "destructionPercent": 86,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 8265,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LUGP0J9PR",
+                "name": "hardtime"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#GV8PQ2YUP",
@@ -551,10 +575,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 62,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 5120,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LUGP0J9PR",
+                "name": "hardtime"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LUGP0J9PR",
+                "name": "hardtime"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LUGP0J9PR",
+                "name": "hardtime"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
