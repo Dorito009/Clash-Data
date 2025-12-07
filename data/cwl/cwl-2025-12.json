@@ -2189,9 +2189,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png"
         },
         "clanLevel": 24,
-        "attacks": 9,
-        "stars": 24,
-        "destructionPercentage": 56.86666666666667,
+        "attacks": 10,
+        "stars": 27,
+        "destructionPercentage": 63.53333333333333,
         "members": [
           {
             "tag": "#8P889C9LR",
@@ -2297,6 +2297,16 @@
             "name": "MAD MAX",
             "townhallLevel": 18,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#P29VPV8QG",
+                "defenderTag": "#CV0GGCCU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 15,
+                "duration": 166
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2478,7 +2488,15 @@
             "name": "Falcon_Fury",
             "townhallLevel": 15,
             "mapPosition": 6,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#P29VPV8QG",
+              "defenderTag": "#CV0GGCCU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 15,
+              "duration": 166
+            }
           },
           {
             "tag": "#892JR20YY",
@@ -3402,9 +3420,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png"
           },
-          "stars": 24,
-          "attacks": 9,
-          "destructionPercentage": 56.86666666666667
+          "stars": 27,
+          "attacks": 10,
+          "destructionPercentage": 63.53333333333333
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -3441,9 +3459,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
           },
-          "stars": 10,
-          "attacks": 4,
-          "destructionPercentage": 25.8
+          "stars": 16,
+          "attacks": 6,
+          "destructionPercentage": 39.13333333333333
         }
       },
       {
@@ -3468,9 +3486,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
           },
-          "stars": 17,
-          "attacks": 8,
-          "destructionPercentage": 46.8
+          "stars": 20,
+          "attacks": 9,
+          "destructionPercentage": 53.46666666666667
         }
       }
     ],
