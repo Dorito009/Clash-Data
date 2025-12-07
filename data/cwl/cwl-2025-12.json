@@ -2189,9 +2189,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png"
         },
         "clanLevel": 24,
-        "attacks": 2,
-        "stars": 6,
-        "destructionPercentage": 13.333333333333334,
+        "attacks": 3,
+        "stars": 9,
+        "destructionPercentage": 20.0,
         "members": [
           {
             "tag": "#8P889C9LR",
@@ -2237,7 +2237,15 @@
             "name": "khompu nabam",
             "townhallLevel": 13,
             "mapPosition": 20,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GRCPPYRJU",
+              "defenderTag": "#G2PULU2Q0",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 4,
+              "duration": 180
+            }
           },
           {
             "tag": "#Q22L0P2RQ",
@@ -2293,6 +2301,16 @@
             "name": "kyle",
             "townhallLevel": 16,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#R2G9Y0VL",
+                "defenderTag": "#Q9P2J02U",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 5,
+                "duration": 71
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2337,9 +2355,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 1,
-        "stars": 1,
-        "destructionPercentage": 6.4,
+        "attacks": 2,
+        "stars": 3,
+        "destructionPercentage": 12.8,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -2374,6 +2392,16 @@
             "name": "geertje",
             "townhallLevel": 12,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#GRCPPYRJU",
+                "defenderTag": "#G2PULU2Q0",
+                "stars": 2,
+                "destructionPercentage": 96,
+                "order": 4,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2396,7 +2424,15 @@
             "name": "Langpootmug2304",
             "townhallLevel": 14,
             "mapPosition": 9,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#R2G9Y0VL",
+              "defenderTag": "#Q9P2J02U",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 5,
+              "duration": 71
+            }
           },
           {
             "tag": "#2QQL89LVP",
@@ -3204,9 +3240,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png"
           },
-          "stars": 6,
-          "attacks": 2,
-          "destructionPercentage": 13.333333333333334
+          "stars": 9,
+          "attacks": 3,
+          "destructionPercentage": 20.0
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -3216,9 +3252,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 1,
-          "attacks": 1,
-          "destructionPercentage": 6.4
+          "stars": 3,
+          "attacks": 2,
+          "destructionPercentage": 12.8
         }
       },
       {
