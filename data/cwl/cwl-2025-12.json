@@ -2189,9 +2189,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png"
         },
         "clanLevel": 24,
-        "attacks": 1,
-        "stars": 3,
-        "destructionPercentage": 6.666666666666667,
+        "attacks": 2,
+        "stars": 6,
+        "destructionPercentage": 13.333333333333334,
         "members": [
           {
             "tag": "#8P889C9LR",
@@ -2307,6 +2307,16 @@
             "name": "Robert",
             "townhallLevel": 16,
             "mapPosition": 8,
+            "attacks": [
+              {
+                "attackerTag": "#80JJLCCL8",
+                "defenderTag": "#2RG2JRVUP",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 3,
+                "duration": 114
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -2371,7 +2381,15 @@
             "name": "Rinaldo",
             "townhallLevel": 14,
             "mapPosition": 8,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#80JJLCCL8",
+              "defenderTag": "#2RG2JRVUP",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 3,
+              "duration": 114
+            }
           },
           {
             "tag": "#Q9P2J02U",
@@ -3186,9 +3204,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 6,
+          "attacks": 2,
+          "destructionPercentage": 13.333333333333334
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
@@ -3225,9 +3243,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 2,
+          "attacks": 1,
+          "destructionPercentage": 6.133333333333334
         }
       },
       {
@@ -3252,9 +3270,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
           },
-          "stars": 4,
-          "attacks": 3,
-          "destructionPercentage": 16.466666666666665
+          "stars": 7,
+          "attacks": 4,
+          "destructionPercentage": 23.133333333333333
         }
       }
     ],
