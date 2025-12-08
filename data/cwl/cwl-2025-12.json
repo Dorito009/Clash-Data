@@ -2900,7 +2900,15 @@
             "name": "Ata",
             "townhallLevel": 15,
             "mapPosition": 12,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YRP99RVQR",
+              "defenderTag": "#8RU8GP9YV",
+              "stars": 2,
+              "destructionPercentage": 76,
+              "order": 4,
+              "duration": 100
+            }
           },
           {
             "tag": "#80G9JY980",
@@ -2970,9 +2978,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 3,
-        "stars": 3,
-        "destructionPercentage": 6.266666666666667,
+        "attacks": 4,
+        "stars": 5,
+        "destructionPercentage": 11.333333333333334,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3072,6 +3080,16 @@
             "name": "ThomasOnCarry",
             "townhallLevel": 14,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#YRP99RVQR",
+                "defenderTag": "#8RU8GP9YV",
+                "stars": 2,
+                "destructionPercentage": 76,
+                "order": 4,
+                "duration": 100
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3936,9 +3954,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 4,
+          "attacks": 2,
+          "destructionPercentage": 10.466666666666667
         }
       },
       {
@@ -3963,9 +3981,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 3,
-          "attacks": 3,
-          "destructionPercentage": 6.266666666666667
+          "stars": 5,
+          "attacks": 4,
+          "destructionPercentage": 11.333333333333334
         }
       },
       {
@@ -3978,9 +3996,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
           },
-          "stars": 9,
-          "attacks": 3,
-          "destructionPercentage": 20.0
+          "stars": 11,
+          "attacks": 4,
+          "destructionPercentage": 25.6
         },
         "clan2": {
           "tag": "#PVPGVPRP",
