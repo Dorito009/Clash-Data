@@ -2957,7 +2957,15 @@
             "name": "Naser.",
             "townhallLevel": 18,
             "mapPosition": 4,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#YCQ98GC88",
+              "defenderTag": "#200VRCUPP",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 9,
+              "duration": 168
+            }
           },
           {
             "tag": "#QQ8PG9RP2",
@@ -3016,9 +3024,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 5,
-        "stars": 8,
-        "destructionPercentage": 18.0,
+        "attacks": 6,
+        "stars": 11,
+        "destructionPercentage": 24.666666666666668,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3182,6 +3190,16 @@
             "name": "Peter Pannekoek",
             "townhallLevel": 18,
             "mapPosition": 1,
+            "attacks": [
+              {
+                "attackerTag": "#YCQ98GC88",
+                "defenderTag": "#200VRCUPP",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 9,
+                "duration": 168
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4026,9 +4044,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
           },
-          "stars": 7,
-          "attacks": 3,
-          "destructionPercentage": 17.133333333333333
+          "stars": 8,
+          "attacks": 4,
+          "destructionPercentage": 23.6
         }
       },
       {
@@ -4053,9 +4071,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 8,
-          "attacks": 5,
-          "destructionPercentage": 18.0
+          "stars": 11,
+          "attacks": 6,
+          "destructionPercentage": 24.666666666666668
         }
       },
       {
