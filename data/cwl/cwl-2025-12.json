@@ -3492,7 +3492,15 @@
                 "duration": 70
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GCU0YU0UC",
+              "defenderTag": "#YRP99RVQR",
+              "stars": 1,
+              "destructionPercentage": 35,
+              "order": 21,
+              "duration": 117
+            }
           },
           {
             "tag": "#Y90L0809",
@@ -3600,9 +3608,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
         },
         "clanLevel": 5,
-        "attacks": 14,
-        "stars": 31,
-        "destructionPercentage": 77.2,
+        "attacks": 15,
+        "stars": 32,
+        "destructionPercentage": 79.53333333333333,
         "members": [
           {
             "tag": "#GYU0LGQ0P",
@@ -3693,6 +3701,16 @@
             "name": "Bao the boomer",
             "townhallLevel": 11,
             "mapPosition": 14,
+            "attacks": [
+              {
+                "attackerTag": "#GCU0YU0UC",
+                "defenderTag": "#YRP99RVQR",
+                "stars": 1,
+                "destructionPercentage": 35,
+                "order": 21,
+                "duration": 117
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#Q9P2J02U",
@@ -4667,9 +4685,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
           },
-          "stars": 31,
-          "attacks": 14,
-          "destructionPercentage": 77.2
+          "stars": 32,
+          "attacks": 15,
+          "destructionPercentage": 79.53333333333333
         }
       }
     ]
