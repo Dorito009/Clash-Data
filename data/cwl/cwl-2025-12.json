@@ -3317,14 +3317,30 @@
             "name": "J-rone",
             "townhallLevel": 17,
             "mapPosition": 2,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#LPLVYCRP2",
+              "defenderTag": "#88JUGLUL",
+              "stars": 2,
+              "destructionPercentage": 84,
+              "order": 13,
+              "duration": 91
+            }
           },
           {
             "tag": "#LYUPQU8G2",
             "name": "thewarrior",
             "townhallLevel": 14,
             "mapPosition": 7,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#L20JVU929",
+              "defenderTag": "#LYUPQU8G2",
+              "stars": 2,
+              "destructionPercentage": 94,
+              "order": 16,
+              "duration": 180
+            }
           },
           {
             "tag": "#CV0GGCCU",
@@ -3346,7 +3362,15 @@
             "name": "de man",
             "townhallLevel": 14,
             "mapPosition": 11,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#L2PPUQVQJ",
+              "defenderTag": "#892JR20YY",
+              "stars": 2,
+              "destructionPercentage": 73,
+              "order": 15,
+              "duration": 89
+            }
           },
           {
             "tag": "#GRCPPYRJU",
@@ -3460,14 +3484,30 @@
             "name": "kau",
             "townhallLevel": 14,
             "mapPosition": 10,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#89UYQ8U9U",
+              "defenderTag": "#QQVYG0VC9",
+              "stars": 1,
+              "destructionPercentage": 49,
+              "order": 14,
+              "duration": 84
+            }
           },
           {
             "tag": "#P8Y8VC9PV",
             "name": "sofie",
             "townhallLevel": 13,
             "mapPosition": 14,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#G9RCLQGLR",
+              "defenderTag": "#P8Y8VC9PV",
+              "stars": 1,
+              "destructionPercentage": 81,
+              "order": 17,
+              "duration": 113
+            }
           },
           {
             "tag": "#YCQ98GC88",
@@ -3530,9 +3570,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
         },
         "clanLevel": 5,
-        "attacks": 9,
-        "stars": 23,
-        "destructionPercentage": 51.8,
+        "attacks": 14,
+        "stars": 31,
+        "destructionPercentage": 77.2,
         "members": [
           {
             "tag": "#GYU0LGQ0P",
@@ -3556,6 +3596,16 @@
             "name": "7771",
             "townhallLevel": 15,
             "mapPosition": 7,
+            "attacks": [
+              {
+                "attackerTag": "#L20JVU929",
+                "defenderTag": "#LYUPQU8G2",
+                "stars": 2,
+                "destructionPercentage": 94,
+                "order": 16,
+                "duration": 180
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3612,6 +3662,16 @@
             "name": "Roy",
             "townhallLevel": 14,
             "mapPosition": 10,
+            "attacks": [
+              {
+                "attackerTag": "#89UYQ8U9U",
+                "defenderTag": "#QQVYG0VC9",
+                "stars": 1,
+                "destructionPercentage": 49,
+                "order": 14,
+                "duration": 84
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3644,6 +3704,16 @@
             "name": "\u9f99\u4e4b\u8c37",
             "townhallLevel": 13,
             "mapPosition": 11,
+            "attacks": [
+              {
+                "attackerTag": "#L2PPUQVQJ",
+                "defenderTag": "#892JR20YY",
+                "stars": 2,
+                "destructionPercentage": 73,
+                "order": 15,
+                "duration": 89
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#UVPQ9Y8U",
@@ -3676,6 +3746,16 @@
             "name": "AuroraMax",
             "townhallLevel": 17,
             "mapPosition": 2,
+            "attacks": [
+              {
+                "attackerTag": "#LPLVYCRP2",
+                "defenderTag": "#88JUGLUL",
+                "stars": 2,
+                "destructionPercentage": 84,
+                "order": 13,
+                "duration": 91
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3717,6 +3797,16 @@
             "name": "mak gor",
             "townhallLevel": 13,
             "mapPosition": 12,
+            "attacks": [
+              {
+                "attackerTag": "#G9RCLQGLR",
+                "defenderTag": "#P8Y8VC9PV",
+                "stars": 1,
+                "destructionPercentage": 81,
+                "order": 17,
+                "duration": 113
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4469,9 +4559,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
           },
-          "stars": 6,
-          "attacks": 2,
-          "destructionPercentage": 13.333333333333334
+          "stars": 9,
+          "attacks": 3,
+          "destructionPercentage": 20.0
         }
       },
       {
@@ -4523,9 +4613,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
           },
-          "stars": 23,
-          "attacks": 9,
-          "destructionPercentage": 51.8
+          "stars": 31,
+          "attacks": 14,
+          "destructionPercentage": 77.2
         }
       }
     ]
