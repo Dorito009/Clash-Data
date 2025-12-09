@@ -3308,9 +3308,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 4,
-        "stars": 11,
-        "destructionPercentage": 23.4,
+        "attacks": 6,
+        "stars": 16,
+        "destructionPercentage": 34.6,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3347,6 +3347,16 @@
             "name": "Falcon_Fury",
             "townhallLevel": 15,
             "mapPosition": 6,
+            "attacks": [
+              {
+                "attackerTag": "#CV0GGCCU",
+                "defenderTag": "#Q8P9GY0L2",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 20,
+                "duration": 94
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#YU2RLYG22",
@@ -3392,6 +3402,16 @@
             "name": "Rinaldo",
             "townhallLevel": 14,
             "mapPosition": 8,
+            "attacks": [
+              {
+                "attackerTag": "#2RG2JRVUP",
+                "defenderTag": "#GYU0LGQ0P",
+                "stars": 2,
+                "destructionPercentage": 68,
+                "order": 19,
+                "duration": 84
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#GYU0LGQ0P",
@@ -3599,7 +3619,15 @@
                 "duration": 168
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#2RG2JRVUP",
+              "defenderTag": "#GYU0LGQ0P",
+              "stars": 2,
+              "destructionPercentage": 68,
+              "order": 19,
+              "duration": 84
+            }
           },
           {
             "tag": "#L20JVU929",
@@ -3633,7 +3661,15 @@
                 "duration": 59
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#CV0GGCCU",
+              "defenderTag": "#Q8P9GY0L2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 20,
+              "duration": 94
+            }
           },
           {
             "tag": "#GU89G0Q8R",
@@ -4538,9 +4574,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png"
           },
-          "stars": 4,
-          "attacks": 2,
-          "destructionPercentage": 8.866666666666667
+          "stars": 7,
+          "attacks": 3,
+          "destructionPercentage": 15.533333333333333
         },
         "clan2": {
           "tag": "#GVLV9GR8",
@@ -4619,9 +4655,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 11,
-          "attacks": 4,
-          "destructionPercentage": 23.4
+          "stars": 16,
+          "attacks": 6,
+          "destructionPercentage": 34.6
         },
         "clan2": {
           "tag": "#2RLGQY2J8",
