@@ -3345,7 +3345,15 @@
             "name": "geertje",
             "townhallLevel": 12,
             "mapPosition": 15,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QLYCJ9UQP",
+              "defenderTag": "#GRCPPYRJU",
+              "stars": 2,
+              "destructionPercentage": 84,
+              "order": 1,
+              "duration": 115
+            }
           },
           {
             "tag": "#2RG2JRVUP",
@@ -3428,9 +3436,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
         },
         "clanLevel": 5,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 2,
+        "destructionPercentage": 5.6,
         "members": [
           {
             "tag": "#GYU0LGQ0P",
@@ -3507,6 +3515,16 @@
             "name": "Pro Sot",
             "townhallLevel": 11,
             "mapPosition": 13,
+            "attacks": [
+              {
+                "attackerTag": "#QLYCJ9UQP",
+                "defenderTag": "#GRCPPYRJU",
+                "stars": 2,
+                "destructionPercentage": 84,
+                "order": 1,
+                "duration": 115
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4226,9 +4244,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png"
           },
-          "stars": 1,
-          "attacks": 1,
-          "destructionPercentage": 4.666666666666667
+          "stars": 4,
+          "attacks": 2,
+          "destructionPercentage": 11.333333333333334
         }
       },
       {
@@ -4241,9 +4259,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
           },
-          "stars": 3,
-          "attacks": 3,
-          "destructionPercentage": 12.466666666666667
+          "stars": 9,
+          "attacks": 6,
+          "destructionPercentage": 23.8
         },
         "clan2": {
           "tag": "#PRYJJPU8",
@@ -4307,9 +4325,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 2,
+          "attacks": 1,
+          "destructionPercentage": 5.6
         }
       }
     ]
