@@ -3393,7 +3393,15 @@
                 "duration": 103
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#GU89G0Q8R",
+              "defenderTag": "#Q9P2J02U",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 9,
+              "duration": 66
+            }
           },
           {
             "tag": "#2QQL89LVP",
@@ -3475,7 +3483,15 @@
                 "duration": 80
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q29QVYU9U",
+              "defenderTag": "#UVPQ9Y8U",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
+              "duration": 139
+            }
           }
         ]
       },
@@ -3488,9 +3504,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
         },
         "clanLevel": 5,
-        "attacks": 5,
-        "stars": 13,
-        "destructionPercentage": 29.333333333333332,
+        "attacks": 7,
+        "stars": 19,
+        "destructionPercentage": 42.666666666666664,
         "members": [
           {
             "tag": "#GYU0LGQ0P",
@@ -3528,6 +3544,16 @@
             "name": "arthur",
             "townhallLevel": 16,
             "mapPosition": 9,
+            "attacks": [
+              {
+                "attackerTag": "#GU89G0Q8R",
+                "defenderTag": "#Q9P2J02U",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 9,
+                "duration": 66
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3589,6 +3615,16 @@
             "name": "sharpshooter",
             "townhallLevel": 17,
             "mapPosition": 4,
+            "attacks": [
+              {
+                "attackerTag": "#Q29QVYU9U",
+                "defenderTag": "#UVPQ9Y8U",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 8,
+                "duration": 139
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4379,9 +4415,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 1,
+          "destructionPercentage": 6.666666666666667
         }
       },
       {
@@ -4394,9 +4430,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
           },
-          "stars": 9,
-          "attacks": 3,
-          "destructionPercentage": 20.0
+          "stars": 12,
+          "attacks": 4,
+          "destructionPercentage": 26.666666666666668
         },
         "clan2": {
           "tag": "#PVPGVPRP",
@@ -4406,9 +4442,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png"
           },
-          "stars": 2,
-          "attacks": 2,
-          "destructionPercentage": 4.866666666666666
+          "stars": 4,
+          "attacks": 3,
+          "destructionPercentage": 10.666666666666666
         }
       },
       {
@@ -4433,9 +4469,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
           },
-          "stars": 13,
-          "attacks": 5,
-          "destructionPercentage": 29.333333333333332
+          "stars": 19,
+          "attacks": 7,
+          "destructionPercentage": 42.666666666666664
         }
       }
     ]
