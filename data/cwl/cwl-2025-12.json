@@ -3408,7 +3408,15 @@
             "name": "julius damen",
             "townhallLevel": 14,
             "mapPosition": 13,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#Q8P9GY0L2",
+              "defenderTag": "#2QQL89LVP",
+              "stars": 1,
+              "destructionPercentage": 37,
+              "order": 12,
+              "duration": 59
+            }
           },
           {
             "tag": "#JCGVYY8U",
@@ -3437,7 +3445,15 @@
             "name": "Noahzwolle",
             "townhallLevel": 16,
             "mapPosition": 3,
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#QVPYLGJJJ",
+              "defenderTag": "#Y90L0809",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 11,
+              "duration": 86
+            }
           },
           {
             "tag": "#QQVYG0VC9",
@@ -3514,9 +3530,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
         },
         "clanLevel": 5,
-        "attacks": 7,
-        "stars": 19,
-        "destructionPercentage": 42.666666666666664,
+        "attacks": 9,
+        "stars": 23,
+        "destructionPercentage": 51.8,
         "members": [
           {
             "tag": "#GYU0LGQ0P",
@@ -3547,6 +3563,16 @@
             "name": "notorioushan",
             "townhallLevel": 11,
             "mapPosition": 15,
+            "attacks": [
+              {
+                "attackerTag": "#Q8P9GY0L2",
+                "defenderTag": "#2QQL89LVP",
+                "stars": 1,
+                "destructionPercentage": 37,
+                "order": 12,
+                "duration": 59
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -3674,6 +3700,16 @@
             "name": "LekGor",
             "townhallLevel": 17,
             "mapPosition": 3,
+            "attacks": [
+              {
+                "attackerTag": "#QVPYLGJJJ",
+                "defenderTag": "#Y90L0809",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 11,
+                "duration": 86
+              }
+            ],
             "opponentAttacks": 0
           },
           {
@@ -4433,9 +4469,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
           },
-          "stars": 3,
-          "attacks": 1,
-          "destructionPercentage": 6.666666666666667
+          "stars": 6,
+          "attacks": 2,
+          "destructionPercentage": 13.333333333333334
         }
       },
       {
@@ -4487,9 +4523,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
           },
-          "stars": 19,
-          "attacks": 7,
-          "destructionPercentage": 42.666666666666664
+          "stars": 23,
+          "attacks": 9,
+          "destructionPercentage": 51.8
         }
       }
     ]
