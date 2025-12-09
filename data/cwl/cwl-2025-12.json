@@ -3294,7 +3294,7 @@
       "warStartTime": "20251208T040456.000Z"
     },
     {
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "preparationStartTime": "20251208T044250.000Z",
       "startTime": "20251209T044247.000Z",
@@ -4226,9 +4226,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/hMjJFL464_ayxv6JwWJzxIJnAgA6tiRL-lmoO-C1lC4.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 1,
+          "attacks": 1,
+          "destructionPercentage": 4.666666666666667
         }
       },
       {
@@ -4241,9 +4241,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/Fi3A42JerKSYpFdiYV-JBGxQw5A2o4vsT5fidTREyhg.png"
           },
-          "stars": 0,
-          "attacks": 0,
-          "destructionPercentage": 0.0
+          "stars": 3,
+          "attacks": 3,
+          "destructionPercentage": 12.466666666666667
         },
         "clan2": {
           "tag": "#PRYJJPU8",
