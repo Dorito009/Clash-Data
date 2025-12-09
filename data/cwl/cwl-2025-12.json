@@ -2834,9 +2834,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
         },
         "clanLevel": 27,
-        "attacks": 4,
-        "stars": 12,
-        "destructionPercentage": 26.666666666666668,
+        "attacks": 5,
+        "stars": 15,
+        "destructionPercentage": 33.333333333333336,
         "members": [
           {
             "tag": "#2YY8JJ9G0",
@@ -3029,6 +3029,16 @@
             "name": "teknesiyan",
             "townhallLevel": 17,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#89QUJ2P8U",
+                "defenderTag": "#GRCPPYRJU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 12,
+                "duration": 61
+              }
+            ],
             "opponentAttacks": 0
           }
         ]
@@ -3107,7 +3117,15 @@
                 "duration": 149
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#89QUJ2P8U",
+              "defenderTag": "#GRCPPYRJU",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 12,
+              "duration": 61
+            }
           },
           {
             "tag": "#2RG2JRVUP",
@@ -4068,9 +4086,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/OKZyxk_xLtiphb9-N1OSRxg817FdrZHcxILP29TpFNg.png"
           },
-          "stars": 1,
-          "attacks": 2,
-          "destructionPercentage": 8.266666666666667
+          "stars": 4,
+          "attacks": 3,
+          "destructionPercentage": 14.933333333333334
         },
         "clan2": {
           "tag": "#20JUPVQ8L",
@@ -4095,9 +4113,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
           },
-          "stars": 12,
-          "attacks": 4,
-          "destructionPercentage": 26.666666666666668
+          "stars": 15,
+          "attacks": 5,
+          "destructionPercentage": 33.333333333333336
         },
         "clan2": {
           "tag": "#2QGYR0GU2",
