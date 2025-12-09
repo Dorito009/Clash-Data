@@ -3308,9 +3308,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
         },
         "clanLevel": 15,
-        "attacks": 6,
-        "stars": 16,
-        "destructionPercentage": 34.6,
+        "attacks": 7,
+        "stars": 19,
+        "destructionPercentage": 41.266666666666666,
         "members": [
           {
             "tag": "#88JUGLUL",
@@ -3467,6 +3467,16 @@
             "name": "de skelet boys",
             "townhallLevel": 15,
             "mapPosition": 5,
+            "attacks": [
+              {
+                "attackerTag": "#JCGVYY8U",
+                "defenderTag": "#L20JVU929",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 22,
+                "duration": 147
+              }
+            ],
             "opponentAttacks": 1,
             "bestOpponentAttack": {
               "attackerTag": "#QVUR9UJR0",
@@ -3652,7 +3662,15 @@
                 "duration": 180
               }
             ],
-            "opponentAttacks": 0
+            "opponentAttacks": 1,
+            "bestOpponentAttack": {
+              "attackerTag": "#JCGVYY8U",
+              "defenderTag": "#L20JVU929",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 22,
+              "duration": 147
+            }
           },
           {
             "tag": "#Q8P9GY0L2",
@@ -4631,9 +4649,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/udU1Nek9J4_G-Lk9ZH4wtI0ayGdALapjXYUfr8CWbZ4.png"
           },
-          "stars": 15,
-          "attacks": 5,
-          "destructionPercentage": 33.333333333333336
+          "stars": 18,
+          "attacks": 6,
+          "destructionPercentage": 40.0
         }
       },
       {
@@ -4658,9 +4676,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/gvNjBx6A8OyrWe3FtyUSSUvsU1PkqWkSm5usNpkeQc8.png"
           },
-          "stars": 15,
-          "attacks": 7,
-          "destructionPercentage": 35.53333333333333
+          "stars": 18,
+          "attacks": 8,
+          "destructionPercentage": 42.2
         }
       },
       {
@@ -4673,9 +4691,9 @@
             "large": "https://api-assets.clashofclans.com/badges/512/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png",
             "medium": "https://api-assets.clashofclans.com/badges/200/EBmEE67BnuMlLhzU8-GxqXmXbwoG3KS9dl-hY63CM1U.png"
           },
-          "stars": 16,
-          "attacks": 6,
-          "destructionPercentage": 34.6
+          "stars": 19,
+          "attacks": 7,
+          "destructionPercentage": 41.266666666666666
         },
         "clan2": {
           "tag": "#2RLGQY2J8",
