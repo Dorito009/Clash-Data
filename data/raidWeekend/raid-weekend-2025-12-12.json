@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251212T070000.000Z",
   "endTime": "20251215T070000.000Z",
-  "capitalTotalLoot": 38930,
+  "capitalTotalLoot": 68260,
   "raidsCompleted": 0,
-  "totalAttacks": 12,
-  "enemyDistrictsDestroyed": 2,
+  "totalAttacks": 18,
+  "enemyDistrictsDestroyed": 5,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 18685
+    },
+    {
+      "tag": "#20RG8YP82",
+      "name": "svennoss",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 29330
     }
   ],
   "attackLog": [],
