@@ -3,7 +3,7 @@
   "startTime": "20251212T070000.000Z",
   "endTime": "20251215T070000.000Z",
   "capitalTotalLoot": 162284,
-  "raidsCompleted": 1,
+  "raidsCompleted": 2,
   "totalAttacks": 46,
   "enemyDistrictsDestroyed": 15,
   "offensiveReward": 0,
@@ -428,18 +428,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/DHj6KkFfIw27LgA7UvNG-Y-un-XheHelcwWnmNTkTeA.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13279,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GRCQR9LGG",
+                "name": "\u2713SUNG\u3006JINWOO\ubaa8"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GRCQR9LGG",
+                "name": "\u2713SUNG\u3006JINWOO\ubaa8"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GRCQR9LGG",
+                "name": "\u2713SUNG\u3006JINWOO\ubaa8"
+              },
+              "destructionPercent": 65,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GRCQR9LGG",
+                "name": "\u2713SUNG\u3006JINWOO\ubaa8"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -542,11 +576,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 76,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7515,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10088,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GRCQR9LGG",
+                "name": "\u2713SUNG\u3006JINWOO\ubaa8"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GJC898LJ0",
@@ -639,11 +681,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 95,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9690,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11008,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GRCQR9LGG",
+                "name": "\u2713SUNG\u3006JINWOO\ubaa8"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GJC898LJ0",
