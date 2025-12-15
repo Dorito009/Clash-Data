@@ -1040,6 +1040,306 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#290UGP29Y",
+        "name": "PREMIUM \u2708\ufe0f",
+        "level": 26,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/J1g3x9n-0ANLVwXoCI68mMco1dpwV-BUWafSSM0tfOw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/J1g3x9n-0ANLVwXoCI68mMco1dpwV-BUWafSSM0tfOw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/J1g3x9n-0ANLVwXoCI68mMco1dpwV-BUWafSSM0tfOw.png"
+        }
+      },
+      "attackCount": 23,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13582,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VYR0JL8",
+                "name": "Itz@lex"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8VYR0JL8",
+                "name": "Itz@lex"
+              },
+              "destructionPercent": 84,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8VYR0JL8",
+                "name": "Itz@lex"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8VYR0JL8",
+                "name": "Itz@lex"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10929,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#28LUC0LJ",
+                "name": "Psycho"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#28LUC0LJ",
+                "name": "Psycho"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#28LUC0LJ",
+                "name": "Psycho"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9233,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VYR0JL8",
+                "name": "Itz@lex"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PU08GLJG",
+                "name": "OPTIMUS LUCA :P"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10061,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#U22YP9QU",
+                "name": "BeThree"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#U22YP9QU",
+                "name": "BeThree"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10592,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#28LUC0LJ",
+                "name": "Psycho"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#28LUC0LJ",
+                "name": "Psycho"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#28LUC0LJ",
+                "name": "Psycho"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9617,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R9VJ8",
+                "name": "DarkPlayer"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2R9VJ8",
+                "name": "DarkPlayer"
+              },
+              "destructionPercent": 74,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9892,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R9VJ8",
+                "name": "DarkPlayer"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2R9VJ8",
+                "name": "DarkPlayer"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10981,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RRJQLLP8",
+                "name": "Maverik"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#RRJQLLP8",
+                "name": "Maverik"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#RRJQLLP8",
+                "name": "Maverik"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10438,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R9VJ8",
+                "name": "DarkPlayer"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2R9VJ8",
+                "name": "DarkPlayer"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        }
+      ]
     }
   ]
 }
