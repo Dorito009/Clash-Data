@@ -2,13 +2,22 @@
   "state": "ongoing",
   "startTime": "20251219T070000.000Z",
   "endTime": "20251222T070000.000Z",
-  "capitalTotalLoot": 0,
+  "capitalTotalLoot": 18083,
   "raidsCompleted": 0,
-  "totalAttacks": 0,
-  "enemyDistrictsDestroyed": 0,
+  "totalAttacks": 5,
+  "enemyDistrictsDestroyed": 1,
   "offensiveReward": 0,
   "defensiveReward": 0,
-  "members": [],
+  "members": [
+    {
+      "tag": "#Q9P2J02U",
+      "name": "Langpootmug2304",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18083
+    }
+  ],
   "attackLog": [],
   "defenseLog": []
 }
