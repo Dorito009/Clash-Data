@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251219T070000.000Z",
   "endTime": "20251222T070000.000Z",
-  "capitalTotalLoot": 59092,
+  "capitalTotalLoot": 73987,
   "raidsCompleted": 1,
-  "totalAttacks": 18,
-  "enemyDistrictsDestroyed": 4,
+  "totalAttacks": 24,
+  "enemyDistrictsDestroyed": 6,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -32,6 +32,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21088
+    },
+    {
+      "tag": "#9CCVPU9RU",
+      "name": "Bassie",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14895
     }
   ],
   "attackLog": [],
