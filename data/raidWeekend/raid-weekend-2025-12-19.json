@@ -43,5 +43,306 @@
     }
   ],
   "attackLog": [],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#229Q82GVP",
+        "name": "HALILINTAR",
+        "level": 26,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/SbxSpXu-SADcb87huGGqVHzvD-JkXa9_bg2ShIhtPUQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/SbxSpXu-SADcb87huGGqVHzvD-JkXa9_bg2ShIhtPUQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/SbxSpXu-SADcb87huGGqVHzvD-JkXa9_bg2ShIhtPUQ.png"
+        }
+      },
+      "attackCount": 23,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13609,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#29CQ8V2JR",
+                "name": "Miftakhul Khusn"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LY90UVY8C",
+                "name": "TheTIGER"
+              },
+              "destructionPercent": 99,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LY90UVY8C",
+                "name": "TheTIGER"
+              },
+              "destructionPercent": 79,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LY90UVY8C",
+                "name": "TheTIGER"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LY90UVY8C",
+                "name": "TheTIGER"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11055,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#92VUC8QC2",
+                "name": "OBITO \u3046\u3061\u306f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q22V2LPCV",
+                "name": "Alvin"
+              },
+              "destructionPercent": 87,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q22V2LPCV",
+                "name": "Alvin"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9188,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q22V2LPCV",
+                "name": "Alvin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q22V2LPCV",
+                "name": "Alvin"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10505,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#92VUC8QC2",
+                "name": "OBITO \u3046\u3061\u306f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q22V2LPCV",
+                "name": "Alvin"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q22V2LPCV",
+                "name": "Alvin"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10142,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPV88LCGL",
+                "name": "Bob_zaza"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GPV88LCGL",
+                "name": "Bob_zaza"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9251,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LY90UVY8C",
+                "name": "TheTIGER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LY90UVY8C",
+                "name": "TheTIGER"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10009,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0GGQ0QRU",
+                "name": "OzZi Shaputra"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G0GGQ0QRU",
+                "name": "OzZi Shaputra"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10435,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPV88LCGL",
+                "name": "Bob_zaza"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GPV88LCGL",
+                "name": "Bob_zaza"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10303,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPV88LCGL",
+                "name": "Bob_zaza"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GPV88LCGL",
+                "name": "Bob_zaza"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
