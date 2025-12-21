@@ -351,6 +351,322 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#28J29R08L",
+        "name": "SquareEnix",
+        "level": 25,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/W5gMwit06pN0wrNs23i31BH8uZ55sUoBZG8EL6oSpZA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/W5gMwit06pN0wrNs23i31BH8uZ55sUoBZG8EL6oSpZA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/W5gMwit06pN0wrNs23i31BH8uZ55sUoBZG8EL6oSpZA.png"
+        }
+      },
+      "attackCount": 25,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13396,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YV8VCJ9JL",
+                "name": "ole-son!!"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YV8VCJ9JL",
+                "name": "ole-son!!"
+              },
+              "destructionPercent": 96,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YV8VCJ9JL",
+                "name": "ole-son!!"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GLQQJVRG9",
+                "name": "GC\u4e97ADI\u03df"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#GLQQJVRG9",
+                "name": "GC\u4e97ADI\u03df"
+              },
+              "destructionPercent": 21,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10515,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLQQJVRG9",
+                "name": "GC\u4e97ADI\u03df"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLQQJVRG9",
+                "name": "GC\u4e97ADI\u03df"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9698,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLQQJVRG9",
+                "name": "GC\u4e97ADI\u03df"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#22CGJRCJL",
+                "name": "raider"
+              },
+              "destructionPercent": 89,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#22CGJRCJL",
+                "name": "raider"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10265,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GG29Y8GQV",
+                "name": "Dumi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GG29Y8GQV",
+                "name": "Dumi"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GG29Y8GQV",
+                "name": "Dumi"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10379,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q8L0VUU0C",
+                "name": "(=^/)"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q8L0VUU0C",
+                "name": "(=^/)"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YUPUCCJRR",
+                "name": "\u00a5Badsha\u00a5"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9080,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#22CGJRCJL",
+                "name": "raider"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#22CGJRCJL",
+                "name": "raider"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9950,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#22CGJRCJL",
+                "name": "raider"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#22CGJRCJL",
+                "name": "raider"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10756,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q8L0VUU0C",
+                "name": "(=^/)"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GG29Y8GQV",
+                "name": "Dumi"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GG29Y8GQV",
+                "name": "Dumi"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10510,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLQQJVRG9",
+                "name": "GC\u4e97ADI\u03df"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GG29Y8GQV",
+                "name": "Dumi"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        }
+      ]
     }
   ]
 }
