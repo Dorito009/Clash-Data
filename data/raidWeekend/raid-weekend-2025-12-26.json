@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251226T070000.000Z",
   "endTime": "20251229T070000.000Z",
-  "capitalTotalLoot": 62872,
+  "capitalTotalLoot": 83181,
   "raidsCompleted": 0,
-  "totalAttacks": 19,
-  "enemyDistrictsDestroyed": 6,
+  "totalAttacks": 24,
+  "enemyDistrictsDestroyed": 8,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15821
+    },
+    {
+      "tag": "#JCGVYY8U",
+      "name": "de skelet boys",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20309
     }
   ],
   "attackLog": [],
