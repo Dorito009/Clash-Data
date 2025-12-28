@@ -343,6 +343,314 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#9Q08VG90",
+        "name": "Champion EMPIRE",
+        "level": 27,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Nsyyo721B2vwkKu42J9cZro5dfoZgbBseA-vIdn2kLA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Nsyyo721B2vwkKu42J9cZro5dfoZgbBseA-vIdn2kLA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Nsyyo721B2vwkKu42J9cZro5dfoZgbBseA-vIdn2kLA.png"
+        }
+      },
+      "attackCount": 24,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13210,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G22JYCYCR",
+                "name": "v_enom17"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G22JYCYCR",
+                "name": "v_enom17"
+              },
+              "destructionPercent": 85,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QP8LY2P98",
+                "name": "AVAZBEK"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#QP8LY2P98",
+                "name": "AVAZBEK"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11046,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCU0LY208",
+                "name": "VLADYKA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LCU0LY208",
+                "name": "VLADYKA"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LCU0LY208",
+                "name": "VLADYKA"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9167,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLPRQ2RQ0",
+                "name": "Naruto Uzumaki"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QLPRQ2RQ0",
+                "name": "Naruto Uzumaki"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10121,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLPRQ2RQ0",
+                "name": "Naruto Uzumaki"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QLPRQ2RQ0",
+                "name": "Naruto Uzumaki"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10259,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VVYULUU2",
+                "name": "max"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2VVYULUU2",
+                "name": "max"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2VVYULUU2",
+                "name": "max"
+              },
+              "destructionPercent": 29,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9278,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QP8LY2P98",
+                "name": "AVAZBEK"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QP8LY2P98",
+                "name": "AVAZBEK"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QP8LY2P98",
+                "name": "AVAZBEK"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9953,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLPRQ2RQ0",
+                "name": "Naruto Uzumaki"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QP90PGJC9",
+                "name": "\u043f\u043e\u0442"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10909,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VVYULUU2",
+                "name": "max"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2VVYULUU2",
+                "name": "max"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2VVYULUU2",
+                "name": "max"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10336,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QP8LY2P98",
+                "name": "AVAZBEK"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y9RYPCY2C",
+                "name": "a664ka"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
+        }
+      ]
     }
   ]
 }
