@@ -27,5 +27,298 @@
     }
   ],
   "attackLog": [],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#Y9VV9C8U",
+        "name": "BROOKLYN 027",
+        "level": 23,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/1tFkMpUEIQ9cC6qLqV9cXsQMfqkpOEZ0lq90Ko2UfVo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/1tFkMpUEIQ9cC6qLqV9cXsQMfqkpOEZ0lq90Ko2UfVo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/1tFkMpUEIQ9cC6qLqV9cXsQMfqkpOEZ0lq90Ko2UfVo.png"
+        }
+      },
+      "attackCount": 22,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13675,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJP2RRGPR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJP2RRGPR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 92,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GJP2RRGPR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GJP2RRGPR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10380,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G800QLVYR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G800QLVYR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9029,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G800QLVYR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G800QLVYR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9755,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G800QLVYR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G800QLVYR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10349,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQJVY092Y",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQJVY092Y",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GQJVY092Y",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9173,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQJVY092Y",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQJVY092Y",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10184,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJP2RRGPR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJP2RRGPR",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GQJVY092Y",
+                "name": "LiberateMankind"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10342,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8P9VJP9Y8",
+                "name": "\u2022Hooligans\u2022"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8P9VJP9Y8",
+                "name": "\u2022Hooligans\u2022"
+              },
+              "destructionPercent": 31,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10195,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8P9VJP9Y8",
+                "name": "\u2022Hooligans\u2022"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8P9VJP9Y8",
+                "name": "\u2022Hooligans\u2022"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
