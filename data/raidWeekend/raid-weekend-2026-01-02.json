@@ -3,7 +3,7 @@
   "startTime": "20260102T070000.000Z",
   "endTime": "20260105T070000.000Z",
   "capitalTotalLoot": 49158,
-  "raidsCompleted": 1,
+  "raidsCompleted": 2,
   "totalAttacks": 16,
   "enemyDistrictsDestroyed": 3,
   "offensiveReward": 0,
@@ -339,18 +339,44 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/9H2ycX0FfIjMiYqISb8ENkJIltDB95QsrFhAMUvcE64.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13237,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2CVCPP0V0",
+                "name": "Vadya\u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2CVCPP0V0",
+                "name": "Vadya\u2122"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2CVCPP0V0",
+                "name": "Vadya\u2122"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
