@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20260130T070000.000Z",
   "endTime": "20260202T070000.000Z",
-  "capitalTotalLoot": 34488,
+  "capitalTotalLoot": 60645,
   "raidsCompleted": 0,
-  "totalAttacks": 12,
-  "enemyDistrictsDestroyed": 3,
+  "totalAttacks": 19,
+  "enemyDistrictsDestroyed": 5,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -24,6 +24,22 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 16849
+    },
+    {
+      "tag": "#G2PYG0UCY",
+      "name": "patty brard",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23337
+    },
+    {
+      "tag": "#LLCPV9JGC",
+      "name": "Thijn",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 2820
     }
   ],
   "attackLog": [],
