@@ -3,7 +3,7 @@
   "startTime": "20260130T070000.000Z",
   "endTime": "20260202T070000.000Z",
   "capitalTotalLoot": 76056,
-  "raidsCompleted": 1,
+  "raidsCompleted": 2,
   "totalAttacks": 25,
   "enemyDistrictsDestroyed": 6,
   "offensiveReward": 0,
@@ -51,5 +51,306 @@
     }
   ],
   "attackLog": [],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#P8JGCQ0L",
+        "name": "Club Med Paris",
+        "level": 32,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2guiUlcpiLuzzs-eJY6ECbj23V7TOxbcDVP8msAIOb4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2guiUlcpiLuzzs-eJY6ECbj23V7TOxbcDVP8msAIOb4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2guiUlcpiLuzzs-eJY6ECbj23V7TOxbcDVP8msAIOb4.png"
+        }
+      },
+      "attackCount": 23,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13614,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#22QULJY2C",
+                "name": "newsodo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#22QULJY2C",
+                "name": "newsodo"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#22QULJY2C",
+                "name": "newsodo"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#22QULJY2C",
+                "name": "newsodo"
+              },
+              "destructionPercent": 16,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11119,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2PVU9RUQQ",
+                "name": "\u2728mikmik\u2728"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2PVU9RUQQ",
+                "name": "\u2728mikmik\u2728"
+              },
+              "destructionPercent": 95,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2PVU9RUQQ",
+                "name": "\u2728mikmik\u2728"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9119,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2Q0C20LC",
+                "name": "Hydra"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2Q0C20LC",
+                "name": "Hydra"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10032,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2Q0C20LC",
+                "name": "Hydra"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2Q0C20LC",
+                "name": "Hydra"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10514,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2PVU9RUQQ",
+                "name": "\u2728mikmik\u2728"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2Y0J2CL9C",
+                "name": "Frakax"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2Y0J2CL9C",
+                "name": "Frakax"
+              },
+              "destructionPercent": 32,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9462,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#20VGYGURG",
+                "name": "newpseudo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#20VGYGURG",
+                "name": "newpseudo"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9926,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2Q0C20LC",
+                "name": "Hydra"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2Q0C20LC",
+                "name": "Hydra"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11041,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2PVU9RUQQ",
+                "name": "\u2728mikmik\u2728"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2PVU9RUQQ",
+                "name": "\u2728mikmik\u2728"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#82C2LL98",
+                "name": "thoromir"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10750,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGPUJJ29",
+                "name": "ET"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGPUJJ29",
+                "name": "ET"
+              },
+              "destructionPercent": 66,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
